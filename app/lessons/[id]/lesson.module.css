@@ -716,6 +716,9 @@
 }
 .dialogueZhRow .dialogueZh { margin: 0; flex: 1; }
 
+/* ── MOBILE TAB STRIP: hidden on desktop ── */
+.mobileTabStrip { display: none; }
+
 /* ══════════════════════════════════
    RESPONSIVE — MOBILE (≤768px)
 ══════════════════════════════════ */
@@ -812,8 +815,6 @@
   .grammarBody { padding: 0 14px 14px; }
 }
 
-/* ── MOBILE TAB STRIP: hidden on desktop ── */
-.mobileTabStrip { display: none; }
 
 @media (max-width: 480px) {
   .topbar { height: 52px; }
