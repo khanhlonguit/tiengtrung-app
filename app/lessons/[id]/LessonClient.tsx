@@ -36,11 +36,35 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
   const [tab, setTab] = useState<Tab>('vocab');
   const [loading, setLoading] = useState(true);
   const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [sidebarWidth, setSidebarWidth] = useState(260);
+  const [isDragging, setIsDragging] = useState(false);
   const [expandedVocab, setExpandedVocab] = useState<Set<number>>(new Set());
   const [expandedGrammar, setExpandedGrammar] = useState<Set<number>>(new Set());
   const [showPinyin, setShowPinyin] = useState(true);
   const [showVn, setShowVn] = useState(true);
   const { theme, toggleTheme } = useTheme();
+
+  // Handle Sidebar Resize
+  useEffect(() => {
+    if (!isDragging) return;
+
+    const handleMouseMove = (e: MouseEvent) => {
+      // Limit sidebar width between 200px and 500px
+      const newWidth = Math.min(Math.max(e.clientX, 200), 500);
+      setSidebarWidth(newWidth);
+    };
+
+    const handleMouseUp = () => {
+      setIsDragging(false);
+    };
+
+    document.addEventListener('mousemove', handleMouseMove);
+    document.addEventListener('mouseup', handleMouseUp);
+    return () => {
+      document.removeEventListener('mousemove', handleMouseMove);
+      document.removeEventListener('mouseup', handleMouseUp);
+    };
+  }, [isDragging]);
 
   const fetchLesson = useCallback(async (id: number) => {
     setLoading(true);
@@ -56,6 +80,13 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
   }, []);
 
   useEffect(() => { fetchLesson(lessonId); }, [lessonId, fetchLesson]);
+
+  // Auto-close sidebar on mobile initial load
+  useEffect(() => {
+    if (typeof window !== 'undefined' && window.innerWidth <= 768) {
+      setSidebarOpen(false);
+    }
+  }, []);
 
   // Init TTS voices on mount
   useEffect(() => { initVoices(); }, []);
@@ -88,9 +119,22 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
   }, {}) ?? {};
 
   return (
-    <div className={styles.layout} data-sidebar={sidebarOpen ? 'open' : 'closed'}>
+    <div 
+      className={styles.layout} 
+      data-sidebar={sidebarOpen ? 'open' : 'closed'}
+      data-dragging={isDragging}
+      style={{ '--sidebar-width': `${sidebarWidth}px` } as React.CSSProperties}
+    >
       {/* ── SIDEBAR ── */}
       <nav className={styles.sidebar}>
+        {/* Resizer Handle */}
+        <div 
+          className={styles.resizer} 
+          onMouseDown={(e) => {
+            e.preventDefault();
+            setIsDragging(true);
+          }} 
+        />
         <div className={styles.sidebarLogo}>
           <div className={styles.logoIcon}>中</div>
           <div className={styles.logoText}>
@@ -119,6 +163,9 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
               key={l.id}
               href={`/lessons/${l.id}`}
               className={`${styles.navItem} ${l.id === lessonId ? styles.navItemActive : ''}`}
+              onClick={() => {
+                if (window.innerWidth <= 768) setSidebarOpen(false);
+              }}
             >
               <span className={styles.navNum}>{String(l.id).padStart(2, '0')}</span>
               <span className={styles.navText}>
@@ -131,6 +178,11 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
 
 
       </nav>
+
+      {/* Mobile Overlay Backdrop */}
+      {sidebarOpen && (
+        <div className={styles.sidebarOverlay} onClick={() => setSidebarOpen(false)} />
+      )}
 
       {/* ── MAIN ── */}
       <main className={styles.main}>

@@ -10,8 +10,9 @@
 
 /* ── SIDEBAR ── */
 .sidebar {
-  width: 260px;
-  min-width: 260px;
+  position: relative;
+  width: var(--sidebar-width, 260px);
+  min-width: var(--sidebar-width, 260px);
   background: var(--bg-surface);
   border-right: 1px solid var(--border-subtle);
   display: flex;
@@ -24,6 +25,25 @@
 [data-sidebar="closed"] .sidebar {
   width: 0;
   min-width: 0;
+}
+
+/* Disable transition and change cursor globally when dragging */
+.layout[data-dragging="true"] { cursor: ew-resize; user-select: none; }
+.layout[data-dragging="true"] .sidebar { transition: none; }
+
+/* Drag Handle */
+.resizer {
+  position: absolute;
+  top: 0;
+  right: -3px; /* Hang slightly off edge to make grabbing easier */
+  width: 6px;
+  height: 100%;
+  cursor: ew-resize;
+  z-index: 100;
+  transition: background 0.2s;
+}
+.resizer:hover, .layout[data-dragging="true"] .resizer {
+  background: var(--accent);
 }
 
 .sidebarLogo {
@@ -709,6 +729,17 @@
     box-shadow: 4px 0 24px rgba(0,0,0,0.35);
   }
   [data-sidebar="closed"] .sidebar { width: 0; min-width: 0; }
+
+  /* Mobile Backdrop */
+  .sidebarOverlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(2px);
+    z-index: 90;
+    animation: fadeIn 0.2s ease;
+  }
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 
   /* Main fills full width */
   .main { width: 100%; }
