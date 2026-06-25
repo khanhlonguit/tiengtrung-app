@@ -1,0 +1,492 @@
+{
+  "id": 2,
+  "title_vn": "Gia đình của tôi",
+  "title_zh": "我的家人",
+  "subtitle": "Gia đình & sở hữu",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "的",
+      "pinyin": "de",
+      "word_type": "P",
+      "meaning_vn": "Của (trợ từ sở hữu / bổ nghĩa)",
+      "example_zh": "我的家人",
+      "example_pinyin": "wǒ de jiārén",
+      "example_vn": "Gia đình của tôi"
+    },
+    {
+      "order_num": 2,
+      "word_zh": "家人",
+      "pinyin": "jiārén",
+      "word_type": "N",
+      "meaning_vn": "Người nhà, gia đình",
+      "example_zh": "他們是我的家人。",
+      "example_pinyin": "Tāmen shì wǒ de jiārén.",
+      "example_vn": "Họ là người nhà của tôi."
+    },
+    {
+      "order_num": 3,
+      "word_zh": "家",
+      "pinyin": "jiā",
+      "word_type": "N",
+      "meaning_vn": "Nhà, gia đình",
+      "example_zh": "我家有很多書。",
+      "example_pinyin": "Wǒ jiā yǒu hěn duō shū.",
+      "example_vn": "Nhà tôi có nhiều sách."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "漂亮",
+      "pinyin": "piàoliang",
+      "word_type": "Vs",
+      "meaning_vn": "Xinh đẹp",
+      "example_zh": "她很漂亮。",
+      "example_pinyin": "Tā hěn piàoliang.",
+      "example_vn": "Cô ấy rất xinh đẹp."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "房子",
+      "pinyin": "fángzi",
+      "word_type": "N",
+      "meaning_vn": "Nhà, ngôi nhà",
+      "example_zh": "很漂亮的房子！",
+      "example_pinyin": "Hěn piàoliang de fángzi!",
+      "example_vn": "Ngôi nhà rất đẹp!"
+    },
+    {
+      "order_num": 6,
+      "word_zh": "坐",
+      "pinyin": "zuò",
+      "word_type": "V",
+      "meaning_vn": "Ngồi",
+      "example_zh": "請坐！",
+      "example_pinyin": "Qǐng zuò!",
+      "example_vn": "Mời ngồi!"
+    },
+    {
+      "order_num": 7,
+      "word_zh": "有",
+      "pinyin": "yǒu",
+      "word_type": "V",
+      "meaning_vn": "Có (sở hữu)",
+      "example_zh": "你家有幾個人？",
+      "example_pinyin": "Nǐ jiā yǒu jǐ gè rén?",
+      "example_vn": "Nhà bạn có mấy người?"
+    },
+    {
+      "order_num": 8,
+      "word_zh": "多",
+      "pinyin": "duō",
+      "word_type": "Vs",
+      "meaning_vn": "Nhiều",
+      "example_zh": "你家有很多照片。",
+      "example_pinyin": "Nǐ jiā yǒu hěn duō zhàopiàn.",
+      "example_vn": "Nhà bạn có rất nhiều ảnh."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "照片",
+      "pinyin": "zhàopiàn",
+      "word_type": "N",
+      "meaning_vn": "Bức ảnh",
+      "example_zh": "這張照片很好看。",
+      "example_pinyin": "Zhè zhāng zhàopiàn hěn hǎokàn.",
+      "example_vn": "Tấm ảnh này rất đẹp."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "都",
+      "pinyin": "dōu",
+      "word_type": "Adv",
+      "meaning_vn": "Đều, tất cả",
+      "example_zh": "我家人都喜歡照相。",
+      "example_pinyin": "Wǒ jiārén dōu xǐhuān zhàoxiàng.",
+      "example_vn": "Người nhà tôi đều thích chụp ảnh."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "照相",
+      "pinyin": "zhàoxiàng",
+      "word_type": "V-sep",
+      "meaning_vn": "Chụp ảnh",
+      "example_zh": "你喜歡照相嗎？",
+      "example_pinyin": "Nǐ xǐhuān zhàoxiàng ma?",
+      "example_vn": "Bạn thích chụp ảnh không?"
+    },
+    {
+      "order_num": 12,
+      "word_zh": "張",
+      "pinyin": "zhāng",
+      "word_type": "M",
+      "meaning_vn": "Lượng từ (ảnh, giấy, vật phẳng)",
+      "example_zh": "兩張照片",
+      "example_pinyin": "liǎng zhāng zhàopiàn",
+      "example_vn": "hai tấm ảnh"
+    },
+    {
+      "order_num": 13,
+      "word_zh": "好看",
+      "pinyin": "hǎokàn",
+      "word_type": "Vs",
+      "meaning_vn": "Đẹp, dễ nhìn",
+      "example_zh": "這個房子很好看。",
+      "example_pinyin": "Zhège fángzi hěn hǎokàn.",
+      "example_vn": "Căn nhà này rất đẹp."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "誰",
+      "pinyin": "shéi/shuí",
+      "word_type": "Pr",
+      "meaning_vn": "Ai",
+      "example_zh": "這是誰？",
+      "example_pinyin": "Zhè shì shéi?",
+      "example_vn": "Đây là ai?"
+    },
+    {
+      "order_num": 15,
+      "word_zh": "姐姐",
+      "pinyin": "jiějie",
+      "word_type": "N",
+      "meaning_vn": "Chị gái",
+      "example_zh": "我有一個姐姐。",
+      "example_pinyin": "Wǒ yǒu yīgè jiějie.",
+      "example_vn": "Tôi có một người chị gái."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "妹妹",
+      "pinyin": "mèimei",
+      "word_type": "N",
+      "meaning_vn": "Em gái",
+      "example_zh": "我有兩個妹妹。",
+      "example_pinyin": "Wǒ yǒu liǎng gè mèimei.",
+      "example_vn": "Tôi có hai em gái."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "爸爸",
+      "pinyin": "bàba",
+      "word_type": "N",
+      "meaning_vn": "Bố, cha",
+      "example_zh": "這是我爸爸。",
+      "example_pinyin": "Zhè shì wǒ bàba.",
+      "example_vn": "Đây là bố tôi."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "媽媽",
+      "pinyin": "māma",
+      "word_type": "N",
+      "meaning_vn": "Mẹ",
+      "example_zh": "這是我媽媽。",
+      "example_pinyin": "Zhè shì wǒ māma.",
+      "example_vn": "Đây là mẹ tôi."
+    },
+    {
+      "order_num": 19,
+      "word_zh": "請進",
+      "pinyin": "qǐng jìn",
+      "word_type": "Expr",
+      "meaning_vn": "Mời vào",
+      "example_zh": "請進！",
+      "example_pinyin": "Qǐng jìn!",
+      "example_vn": "Mời vào!"
+    },
+    {
+      "order_num": 20,
+      "word_zh": "伯母",
+      "pinyin": "bómǔ",
+      "word_type": "N",
+      "meaning_vn": "Bác gái (xưng hô tôn kính)",
+      "example_zh": "伯母，您好。",
+      "example_pinyin": "Bómǔ, nín hǎo.",
+      "example_vn": "Chào bác gái."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "您",
+      "pinyin": "nín",
+      "word_type": "Pr",
+      "meaning_vn": "Ngài, ông, bà (kính trọng)",
+      "example_zh": "您好！",
+      "example_pinyin": "Nín hǎo!",
+      "example_vn": "Chào ông/bà!"
+    },
+    {
+      "order_num": 22,
+      "word_zh": "名字",
+      "pinyin": "míngzi",
+      "word_type": "N",
+      "meaning_vn": "Tên",
+      "example_zh": "你叫什麼名字？",
+      "example_pinyin": "Nǐ jiào shénme míngzi?",
+      "example_vn": "Bạn tên là gì?"
+    },
+    {
+      "order_num": 23,
+      "word_zh": "書",
+      "pinyin": "shū",
+      "word_type": "N",
+      "meaning_vn": "Sách",
+      "example_zh": "你們家有很多書。",
+      "example_pinyin": "Nǐmen jiā yǒu hěnduō shū.",
+      "example_vn": "Nhà các bạn có nhiều sách."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "哥哥",
+      "pinyin": "gēge",
+      "word_type": "N",
+      "meaning_vn": "Anh trai",
+      "example_zh": "都是我哥哥的書。",
+      "example_pinyin": "Dōu shì wǒ gēge de shū.",
+      "example_vn": "Đều là sách của anh trai tôi."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "老師",
+      "pinyin": "lǎoshī",
+      "word_type": "N",
+      "meaning_vn": "Giáo viên, thầy/cô",
+      "example_zh": "他是老師。",
+      "example_pinyin": "Tā shì lǎoshī.",
+      "example_vn": "Anh ấy là giáo viên."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "看書",
+      "pinyin": "kànshū",
+      "word_type": "V-sep",
+      "meaning_vn": "Đọc sách",
+      "example_zh": "他很喜歡看書。",
+      "example_pinyin": "Tā hěn xǐhuān kànshū.",
+      "example_vn": "Anh ấy rất thích đọc sách."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "幾",
+      "pinyin": "jǐ",
+      "word_type": "Det",
+      "meaning_vn": "Mấy, bao nhiêu",
+      "example_zh": "你家有幾個人？",
+      "example_pinyin": "Nǐ jiā yǒu jǐ gè rén?",
+      "example_vn": "Nhà bạn có mấy người?"
+    },
+    {
+      "order_num": 28,
+      "word_zh": "個",
+      "pinyin": "gè",
+      "word_type": "M",
+      "meaning_vn": "Lượng từ chung (người, vật)",
+      "example_zh": "五個人",
+      "example_pinyin": "wǔ gè rén",
+      "example_vn": "năm người"
+    },
+    {
+      "order_num": 29,
+      "word_zh": "沒有",
+      "pinyin": "méiyǒu",
+      "word_type": "V",
+      "meaning_vn": "Không có (phủ định của 有)",
+      "example_zh": "我沒有兄弟姐妹。",
+      "example_pinyin": "Wǒ méiyǒu xiōngdì jiěmèi.",
+      "example_vn": "Tôi không có anh chị em."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "兄弟姐妹",
+      "pinyin": "xiōngdì jiěmèi",
+      "word_type": "N",
+      "meaning_vn": "Anh chị em",
+      "example_zh": "你有沒有兄弟姐妹？",
+      "example_pinyin": "Nǐ yǒu méiyǒu xiōngdì jiěmèi?",
+      "example_vn": "Bạn có anh chị em không?"
+    },
+    {
+      "order_num": 31,
+      "word_zh": "五",
+      "pinyin": "wǔ",
+      "word_type": "Nu",
+      "meaning_vn": "Số 5",
+      "example_zh": "我家有五個人。",
+      "example_pinyin": "Wǒ jiā yǒu wǔ gè rén.",
+      "example_vn": "Nhà tôi có năm người."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "兩",
+      "pinyin": "liǎng",
+      "word_type": "Nu",
+      "meaning_vn": "Hai (trước lượng từ)",
+      "example_zh": "我有兩個妹妹。",
+      "example_pinyin": "Wǒ yǒu liǎng gè mèimei.",
+      "example_vn": "Tôi có hai em gái."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "Trợ từ 的 (de) — Sở hữu",
+      "explanation": "的 (de) đặt giữa người sở hữu và vật bị sở hữu. Có thể lược bỏ khi mối quan hệ rất gần gũi (gia đình, trường học).",
+      "examples": "[{\"zh\":\"我的書\",\"pinyin\":\"wǒ de shū\",\"vn\":\"Cuốn sách của tôi\"},{\"zh\":\"你們的照片\",\"pinyin\":\"nǐmen de zhàopiàn\",\"vn\":\"Ảnh của các bạn\"},{\"zh\":\"我媽媽 (lược 的)\",\"pinyin\":\"wǒ māma\",\"vn\":\"Mẹ tôi (thân thiết → bỏ 的)\"},{\"zh\":\"我家 (lược 的)\",\"pinyin\":\"wǒ jiā\",\"vn\":\"Nhà tôi (thân thiết → bỏ 的)\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Trợ từ 的 (de) — Bổ nghĩa",
+      "explanation": "的 đặt giữa tính từ/cụm bổ nghĩa và danh từ được mô tả. Cấu trúc: Bổ ngữ + 的 + Danh từ.",
+      "examples": "[{\"zh\":\"漂亮的小姐\",\"pinyin\":\"piàoliang de xiǎojiě\",\"vn\":\"Cô gái xinh đẹp\"},{\"zh\":\"很好看的房子\",\"pinyin\":\"hěn hǎokàn de fángzi\",\"vn\":\"Ngôi nhà rất đẹp\"},{\"zh\":\"台灣人 (không dùng 的)\",\"pinyin\":\"Táiwān rén\",\"vn\":\"Người Đài Loan (quốc tịch → bỏ 的)\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "Động từ 有 (yǒu) — Có / Không có",
+      "explanation": "有 (yǒu) chỉ sự sở hữu. Phủ định luôn dùng 沒有 (méiyǒu), không dùng *不有. Câu hỏi A-not-A: 有沒有.",
+      "examples": "[{\"zh\":\"我有很多照片。\",\"pinyin\":\"Wǒ yǒu hěn duō zhàopiàn.\",\"vn\":\"Tôi có nhiều ảnh.\"},{\"zh\":\"他沒有房子。\",\"pinyin\":\"Tā méiyǒu fángzi.\",\"vn\":\"Anh ấy không có nhà.\"},{\"zh\":\"你有沒有兄弟姐妹？\",\"pinyin\":\"Nǐ yǒu méiyǒu xiōngdì jiěmèi?\",\"vn\":\"Bạn có anh chị em không?\"},{\"zh\":\"你家有幾個人？\",\"pinyin\":\"Nǐ jiā yǒu jǐ gè rén?\",\"vn\":\"Nhà bạn có mấy người?\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "Phó từ 都 (dōu) — Đều",
+      "explanation": "都 (dōu) biểu thị tất cả các đối tượng (số nhiều) đều có chung đặc điểm/hành động. Phải đứng sau chủ ngữ số nhiều.",
+      "examples": "[{\"zh\":\"我家人都喜歡照相。\",\"pinyin\":\"Wǒ jiārén dōu xǐhuān zhàoxiàng.\",\"vn\":\"Người nhà tôi đều thích chụp ảnh.\"},{\"zh\":\"我們都姓陳。\",\"pinyin\":\"Wǒmen dōu xìng Chén.\",\"vn\":\"Chúng tôi đều họ Trần.\"},{\"zh\":\"我們都不是美國人。\",\"pinyin\":\"Wǒmen dōu bú shì Měiguó rén.\",\"vn\":\"Không ai trong chúng tôi là người Mỹ.\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "怡君",
+      "text_zh": "這是我家。請進！",
+      "pinyin": "Zhè shì wǒ jiā. Qǐng jìn!",
+      "translation_vn": "Đây là nhà tôi. Mời vào!"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "安同",
+      "text_zh": "很漂亮的房子！",
+      "pinyin": "Hěn piàoliang de fángzi!",
+      "translation_vn": "Ngôi nhà rất đẹp!"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "怡君",
+      "text_zh": "請坐！要不要喝茶？",
+      "pinyin": "Qǐng zuò! Yào bú yào hē chá?",
+      "translation_vn": "Mời ngồi! Bạn muốn uống trà không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "安同",
+      "text_zh": "好，謝謝你。你家有很多照片。",
+      "pinyin": "Hǎo, xièxie nǐ. Nǐ jiā yǒu hěn duō zhàopiàn.",
+      "translation_vn": "Được, cảm ơn bạn. Nhà bạn có rất nhiều ảnh."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "怡君",
+      "text_zh": "我家人都很喜歡照相。",
+      "pinyin": "Wǒ jiārén dōu hěn xǐhuān zhàoxiàng.",
+      "translation_vn": "Người nhà tôi đều rất thích chụp ảnh."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "安同",
+      "text_zh": "這張照片很好看。這是誰？你姐姐嗎？",
+      "pinyin": "Zhè zhāng zhàopiàn hěn hǎokàn. Zhè shì shéi? Nǐ jiějie ma?",
+      "translation_vn": "Tấm ảnh này rất đẹp. Đây là ai? Chị gái bạn à?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "怡君",
+      "text_zh": "不是，是我妹妹。這是我爸爸、媽媽。",
+      "pinyin": "Bú shì, shì wǒ mèimei. Zhè shì wǒ bàba, māma.",
+      "translation_vn": "Không phải, là em gái tôi. Đây là bố, mẹ tôi."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "安同",
+      "text_zh": "你家人都很好看。",
+      "pinyin": "Nǐ jiārén dōu hěn hǎokàn.",
+      "translation_vn": "Người nhà bạn đều rất đẹp."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "明華",
+      "text_zh": "田中，歡迎！歡迎！請進。",
+      "pinyin": "Tiánzhōng, huānyíng! Huānyíng! Qǐng jìn.",
+      "translation_vn": "Điền Trung, chào mừng! Chào mừng! Mời vào."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "田中",
+      "text_zh": "謝謝。",
+      "pinyin": "Xièxie.",
+      "translation_vn": "Cảm ơn."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "明華",
+      "text_zh": "田中，這是我媽媽。",
+      "pinyin": "Tiánzhōng, zhè shì wǒ māma.",
+      "translation_vn": "Điền Trung, đây là mẹ tôi."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "田中",
+      "text_zh": "伯母，您好。",
+      "pinyin": "Bómǔ, nín hǎo.",
+      "translation_vn": "Chào bác gái."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "明華的媽媽",
+      "text_zh": "你好，你好。來！你叫什麼名字？",
+      "pinyin": "Nǐ hǎo, nǐ hǎo. Lái! Nǐ jiào shénme míngzi?",
+      "translation_vn": "Chào cháu, chào cháu. Lại đây! Cháu tên là gì?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "田中",
+      "text_zh": "我叫誠一。你們家有很多書。",
+      "pinyin": "Wǒ jiào Chéngyī. Nǐmen jiā yǒu hěnduō shū.",
+      "translation_vn": "Cháu tên là Thành Nhất. Nhà các bạn có nhiều sách thế."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "明華",
+      "text_zh": "都是我哥哥的書。他是老師，他很喜歡看書。",
+      "pinyin": "Dōu shì wǒ gēge de shū. Tā shì lǎoshī, tā hěn xǐhuān kànshū.",
+      "translation_vn": "Đều là sách của anh trai tôi. Anh ấy là giáo viên, rất thích đọc sách."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "明華的媽媽",
+      "text_zh": "誠一，你家有幾個人？你有沒有兄弟姐妹？",
+      "pinyin": "Chéngyī, nǐ jiā yǒu jǐ gè rén? Nǐ yǒu méiyǒu xiōngdì jiěmèi?",
+      "translation_vn": "Thành Nhất, nhà cháu có mấy người? Cháu có anh chị em không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "田中",
+      "text_zh": "我家有五個人，我有兩個妹妹。",
+      "pinyin": "Wǒ jiā yǒu wǔ gè rén, wǒ yǒu liǎng gè mèimei.",
+      "translation_vn": "Nhà cháu có năm người, cháu có hai em gái."
+    }
+  ]
+}

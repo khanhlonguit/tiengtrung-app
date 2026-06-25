@@ -1,0 +1,578 @@
+{
+  "id": 6,
+  "title_vn": "Trường học của họ ở trên núi",
+  "title_zh": "他們學校在山上",
+  "subtitle": "Địa điểm & Phương hướng",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "他們",
+      "pinyin": "tāmen",
+      "word_type": "N",
+      "meaning_vn": "Họ",
+      "example_zh": "他們學校在哪裡？",
+      "example_pinyin": "Tāmen xuéxiào zài nǎlǐ?",
+      "example_vn": "Trường của họ ở đâu?"
+    },
+    {
+      "order_num": 2,
+      "word_zh": "學校",
+      "pinyin": "xuéxiào",
+      "word_type": "N",
+      "meaning_vn": "Trường học",
+      "example_zh": "他們學校很漂亮。",
+      "example_pinyin": "Tāmen xuéxiào hěn piàoliang.",
+      "example_vn": "Trường của họ rất đẹp."
+    },
+    {
+      "order_num": 3,
+      "word_zh": "在",
+      "pinyin": "zài",
+      "word_type": "Vst",
+      "meaning_vn": "Ở, tại",
+      "example_zh": "他們學校在山上。",
+      "example_pinyin": "Tāmen xuéxiào zài shānshàng.",
+      "example_vn": "Trường họ ở trên núi."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "山上",
+      "pinyin": "shānshàng",
+      "word_type": "N",
+      "meaning_vn": "Trên núi",
+      "example_zh": "在花蓮的山上。",
+      "example_pinyin": "Zài Huālián de shānshàng.",
+      "example_vn": "Ở trên núi Hoa Liên."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "哪裡",
+      "pinyin": "nǎlǐ",
+      "word_type": "N",
+      "meaning_vn": "Ở đâu",
+      "example_zh": "在哪裡買東西？",
+      "example_pinyin": "Zài nǎlǐ mǎi dōngxī?",
+      "example_vn": "Mua đồ ở đâu?"
+    },
+    {
+      "order_num": 6,
+      "word_zh": "遠",
+      "pinyin": "yuǎn",
+      "word_type": "Vs",
+      "meaning_vn": "Xa",
+      "example_zh": "你們學校真遠！",
+      "example_pinyin": "Nǐmen xuéxiào zhēn yuǎn!",
+      "example_vn": "Trường các bạn xa thật!"
+    },
+    {
+      "order_num": 7,
+      "word_zh": "那裡",
+      "pinyin": "nàlǐ",
+      "word_type": "N",
+      "meaning_vn": "Nơi đó, ở đó",
+      "example_zh": "那裡的風景很美。",
+      "example_pinyin": "Nàlǐ de fēngjǐng hěn měi.",
+      "example_vn": "Phong cảnh ở đó rất đẹp."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "風景",
+      "pinyin": "fēngjǐng",
+      "word_type": "N",
+      "meaning_vn": "Phong cảnh",
+      "example_zh": "那裡的風景很美。",
+      "example_pinyin": "Nàlǐ de fēngjǐng hěn měi.",
+      "example_vn": "Phong cảnh ở đó rất đẹp."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "美",
+      "pinyin": "měi",
+      "word_type": "Vs",
+      "meaning_vn": "Đẹp",
+      "example_zh": "那裡的風景很美。",
+      "example_pinyin": "Nàlǐ de fēngjǐng hěn měi.",
+      "example_vn": "Phong cảnh ở đó rất đẹp."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "前面",
+      "pinyin": "qiánmiàn",
+      "word_type": "N",
+      "meaning_vn": "Phía trước",
+      "example_zh": "學校前面有海。",
+      "example_pinyin": "Xuéxiào qiánmiàn yǒu hǎi.",
+      "example_vn": "Phía trước trường có biển."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "海",
+      "pinyin": "hǎi",
+      "word_type": "N",
+      "meaning_vn": "Biển",
+      "example_zh": "學校前面有海。",
+      "example_pinyin": "Xuéxiào qiánmiàn yǒu hǎi.",
+      "example_vn": "Phía trước trường có biển."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "後面",
+      "pinyin": "hòumiàn",
+      "word_type": "N",
+      "meaning_vn": "Phía sau",
+      "example_zh": "學校後面有山。",
+      "example_pinyin": "Xuéxiào hòumiàn yǒu shān.",
+      "example_vn": "Phía sau trường có núi."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "山",
+      "pinyin": "shān",
+      "word_type": "N",
+      "meaning_vn": "Núi",
+      "example_zh": "學校後面有山。",
+      "example_pinyin": "Xuéxiào hòumiàn yǒu shān.",
+      "example_vn": "Phía sau trường có núi."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "真的",
+      "pinyin": "zhēnde",
+      "word_type": "Adv",
+      "meaning_vn": "Thật sự",
+      "example_zh": "那裡真的是一個很漂亮的地方。",
+      "example_pinyin": "Nàlǐ zhēnde shì yí ge hěn piàoliang de dìfāng.",
+      "example_vn": "Nơi đó thật sự là một nơi rất đẹp."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "地方",
+      "pinyin": "dìfāng",
+      "word_type": "N",
+      "meaning_vn": "Nơi, chỗ",
+      "example_zh": "一個很漂亮的地方。",
+      "example_pinyin": "Yí ge hěn piàoliang de dìfāng.",
+      "example_vn": "Một nơi rất đẹp."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "現在",
+      "pinyin": "xiànzài",
+      "word_type": "N",
+      "meaning_vn": "Bây giờ",
+      "example_zh": "我現在要去買咖啡。",
+      "example_pinyin": "Wǒ xiànzài yào qù mǎi kāfēi.",
+      "example_vn": "Bây giờ tôi phải đi mua cà phê."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "附近",
+      "pinyin": "fùjìn",
+      "word_type": "N",
+      "meaning_vn": "Gần đây, lân cận",
+      "example_zh": "學校附近的咖啡店。",
+      "example_pinyin": "Xuéxiào fùjìn de kāfēidiàn.",
+      "example_vn": "Quán cà phê gần trường."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "樓下",
+      "pinyin": "lóuxià",
+      "word_type": "N",
+      "meaning_vn": "Dưới lầu",
+      "example_zh": "我去樓下找朋友。",
+      "example_pinyin": "Wǒ qù lóuxià zhǎo péngyou.",
+      "example_vn": "Tôi xuống lầu tìm bạn."
+    },
+    {
+      "order_num": 19,
+      "word_zh": "找",
+      "pinyin": "zhǎo",
+      "word_type": "V",
+      "meaning_vn": "Tìm",
+      "example_zh": "找朋友。",
+      "example_pinyin": "Zhǎo péngyou.",
+      "example_vn": "Tìm bạn."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "朋友",
+      "pinyin": "péngyou",
+      "word_type": "N",
+      "meaning_vn": "Bạn bè",
+      "example_zh": "找朋友。",
+      "example_pinyin": "Zhǎo péngyou.",
+      "example_vn": "Tìm bạn."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "上課",
+      "pinyin": "shàngkè",
+      "word_type": "V-sep",
+      "meaning_vn": "Đi học, lên lớp",
+      "example_zh": "我們要一起去上課。",
+      "example_pinyin": "Wǒmen yào yìqǐ qù shàngkè.",
+      "example_vn": "Chúng tôi phải cùng đi học."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "花蓮",
+      "pinyin": "Huālián",
+      "word_type": "Name",
+      "meaning_vn": "Hoa Liên (địa danh)",
+      "example_zh": "他們學校在花蓮。",
+      "example_pinyin": "Tāmen xuéxiào zài Huālián.",
+      "example_vn": "Trường họ ở Hoa Liên."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "聽說",
+      "pinyin": "tīngshuō",
+      "word_type": "Expr",
+      "meaning_vn": "Nghe nói",
+      "example_zh": "聽說學校很漂亮。",
+      "example_pinyin": "Tīngshuō xuéxiào hěn piàoliang.",
+      "example_vn": "Nghe nói trường rất đẹp."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "近",
+      "pinyin": "jìn",
+      "word_type": "Vs",
+      "meaning_vn": "Gần",
+      "example_zh": "不是很近。",
+      "example_pinyin": "Bú shì hěn jìn.",
+      "example_vn": "Không gần lắm."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "方便",
+      "pinyin": "fāngbiàn",
+      "word_type": "Vs",
+      "meaning_vn": "Thuận tiện",
+      "example_zh": "有一點不方便。",
+      "example_pinyin": "Yǒu yìdiǎn bù fāngbiàn.",
+      "example_vn": "Hơi bất tiện một chút."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "這裡",
+      "pinyin": "zhèlǐ",
+      "word_type": "N",
+      "meaning_vn": "Ở đây",
+      "example_zh": "這裡的學生。",
+      "example_pinyin": "Zhèlǐ de xuéshēng.",
+      "example_vn": "Học sinh ở đây."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "學生",
+      "pinyin": "xuéshēng",
+      "word_type": "N",
+      "meaning_vn": "Học sinh, sinh viên",
+      "example_zh": "這裡的學生。",
+      "example_pinyin": "Zhèlǐ de xuéshēng.",
+      "example_vn": "Học sinh ở đây."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "東西",
+      "pinyin": "dōngxī",
+      "word_type": "N",
+      "meaning_vn": "Đồ đạc, thứ",
+      "example_zh": "在哪裡買東西？",
+      "example_pinyin": "Zài nǎlǐ mǎi dōngxī?",
+      "example_vn": "Mua đồ ở đâu?"
+    },
+    {
+      "order_num": 29,
+      "word_zh": "外面",
+      "pinyin": "wàimiàn",
+      "word_type": "N",
+      "meaning_vn": "Bên ngoài",
+      "example_zh": "在學校外面。",
+      "example_pinyin": "Zài xuéxiào wàimiàn.",
+      "example_vn": "Ở bên ngoài trường."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "裡面",
+      "pinyin": "lǐmiàn",
+      "word_type": "N",
+      "meaning_vn": "Bên trong",
+      "example_zh": "學校裡面。",
+      "example_pinyin": "Xuéxiào lǐmiàn.",
+      "example_vn": "Bên trong trường."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "商店",
+      "pinyin": "shāngdiàn",
+      "word_type": "N",
+      "meaning_vn": "Cửa hàng",
+      "example_zh": "學校裡面沒有商店。",
+      "example_pinyin": "Xuéxiào lǐmiàn méi yǒu shāngdiàn.",
+      "example_vn": "Trong trường không có cửa hàng."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "吃飯",
+      "pinyin": "chīfàn",
+      "word_type": "V-sep",
+      "meaning_vn": "Ăn cơm",
+      "example_zh": "吃飯呢？",
+      "example_pinyin": "Chīfàn ne?",
+      "example_vn": "Thế ăn cơm thì sao?"
+    },
+    {
+      "order_num": 33,
+      "word_zh": "宿舍",
+      "pinyin": "sùshè",
+      "word_type": "N",
+      "meaning_vn": "Ký túc xá",
+      "example_zh": "學生宿舍。",
+      "example_pinyin": "Xuéshēng sùshè.",
+      "example_vn": "Ký túc xá học sinh."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "樓",
+      "pinyin": "lóu",
+      "word_type": "N",
+      "meaning_vn": "Tầng, lầu",
+      "example_zh": "一樓。",
+      "example_pinyin": "Yì lóu.",
+      "example_vn": "Tầng một."
+    },
+    {
+      "order_num": 35,
+      "word_zh": "棟",
+      "pinyin": "dòng",
+      "word_type": "M",
+      "meaning_vn": "Tòa (nhà)",
+      "example_zh": "前面這棟大樓。",
+      "example_pinyin": "Qiánmiàn zhè dòng dàlóu.",
+      "example_vn": "Tòa nhà lớn phía trước này."
+    },
+    {
+      "order_num": 36,
+      "word_zh": "大樓",
+      "pinyin": "dàlóu",
+      "word_type": "N",
+      "meaning_vn": "Tòa nhà lớn",
+      "example_zh": "這棟大樓很漂亮。",
+      "example_pinyin": "Zhè dòng dàlóu hěn piàoliang.",
+      "example_vn": "Tòa nhà lớn này rất đẹp."
+    },
+    {
+      "order_num": 37,
+      "word_zh": "圖書館",
+      "pinyin": "túshūguǎn",
+      "word_type": "N",
+      "meaning_vn": "Thư viện",
+      "example_zh": "這是圖書館。",
+      "example_pinyin": "Zhè shì túshūguǎn.",
+      "example_vn": "Đây là thư viện."
+    },
+    {
+      "order_num": 38,
+      "word_zh": "旁邊",
+      "pinyin": "pángbiān",
+      "word_type": "N",
+      "meaning_vn": "Bên cạnh",
+      "example_zh": "旁邊的那棟大樓。",
+      "example_pinyin": "Pángbiān de nà dòng dàlóu.",
+      "example_vn": "Tòa nhà bên cạnh kia."
+    },
+    {
+      "order_num": 39,
+      "word_zh": "教室",
+      "pinyin": "jiàoshì",
+      "word_type": "N",
+      "meaning_vn": "Phòng học",
+      "example_zh": "那是教室。",
+      "example_pinyin": "Nà shì jiàoshì.",
+      "example_vn": "Đó là phòng học."
+    },
+    {
+      "order_num": 40,
+      "word_zh": "游泳池",
+      "pinyin": "yóuyǒngchí",
+      "word_type": "N",
+      "meaning_vn": "Hồ bơi",
+      "example_zh": "後面有游泳池。",
+      "example_pinyin": "Hòumiàn yǒu yóuyǒngchí.",
+      "example_vn": "Phía sau có hồ bơi."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "I. Động từ tồn tại 在 zài (Ở, tại)",
+      "explanation": "Chức năng: Giới thiệu vị trí của ai đó hoặc vật gì đó.\n\nCấu trúc: Chủ ngữ + 在 zài + Địa điểm.\n\nCác loại địa điểm:\n1. Tên riêng hoặc Nơi chốn chung: 台北 Táiběi (Đài Bắc), 學校 xuéxiào (Trường học).\n2. Phương hướng: 上 shàng (trên), 下 xià (dưới), 裡面 lǐmiàn (bên trong), 外面 wàimiàn (bên ngoài), 旁邊 pángbiān (bên cạnh), 附近 fùjìn (gần đây).\n3. Danh từ kết hợp phương hướng: 房子裡面 fángzi lǐmiàn (Bên trong nhà).",
+      "examples": "[{\"zh\":\"我們學校在台北。\",\"pinyin\":\"Wǒmen xuéxiào zài Táiběi.\",\"vn\":\"Trường chúng tôi ở Đài Bắc.\"},{\"zh\":\"他在外面。\",\"pinyin\":\"Tā zài wàimiàn.\",\"vn\":\"Anh ấy ở bên ngoài.\"},{\"zh\":\"我在宿舍裡面。\",\"pinyin\":\"Wǒ zài sùshè lǐmiàn.\",\"vn\":\"Tôi ở trong ký túc xá.\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "II. Câu tồn tại với 有 yǒu (Có)",
+      "explanation": "Chức năng: Thể hiện sự tồn tại của người hoặc vật ở một địa điểm nào đó.\n\nCấu trúc: Địa điểm + 有 yǒu + Danh từ.\nPhủ định: 沒有 méi yǒu.\n\nLưu ý: \"Có\" mang ý nghĩa sở hữu thì dùng Chủ ngữ + 有 yǒu + Danh từ (Tôi có điện thoại). Còn \"Có\" mang ý nghĩa tồn tại thì Địa điểm phải đứng đầu câu (Trong phòng có điện thoại).",
+      "examples": "[{\"zh\":\"那棟大樓前面有很多人。\",\"pinyin\":\"Nà dòng dàlóu qiánmiàn yǒu hěn duō rén.\",\"vn\":\"Phía trước tòa nhà đó có rất nhiều người.\"},{\"zh\":\"我家附近有圖書館。\",\"pinyin\":\"Wǒ jiā fùjìn yǒu túshūguǎn.\",\"vn\":\"Gần nhà tôi có thư viện.\"},{\"zh\":\"教室裡面沒有學生。\",\"pinyin\":\"Jiàoshì lǐmiàn méi yǒu xuéshēng.\",\"vn\":\"Trong phòng học không có học sinh.\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "III. Lặp lại động từ",
+      "explanation": "Chức năng: Lặp lại động từ diễn tả hành động xảy ra trong thời gian ngắn, hoặc mang ý nghĩa \"làm thử\". Nó cũng giúp làm mềm hóa ngữ khí của câu cầu khiến (khi nhờ vả ai đó).\n\nVí dụ các động từ có thể lặp lại: 看看 kànkan (xem thử), 吃吃 chīchi (ăn thử), 想想 xiǎngxiang (nghĩ xem), 做做 zuòzuo (làm thử), 幫幫 bāngbang (giúp đỡ).",
+      "examples": "[{\"zh\":\"他們學校很漂亮，我想去看看。\",\"pinyin\":\"Tāmen xuéxiào hěn piàoliang, wǒ xiǎng qù kànkan.\",\"vn\":\"Trường họ rất đẹp, tôi muốn đi xem thử.\"},{\"zh\":\"我想學中文，請教教我。\",\"pinyin\":\"Wǒ xiǎng xué Zhōngwén, qǐng jiāojiao wǒ.\",\"vn\":\"Tôi muốn học tiếng Trung, xin hãy dạy cho tôi.\"},{\"zh\":\"請幫幫我，好不好？\",\"pinyin\":\"Qǐng bāngbang wǒ, hǎo bù hǎo?\",\"vn\":\"Xin hãy giúp tôi một chút, được không?\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "IV. Phủ định 不是 bú shì",
+      "explanation": "Chức năng: 不是 bú shì không phải là phủ định thông thường. Nó dùng để phủ định một lời khẳng định hoặc một nhận định đã được nêu ra trước đó (Mang nghĩa: \"Sự thật không phải là...\").\n\nCách dùng: Thường đặt trước tính từ hoặc động từ để phản bác ý kiến.",
+      "examples": "[{\"zh\":\"我覺得那支手機不是很貴。\",\"pinyin\":\"Wǒ juéde nà zhī shǒujī bú shì hěn guì.\",\"vn\":\"Tôi cảm thấy chiếc điện thoại kia không đắt lắm. (Phản bác ý kiến chê đắt)\"},{\"zh\":\"餐廳不是在學校裡面。\",\"pinyin\":\"Cāntīng bú shì zài xuéxiào lǐmiàn.\",\"vn\":\"Nhà hàng không phải ở trong trường.\"},{\"zh\":\"我不是不想來。\",\"pinyin\":\"Wǒ bú shì bù xiǎng lái.\",\"vn\":\"Không phải là tôi không muốn tới.\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "V. Vị trí của một hành động",
+      "explanation": "Chức năng: Diễn đạt hành động xảy ra ở đâu, đi đến đâu để làm gì.\n\nCấu trúc: Chủ ngữ + 在 zài / 到 dào + Địa điểm + Động từ (Hành động).\n(Chú ý: Trạng ngữ chỉ địa điểm LUÔN PHẢI ĐỨNG TRƯỚC động từ hành động).\n\nPhủ định: Phó từ 不 bù phải đặt trước 在 zài / 到 dào, chứ không đặt trước động từ.",
+      "examples": "[{\"zh\":\"我爸爸在家做飯。\",\"pinyin\":\"Wǒ bàba zài jiā zuòfàn.\",\"vn\":\"Bố tôi nấu ăn ở nhà.\"},{\"zh\":\"他們現在不在宿舍看書。\",\"pinyin\":\"Tāmen xiànzài bú zài sùshè kànshū.\",\"vn\":\"Họ bây giờ không đọc sách ở ký túc xá.\"},{\"zh\":\"你們在哪裡打籃球？\",\"pinyin\":\"Nǐmen zài nǎlǐ dǎ lánqiú?\",\"vn\":\"Các bạn chơi bóng rổ ở đâu?\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "安同",
+      "text_zh": "聽說怡君的學校很漂亮。",
+      "pinyin": "Tīngshuō Yíjūn de xuéxiào hěn piàoliang.",
+      "translation_vn": "Nghe nói trường của Di Quân rất đẹp."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "如玉",
+      "text_zh": "他們學校在哪裡？遠不遠？",
+      "pinyin": "Tāmen xuéxiào zài nǎlǐ? Yuǎn bu yuǎn?",
+      "translation_vn": "Trường họ ở đâu? Có xa không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "安同",
+      "text_zh": "有一點遠。他們學校在花蓮的山上。",
+      "pinyin": "Yǒu yìdiǎn yuǎn. Tāmen xuéxiào zài Huālián de shānshàng.",
+      "translation_vn": "Hơi xa một chút. Trường họ ở trên núi Hoa Liên."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "如玉",
+      "text_zh": "山上？那裡的風景一定很美。",
+      "pinyin": "Shānshàng? Nàlǐ de fēngjǐng yídìng hěn měi.",
+      "translation_vn": "Trên núi ư? Phong cảnh ở đó nhất định rất đẹp."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "安同",
+      "text_zh": "是的，他們學校前面有海，後面有山，那裡真的是一個很漂亮的地方。",
+      "pinyin": "Shì de, tāmen xuéxiào qiánmiàn yǒu hǎi, hòumiàn yǒu shān, nàlǐ zhēnde shì yí ge hěn piàoliang de dìfāng.",
+      "translation_vn": "Đúng vậy, trường họ phía trước có biển, phía sau có núi, nơi đó thực sự là một nơi rất đẹp."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "如玉",
+      "text_zh": "我想去看看。我們這個週末一起去吧！",
+      "pinyin": "Wǒ xiǎng qù kànkan. Wǒmen zhè ge zhōumò yìqǐ qù ba!",
+      "translation_vn": "Tôi muốn đi xem thử. Cuối tuần này chúng ta cùng đi nhé!"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "安同",
+      "text_zh": "好啊！我現在要去學校附近的咖啡店買咖啡。妳呢？",
+      "pinyin": "Hǎo a! Wǒ xiànzài yào qù xuéxiào fùjìn de kāfēidiàn mǎi kāfēi. Nǐ ne?",
+      "translation_vn": "Được thôi! Bây giờ tôi phải đi mua cà phê ở quán cà phê gần trường. Còn bạn?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "如玉",
+      "text_zh": "我去樓下找朋友，我們要一起去上課。",
+      "pinyin": "Wǒ qù lóuxià zhǎo péngyou, wǒmen yào yìqǐ qù shàngkè.",
+      "translation_vn": "Tôi xuống lầu tìm bạn, chúng tôi chuẩn bị cùng nhau đi học."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "怡君",
+      "text_zh": "歡迎你們來。",
+      "pinyin": "Huānyíng nǐmen lái.",
+      "translation_vn": "Chào mừng các bạn đến."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "安同",
+      "text_zh": "你們學校真遠！",
+      "pinyin": "Nǐmen xuéxiào zhēn yuǎn!",
+      "translation_vn": "Trường các bạn xa thật!"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "怡君",
+      "text_zh": "是啊，不是很近，有一點不方便。",
+      "pinyin": "Shì a, bú shì hěn jìn, yǒu yìdiǎn bù fāngbiàn.",
+      "translation_vn": "Đúng vậy, không gần lắm, hơi bất tiện một chút."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "如玉",
+      "text_zh": "這裡的學生在哪裡買東西？",
+      "pinyin": "Zhèlǐ de xuéshēng zài nǎlǐ mǎi dōngxī?",
+      "translation_vn": "Học sinh ở đây mua đồ ở đâu?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "怡君",
+      "text_zh": "在學校外面。學校裡面沒有商店。",
+      "pinyin": "Zài xuéxiào wàimiàn. Xuéxiào lǐmiàn méi yǒu shāngdiàn.",
+      "translation_vn": "Ở bên ngoài trường. Trong trường không có cửa hàng."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "安同",
+      "text_zh": "吃飯呢？學校裡面有沒有餐廳？",
+      "pinyin": "Chīfàn ne? Xuéxiào lǐmiàn yǒu méi yǒu cāntīng?",
+      "translation_vn": "Thế ăn cơm thì sao? Trong trường có nhà hàng không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "怡君",
+      "text_zh": "有，餐廳在學生宿舍的一樓。",
+      "pinyin": "Yǒu, cāntīng zài xuéshēng sùshè de yì lóu.",
+      "translation_vn": "Có, nhà hàng ở tầng một của ký túc xá sinh viên."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "安同",
+      "text_zh": "前面這棟大樓很漂亮。",
+      "pinyin": "Qiánmiàn zhè dòng dàlóu hěn piàoliang.",
+      "translation_vn": "Tòa nhà lớn phía trước này rất đẹp."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "怡君",
+      "text_zh": "這是圖書館，旁邊的那棟大樓是教室，圖書館後面有游泳池。",
+      "pinyin": "Zhè shì túshūguǎn, pángbiān de nà dòng dàlóu shì jiàoshì, túshūguǎn hòumiàn yǒu yóuyǒngchí.",
+      "translation_vn": "Đây là thư viện, tòa nhà bên cạnh là phòng học, phía sau thư viện có hồ bơi."
+    }
+  ]
+}

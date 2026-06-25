@@ -1,0 +1,550 @@
+{
+  "id": 10,
+  "title_vn": "Trái cây Đài Loan rất ngon",
+  "title_zh": "臺灣的水果很好吃",
+  "subtitle": "Ngoại hình của người và vật",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "水果",
+      "pinyin": "shuǐguǒ",
+      "word_type": "N",
+      "meaning_vn": "Trái cây",
+      "example_zh": "臺灣有很多好吃的水果。",
+      "example_pinyin": "Táiwān yǒu hěn duō hǎochī de shuǐguǒ.",
+      "example_vn": "Đài Loan có rất nhiều loại trái cây ngon."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "黃色",
+      "pinyin": "huángsè",
+      "word_type": "N",
+      "meaning_vn": "Màu vàng",
+      "example_zh": "這個黃色的水果叫什麼？",
+      "example_pinyin": "Zhège huángsè de shuǐguǒ jiào shénme?",
+      "example_vn": "Trái cây màu vàng này gọi là gì?"
+    },
+    {
+      "order_num": 3,
+      "word_zh": "芒果",
+      "pinyin": "mángguǒ",
+      "word_type": "N",
+      "meaning_vn": "Xoài",
+      "example_zh": "這是芒果。",
+      "example_pinyin": "Zhè shì mángguǒ.",
+      "example_vn": "Đây là quả xoài."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "給",
+      "pinyin": "gěi",
+      "word_type": "V",
+      "meaning_vn": "Cho",
+      "example_zh": "給妳一塊。",
+      "example_pinyin": "Gěi nǐ yī kuài.",
+      "example_vn": "Cho cậu một miếng."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "塊",
+      "pinyin": "kuài",
+      "word_type": "M",
+      "meaning_vn": "Miếng, cục, khối",
+      "example_zh": "給妳一塊。",
+      "example_pinyin": "Gěi nǐ yī kuài.",
+      "example_vn": "Cho cậu một miếng."
+    },
+    {
+      "order_num": 6,
+      "word_zh": "香",
+      "pinyin": "xiāng",
+      "word_type": "Vs",
+      "meaning_vn": "Thơm",
+      "example_zh": "香香的。",
+      "example_pinyin": "Xiāngxiāng de.",
+      "example_vn": "Thơm thơm."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "甜",
+      "pinyin": "tián",
+      "word_type": "Vs",
+      "meaning_vn": "Ngọt",
+      "example_zh": "甜甜的，很好吃。",
+      "example_pinyin": "Tiántián de, hěn hǎochī.",
+      "example_vn": "Ngọt ngọt, rất là ngon."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "紅色",
+      "pinyin": "hóngsè",
+      "word_type": "N",
+      "meaning_vn": "Màu đỏ",
+      "example_zh": "紅色的。",
+      "example_pinyin": "Hóngsè de.",
+      "example_vn": "Màu đỏ."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "西瓜",
+      "pinyin": "xīguā",
+      "word_type": "N",
+      "meaning_vn": "Dưa hấu",
+      "example_zh": "妳說的是西瓜吧？",
+      "example_pinyin": "Nǐ shuō de shì xīguā ba?",
+      "example_vn": "Ý cậu là quả dưa hấu à?"
+    },
+    {
+      "order_num": 10,
+      "word_zh": "吧",
+      "pinyin": "ba",
+      "word_type": "Ptc",
+      "meaning_vn": "Nhỉ, nhé, đi (trợ từ ngữ khí)",
+      "example_zh": "妳說的是西瓜吧？",
+      "example_pinyin": "Nǐ shuō de shì xīguā ba?",
+      "example_vn": "Ý cậu là quả dưa hấu nhỉ?"
+    },
+    {
+      "order_num": 11,
+      "word_zh": "對",
+      "pinyin": "duì",
+      "word_type": "Vs",
+      "meaning_vn": "Đúng",
+      "example_zh": "對！對！",
+      "example_pinyin": "Duì! Duì!",
+      "example_vn": "Đúng! Đúng!"
+    },
+    {
+      "order_num": 12,
+      "word_zh": "以前",
+      "pinyin": "yǐqián",
+      "word_type": "N",
+      "meaning_vn": "Trước kia, trước đây",
+      "example_zh": "我以前不喜歡吃水果。",
+      "example_pinyin": "Wǒ yǐqián bù xǐhuan chī shuǐguǒ.",
+      "example_vn": "Trước kia tôi không thích ăn trái cây."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "機會",
+      "pinyin": "jīhuì",
+      "word_type": "N",
+      "meaning_vn": "Cơ hội",
+      "example_zh": "要是有機會。",
+      "example_pinyin": "Yàoshì yǒu jīhuì.",
+      "example_vn": "Nếu có cơ hội."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "請",
+      "pinyin": "qǐng",
+      "word_type": "V",
+      "meaning_vn": "Mời (khách)",
+      "example_zh": "我一定請妳吃。",
+      "example_pinyin": "Wǒ yīdìng qǐng nǐ chī.",
+      "example_vn": "Tôi nhất định sẽ mời cậu ăn."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "吃吃看",
+      "pinyin": "chīchīkàn",
+      "word_type": "Phrase",
+      "meaning_vn": "Ăn thử",
+      "example_zh": "給妳一塊，吃吃看。",
+      "example_pinyin": "Gěi nǐ yī kuài, chīchīkàn.",
+      "example_vn": "Cho cậu một miếng, ăn thử xem."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "拍",
+      "pinyin": "pāi",
+      "word_type": "V",
+      "meaning_vn": "Chụp (ảnh)",
+      "example_zh": "這是我拍的照片。",
+      "example_pinyin": "Zhè shì wǒ pāi de zhàopiàn.",
+      "example_vn": "Đây là ảnh tôi chụp."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "笑",
+      "pinyin": "xiào",
+      "word_type": "V",
+      "meaning_vn": "Cười",
+      "example_zh": "你們笑得很開心！",
+      "example_pinyin": "Nǐmen xiào de hěn kāixīn!",
+      "example_vn": "Các bạn cười rất vui vẻ!"
+    },
+    {
+      "order_num": 18,
+      "word_zh": "開心",
+      "pinyin": "kāixīn",
+      "word_type": "Vs",
+      "meaning_vn": "Vui vẻ, hạnh phúc",
+      "example_zh": "你們笑得很開心！",
+      "example_pinyin": "Nǐmen xiào de hěn kāixīn!",
+      "example_vn": "Các bạn cười rất vui vẻ!"
+    },
+    {
+      "order_num": 19,
+      "word_zh": "穿",
+      "pinyin": "chuān",
+      "word_type": "V",
+      "meaning_vn": "Mặc, mang",
+      "example_zh": "穿紅衣服的這個。",
+      "example_pinyin": "Chuān hóng yīfú de zhège.",
+      "example_vn": "Người mặc áo đỏ này."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "衣服",
+      "pinyin": "yīfú",
+      "word_type": "N",
+      "meaning_vn": "Quần áo",
+      "example_zh": "穿紅衣服的這個。",
+      "example_pinyin": "Chuān hóng yīfú de zhège.",
+      "example_vn": "Người mặc áo đỏ này."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "旅館",
+      "pinyin": "lǚguǎn",
+      "word_type": "N",
+      "meaning_vn": "Khách sạn, nhà nghỉ",
+      "example_zh": "旅館的老闆。",
+      "example_pinyin": "Lǚguǎn de lǎobǎn.",
+      "example_vn": "Ông chủ khách sạn."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "太太",
+      "pinyin": "tàitài",
+      "word_type": "N",
+      "meaning_vn": "Vợ, bà xã",
+      "example_zh": "旅館老闆的太太。",
+      "example_pinyin": "Lǚguǎn lǎobǎn de tàitài.",
+      "example_vn": "Vợ của ông chủ khách sạn."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "男",
+      "pinyin": "nán",
+      "word_type": "N",
+      "meaning_vn": "Nam, con trai",
+      "example_zh": "這兩個男的是誰？",
+      "example_pinyin": "Zhè liǎng ge nán de shì shéi?",
+      "example_vn": "Hai người nam này là ai?"
+    },
+    {
+      "order_num": 24,
+      "word_zh": "矮",
+      "pinyin": "ǎi",
+      "word_type": "Vs",
+      "meaning_vn": "Lùn, thấp",
+      "example_zh": "矮的是旅館的老闆。",
+      "example_pinyin": "Ǎi de shì lǚguǎn de lǎobǎn.",
+      "example_vn": "Người thấp là ông chủ khách sạn."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "高",
+      "pinyin": "gāo",
+      "word_type": "Vs",
+      "meaning_vn": "Cao",
+      "example_zh": "高的是他弟弟。",
+      "example_pinyin": "Gāo de shì tā dìdi.",
+      "example_vn": "Người cao là em trai ông ấy."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "弟弟",
+      "pinyin": "dìdi",
+      "word_type": "N",
+      "meaning_vn": "Em trai",
+      "example_zh": "高的是他弟弟。",
+      "example_pinyin": "Gāo de shì tā dìdi.",
+      "example_vn": "Người cao là em trai ông ấy."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "乾淨",
+      "pinyin": "gānjìng",
+      "word_type": "Vs",
+      "meaning_vn": "Sạch sẽ",
+      "example_zh": "很乾淨。",
+      "example_pinyin": "Hěn gānjìng.",
+      "example_vn": "Rất sạch sẽ."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "窗戶",
+      "pinyin": "chuānghù",
+      "word_type": "N",
+      "meaning_vn": "Cửa sổ",
+      "example_zh": "從窗戶往外看。",
+      "example_pinyin": "Cóng chuānghù wǎng wài kàn.",
+      "example_vn": "Từ cửa sổ nhìn ra ngoài."
+    },
+    {
+      "order_num": 29,
+      "word_zh": "往",
+      "pinyin": "wǎng",
+      "word_type": "Prep",
+      "meaning_vn": "Hướng về, về phía",
+      "example_zh": "從窗戶往外看。",
+      "example_pinyin": "Cóng chuānghù wǎng wài kàn.",
+      "example_vn": "Từ cửa sổ nhìn ra ngoài."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "藍色",
+      "pinyin": "lánsè",
+      "word_type": "N",
+      "meaning_vn": "Màu xanh dương",
+      "example_zh": "藍色的大海。",
+      "example_pinyin": "Lánsè de dàhǎi.",
+      "example_vn": "Biển lớn màu xanh dương."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "因為",
+      "pinyin": "yīnwèi",
+      "word_type": "Conj",
+      "meaning_vn": "Bởi vì",
+      "example_zh": "因為現在去玩的人比較少。",
+      "example_pinyin": "Yīnwèi xiànzài qù wán de rén bǐjiào shǎo.",
+      "example_vn": "Bởi vì bây giờ người đi chơi khá ít."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "住",
+      "pinyin": "zhù",
+      "word_type": "V",
+      "meaning_vn": "Ở, trọ",
+      "example_zh": "下次我也想去住。",
+      "example_pinyin": "Xià cì wǒ yě xiǎng qù zhù.",
+      "example_vn": "Lần sau tôi cũng muốn đến ở."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "上個月",
+      "pinyin": "shàng ge yuè",
+      "word_type": "Phrase",
+      "meaning_vn": "Tháng trước",
+      "example_zh": "上個月去花蓮玩。",
+      "example_pinyin": "Shàng ge yuè qù Huālián wán.",
+      "example_vn": "Tháng trước đi Hoa Liên chơi."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "這些",
+      "pinyin": "zhèxiē",
+      "word_type": "Phrase",
+      "meaning_vn": "Những cái này",
+      "example_zh": "這些是我拍的照片。",
+      "example_pinyin": "Zhèxiē shì wǒ pāi de zhàopiàn.",
+      "example_vn": "Đây là những bức ảnh tôi chụp."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "VV 看 kàn (to try and see)",
+      "explanation": "Cấu trúc lặp lại động từ âm tiết đơn và kết thúc bằng '看' (kàn). Nó mang ý nghĩa 'thử làm gì đó xem sao'. Cấu trúc này thường mang ngữ khí đề xuất nhẹ nhàng.",
+      "examples": "[{\"zh\": \"這杯咖啡很香，你喝喝看。\", \"pinyin\": \"Zhè bēi kāfēi hěn xiāng, nǐ hēhēkàn.\", \"vn\": \"Tách cà phê này rất thơm, cậu uống thử xem.\"}, {\"zh\": \"那家餐廳的菜很好吃，我想去吃吃看。\", \"pinyin\": \"Nà jiā cāntīng de cài hěn hǎochī, wǒ xiǎng qù chīchīkàn.\", \"vn\": \"Đồ ăn ở nhà hàng đó rất ngon, tôi muốn đi ăn thử xem sao.\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Intensification with Reduplicated State Verbs",
+      "explanation": "Việc lặp lại các tính từ trạng thái (State Verbs) giúp tăng cường ngữ khí cho câu, thể hiện cảm xúc chủ quan của người nói, mang tính chất mô tả và có một chữ '的' (de) ở sau tính từ lặp lại. Không dùng chung với phó từ chỉ mức độ như '很' (hěn).",
+      "examples": "[{\"zh\": \"這碗牛肉湯香香的。\", \"pinyin\": \"Zhè wǎn niúròu tāng xiāngxiāng de.\", \"vn\": \"Bát súp thịt bò này thơm phức.\"}, {\"zh\": \"熱熱的咖啡，真香。\", \"pinyin\": \"Rèrè de kāfēi, zhēn xiāng.\", \"vn\": \"Cà phê nóng hổi, thật là thơm.\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "Clause as Modifiers of Nouns",
+      "explanation": "Trong tiếng Trung, mệnh đề cũng có thể dùng để bổ nghĩa cho danh từ (làm định ngữ). Mệnh đề luôn đứng trước danh từ nó bổ nghĩa, được nối bởi trợ từ '的' (de).",
+      "examples": "[{\"zh\": \"你說的水果是西瓜。\", \"pinyin\": \"Nǐ shuō de shuǐguǒ shì xīguā.\", \"vn\": \"Loại trái cây mà cậu nói là dưa hấu.\"}, {\"zh\": \"穿黃衣服的這個人是老闆。\", \"pinyin\": \"Chuān huáng yīfú de zhège rén shì lǎobǎn.\", \"vn\": \"Người mặc áo vàng này là ông chủ.\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "Change in Situation with Sentential 了 le",
+      "explanation": "Trợ từ ngữ khí '了' (le) đứng ở cuối câu chỉ sự thay đổi của trạng thái hoặc một tình huống mới vừa xảy ra.",
+      "examples": "[{\"zh\": \"咖啡貴了。\", \"pinyin\": \"Kāfēi guì le.\", \"vn\": \"Cà phê đắt lên rồi.\"}, {\"zh\": \"我現在喜歡吃越南麵了。\", \"pinyin\": \"Wǒ xiànzài xǐhuan chī Yuènán miàn le.\", \"vn\": \"Bây giờ tôi đã thích ăn phở Việt Nam rồi (trước đó thì không thích).\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Cause and Effect with 因為 yīnwèi…，所以 suǒyǐ…",
+      "explanation": "Cấu trúc 因為...所以... (Bởi vì... cho nên...) dùng để nối hai mệnh đề nhằm chỉ ra mối quan hệ nguyên nhân và kết quả. Nguyên nhân hầu như luôn luôn đứng trước kết quả.",
+      "examples": "[{\"zh\": \"因為現在去玩的人比較少，所以旅館不太貴。\", \"pinyin\": \"Yīnwèi xiànzài qù wán de rén bǐjiào shǎo, suǒyǐ lǚguǎn bù tài guì.\", \"vn\": \"Bởi vì hiện nay số người đi chơi khá ít, cho nên khách sạn không đắt lắm.\"}, {\"zh\": \"因為我不會做飯，所以常去餐廳吃飯。\", \"pinyin\": \"Yīnwèi wǒ bù huì zuòfàn, suǒyǐ cháng qù cāntīng chīfàn.\", \"vn\": \"Bởi vì tôi không biết nấu ăn, cho nên thường đến nhà hàng ăn cơm.\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "如玉",
+      "text_zh": "這個黃色的水果叫什麼？",
+      "pinyin": "Zhège huángsè de shuǐguǒ jiào shénme?",
+      "translation_vn": "Loại trái cây màu vàng này gọi là gì?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "月美",
+      "text_zh": "芒果。給妳一塊，吃吃看。",
+      "pinyin": "Mángguǒ. Gěi nǐ yī kuài, chīchīkàn.",
+      "translation_vn": "Xoài. Cho cậu một miếng, ăn thử xem."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "如玉",
+      "text_zh": "好，謝謝。香香的、甜甜的，很好吃。",
+      "pinyin": "Hǎo, xièxie. Xiāngxiāng de, tiántián de, hěn hǎochī.",
+      "translation_vn": "Được, cảm ơn cậu. Thơm thơm, ngọt ngọt, rất ngon."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "月美",
+      "text_zh": "昨天明華給我們的那種水果，紅色的，叫什麼？",
+      "pinyin": "Zuótiān Mínghuá gěi wǒmen de nà zhǒng shuǐguǒ, hóngsè de, jiào shénme?",
+      "translation_vn": "Loại trái cây màu đỏ hôm qua Minh Hoa cho chúng ta gọi là gì?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "如玉",
+      "text_zh": "妳說的是西瓜吧？",
+      "pinyin": "Nǐ shuō de shì xīguā ba?",
+      "translation_vn": "Ý cậu là quả dưa hấu đúng không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "月美",
+      "text_zh": "對！對！對！臺灣有很多好吃的水果。",
+      "pinyin": "Duì! Duì! Duì! Táiwān yǒu hěn duō hǎochī de shuǐguǒ.",
+      "translation_vn": "Đúng! Đúng! Đúng! Đài Loan có rất nhiều loại trái cây ngon."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "如玉",
+      "text_zh": "我以前不喜歡吃水果，現在很喜歡了。",
+      "pinyin": "Wǒ yǐqián bù xǐhuan chī shuǐguǒ, xiànzài hěn xǐhuan le.",
+      "translation_vn": "Trước kia tớ không thích ăn trái cây, nhưng bây giờ thì rất thích rồi."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "月美",
+      "text_zh": "越南的水果也很好吃。",
+      "pinyin": "Yuènán de shuǐguǒ yě hěn hǎochī.",
+      "translation_vn": "Trái cây ở Việt Nam cũng rất ngon."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "如玉",
+      "text_zh": "要是有機會，我想吃吃看。",
+      "pinyin": "Yàoshì yǒu jīhuì, wǒ xiǎng chīchīkàn.",
+      "translation_vn": "Nếu có cơ hội, tớ muốn ăn thử xem sao."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "月美",
+      "text_zh": "妳來越南，我一定請妳吃。",
+      "pinyin": "Nǐ lái Yuènán, wǒ yīdìng qǐng nǐ chī.",
+      "translation_vn": "Cậu đến Việt Nam, tớ nhất định sẽ mời cậu ăn."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "明華",
+      "text_zh": "你跟你女朋友上個月去花蓮玩，好玩嗎？",
+      "pinyin": "Nǐ gēn nǐ nǚpéngyǒu shàng ge yuè qù Huālián wán, hǎowán ma?",
+      "translation_vn": "Cậu và bạn gái tháng trước đi Hoa Liên chơi, có vui không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "田中",
+      "text_zh": "很好玩。你看，這些是我拍的照片。",
+      "pinyin": "Hěn hǎowán. Nǐ kàn, zhèxiē shì wǒ pāi de zhàopiàn.",
+      "translation_vn": "Rất vui. Cậu xem, đây là những bức ảnh tớ chụp."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "明華",
+      "text_zh": "你們笑得很開心！哪一個是你女朋友？",
+      "pinyin": "Nǐmen xiào de hěn kāixīn! Nǎ yīgè shì nǐ nǚpéngyǒu?",
+      "translation_vn": "Các cậu cười rất hạnh phúc! Ai là bạn gái của cậu vậy?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "田中",
+      "text_zh": "穿紅衣服的這個。穿黃衣服的是旅館老闆的太太。",
+      "pinyin": "Chuān hóng yīfú de zhège. Chuān huáng yīfú de shì lǚguǎn lǎobǎn de tàitài.",
+      "translation_vn": "Người mặc áo đỏ này. Còn người mặc áo vàng là vợ của ông chủ khách sạn."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "明華",
+      "text_zh": "她們兩個都很漂亮。這兩個男的是誰？",
+      "pinyin": "Tāmen liǎng ge dōu hěn piàoliang. Zhè liǎng ge nán de shì shéi?",
+      "translation_vn": "Hai người họ đều rất xinh đẹp. Hai người nam này là ai?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "田中",
+      "text_zh": "矮的是旅館的老闆，高的是他弟弟。",
+      "pinyin": "Ǎi de shì lǚguǎn de lǎobǎn, gāo de shì tā dìdi.",
+      "translation_vn": "Người thấp là ông chủ khách sạn, người cao là em trai của ông ấy."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "明華",
+      "text_zh": "那家旅館怎麼樣？",
+      "pinyin": "Nà jiā lǚguǎn zěnmeyàng?",
+      "translation_vn": "Khách sạn đó như thế nào?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "田中",
+      "text_zh": "很乾淨。從窗戶往外看，是藍色的大海。",
+      "pinyin": "Hěn gānjìng. Cóng chuānghù wǎng wài kàn, shì lánsè de dàhǎi.",
+      "translation_vn": "Rất sạch sẽ. Từ cửa sổ nhìn ra ngoài là biển lớn màu xanh dương."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "明華",
+      "text_zh": "真不錯！那家旅館貴嗎？",
+      "pinyin": "Zhēn bùcuò! Nà jiā lǚguǎn guì ma?",
+      "translation_vn": "Thật tuyệt vời! Khách sạn đó có đắt không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 10,
+      "speaker": "田中",
+      "text_zh": "因為現在去玩的人比較少，所以旅館不太貴。",
+      "pinyin": "Yīnwèi xiànzài qù wán de rén bǐjiào shǎo, suǒyǐ lǚguǎn bù tài guì.",
+      "translation_vn": "Bởi vì bây giờ số người đi chơi khá ít, nên khách sạn không đắt lắm."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 11,
+      "speaker": "明華",
+      "text_zh": "下次我也想去住。",
+      "pinyin": "Xià cì wǒ yě xiǎng qù zhù.",
+      "translation_vn": "Lần sau tớ cũng muốn đến ở thử."
+    }
+  ]
+}

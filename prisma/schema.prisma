@@ -1,0 +1,56 @@
+// This is your Prisma schema file
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./data.sqlite"
+}
+
+model Lesson {
+  id         Int          @id
+  title_vn   String
+  title_zh   String
+  subtitle   String
+  vocabulary Vocabulary[]
+  grammar    Grammar[]
+  dialogues  Dialogue[]
+}
+
+model Vocabulary {
+  id             Int    @id @default(autoincrement())
+  lesson_id      Int
+  order_num      Int
+  word_zh        String
+  pinyin         String
+  word_type      String @default("")
+  meaning_vn     String
+  example_zh     String @default("")
+  example_pinyin String @default("")
+  example_vn     String @default("")
+  lesson         Lesson @relation(fields: [lesson_id], references: [id])
+}
+
+model Grammar {
+  id          Int    @id @default(autoincrement())
+  lesson_id   Int
+  order_num   Int
+  title       String
+  explanation String
+  examples    String @default("[]")
+  lesson      Lesson @relation(fields: [lesson_id], references: [id])
+}
+
+model Dialogue {
+  id             Int    @id @default(autoincrement())
+  lesson_id      Int
+  dialogue_num   Int
+  line_order     Int
+  speaker        String
+  text_zh        String
+  pinyin         String
+  translation_vn String
+  lesson         Lesson @relation(fields: [lesson_id], references: [id])
+}

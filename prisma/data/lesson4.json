@@ -1,0 +1,528 @@
+{
+  "id": 4,
+  "title_vn": "Xin hỏi tổng cộng bao nhiêu tiền?",
+  "title_zh": "請問一共多少錢？",
+  "subtitle": "Giao tiếp mua sắm & Giá cả",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "一共",
+      "pinyin": "yígòng",
+      "word_type": "Adv",
+      "meaning_vn": "Tổng cộng",
+      "example_zh": "一共多少錢？",
+      "example_pinyin": "Yígòng duōshǎo qián?",
+      "example_vn": "Tổng cộng bao nhiêu tiền?"
+    },
+    {
+      "order_num": 2,
+      "word_zh": "多少",
+      "pinyin": "duōshao",
+      "word_type": "N",
+      "meaning_vn": "Bao nhiêu",
+      "example_zh": "一共多少錢？",
+      "example_pinyin": "Yígòng duōshǎo qián?",
+      "example_vn": "Tổng cộng bao nhiêu tiền?"
+    },
+    {
+      "order_num": 3,
+      "word_zh": "錢",
+      "pinyin": "qián",
+      "word_type": "N",
+      "meaning_vn": "Tiền",
+      "example_zh": "多少錢？",
+      "example_pinyin": "Duōshǎo qián?",
+      "example_vn": "Bao nhiêu tiền?"
+    },
+    {
+      "order_num": 4,
+      "word_zh": "老闆",
+      "pinyin": "lǎobǎn",
+      "word_type": "N",
+      "meaning_vn": "Ông chủ",
+      "example_zh": "老闆，請問你要買什麼？",
+      "example_pinyin": "Lǎobǎn, qǐngwèn nǐ yào mǎi shénme?",
+      "example_vn": "Ông chủ, xin hỏi bạn muốn mua gì?"
+    },
+    {
+      "order_num": 5,
+      "word_zh": "買",
+      "pinyin": "mǎi",
+      "word_type": "V",
+      "meaning_vn": "Mua",
+      "example_zh": "我想買一支新手機。",
+      "example_pinyin": "Wǒ xiǎng mǎi yì zhī xīn shǒujī.",
+      "example_vn": "Tôi muốn mua một chiếc điện thoại mới."
+    },
+    {
+      "order_num": 6,
+      "word_zh": "杯",
+      "pinyin": "bēi",
+      "word_type": "M",
+      "meaning_vn": "Ly, cốc",
+      "example_zh": "一杯熱咖啡。",
+      "example_pinyin": "Yì bēi rè kāfēi.",
+      "example_vn": "Một ly cà phê nóng."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "熱",
+      "pinyin": "rè",
+      "word_type": "Vs",
+      "meaning_vn": "Nóng",
+      "example_zh": "一杯熱咖啡。",
+      "example_pinyin": "Yì bēi rè kāfēi.",
+      "example_vn": "Một ly cà phê nóng."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "包子",
+      "pinyin": "bāozi",
+      "word_type": "N",
+      "meaning_vn": "Bánh bao",
+      "example_zh": "兩個包子。",
+      "example_pinyin": "Liǎng ge bāozi.",
+      "example_vn": "Hai cái bánh bao."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "要",
+      "pinyin": "yào",
+      "word_type": "V",
+      "meaning_vn": "Muốn, cần",
+      "example_zh": "你要買什麼？",
+      "example_pinyin": "Nǐ yào mǎi shénme?",
+      "example_vn": "Bạn muốn mua gì?"
+    },
+    {
+      "order_num": 10,
+      "word_zh": "大",
+      "pinyin": "dà",
+      "word_type": "Vs",
+      "meaning_vn": "Lớn",
+      "example_zh": "大杯還是小杯？",
+      "example_pinyin": "Dà bēi háishì xiǎo bēi?",
+      "example_vn": "Ly lớn hay ly nhỏ?"
+    },
+    {
+      "order_num": 11,
+      "word_zh": "中",
+      "pinyin": "zhōng",
+      "word_type": "Vs-attr",
+      "meaning_vn": "Vừa, trung bình",
+      "example_zh": "我要中杯。",
+      "example_pinyin": "Wǒ yào zhōng bēi.",
+      "example_vn": "Tôi muốn ly vừa."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "小",
+      "pinyin": "xiǎo",
+      "word_type": "Vs",
+      "meaning_vn": "Nhỏ, bé",
+      "example_zh": "我要小杯。",
+      "example_pinyin": "Wǒ yào xiǎo bēi.",
+      "example_vn": "Tôi muốn ly nhỏ."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "幫",
+      "pinyin": "bāng",
+      "word_type": "Prep",
+      "meaning_vn": "Giúp, làm thay",
+      "example_zh": "請幫我微波。",
+      "example_pinyin": "Qǐng bāng wǒ wēibō.",
+      "example_vn": "Xin hãy vi sóng giúp tôi."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "微波",
+      "pinyin": "wēibō",
+      "word_type": "V",
+      "meaning_vn": "Vi sóng (hâm nóng)",
+      "example_zh": "請幫我微波。",
+      "example_pinyin": "Qǐng bāng wǒ wēibō.",
+      "example_vn": "Xin hãy vi sóng giúp tôi."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "百",
+      "pinyin": "bǎi",
+      "word_type": "N",
+      "meaning_vn": "Trăm",
+      "example_zh": "一百二十塊。",
+      "example_pinyin": "Yìbǎi èrshí kuài.",
+      "example_vn": "Một trăm hai mươi tệ."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "塊",
+      "pinyin": "kuài",
+      "word_type": "M",
+      "meaning_vn": "Đồng, tệ (đơn vị tiền tệ)",
+      "example_zh": "一百二十塊。",
+      "example_pinyin": "Yìbǎi èrshí kuài.",
+      "example_vn": "Một trăm hai mươi tệ."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "好的",
+      "pinyin": "hǎode",
+      "word_type": "Expr",
+      "meaning_vn": "Được, OK",
+      "example_zh": "好的。請問外帶還是內用？",
+      "example_pinyin": "Hǎo de. Qǐngwèn wàidài háishì nèiyòng?",
+      "example_vn": "Được. Xin hỏi mang đi hay dùng tại chỗ?"
+    },
+    {
+      "order_num": 18,
+      "word_zh": "外帶",
+      "pinyin": "wàidài",
+      "word_type": "Expr",
+      "meaning_vn": "Mang đi (take out)",
+      "example_zh": "外帶，一共多少錢？",
+      "example_pinyin": "Wàidài, yígòng duōshǎo qián?",
+      "example_vn": "Mang đi, tổng cộng bao nhiêu tiền?"
+    },
+    {
+      "order_num": 19,
+      "word_zh": "內用",
+      "pinyin": "nèiyòng",
+      "word_type": "Expr",
+      "meaning_vn": "Dùng tại chỗ (for here)",
+      "example_zh": "請問外帶還是內用？",
+      "example_pinyin": "Qǐngwèn wàidài háishì nèiyòng?",
+      "example_vn": "Xin hỏi mang đi hay dùng tại chỗ?"
+    },
+    {
+      "order_num": 20,
+      "word_zh": "支",
+      "pinyin": "zhī",
+      "word_type": "M",
+      "meaning_vn": "Lượng từ cho điện thoại",
+      "example_zh": "我想買一支新手機。",
+      "example_pinyin": "Wǒ xiǎng mǎi yì zhī xīn shǒujī.",
+      "example_vn": "Tôi muốn mua một chiếc điện thoại mới."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "新",
+      "pinyin": "xīn",
+      "word_type": "Vs",
+      "meaning_vn": "Mới",
+      "example_zh": "我想買一支新手機。",
+      "example_pinyin": "Wǒ xiǎng mǎi yì zhī xīn shǒujī.",
+      "example_vn": "Tôi muốn mua một chiếc điện thoại mới."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "手機",
+      "pinyin": "shǒujī",
+      "word_type": "N",
+      "meaning_vn": "Điện thoại di động",
+      "example_zh": "我想買一支新手機。",
+      "example_pinyin": "Wǒ xiǎng mǎi yì zhī xīn shǒujī.",
+      "example_vn": "Tôi muốn mua một chiếc điện thoại mới."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "太",
+      "pinyin": "tài",
+      "word_type": "Adv",
+      "meaning_vn": "Quá, lắm",
+      "example_zh": "我這支手機太舊了。",
+      "example_pinyin": "Wǒ zhè zhī shǒujī tài jiù le.",
+      "example_vn": "Điện thoại này của mình cũ quá rồi."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "舊",
+      "pinyin": "jiù",
+      "word_type": "Vs",
+      "meaning_vn": "Cũ",
+      "example_zh": "我這支手機太舊了。",
+      "example_pinyin": "Wǒ zhè zhī shǒujī tài jiù le.",
+      "example_vn": "Điện thoại này của mình cũ quá rồi."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "了",
+      "pinyin": "le",
+      "word_type": "Ptc",
+      "meaning_vn": "Rồi (trợ từ cuối câu)",
+      "example_zh": "太舊了。",
+      "example_pinyin": "Tài jiù le.",
+      "example_vn": "Quá cũ rồi."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "種",
+      "pinyin": "zhǒng",
+      "word_type": "M",
+      "meaning_vn": "Loại",
+      "example_zh": "妳想買哪種手機？",
+      "example_pinyin": "Nǐ xiǎng mǎi nǎ zhǒng shǒujī?",
+      "example_vn": "Bạn muốn mua loại điện thoại nào?"
+    },
+    {
+      "order_num": 27,
+      "word_zh": "能",
+      "pinyin": "néng",
+      "word_type": "Vaux",
+      "meaning_vn": "Có thể",
+      "example_zh": "能照相也能上網。",
+      "example_pinyin": "Néng zhàoxiàng yě néng shàngwǎng.",
+      "example_vn": "Có thể chụp ảnh và cũng có thể lên mạng."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "上網",
+      "pinyin": "shàngwǎng",
+      "word_type": "V-sep",
+      "meaning_vn": "Lên mạng",
+      "example_zh": "能照相也能上網。",
+      "example_pinyin": "Néng zhàoxiàng yě néng shàngwǎng.",
+      "example_vn": "Có thể chụp ảnh và cũng có thể lên mạng."
+    },
+    {
+      "order_num": 29,
+      "word_zh": "那",
+      "pinyin": "nà/nèi",
+      "word_type": "Det",
+      "meaning_vn": "Kia, đó",
+      "example_zh": "那種手機很好。",
+      "example_pinyin": "Nà zhǒng shǒujī hěn hǎo.",
+      "example_vn": "Loại điện thoại đó rất tốt."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "貴",
+      "pinyin": "guì",
+      "word_type": "Vs",
+      "meaning_vn": "Đắt",
+      "example_zh": "貴不貴？",
+      "example_pinyin": "Guì bu guì?",
+      "example_vn": "Đắt không?"
+    },
+    {
+      "order_num": 31,
+      "word_zh": "賣",
+      "pinyin": "mài",
+      "word_type": "V",
+      "meaning_vn": "Bán",
+      "example_zh": "一支賣多少錢？",
+      "example_pinyin": "Yì zhī mài duōshǎo qián?",
+      "example_vn": "Một chiếc bán bao nhiêu tiền?"
+    },
+    {
+      "order_num": 32,
+      "word_zh": "便宜",
+      "pinyin": "piányi",
+      "word_type": "Vs",
+      "meaning_vn": "Rẻ",
+      "example_zh": "那種手機不便宜。",
+      "example_pinyin": "Nà zhǒng shǒujī bù piányi.",
+      "example_vn": "Loại điện thoại đó không rẻ."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "要",
+      "pinyin": "yào",
+      "word_type": "Vst",
+      "meaning_vn": "Tốn, mất (chi phí)",
+      "example_zh": "一支要一萬五千多。",
+      "example_pinyin": "Yì zhī yào yí wàn wǔ qiān duō.",
+      "example_vn": "Một chiếc tốn hơn mười lăm nghìn tệ."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "萬",
+      "pinyin": "wàn",
+      "word_type": "N",
+      "meaning_vn": "Vạn (mười nghìn)",
+      "example_zh": "一萬五千多。",
+      "example_pinyin": "Yí wàn wǔ qiān duō.",
+      "example_vn": "Hơn mười lăm nghìn."
+    },
+    {
+      "order_num": 35,
+      "word_zh": "千",
+      "pinyin": "qiān",
+      "word_type": "N",
+      "meaning_vn": "Nghìn",
+      "example_zh": "一萬五千多。",
+      "example_pinyin": "Yí wàn wǔ qiān duō.",
+      "example_vn": "Hơn mười lăm nghìn."
+    },
+    {
+      "order_num": 36,
+      "word_zh": "為什麼",
+      "pinyin": "wèishénme",
+      "word_type": "Expr",
+      "meaning_vn": "Tại sao",
+      "example_zh": "為什麼要買新的？",
+      "example_pinyin": "Wèishénme yào mǎi xīn de?",
+      "example_vn": "Tại sao lại muốn mua cái mới?"
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "I. Lượng từ (Measures: 塊 kuài, 杯 bēi, 支 zhī, 種 zhǒng)",
+      "explanation": "1. Cần có lượng từ khi danh từ được bổ nghĩa bởi số từ.\n- 一杯咖啡 yì bēi kāfēi (Một ly cà phê)\n- 十支手機 shí zhī shǒujī (Mười chiếc điện thoại)\n\n2. Các đại từ chỉ định (這 zhè, 那 nà, 哪 nǎ) đứng trước lượng từ. Thường có thể lược bỏ số 1 (一 yī).\nCấu trúc: Đại từ chỉ định + Số từ + Lượng từ + Danh từ.",
+      "examples": "[{\"zh\":\"這兩杯熱咖啡一共多少錢？\",\"pinyin\":\"Zhè liǎng bēi rè kāfēi yígòng duōshǎo qián?\",\"vn\":\"Hai ly cà phê nóng này tổng cộng bao nhiêu tiền?\"},{\"zh\":\"那三支手機太舊了。\",\"pinyin\":\"Nà sān zhī shǒujī tài jiù le.\",\"vn\":\"Ba chiếc điện thoại kia cũ quá rồi.\"},{\"zh\":\"哪(一)種手機不貴？\",\"pinyin\":\"Nǎ (yì) zhǒng shǒujī bú guì?\",\"vn\":\"Loại điện thoại nào không đắt?\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "II. Giới từ 幫 bāng (Làm thay, giúp đỡ)",
+      "explanation": "Chức năng: Giới thiệu đối tượng thụ hưởng của hành động (người được giúp đỡ).\nCấu trúc: A + 幫 bāng + B + Động từ.\n\nPhủ định: Phó từ phủ định 不 bù (không) đặt trước giới từ 幫 bāng, không đặt trước động từ chính.\nCâu hỏi: Dùng dạng khẳng - phủ định (幫不幫 bāng bù bāng).",
+      "examples": "[{\"zh\":\"請幫我微波包子。\",\"pinyin\":\"Qǐng bāng wǒ wēibō bāozi.\",\"vn\":\"Xin hãy hâm nóng bánh bao giúp tôi.\"},{\"zh\":\"請幫我買一杯咖啡。\",\"pinyin\":\"Qǐng bāng wǒ mǎi yì bēi kāfēi.\",\"vn\":\"Xin hãy mua giúp tôi một ly cà phê.\"},{\"zh\":\"他不幫我微波包子。\",\"pinyin\":\"Tā bù bāng wǒ wēibō bāozi.\",\"vn\":\"Anh ấy không hâm bánh bao giúp tôi.\"},{\"zh\":\"你幫不幫他買手機？\",\"pinyin\":\"Nǐ bāng bù bāng tā mǎi shǒujī?\",\"vn\":\"Bạn có mua điện thoại giúp anh ấy không?\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "III. Cụm từ 的 de (Lược bỏ danh từ trung tâm)",
+      "explanation": "Chức năng: Danh từ thường được bổ nghĩa bằng cấu trúc: Thành phần bổ nghĩa + 的 de + Danh từ trung tâm. Khi danh từ trung tâm đã rõ ràng trong ngữ cảnh, ta có thể lược bỏ danh từ đó đi.\n\nPhủ định: Dùng 不是 bú shì hoặc 不 bù tùy theo thành phần bổ nghĩa.",
+      "examples": "[{\"zh\":\"你要買新手機還是舊手機？我要新的，不要舊的。\",\"pinyin\":\"Nǐ yào mǎi xīn shǒujī háishì jiù shǒujī? Wǒ yào xīn de, bú yào jiù de.\",\"vn\":\"Bạn muốn mua điện thoại mới hay cũ? Tôi muốn cái mới, không muốn cái cũ.\"},{\"zh\":\"新手機貴不貴？新的很貴。\",\"pinyin\":\"Xīn shǒujī guì bu guì? Xīn de hěn guì.\",\"vn\":\"Điện thoại mới đắt không? Cái mới rất đắt.\"},{\"zh\":\"這杯咖啡不熱，我要熱的。\",\"pinyin\":\"Zhè bēi kāfēi bú rè, wǒ yào rè de.\",\"vn\":\"Ly cà phê này không nóng, tôi muốn ly nóng.\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "IV. 太...了 tài...le (Quá... rồi)",
+      "explanation": "Chức năng: 太 tài biểu thị mức độ \"quá\", thường mang hàm ý phàn nàn, tiêu cực hoặc đánh giá chủ quan của người nói.\n\nCách dùng:\n1. 太 tài + Tính từ: Cấu trúc cơ bản (Ví dụ: 那支手機太貴 nà zhī shǒujī tài guì - Chiếc điện thoại đó quá đắt).\n2. 太 tài + Tính từ + 了 le: Mang tính chủ quan và cảm thán mạnh hơn.",
+      "examples": "[{\"zh\":\"太貴了。\",\"pinyin\":\"Tài guì le.\",\"vn\":\"Đắt quá rồi.\"},{\"zh\":\"太大了。\",\"pinyin\":\"Tài dà le.\",\"vn\":\"Lớn quá rồi.\"},{\"zh\":\"太熱了。\",\"pinyin\":\"Tài rè le.\",\"vn\":\"Nóng quá rồi.\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "V. 能 néng (Có khả năng, có thể)",
+      "explanation": "Chức năng: Trợ động từ 能 néng diễn đạt khả năng thực hiện hành động của chủ thể hoặc chức năng của một đồ vật.\n\nPhủ định: Đặt 不 bù trước trợ động từ (不能 bù néng).\nCâu hỏi: Dùng dạng khẳng - phủ định (能不能 néng bù néng).",
+      "examples": "[{\"zh\":\"新機能上網。\",\"pinyin\":\"Xīn jī néng shàngwǎng.\",\"vn\":\"Điện thoại mới có thể lên mạng.\"},{\"zh\":\"我的手機不能上網。\",\"pinyin\":\"Wǒ de shǒujī bù néng shàngwǎng.\",\"vn\":\"Điện thoại của tôi không thể lên mạng.\"},{\"zh\":\"舊的能不能上網？\",\"pinyin\":\"Jiù de néng bù néng shàngwǎng?\",\"vn\":\"Cái cũ có thể lên mạng không?\"}]"
+    },
+    {
+      "order_num": 6,
+      "title": "VI. 多 duō (... hơn, dư)",
+      "explanation": "Chức năng: Dùng sau số từ để chỉ số lượng dư ra (\"hơn\", \"ngoài\").\n\nCấu trúc:\n1. Đối với số lớn hơn 10: 多 duō nằm sau chữ số hàng chục/trăm/ngàn và trước lượng từ. (Ví dụ: 二十多個人 èrshí duō ge rén - Hơn 20 người nhưng dưới 30 người).\n2. Đối với số nhỏ hơn 10: 多 duō nằm sau lượng từ, biểu thị số thập phân/lẻ. (Ví dụ: 五塊多錢 wǔ kuài duō qián - Hơn 5 tệ nhưng dưới 6 tệ).",
+      "examples": "[{\"zh\":\"二十多個人。\",\"pinyin\":\"Èrshí duō ge rén.\",\"vn\":\"Hơn hai mươi người (dưới 30).\"},{\"zh\":\"一千多支手機。\",\"pinyin\":\"Yì qiān duō zhī shǒujī.\",\"vn\":\"Hơn một nghìn chiếc điện thoại (dưới 2000).\"},{\"zh\":\"五塊多錢。\",\"pinyin\":\"Wǔ kuài duō qián.\",\"vn\":\"Hơn năm tệ (dưới 6 tệ).\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "老闆",
+      "text_zh": "請問你要買什麼？",
+      "pinyin": "Qǐngwèn nǐ yào mǎi shénme?",
+      "translation_vn": "Xin hỏi bạn muốn mua gì?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "明華",
+      "text_zh": "一杯熱咖啡。兩個包子。",
+      "pinyin": "Yì bēi rè kāfēi. Liǎng ge bāozi.",
+      "translation_vn": "Một ly cà phê nóng. Hai cái bánh bao."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "老闆",
+      "text_zh": "你要大杯、中杯還是小杯？",
+      "pinyin": "Nǐ yào dà bēi, zhōng bēi háishì xiǎo bēi?",
+      "translation_vn": "Bạn muốn ly lớn, ly vừa hay ly nhỏ?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "明華",
+      "text_zh": "大杯。包子請幫我微波。",
+      "pinyin": "Dà bēi. Bāozi qǐng bāng wǒ wēibō.",
+      "translation_vn": "Ly lớn. Bánh bao xin hãy vi sóng giúp tôi."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "老闆",
+      "text_zh": "好的。請問外帶還是內用？",
+      "pinyin": "Hǎo de. Qǐngwèn wàidài háishì nèiyòng?",
+      "translation_vn": "Được. Xin hỏi mang đi hay dùng tại chỗ?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "明華",
+      "text_zh": "外帶，一共多少錢？",
+      "pinyin": "Wàidài, yígòng duōshǎo qián?",
+      "translation_vn": "Mang đi, tổng cộng bao nhiêu tiền?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "老闆",
+      "text_zh": "咖啡八十，包子四十，一共一百二十塊。",
+      "pinyin": "Kāfēi bāshí, bāozi sìshí, yígòng yìbǎi èrshí kuài.",
+      "translation_vn": "Cà phê 80, bánh bao 40, tổng cộng 120 tệ."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "月美",
+      "text_zh": "我想買一支新手機。",
+      "pinyin": "Wǒ xiǎng mǎi yì zhī xīn shǒujī.",
+      "translation_vn": "Mình muốn mua một chiếc điện thoại mới."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "明華",
+      "text_zh": "妳的手機很好。為什麼要買新的？",
+      "pinyin": "Nǐ de shǒujī hěn hǎo. Wèishénme yào mǎi xīn de?",
+      "translation_vn": "Điện thoại của bạn rất tốt. Tại sao lại muốn mua cái mới?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "月美",
+      "text_zh": "我這支手機太舊了，不好看。",
+      "pinyin": "Wǒ zhè zhī shǒujī tài jiù le, bù hǎokàn.",
+      "translation_vn": "Điện thoại này của mình cũ quá rồi, không đẹp."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "明華",
+      "text_zh": "妳想買哪種手機？",
+      "pinyin": "Nǐ xiǎng mǎi nǎ zhǒng shǒujī?",
+      "translation_vn": "Bạn muốn mua loại điện thoại nào?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "月美",
+      "text_zh": "能照相也能上網。",
+      "pinyin": "Néng zhàoxiàng yě néng shàngwǎng.",
+      "translation_vn": "Có thể chụp ảnh và cũng có thể lên mạng."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "明華",
+      "text_zh": "那種手機很好，我哥哥有一支。",
+      "pinyin": "Nà zhǒng shǒujī hěn hǎo, wǒ gēge yǒu yì zhī.",
+      "translation_vn": "Loại điện thoại đó rất tốt, anh trai mình có một chiếc."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "月美",
+      "text_zh": "貴不貴？一支賣多少錢？",
+      "pinyin": "Guì bu guì? Yì zhī mài duōshǎo qián?",
+      "translation_vn": "Đắt không? Một chiếc bán bao nhiêu tiền?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "明華",
+      "text_zh": "那種手機不便宜。一支要一萬五千多。",
+      "pinyin": "Nà zhǒng shǒujī bù piányi. Yì zhī yào yí wàn wǔ qiān duō.",
+      "translation_vn": "Loại điện thoại đó không rẻ. Một chiếc tốn hơn mười lăm nghìn tệ."
+    }
+  ]
+}

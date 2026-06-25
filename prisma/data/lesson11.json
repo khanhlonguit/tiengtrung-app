@@ -1,0 +1,610 @@
+{
+  "id": 11,
+  "title_vn": "Tôi muốn thuê nhà",
+  "title_zh": "我要租房子",
+  "subtitle": "Thuê nhà (Renting a Place)",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "租",
+      "pinyin": "zū",
+      "word_type": "V",
+      "meaning_vn": "Thuê",
+      "example_zh": "我要租房子。",
+      "example_pinyin": "Wǒ yào zū fángzi.",
+      "example_vn": "Tôi muốn thuê nhà."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "房東",
+      "pinyin": "fángdōng",
+      "word_type": "N",
+      "meaning_vn": "Chủ nhà",
+      "example_zh": "房東先生，你好。",
+      "example_pinyin": "Fángdōng xiānshēng, nǐ hǎo.",
+      "example_vn": "Chào ông chủ nhà."
+    },
+    {
+      "order_num": 3,
+      "word_zh": "客廳",
+      "pinyin": "kètīng",
+      "word_type": "N",
+      "meaning_vn": "Phòng khách",
+      "example_zh": "這裡是客廳。",
+      "example_pinyin": "Zhèlǐ shì kètīng.",
+      "example_vn": "Đây là phòng khách."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "廚房",
+      "pinyin": "chúfáng",
+      "word_type": "N",
+      "meaning_vn": "Nhà bếp",
+      "example_zh": "廚房在左邊。",
+      "example_pinyin": "Chúfáng zài zuǒbiān.",
+      "example_vn": "Nhà bếp ở bên trái."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "左邊",
+      "pinyin": "zuǒbiān",
+      "word_type": "N",
+      "meaning_vn": "Bên trái",
+      "example_zh": "廚房在左邊。",
+      "example_pinyin": "Chúfáng zài zuǒbiān.",
+      "example_vn": "Nhà bếp ở bên trái."
+    },
+    {
+      "order_num": 6,
+      "word_zh": "右邊",
+      "pinyin": "yòubiān",
+      "word_type": "N",
+      "meaning_vn": "Bên phải",
+      "example_zh": "右邊有浴室。",
+      "example_pinyin": "Yòubiān yǒu yùshì.",
+      "example_vn": "Bên phải có phòng tắm."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "浴室",
+      "pinyin": "yùshì",
+      "word_type": "N",
+      "meaning_vn": "Phòng tắm",
+      "example_zh": "右邊有浴室。",
+      "example_pinyin": "Yòubiān yǒu yùshì.",
+      "example_vn": "Bên phải có phòng tắm."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "超市",
+      "pinyin": "chāoshì",
+      "word_type": "N",
+      "meaning_vn": "Siêu thị",
+      "example_zh": "附近有超市。",
+      "example_pinyin": "Fùjìn yǒu chāoshì.",
+      "example_vn": "Gần đây có siêu thị."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "走路",
+      "pinyin": "zǒulù",
+      "word_type": "V-sep",
+      "meaning_vn": "Đi bộ",
+      "example_zh": "走路五分鐘就到了。",
+      "example_pinyin": "Zǒulù wǔ fēnzhōng jiù dào le.",
+      "example_vn": "Đi bộ 5 phút là tới rồi."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "分鐘",
+      "pinyin": "fēnzhōng",
+      "word_type": "M",
+      "meaning_vn": "Phút",
+      "example_zh": "五分鐘。",
+      "example_pinyin": "Wǔ fēnzhōng.",
+      "example_vn": "5 phút."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "就",
+      "pinyin": "jiù",
+      "word_type": "Adv",
+      "meaning_vn": "Liền, ngay",
+      "example_zh": "五分鐘就到了。",
+      "example_pinyin": "Wǔ fēnzhōng jiù dào le.",
+      "example_vn": "5 phút là tới ngay."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "到",
+      "pinyin": "dào",
+      "word_type": "Vp",
+      "meaning_vn": "Đến, tới",
+      "example_zh": "五分鐘就到了。",
+      "example_pinyin": "Wǔ fēnzhōng jiù dào le.",
+      "example_vn": "5 phút là tới ngay."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "間",
+      "pinyin": "jiān",
+      "word_type": "M",
+      "meaning_vn": "Lượng từ cho phòng, nhà",
+      "example_zh": "兩間空房間。",
+      "example_pinyin": "Liǎng jiān kōng fángjiān.",
+      "example_vn": "Hai căn phòng trống."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "空",
+      "pinyin": "kōng",
+      "word_type": "Vs",
+      "meaning_vn": "Trống",
+      "example_zh": "兩間空房間。",
+      "example_pinyin": "Liǎng jiān kōng fángjiān.",
+      "example_vn": "Hai căn phòng trống."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "房間",
+      "pinyin": "fángjiān",
+      "word_type": "N",
+      "meaning_vn": "Phòng",
+      "example_zh": "這間房間怎麼樣？",
+      "example_pinyin": "Zhè jiān fángjiān zěnmeyàng?",
+      "example_vn": "Căn phòng này thế nào?"
+    },
+    {
+      "order_num": 16,
+      "word_zh": "套房",
+      "pinyin": "tàofáng",
+      "word_type": "N",
+      "meaning_vn": "Phòng khép kín (có toilet)",
+      "example_zh": "我想看套房。",
+      "example_pinyin": "Wǒ xiǎng kàn tàofáng.",
+      "example_vn": "Tôi muốn xem phòng khép kín."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "回去",
+      "pinyin": "huíqù",
+      "word_type": "Vi",
+      "meaning_vn": "Trở về",
+      "example_zh": "我回去想想。",
+      "example_pinyin": "Wǒ huíqù xiǎngxiang.",
+      "example_vn": "Tôi về suy nghĩ thêm."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "想",
+      "pinyin": "xiǎng",
+      "word_type": "V",
+      "meaning_vn": "Nghĩ",
+      "example_zh": "我回去想想。",
+      "example_pinyin": "Wǒ huíqù xiǎngxiang.",
+      "example_vn": "Tôi về suy nghĩ thêm."
+    },
+    {
+      "order_num": 19,
+      "word_zh": "再",
+      "pinyin": "zài",
+      "word_type": "Adv",
+      "meaning_vn": "Rồi mới, sau đó",
+      "example_zh": "再打電話給你。",
+      "example_pinyin": "Zài dǎ diànhuà gěi nǐ.",
+      "example_vn": "Rồi sẽ gọi điện cho bạn."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "電話",
+      "pinyin": "diànhuà",
+      "word_type": "N",
+      "meaning_vn": "Điện thoại",
+      "example_zh": "打電話給你。",
+      "example_pinyin": "Dǎ diànhuà gěi nǐ.",
+      "example_vn": "Gọi điện cho bạn."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "給",
+      "pinyin": "gěi",
+      "word_type": "Prep",
+      "meaning_vn": "Cho",
+      "example_zh": "打電話給你。",
+      "example_pinyin": "Dǎ diànhuà gěi nǐ.",
+      "example_vn": "Gọi điện cho bạn."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "林",
+      "pinyin": "Lín",
+      "word_type": "Name",
+      "meaning_vn": "Lâm (họ)",
+      "example_zh": "林先生。",
+      "example_pinyin": "Lín xiānshēng.",
+      "example_vn": "Ông Lâm."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "打電話",
+      "pinyin": "dǎ diànhuà",
+      "word_type": "Phrase",
+      "meaning_vn": "Gọi điện thoại",
+      "example_zh": "打電話給房東。",
+      "example_pinyin": "Dǎ diànhuà gěi fángdōng.",
+      "example_vn": "Gọi điện cho chủ nhà."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "喂",
+      "pinyin": "wéi",
+      "word_type": "Ptc",
+      "meaning_vn": "Alo",
+      "example_zh": "喂，房東先生。",
+      "example_pinyin": "Wéi, fángdōng xiānshēng.",
+      "example_vn": "Alo, ông chủ nhà."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "房租",
+      "pinyin": "fángzū",
+      "word_type": "N",
+      "meaning_vn": "Tiền thuê nhà",
+      "example_zh": "你收到我的房租了嗎？",
+      "example_pinyin": "Nǐ shōudào wǒ de fángzū le ma?",
+      "example_vn": "Ông đã nhận được tiền thuê nhà của tôi chưa?"
+    },
+    {
+      "order_num": 26,
+      "word_zh": "已經",
+      "pinyin": "yǐjīng",
+      "word_type": "Adv",
+      "meaning_vn": "Đã",
+      "example_zh": "我已經收到了。",
+      "example_pinyin": "Wǒ yǐjīng shōudào le.",
+      "example_vn": "Tôi đã nhận được rồi."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "習慣",
+      "pinyin": "xíguàn",
+      "word_type": "Vs",
+      "meaning_vn": "Quen",
+      "example_zh": "妳習慣了嗎？",
+      "example_pinyin": "Nǐ xíguàn le ma?",
+      "example_vn": "Cháu đã quen chưa?"
+    },
+    {
+      "order_num": 28,
+      "word_zh": "問題",
+      "pinyin": "wèntí",
+      "word_type": "N",
+      "meaning_vn": "Vấn đề, câu hỏi",
+      "example_zh": "有一個問題。",
+      "example_pinyin": "Yǒu yī gè wèntí.",
+      "example_vn": "Có một vấn đề."
+    },
+    {
+      "order_num": 29,
+      "word_zh": "熱水器",
+      "pinyin": "rèshuǐqì",
+      "word_type": "N",
+      "meaning_vn": "Bình nóng lạnh",
+      "example_zh": "熱水器的水不熱。",
+      "example_pinyin": "Rèshuǐqì de shuǐ bù rè.",
+      "example_vn": "Nước của bình nóng lạnh không nóng."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "好像",
+      "pinyin": "hǎoxiàng",
+      "word_type": "Adv",
+      "meaning_vn": "Hình như",
+      "example_zh": "好像不熱。",
+      "example_pinyin": "Hǎoxiàng bù rè.",
+      "example_vn": "Hình như không nóng."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "會",
+      "pinyin": "huì",
+      "word_type": "Vaux",
+      "meaning_vn": "Sẽ",
+      "example_zh": "今天我會去看看。",
+      "example_pinyin": "Jīntiān wǒ huì qù kànkan.",
+      "example_vn": "Hôm nay tôi sẽ đến xem thử."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "等",
+      "pinyin": "děng",
+      "word_type": "V",
+      "meaning_vn": "Đợi",
+      "example_zh": "我在家等你。",
+      "example_pinyin": "Wǒ zài jiā děng nǐ.",
+      "example_vn": "Tôi ở nhà đợi ông."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "那",
+      "pinyin": "nà",
+      "word_type": "Ptc",
+      "meaning_vn": "Vậy, thế thì",
+      "example_zh": "那我明天下午到。",
+      "example_pinyin": "Nà wǒ míngtiān xiàwǔ dào.",
+      "example_vn": "Vậy chiều mai tôi đến."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "裝",
+      "pinyin": "zhuāng",
+      "word_type": "V",
+      "meaning_vn": "Lắp đặt",
+      "example_zh": "可以幫我裝有線電視嗎？",
+      "example_pinyin": "Kěyǐ bāng wǒ zhuāng yǒuxiàn diànshì ma?",
+      "example_vn": "Có thể giúp tôi lắp truyền hình cáp không?"
+    },
+    {
+      "order_num": 35,
+      "word_zh": "不過",
+      "pinyin": "bùguò",
+      "word_type": "Conj",
+      "meaning_vn": "Nhưng mà",
+      "example_zh": "可以，不過妳得自己付錢。",
+      "example_pinyin": "Kěyǐ, bùguò nǐ děi zìjǐ fù qián.",
+      "example_vn": "Được, nhưng mà cháu phải tự trả tiền."
+    },
+    {
+      "order_num": 36,
+      "word_zh": "付",
+      "pinyin": "fù",
+      "word_type": "V",
+      "meaning_vn": "Trả (tiền)",
+      "example_zh": "自己付錢。",
+      "example_pinyin": "Zìjǐ fù qián.",
+      "example_vn": "Tự trả tiền."
+    },
+    {
+      "order_num": 37,
+      "word_zh": "收到",
+      "pinyin": "shōudào",
+      "word_type": "Phrase",
+      "meaning_vn": "Nhận được",
+      "example_zh": "你收到我的房租了嗎？",
+      "example_pinyin": "Nǐ shōudào wǒ de fángzū le ma?",
+      "example_vn": "Ông đã nhận được tiền thuê nhà của tôi chưa?"
+    },
+    {
+      "order_num": 38,
+      "word_zh": "不好意思",
+      "pinyin": "bù hǎoyìsi",
+      "word_type": "Phrase",
+      "meaning_vn": "Xin lỗi, ngại quá",
+      "example_zh": "不好意思，今天晚上我有事。",
+      "example_pinyin": "Bù hǎoyìsi, jīntiān wǎnshang wǒ yǒu shì.",
+      "example_vn": "Ngại quá, tối nay cháu có việc rồi."
+    },
+    {
+      "order_num": 39,
+      "word_zh": "沒關係",
+      "pinyin": "méi guānxi",
+      "word_type": "Phrase",
+      "meaning_vn": "Không sao",
+      "example_zh": "沒關係，明天下午呢？",
+      "example_pinyin": "Méi guānxi, míngtiān xiàwǔ ne?",
+      "example_vn": "Không sao, chiều mai thì sao?"
+    },
+    {
+      "order_num": 40,
+      "word_zh": "有線電視",
+      "pinyin": "yǒuxiàn diànshì",
+      "word_type": "Phrase",
+      "meaning_vn": "Truyền hình cáp",
+      "example_zh": "裝有線電視。",
+      "example_pinyin": "Zhuāng yǒuxiàn diànshì.",
+      "example_vn": "Lắp truyền hình cáp."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "To Come to Do Something with 來 lái",
+      "explanation": "Cấu trúc '來 (lái) + VP' biểu thị ý định của chủ ngữ là đến đâu đó để làm việc gì. So sánh với '去' (đi): '來' là đến hướng về phía người nói, còn '去' là đi ra xa khỏi người nói.",
+      "examples": "[{\"zh\": \"我來學中文。\", \"pinyin\": \"Wǒ lái xué Zhōngwén.\", \"vn\": \"Tôi đến để học tiếng Trung.\"}, {\"zh\": \"他來打籃球。\", \"pinyin\": \"Tā lái dǎ lánqiú.\", \"vn\": \"Anh ấy đến chơi bóng rổ.\"}, {\"zh\": \"我明天有事不來上課。\", \"pinyin\": \"Wǒ míngtiān yǒu shì bù lái shàngkè.\", \"vn\": \"Ngày mai tôi có việc không đến đi học được.\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Sooner Than Expected with 就 jiù",
+      "explanation": "Khi 就 (jiù) đề cập đến thời gian hoặc địa điểm, nó mang ý nghĩa sự việc xảy ra sớm hơn dự kiến. Thường đi kèm với '了' ở cuối câu.",
+      "examples": "[{\"zh\": \"學校很近。走路十分鐘就到了。\", \"pinyin\": \"Xuéxiào hěn jìn. Zǒulù shí fēnzhōng jiù dào le.\", \"vn\": \"Trường học rất gần. Đi bộ 10 phút là tới rồi.\"}, {\"zh\": \"那個地方不遠。很快就到了。\", \"pinyin\": \"Nàge dìfāng bù yuǎn. Hěn kuài jiù dào le.\", \"vn\": \"Nơi đó không xa. Rất nhanh là tới thôi.\"}, {\"zh\": \"他等一下就來。\", \"pinyin\": \"Tā děng yīxià jiù lái.\", \"vn\": \"Một lát nữa anh ấy sẽ đến ngay.\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "Existential Subject with 有 yǒu",
+      "explanation": "Có sự tồn tại của một chủ ngữ không xác định: '有 (yǒu) + Danh từ chỉ người/vật + Hành động'. Ví dụ có ai đó đang làm gì đó.",
+      "examples": "[{\"zh\": \"有人住這裡。\", \"pinyin\": \"Yǒu rén zhù zhèlǐ.\", \"vn\": \"Có người sống ở đây.\"}, {\"zh\": \"有兩個學生來找你。\", \"pinyin\": \"Yǒu liǎng ge xuéshēng lái zhǎo nǐ.\", \"vn\": \"Có hai học sinh đến tìm cậu.\"}, {\"zh\": \"昨天有一個先生來裝有線電視。\", \"pinyin\": \"Zuótiān yǒu yī gè xiānshēng lái zhuāng yǒuxiàn diànshì.\", \"vn\": \"Hôm qua có một người đàn ông đến lắp truyền hình cáp.\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "Different Types of 會 huì",
+      "explanation": "Từ 會 (huì) có hai nghĩa chính. Nghĩa 1 (đã học ở bài 5): 'Biết' làm gì đó qua việc học hỏi (kỹ năng). Nghĩa 2 (ở bài này): 'Sẽ', biểu thị khả năng hoặc sự việc sẽ xảy ra trong tương lai.",
+      "examples": "[{\"zh\": \"他會做飯。 (會1)\", \"pinyin\": \"Tā huì zuòfàn.\", \"vn\": \"Anh ấy biết nấu ăn (Kỹ năng).\"}, {\"zh\": \"我明天會去看看他。 (會2)\", \"pinyin\": \"Wǒ míngtiān huì qù kànkan tā.\", \"vn\": \"Ngày mai tôi sẽ đến thăm anh ấy (Sẽ xảy ra).\"}, {\"zh\": \"他明天不會去上書法課。\", \"pinyin\": \"Tā míngtiān bù huì qù shàng shūfǎ kè.\", \"vn\": \"Ngày mai anh ấy sẽ không đi học thư pháp.\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Omitting Nouns at 2nd Mention",
+      "explanation": "Trong tiếng Trung, những thông tin cũ đã được nhắc đến trước đó hoặc có thể hiểu được từ ngữ cảnh thường bị lược bỏ. Cả chủ ngữ lẫn tân ngữ đều có thể bị lược bỏ.",
+      "examples": "[{\"zh\": \"請進！\", \"pinyin\": \"Qǐng jìn!\", \"vn\": \"Mời (cậu) vào! (Lược bỏ chủ ngữ 'bạn').\"}, {\"zh\": \"我常打籃球，也常踢足球。\", \"pinyin\": \"Wǒ cháng dǎ lánqiú, yě cháng tī zúqiú.\", \"vn\": \"Tôi thường chơi bóng rổ, (tôi) cũng thường đá bóng.\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "如玉",
+      "text_zh": "林先生，你好，我是白如玉，來看房子。",
+      "pinyin": "Lín xiānshēng, nǐ hǎo, wǒ shì Bái Rúyù, lái kàn fángzi.",
+      "translation_vn": "Chào anh Lâm, tôi là Bạch Như Ngọc, đến để xem nhà."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "房東",
+      "text_zh": "白小姐，妳好，請進。",
+      "pinyin": "Bái xiǎojiě, nǐ hǎo, qǐng jìn.",
+      "translation_vn": "Chào cô Bạch, mời vào."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "房東",
+      "text_zh": "這裡是客廳，廚房在左邊，右邊有浴室。",
+      "pinyin": "Zhèlǐ shì kètīng, chúfáng zài zuǒbiān, yòubiān yǒu yùshì.",
+      "translation_vn": "Đây là phòng khách, nhà bếp ở bên trái, bên phải có phòng tắm."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "如玉",
+      "text_zh": "房子很不錯。",
+      "pinyin": "Fángzi hěn bùcuò.",
+      "translation_vn": "Nhà rất đẹp."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "房東",
+      "text_zh": "這裡很方便，附近有超市和捷運站，走路五分鐘就到了。",
+      "pinyin": "Zhèlǐ hěn fāngbiàn, fùjìn yǒu chāoshì hé jiéyùn zhàn, zǒulù wǔ fēnzhōng jiù dào le.",
+      "translation_vn": "Ở đây rất tiện, gần đây có siêu thị và ga tàu điện ngầm, đi bộ 5 phút là tới rồi."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "如玉",
+      "text_zh": "現在有人住嗎？",
+      "pinyin": "Xiànzài yǒu rén zhù ma?",
+      "translation_vn": "Bây giờ có người đang ở không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "房東",
+      "text_zh": "有。還有兩間空房間，一間是套房，一間不是。",
+      "pinyin": "Yǒu. Hái yǒu liǎng jiān kōng fángjiān, yī jiān shì tàofáng, yī jiān bù shì.",
+      "translation_vn": "Có. Vẫn còn hai phòng trống, một phòng khép kín, một phòng thì không."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "如玉",
+      "text_zh": "我想看套房。房間裡面可以上網嗎？",
+      "pinyin": "Wǒ xiǎng kàn tàofáng. Fángjiān lǐmiàn kěyǐ shàngwǎng ma?",
+      "translation_vn": "Tôi muốn xem phòng khép kín. Trong phòng có thể lên mạng không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "房東",
+      "text_zh": "可以。妳覺得這間房間怎麼樣？妳想租嗎？",
+      "pinyin": "Kěyǐ. Nǐ juéde zhè jiān fángjiān zěnmeyàng? Nǐ xiǎng zū ma?",
+      "translation_vn": "Có thể. Cô thấy phòng này thế nào? Cô muốn thuê không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "如玉",
+      "text_zh": "我回去想想，再打電話給你。",
+      "pinyin": "Wǒ huíqù xiǎngxiang, zài dǎ diànhuà gěi nǐ.",
+      "translation_vn": "Để tôi về nghĩ lại, rồi sẽ gọi điện cho anh."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "如玉",
+      "text_zh": "喂，房東先生，你好，我是白如玉，你收到我的房租了嗎？",
+      "pinyin": "Wéi, fángdōng xiānshēng, nǐ hǎo, wǒ shì Bái Rúyù, nǐ shōudào wǒ de fángzū le ma?",
+      "translation_vn": "Alo, chào ông chủ nhà, cháu là Bạch Như Ngọc, chú đã nhận được tiền thuê nhà của cháu chưa?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "房東",
+      "text_zh": "我已經收到了，謝謝。妳習慣了嗎？",
+      "pinyin": "Wǒ yǐjīng shōudào le, xièxie. Nǐ xíguàn le ma?",
+      "translation_vn": "Tôi đã nhận được rồi, cảm ơn. Cháu đã quen ở đó chưa?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "如玉",
+      "text_zh": "習慣了。可是，有一個問題，熱水器的水好像不熱。",
+      "pinyin": "Xíguàn le. Kěshì, yǒu yī gè wèntí, rèshuǐqì de shuǐ hǎoxiàng bù rè.",
+      "translation_vn": "Cháu quen rồi. Nhưng mà có một vấn đề, bình nóng lạnh hình như không nóng."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "房東",
+      "text_zh": "今天我會去看看。妳什麼時候有空？晚上可以嗎？",
+      "pinyin": "Jīntiān wǒ huì qù kànkan. Nǐ shénme shíhòu yǒu kòng? Wǎnshang kěyǐ ma?",
+      "translation_vn": "Hôm nay tôi sẽ đến xem thử. Khi nào cháu rảnh? Buổi tối được không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "如玉",
+      "text_zh": "不好意思，今天晚上我有事。",
+      "pinyin": "Bù hǎoyìsi, jīntiān wǎnshang wǒ yǒu shì.",
+      "translation_vn": "Ngại quá, tối nay cháu bận rồi."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "房東",
+      "text_zh": "沒關係，明天下午呢？",
+      "pinyin": "Méi guānxi, míngtiān xiàwǔ ne?",
+      "translation_vn": "Không sao, thế còn chiều mai?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "如玉",
+      "text_zh": "好，我在家等你。",
+      "pinyin": "Hǎo, wǒ zài jiā děng nǐ.",
+      "translation_vn": "Dạ được, cháu ở nhà đợi chú."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "房東",
+      "text_zh": "那我明天下午兩點到。還有問題嗎？",
+      "pinyin": "Nà wǒ míngtiān xiàwǔ liǎng diǎn dào. Hái yǒu wèntí ma?",
+      "translation_vn": "Vậy 2 giờ chiều mai tôi đến. Còn vấn đề gì nữa không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "如玉",
+      "text_zh": "我想買電視。請問可以幫我裝有線電視嗎？",
+      "pinyin": "Wǒ xiǎng mǎi diànshì. Qǐngwèn kěyǐ bāng wǒ zhuāng yǒuxiàn diànshì ma?",
+      "translation_vn": "Cháu muốn mua tivi. Xin hỏi có thể giúp cháu lắp truyền hình cáp không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 10,
+      "speaker": "房東",
+      "text_zh": "可以，不過妳得自己付錢。",
+      "pinyin": "Kěyǐ, bùguò nǐ děi zìjǐ fù qián.",
+      "translation_vn": "Được, nhưng mà cháu phải tự trả tiền."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 11,
+      "speaker": "如玉",
+      "text_zh": "好的，謝謝你。",
+      "pinyin": "Hǎo de, xièxie nǐ.",
+      "translation_vn": "Vâng ạ, cảm ơn chú."
+    }
+  ]
+}

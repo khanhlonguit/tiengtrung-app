@@ -1,0 +1,670 @@
+{
+  "id": 13,
+  "title_vn": "Chúc mừng sinh nhật",
+  "title_zh": "生日快樂",
+  "subtitle": "Đời sống xã hội",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "生日",
+      "pinyin": "shēngrì",
+      "word_type": "N",
+      "meaning_vn": "Sinh nhật",
+      "example_zh": "明天是你的生日。",
+      "example_pinyin": "Míngtiān shì nǐ de shēngrì.",
+      "example_vn": "Ngày mai là sinh nhật của bạn."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "快樂",
+      "pinyin": "kuàilè",
+      "word_type": "Vs",
+      "meaning_vn": "Vui vẻ, hạnh phúc",
+      "example_zh": "祝你生日快樂。",
+      "example_pinyin": "Zhù nǐ shēngrì kuàilè.",
+      "example_vn": "Chúc bạn sinh nhật vui vẻ."
+    },
+    {
+      "order_num": 3,
+      "word_zh": "回來",
+      "pinyin": "huílái",
+      "word_type": "Vi",
+      "meaning_vn": "Trở về",
+      "example_zh": "我剛從臺東回來。",
+      "example_pinyin": "Wǒ gāng cóng Táidōng huílái.",
+      "example_vn": "Tôi vừa từ Đài Đông trở về."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "啊",
+      "pinyin": "a",
+      "word_type": "Ptc",
+      "meaning_vn": "A, à (từ cảm thán)",
+      "example_zh": "啊，我怎麼忘了！",
+      "example_pinyin": "A, wǒ zěnme wàng le!",
+      "example_vn": "A, sao tôi lại quên mất thế này!"
+    },
+    {
+      "order_num": 5,
+      "word_zh": "怎麼",
+      "pinyin": "zěnme",
+      "word_type": "Adv",
+      "meaning_vn": "Sao, sao lại",
+      "example_zh": "我怎麼忘了！",
+      "example_pinyin": "Wǒ zěnme wàng le!",
+      "example_vn": "Sao tôi lại quên mất!"
+    },
+    {
+      "order_num": 6,
+      "word_zh": "忘了",
+      "pinyin": "wàngle",
+      "word_type": "Vpt",
+      "meaning_vn": "Quên (rồi)",
+      "example_zh": "我怎麼忘了！",
+      "example_pinyin": "Wǒ zěnme wàng le!",
+      "example_vn": "Sao tôi lại quên mất!"
+    },
+    {
+      "order_num": 7,
+      "word_zh": "記得",
+      "pinyin": "jìde",
+      "word_type": "Vst",
+      "meaning_vn": "Nhớ",
+      "example_zh": "當然記得！",
+      "example_pinyin": "Dāngrán jìde!",
+      "example_vn": "Đương nhiên là nhớ!"
+    },
+    {
+      "order_num": 8,
+      "word_zh": "當然",
+      "pinyin": "dāngrán",
+      "word_type": "Adv",
+      "meaning_vn": "Đương nhiên, tất nhiên",
+      "example_zh": "當然記得！",
+      "example_pinyin": "Dāngrán jìde!",
+      "example_vn": "Đương nhiên là nhớ!"
+    },
+    {
+      "order_num": 9,
+      "word_zh": "語言",
+      "pinyin": "yǔyán",
+      "word_type": "N",
+      "meaning_vn": "Ngôn ngữ",
+      "example_zh": "語言交換。",
+      "example_pinyin": "Yǔyán jiāohuàn.",
+      "example_vn": "Trao đổi ngôn ngữ."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "交換",
+      "pinyin": "jiāohuàn",
+      "word_type": "V",
+      "meaning_vn": "Trao đổi",
+      "example_zh": "語言交換。",
+      "example_pinyin": "Yǔyán jiāohuàn.",
+      "example_vn": "Trao đổi ngôn ngữ."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "那麼",
+      "pinyin": "nàme",
+      "word_type": "Adv",
+      "meaning_vn": "Như vậy",
+      "example_zh": "你那麼熱心。",
+      "example_pinyin": "Nǐ nàme rèxīn.",
+      "example_vn": "Bạn nhiệt tình như vậy."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "熱心",
+      "pinyin": "rèxīn",
+      "word_type": "Vs",
+      "meaning_vn": "Nhiệt tình",
+      "example_zh": "你那麼熱心。",
+      "example_pinyin": "Nǐ nàme rèxīn.",
+      "example_vn": "Bạn nhiệt tình như vậy."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "西班牙文",
+      "pinyin": "Xībānyá wén",
+      "word_type": "N",
+      "meaning_vn": "Tiếng Tây Ban Nha",
+      "example_zh": "教我西班牙文。",
+      "example_pinyin": "Jiāo wǒ Xībānyá wén.",
+      "example_vn": "Dạy tôi tiếng Tây Ban Nha."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "一樣",
+      "pinyin": "yíyàng",
+      "word_type": "Vs",
+      "meaning_vn": "Giống nhau",
+      "example_zh": "妳也一樣。",
+      "example_pinyin": "Nǐ yě yíyàng.",
+      "example_vn": "Bạn cũng vậy (giống vậy)."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "過",
+      "pinyin": "guò",
+      "word_type": "V",
+      "meaning_vn": "Đón (sinh nhật, lễ tết), qua",
+      "example_zh": "給你過生日。",
+      "example_pinyin": "Gěi nǐ guò shēngrì.",
+      "example_vn": "Tổ chức sinh nhật cho bạn."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "左右",
+      "pinyin": "zuǒyòu",
+      "word_type": "N",
+      "meaning_vn": "Khoảng chừng, cỡ chừng",
+      "example_zh": "五點左右。",
+      "example_pinyin": "Wǔ diǎn zuǒyòu.",
+      "example_vn": "Khoảng 5 giờ."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "門口",
+      "pinyin": "ménkǒu",
+      "word_type": "N",
+      "meaning_vn": "Cổng, cửa ra vào",
+      "example_zh": "學校門口。",
+      "example_pinyin": "Xuéxiào ménkǒu.",
+      "example_vn": "Cổng trường."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "西班牙",
+      "pinyin": "Xībānyá",
+      "word_type": "Name",
+      "meaning_vn": "Tây Ban Nha",
+      "example_zh": "西班牙。",
+      "example_pinyin": "Xībānyá.",
+      "example_vn": "Tây Ban Nha."
+    },
+    {
+      "order_num": 19,
+      "word_zh": "生日快樂",
+      "pinyin": "shēngrì kuàilè",
+      "word_type": "Phrase",
+      "meaning_vn": "Chúc mừng sinh nhật",
+      "example_zh": "祝你生日快樂。",
+      "example_pinyin": "Zhù nǐ shēngrì kuàilè.",
+      "example_vn": "Chúc bạn sinh nhật vui vẻ."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "我就是",
+      "pinyin": "Wǒ jiù shì",
+      "word_type": "Phrase",
+      "meaning_vn": "Là tôi đây",
+      "example_zh": "是，我就是。",
+      "example_pinyin": "Shì, wǒ jiù shì.",
+      "example_vn": "Đúng, là tôi đây."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "好久不見",
+      "pinyin": "hǎojiǔbújiàn",
+      "word_type": "Phrase",
+      "meaning_vn": "Lâu rồi không gặp",
+      "example_zh": "好久不見！",
+      "example_pinyin": "Hǎojiǔbújiàn!",
+      "example_vn": "Lâu rồi không gặp!"
+    },
+    {
+      "order_num": 22,
+      "word_zh": "不必客氣",
+      "pinyin": "búbì kèqì",
+      "word_type": "Phrase",
+      "meaning_vn": "Đừng khách sáo",
+      "example_zh": "不必客氣。",
+      "example_pinyin": "Búbì kèqì.",
+      "example_vn": "Không cần khách sáo."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "太客氣",
+      "pinyin": "tài kèqì",
+      "word_type": "Phrase",
+      "meaning_vn": "Khách sáo quá",
+      "example_zh": "妳太客氣了！",
+      "example_pinyin": "Nǐ tài kèqì le!",
+      "example_vn": "Bạn khách sáo quá rồi!"
+    },
+    {
+      "order_num": 24,
+      "word_zh": "禮物",
+      "pinyin": "lǐwù",
+      "word_type": "N",
+      "meaning_vn": "Quà tặng",
+      "example_zh": "這是我給你的禮物。",
+      "example_pinyin": "Zhè shì wǒ gěi nǐ de lǐwù.",
+      "example_vn": "Đây là món quà tôi tặng bạn."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "今年",
+      "pinyin": "jīnnián",
+      "word_type": "N",
+      "meaning_vn": "Năm nay",
+      "example_zh": "今年有臺灣朋友給我過生日。",
+      "example_pinyin": "Jīnnián yǒu Táiwān péngyǒu gěi wǒ guò shēngrì.",
+      "example_vn": "Năm nay có người bạn Đài Loan tổ chức sinh nhật cho tôi."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "訂",
+      "pinyin": "dìng",
+      "word_type": "V",
+      "meaning_vn": "Đặt (hàng, chỗ)",
+      "example_zh": "我已經訂了豬腳麵線。",
+      "example_pinyin": "Wǒ yǐjīng dìng le zhūjiǎo miànxiàn.",
+      "example_vn": "Tôi đã đặt mì chân giò rồi."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "了",
+      "pinyin": "le",
+      "word_type": "Ptc",
+      "meaning_vn": "Rồi (trợ từ hoàn thành)",
+      "example_zh": "我已經訂了。",
+      "example_pinyin": "Wǒ yǐjīng dìng le.",
+      "example_vn": "Tôi đã đặt rồi."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "豬腳",
+      "pinyin": "zhūjiǎo",
+      "word_type": "N",
+      "meaning_vn": "Chân giò lợn",
+      "example_zh": "豬腳麵線。",
+      "example_pinyin": "Zhūjiǎo miànxiàn.",
+      "example_vn": "Mì chân giò."
+    },
+    {
+      "order_num": 29,
+      "word_zh": "麵線",
+      "pinyin": "miànxiàn",
+      "word_type": "N",
+      "meaning_vn": "Mì sợi nhỏ (mì tuyến)",
+      "example_zh": "豬腳麵線。",
+      "example_pinyin": "Zhūjiǎo miànxiàn.",
+      "example_vn": "Mì chân giò."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "蛋",
+      "pinyin": "dàn",
+      "word_type": "N",
+      "meaning_vn": "Trứng",
+      "example_zh": "和蛋。",
+      "example_pinyin": "Hé dàn.",
+      "example_vn": "Và trứng."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "一點",
+      "pinyin": "yìdiǎn",
+      "word_type": "Vs",
+      "meaning_vn": "Một chút, một ít",
+      "example_zh": "多吃一點。",
+      "example_pinyin": "Duō chī yìdiǎn.",
+      "example_vn": "Ăn nhiều một chút."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "傳統",
+      "pinyin": "chuántǒng",
+      "word_type": "N",
+      "meaning_vn": "Truyền thống",
+      "example_zh": "這是傳統。",
+      "example_pinyin": "Zhè shì chuántǒng.",
+      "example_vn": "Đây là truyền thống."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "年輕",
+      "pinyin": "niánqīng",
+      "word_type": "Vs",
+      "meaning_vn": "Trẻ tuổi",
+      "example_zh": "年輕人。",
+      "example_pinyin": "Niánqīng rén.",
+      "example_vn": "Người trẻ."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "蛋糕",
+      "pinyin": "dàngāo",
+      "word_type": "N",
+      "meaning_vn": "Bánh kem, bánh ngọt",
+      "example_zh": "吃蛋糕。",
+      "example_pinyin": "Chī dàngāo.",
+      "example_vn": "Ăn bánh kem."
+    },
+    {
+      "order_num": 35,
+      "word_zh": "對",
+      "pinyin": "duì",
+      "word_type": "Prep",
+      "meaning_vn": "Đối với",
+      "example_zh": "妳對我真好。",
+      "example_pinyin": "Nǐ duì wǒ zhēn hǎo.",
+      "example_vn": "Cậu đối với tớ thật tốt."
+    },
+    {
+      "order_num": 36,
+      "word_zh": "祝",
+      "pinyin": "zhù",
+      "word_type": "V",
+      "meaning_vn": "Chúc",
+      "example_zh": "祝你生日快樂。",
+      "example_pinyin": "Zhù nǐ shēngrì kuàilè.",
+      "example_vn": "Chúc cậu sinh nhật vui vẻ."
+    },
+    {
+      "order_num": 37,
+      "word_zh": "哪裡，哪裡",
+      "pinyin": "Nǎlǐ, nǎlǐ",
+      "word_type": "Phrase",
+      "meaning_vn": "Đâu có, đâu có (lời nói khiêm tốn)",
+      "example_zh": "哪裡，哪裡！",
+      "example_pinyin": "Nǎlǐ, nǎlǐ!",
+      "example_vn": "Đâu có đâu có!"
+    },
+    {
+      "order_num": 38,
+      "word_zh": "大部分",
+      "pinyin": "dà bùfèn",
+      "word_type": "Phrase",
+      "meaning_vn": "Đại bộ phận, phần lớn",
+      "example_zh": "大部分年輕人。",
+      "example_pinyin": "Dà bùfèn niánqīng rén.",
+      "example_vn": "Phần lớn người trẻ."
+    },
+    {
+      "order_num": 39,
+      "word_zh": "萬事如意",
+      "pinyin": "wànshì rúyì",
+      "word_type": "Phrase",
+      "meaning_vn": "Vạn sự như ý",
+      "example_zh": "祝你萬事如意。",
+      "example_pinyin": "Zhù nǐ wànshì rúyì.",
+      "example_vn": "Chúc bạn vạn sự như ý."
+    },
+    {
+      "order_num": 40,
+      "word_zh": "心想事成",
+      "pinyin": "xīnxiǎng shìchéng",
+      "word_type": "Phrase",
+      "meaning_vn": "Tâm tưởng sự thành (muốn gì được nấy)",
+      "example_zh": "祝你心想事成。",
+      "example_pinyin": "Zhù nǐ xīnxiǎng shìchéng.",
+      "example_vn": "Chúc bạn muốn gì được nấy."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "一... 就... yī... jiù... (As soon as...)",
+      "explanation": "Cấu trúc 一... 就... diễn tả hai hành động xảy ra nối tiếp nhau, hành động B (đứng sau 就) xảy ra ngay sau hành động A (đứng sau 一). Nó có nghĩa là 'vừa... liền/đã...'.",
+      "examples": "[{\"zh\": \"我一下課，就回來。\", \"pinyin\": \"Wǒ yí xiàkè, jiù huílái.\", \"vn\": \"Tôi vừa tan học là về ngay.\"}, {\"zh\": \"他一回國，就找工作。\", \"pinyin\": \"Tā yì huíguó, jiù zhǎo gōngzuò.\", \"vn\": \"Anh ấy vừa về nước là tìm việc làm ngay.\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Completed Action with Verbal 了 le",
+      "explanation": "Trợ từ động thái '了' (le) được thêm vào ngay sau động từ để biểu thị hành động đã hoàn thành hoặc đã xảy ra.",
+      "examples": "[{\"zh\": \"今天早上我喝了一杯咖啡。\", \"pinyin\": \"Jīntiān zǎoshang wǒ hē le yī bēi kāfēi.\", \"vn\": \"Sáng nay tôi đã uống một tách cà phê.\"}, {\"zh\": \"他租了一個漂亮的房子。\", \"pinyin\": \"Tā zū le yī gè piàoliang de fángzi.\", \"vn\": \"Anh ấy đã thuê một ngôi nhà đẹp.\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "不 Negation vs. 沒 Negation",
+      "explanation": "Phủ định 不 dùng cho: thói quen, dự định (không muốn làm) và phủ định tính từ. Phủ định 沒 dùng để phủ định hành động ĐÃ XẢY RA trong quá khứ hoặc biểu thị hành động chưa xảy ra.",
+      "examples": "[{\"zh\": \"我們星期六不上課。 (不 - Thói quen)\", \"pinyin\": \"Wǒmen xīngqīliù bù shàngkè.\", \"vn\": \"Chúng tôi không đi học vào thứ Bảy.\"}, {\"zh\": \"昨天我沒打電話給他。 (沒 - Phủ định quá khứ)\", \"pinyin\": \"Zuótiān wǒ méi dǎ diànhuà gěi tā.\", \"vn\": \"Hôm qua tôi không gọi điện cho anh ấy.\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "All-inclusive with Question Words",
+      "explanation": "Các đại từ nghi vấn (誰 ai, 哪裡 ở đâu, 什麼 cái gì, 怎麼 thế nào...) khi kết hợp với '都' (dōu) hoặc '也' (yě) trong câu trần thuật mang ý nghĩa bao hàm toàn bộ: bất cứ ai, bất cứ nơi đâu, bất cứ cái gì...",
+      "examples": "[{\"zh\": \"誰都喜歡去旅行。\", \"pinyin\": \"Shéi dōu xǐhuan qù lǚxíng.\", \"vn\": \"Ai cũng thích đi du lịch.\"}, {\"zh\": \"他什麼都想買。\", \"pinyin\": \"Tā shénme dōu xiǎng mǎi.\", \"vn\": \"Anh ấy cái gì cũng muốn mua.\"}, {\"zh\": \"昨天我哪裡都沒去。\", \"pinyin\": \"Zuótiān wǒ nǎlǐ dōu méi qù.\", \"vn\": \"Hôm qua tôi chẳng đi đâu cả.\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "More/Less ... Than Planned with 多 duō / 少 shǎo + Verb",
+      "explanation": "Dùng 多 (nhiều) hoặc 少 (ít) trước động từ để biểu đạt việc làm gì đó NHIỀU HƠN hay ÍT HƠN so với dự định hoặc so với bình thường.",
+      "examples": "[{\"zh\": \"我中文不好，應該多看書，少看電視。\", \"pinyin\": \"Wǒ Zhōngwén bù hǎo, yīnggāi duō kànshū, shǎo kàn diànshì.\", \"vn\": \"Tiếng Trung của tôi không tốt, nên đọc sách NHIỀU HƠN, xem TV ÍT ĐI.\"}, {\"zh\": \"她今天太累了，想少做一點功課。\", \"pinyin\": \"Tā jīntiān tài lèi le, xiǎng shǎo zuò yìdiǎn gōngkè.\", \"vn\": \"Hôm nay cô ấy quá mệt, muốn làm ÍT bài tập hơn một chút.\"}]"
+    },
+    {
+      "order_num": 6,
+      "title": "是不是 shìbushì (Is it true?)",
+      "explanation": "Dùng '是不是' (có phải là... không) để hỏi nhằm xác nhận lại một thông tin đã biết hoặc điều hiển nhiên, chứ không phải hỏi thông tin mới.",
+      "examples": "[{\"zh\": \"你是不是剛旅行回來？\", \"pinyin\": \"Nǐ shìbushì gāng lǚxíng huílái?\", \"vn\": \"Có phải cậu vừa đi du lịch về không?\"}, {\"zh\": \"那家餐廳是不是很有名？\", \"pinyin\": \"Nà jiā cāntīng shìbushì hěn yǒumíng?\", \"vn\": \"Có phải nhà hàng đó rất nổi tiếng không?\"}]"
+    },
+    {
+      "order_num": 7,
+      "title": "Comparison with 跟 gēn ... 一樣 yíyàng",
+      "explanation": "Cấu trúc 'A 跟 B 一樣 (+ tính từ/động từ)' dùng để so sánh hai người/vật và chỉ ra rằng chúng GIỐNG NHAU (bằng nhau).",
+      "examples": "[{\"zh\": \"這支手機跟那支手機一樣。\", \"pinyin\": \"Zhè zhī shǒujī gēn nà zhī shǒujī yíyàng.\", \"vn\": \"Chiếc điện thoại này giống chiếc điện thoại kia.\"}, {\"zh\": \"我跟我妹妹一樣高。\", \"pinyin\": \"Wǒ gēn wǒ mèimei yíyàng gāo.\", \"vn\": \"Tôi cao bằng em gái tôi.\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "怡君",
+      "text_zh": "喂，安同嗎？",
+      "pinyin": "Wéi, Āntóng ma?",
+      "translation_vn": "Alo, An Đồng đấy à?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "安同",
+      "text_zh": "是，我就是。怡君，好久不見，聽說妳去花蓮？",
+      "pinyin": "Shì, wǒ jiù shì. Yíjūn, hǎojiǔbújiàn, tīngshuō nǐ qù Huālián?",
+      "translation_vn": "Đúng, là tớ đây. Di Quân, lâu rồi không gặp, nghe nói cậu đi Hoa Liên hả?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "怡君",
+      "text_zh": "我沒去花蓮，我剛從臺東回來。",
+      "pinyin": "Wǒ méi qù Huālián, wǒ gāng cóng Táidōng huílái.",
+      "translation_vn": "Tớ không đi Hoa Liên, tớ vừa từ Đài Đông về."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "安同",
+      "text_zh": "找我有什麼事？",
+      "pinyin": "Zhǎo wǒ yǒu shénme shì?",
+      "translation_vn": "Tìm tớ có việc gì không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "怡君",
+      "text_zh": "明天是你的生日，對不對？",
+      "pinyin": "Míngtiān shì nǐ de shēngrì, duì bù duì?",
+      "translation_vn": "Ngày mai là sinh nhật cậu, đúng không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "安同",
+      "text_zh": "啊，我怎麼忘了！最近太忙了，謝謝妳還記得。",
+      "pinyin": "A, wǒ zěnme wàng le! Zuìjìn tài máng le, xièxie nǐ hái jìde.",
+      "translation_vn": "A, sao tớ lại quên mất thế này! Dạo này bận quá, cảm ơn cậu vẫn còn nhớ."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "怡君",
+      "text_zh": "當然記得！語言交換的時候，你那麼熱心教我西班牙文。",
+      "pinyin": "Dāngrán jìde! Yǔyán jiāohuàn de shíhòu, nǐ nàme rèxīn jiāo wǒ Xībānyá wén.",
+      "translation_vn": "Đương nhiên là nhớ rồi! Lúc trao đổi ngôn ngữ, cậu đã nhiệt tình dạy tớ tiếng Tây Ban Nha như vậy mà."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "安同",
+      "text_zh": "不必客氣，妳也一樣。",
+      "pinyin": "Búbì kèqì, nǐ yě yíyàng.",
+      "translation_vn": "Đừng khách sáo, cậu cũng vậy mà."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "怡君",
+      "text_zh": "明天我想請你吃晚飯，給你過生日。",
+      "pinyin": "Míngtiān wǒ xiǎng qǐng nǐ chī wǎnfàn, gěi nǐ guò shēngrì.",
+      "translation_vn": "Ngày mai tớ muốn mời cậu ăn tối, tổ chức sinh nhật cho cậu."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "安同",
+      "text_zh": "妳太客氣了！我們在哪裡見面呢？",
+      "pinyin": "Nǐ tài kèqì le! Wǒmen zài nǎlǐ jiànmiàn ne?",
+      "translation_vn": "Cậu khách sáo quá rồi! Chúng ta gặp nhau ở đâu nhỉ?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 11,
+      "speaker": "怡君",
+      "text_zh": "明天我一下課，就去你們學校找你。",
+      "pinyin": "Míngtiān wǒ yí xiàkè, jiù qù nǐmen xuéxiào zhǎo nǐ.",
+      "translation_vn": "Ngày mai tớ vừa tan học là sẽ qua trường tìm cậu ngay."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 12,
+      "speaker": "安同",
+      "text_zh": "大概幾點？",
+      "pinyin": "Dàgài jǐ diǎn?",
+      "translation_vn": "Khoảng mấy giờ?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 13,
+      "speaker": "怡君",
+      "text_zh": "五點左右。",
+      "pinyin": "Wǔ diǎn zuǒyòu.",
+      "translation_vn": "Khoảng chừng 5 giờ."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 14,
+      "speaker": "安同",
+      "text_zh": "好，我會在學校門口等妳。",
+      "pinyin": "Hǎo, wǒ huì zài xuéxiào ménkǒu děng nǐ.",
+      "translation_vn": "Được, tớ sẽ đợi cậu ở cổng trường."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "安同",
+      "text_zh": "怡君，謝謝妳請我到這麼有名的餐廳吃飯。",
+      "pinyin": "Yíjūn, xièxie nǐ qǐng wǒ dào zhème yǒumíng de cāntīng chīfàn.",
+      "translation_vn": "Di Quân, cảm ơn cậu đã mời tớ đến nhà hàng nổi tiếng như vậy để ăn."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "怡君",
+      "text_zh": "哪裡，哪裡！這是我給你的禮物。",
+      "pinyin": "Nǎlǐ, nǎlǐ! Zhè shì wǒ gěi nǐ de lǐwù.",
+      "translation_vn": "Đâu có, đâu có! Đây là món quà tớ tặng cậu."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "安同",
+      "text_zh": "謝謝！真開心，今年有臺灣朋友給我過生日。",
+      "pinyin": "Xièxie! Zhēn kāixīn, jīnnián yǒu Táiwān péngyǒu gěi wǒ guò shēngrì.",
+      "translation_vn": "Cảm ơn nhé! Thật là vui, năm nay có người bạn Đài Loan tổ chức sinh nhật cho tớ."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "怡君",
+      "text_zh": "你想吃什麼？有沒有不吃的東西？",
+      "pinyin": "Nǐ xiǎng chī shénme? Yǒu méiyǒu bù chī de dōngxi?",
+      "translation_vn": "Cậu muốn ăn gì? Có món gì không ăn được không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "安同",
+      "text_zh": "我什麼都吃。",
+      "pinyin": "Wǒ shénme dōu chī.",
+      "translation_vn": "Tớ ăn được hết mọi thứ."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "怡君",
+      "text_zh": "我已經訂了豬腳麵線和蛋。等一下你多吃一點。",
+      "pinyin": "Wǒ yǐjīng dìng le zhūjiǎo miànxiàn hé dàn. Děng yīxià nǐ duō chī yìdiǎn.",
+      "translation_vn": "Tớ đã đặt mì chân giò và trứng rồi. Lát nữa cậu ăn nhiều một chút nhé."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "安同",
+      "text_zh": "臺灣人過生日是不是都吃這些東西？",
+      "pinyin": "Táiwān rén guò shēngrì shìbushì dōu chī zhèxiē dōngxi?",
+      "translation_vn": "Có phải người Đài Loan khi đón sinh nhật đều ăn những thứ này không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "怡君",
+      "text_zh": "對啊！這是傳統，不過，現在大部分年輕人過生日不吃這些東西了。",
+      "pinyin": "Duì a! Zhè shì chuántǒng, bùguò, xiànzài dà bùfèn niánqīng rén guò shēngrì bù chī zhèxiē dōngxi le.",
+      "translation_vn": "Đúng rồi! Đây là truyền thống, nhưng mà, bây giờ phần lớn người trẻ đón sinh nhật không ăn những thứ này nữa."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "安同",
+      "text_zh": "那麼，你們過生日吃什麼呢？",
+      "pinyin": "Nàme, nǐmen guò shēngrì chī shénme ne?",
+      "translation_vn": "Vậy thì, các cậu đón sinh nhật ăn gì?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 10,
+      "speaker": "怡君",
+      "text_zh": "跟你一樣，吃蛋糕。今天我也訂了一個生日蛋糕。",
+      "pinyin": "Gēn nǐ yíyàng, chī dàngāo. Jīntiān wǒ yě dìng le yī gè shēngrì dàngāo.",
+      "translation_vn": "Giống như cậu, ăn bánh kem. Hôm nay tớ cũng đặt một chiếc bánh kem sinh nhật."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 11,
+      "speaker": "安同",
+      "text_zh": "妳對我真好。",
+      "pinyin": "Nǐ duì wǒ zhēn hǎo.",
+      "translation_vn": "Cậu đối với tớ thật tốt."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 12,
+      "speaker": "怡君",
+      "text_zh": "安同，祝你生日快樂、萬事如意、心想事成。",
+      "pinyin": "Āntóng, zhù nǐ shēngrì kuàilè, wànshì rúyì, xīnxiǎng shìchéng.",
+      "translation_vn": "An Đồng, chúc cậu sinh nhật vui vẻ, vạn sự như ý, muốn gì được nấy."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 13,
+      "speaker": "安同",
+      "text_zh": "謝謝！謝謝！",
+      "pinyin": "Xièxie! Xièxie!",
+      "translation_vn": "Cảm ơn! Cảm ơn nhé!"
+    }
+  ]
+}

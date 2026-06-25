@@ -1,0 +1,694 @@
+{
+  "id": 15,
+  "title_vn": "Tôi rất không khỏe",
+  "title_zh": "我很不舒服",
+  "subtitle": "Đau ốm",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "醫生",
+      "pinyin": "yīshēng",
+      "word_type": "N",
+      "meaning_vn": "Bác sĩ",
+      "example_zh": "看醫生。",
+      "example_pinyin": "Kàn yīshēng.",
+      "example_vn": "Khám bác sĩ."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "一直",
+      "pinyin": "yìzhí",
+      "word_type": "Adv",
+      "meaning_vn": "Liên tục, suốt",
+      "example_zh": "我一直流鼻水。",
+      "example_pinyin": "Wǒ yìzhí liú bíshuǐ.",
+      "example_vn": "Tôi liên tục chảy nước mũi."
+    },
+    {
+      "order_num": 3,
+      "word_zh": "流",
+      "pinyin": "liú",
+      "word_type": "V",
+      "meaning_vn": "Chảy",
+      "example_zh": "流鼻水。",
+      "example_pinyin": "Liú bíshuǐ.",
+      "example_vn": "Chảy nước mũi."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "鼻水",
+      "pinyin": "bíshuǐ",
+      "word_type": "N",
+      "meaning_vn": "Nước mũi",
+      "example_zh": "流鼻水。",
+      "example_pinyin": "Liú bíshuǐ.",
+      "example_vn": "Chảy nước mũi."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "頭",
+      "pinyin": "tóu",
+      "word_type": "N",
+      "meaning_vn": "Đầu",
+      "example_zh": "頭很痛。",
+      "example_pinyin": "Tóu hěn tòng.",
+      "example_vn": "Đầu rất đau."
+    },
+    {
+      "order_num": 6,
+      "word_zh": "痛",
+      "pinyin": "tòng",
+      "word_type": "Vs",
+      "meaning_vn": "Đau",
+      "example_zh": "頭很痛。",
+      "example_pinyin": "Tóu hěn tòng.",
+      "example_vn": "Đầu rất đau."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "胃口",
+      "pinyin": "wèikǒu",
+      "word_type": "N",
+      "meaning_vn": "Khẩu vị, sự thèm ăn",
+      "example_zh": "胃口很差。",
+      "example_pinyin": "Wèikǒu hěn chā.",
+      "example_vn": "Khẩu vị rất kém."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "差",
+      "pinyin": "chā",
+      "word_type": "Vs",
+      "meaning_vn": "Kém, tồi",
+      "example_zh": "胃口很差。",
+      "example_pinyin": "Wèikǒu hěn chā.",
+      "example_vn": "Khẩu vị rất kém."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "喉嚨",
+      "pinyin": "hóulóng",
+      "word_type": "N",
+      "meaning_vn": "Cổ họng",
+      "example_zh": "喉嚨有一點發炎。",
+      "example_pinyin": "Hóulóng yǒu yìdiǎn fāyán.",
+      "example_vn": "Cổ họng có hơi viêm."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "發炎",
+      "pinyin": "fāyán",
+      "word_type": "Vp-sep",
+      "meaning_vn": "Viêm, phát viêm",
+      "example_zh": "喉嚨有一點發炎。",
+      "example_pinyin": "Hóulóng yǒu yìdiǎn fāyán.",
+      "example_vn": "Cổ họng có hơi viêm."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "生病",
+      "pinyin": "shēngbìng",
+      "word_type": "Vp-sep",
+      "meaning_vn": "Bị ốm, bị bệnh",
+      "example_zh": "我生的是什麼病？",
+      "example_pinyin": "Wǒ shēng de shì shénme bìng?",
+      "example_vn": "Bệnh tôi bị là bệnh gì?"
+    },
+    {
+      "order_num": 12,
+      "word_zh": "發燒",
+      "pinyin": "fāshāo",
+      "word_type": "Vp-sep",
+      "meaning_vn": "Sốt",
+      "example_zh": "妳有一點發燒。",
+      "example_pinyin": "Nǐ yǒu yìdiǎn fāshāo.",
+      "example_vn": "Cô có hơi sốt."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "感冒",
+      "pinyin": "gǎnmào",
+      "word_type": "Vp",
+      "meaning_vn": "Cảm cúm",
+      "example_zh": "是感冒。",
+      "example_pinyin": "Shì gǎnmào.",
+      "example_vn": "Là cảm cúm."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "藥",
+      "pinyin": "yào",
+      "word_type": "N",
+      "meaning_vn": "Thuốc",
+      "example_zh": "吃藥。",
+      "example_pinyin": "Chī yào.",
+      "example_vn": "Uống thuốc."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "藥局",
+      "pinyin": "yàojú",
+      "word_type": "N",
+      "meaning_vn": "Hiệu thuốc, tiệm thuốc",
+      "example_zh": "到藥局去。",
+      "example_pinyin": "Dào yàojú qù.",
+      "example_vn": "Đến hiệu thuốc."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "拿",
+      "pinyin": "ná",
+      "word_type": "V",
+      "meaning_vn": "Lấy, cầm",
+      "example_zh": "拿藥。",
+      "example_pinyin": "Ná yào.",
+      "example_vn": "Lấy thuốc."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "把",
+      "pinyin": "bǎ",
+      "word_type": "Ptc",
+      "meaning_vn": "Cầm, lấy (giới từ chỉ sự xử lý)",
+      "example_zh": "把藥吃了。",
+      "example_pinyin": "Bǎ yào chī le.",
+      "example_vn": "Uống thuốc đi."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "水",
+      "pinyin": "shuǐ",
+      "word_type": "N",
+      "meaning_vn": "Nước",
+      "example_zh": "多喝水。",
+      "example_pinyin": "Duō hē shuǐ.",
+      "example_vn": "Uống nhiều nước."
+    },
+    {
+      "order_num": 19,
+      "word_zh": "休息",
+      "pinyin": "xiūxí",
+      "word_type": "Vi",
+      "meaning_vn": "Nghỉ ngơi",
+      "example_zh": "多休息。",
+      "example_pinyin": "Duō xiūxí.",
+      "example_vn": "Nghỉ ngơi nhiều."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "睡覺",
+      "pinyin": "shuìjiào",
+      "word_type": "V-sep",
+      "meaning_vn": "Ngủ",
+      "example_zh": "早一點睡覺。",
+      "example_pinyin": "Zǎo yìdiǎn shuìjiào.",
+      "example_vn": "Ngủ sớm một chút."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "早一點",
+      "pinyin": "zǎo yìdiǎn",
+      "word_type": "Phrase",
+      "meaning_vn": "Sớm một chút",
+      "example_zh": "早一點睡覺。",
+      "example_pinyin": "Zǎo yìdiǎn shuìjiào.",
+      "example_vn": "Ngủ sớm một chút."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "臉色",
+      "pinyin": "liǎnsè",
+      "word_type": "N",
+      "meaning_vn": "Sắc mặt",
+      "example_zh": "臉色這麼難看。",
+      "example_pinyin": "Liǎnsè zhème nánkàn.",
+      "example_vn": "Sắc mặt khó coi thế này."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "難看",
+      "pinyin": "nánkàn",
+      "word_type": "Vs",
+      "meaning_vn": "Khó coi, xấu (sắc mặt)",
+      "example_zh": "臉色這麼難看。",
+      "example_pinyin": "Liǎnsè zhème nánkàn.",
+      "example_vn": "Sắc mặt khó coi thế này."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "肚子",
+      "pinyin": "dùzi",
+      "word_type": "N",
+      "meaning_vn": "Bụng",
+      "example_zh": "肚子很不舒服。",
+      "example_pinyin": "Dùzi hěn bù shūfú.",
+      "example_vn": "Bụng rất khó chịu."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "吐",
+      "pinyin": "tù",
+      "word_type": "V",
+      "meaning_vn": "Nôn, mửa",
+      "example_zh": "吃了東西就吐。",
+      "example_pinyin": "Chī le dōngxi jiù tù.",
+      "example_vn": "Ăn xong là nôn."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "幾",
+      "pinyin": "jǐ",
+      "word_type": "N",
+      "meaning_vn": "Vài, mấy",
+      "example_zh": "吐了好幾次。",
+      "example_pinyin": "Tù le hǎo jǐ cì.",
+      "example_vn": "Nôn mất mấy lần rồi."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "次",
+      "pinyin": "cì",
+      "word_type": "M",
+      "meaning_vn": "Lần",
+      "example_zh": "好幾次。",
+      "example_pinyin": "Hǎo jǐ cì.",
+      "example_vn": "Mấy lần."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "陪",
+      "pinyin": "péi",
+      "word_type": "V",
+      "meaning_vn": "Đi cùng, bầu bạn",
+      "example_zh": "我陪你去看病。",
+      "example_pinyin": "Wǒ péi nǐ qù kànbìng.",
+      "example_vn": "Tôi đi khám bệnh cùng cậu."
+    },
+    {
+      "order_num": 29,
+      "word_zh": "看病",
+      "pinyin": "kànbìng",
+      "word_type": "V-sep",
+      "meaning_vn": "Khám bệnh",
+      "example_zh": "我陪你去看病。",
+      "example_pinyin": "Wǒ péi nǐ qù kànbìng.",
+      "example_vn": "Tôi đi cùng cậu đi khám bệnh."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "健康",
+      "pinyin": "jiànkāng",
+      "word_type": "N",
+      "meaning_vn": "Sức khỏe",
+      "example_zh": "健康保險。",
+      "example_pinyin": "Jiànkāng bǎoxiǎn.",
+      "example_vn": "Bảo hiểm sức khỏe."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "保險",
+      "pinyin": "bǎoxiǎn",
+      "word_type": "N",
+      "meaning_vn": "Bảo hiểm",
+      "example_zh": "沒有健康保險。",
+      "example_pinyin": "Méiyǒu jiànkāng bǎoxiǎn.",
+      "example_vn": "Không có bảo hiểm y tế."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "跟",
+      "pinyin": "gēn",
+      "word_type": "Prep",
+      "meaning_vn": "Với",
+      "example_zh": "請妳跟老師說。",
+      "example_pinyin": "Qǐng nǐ gēn lǎoshī shuō.",
+      "example_vn": "Phiền cậu nói với giáo viên."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "油",
+      "pinyin": "yóu",
+      "word_type": "Vs",
+      "meaning_vn": "Dầu mỡ, nhiều dầu mỡ",
+      "example_zh": "油的東西。",
+      "example_pinyin": "Yóu de dōngxi.",
+      "example_vn": "Đồ ăn dầu mỡ."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "冰",
+      "pinyin": "bīng",
+      "word_type": "Vs",
+      "meaning_vn": "Lạnh, đá",
+      "example_zh": "冰的東西。",
+      "example_pinyin": "Bīng de dōngxi.",
+      "example_vn": "Đồ ăn lạnh."
+    },
+    {
+      "order_num": 35,
+      "word_zh": "別",
+      "pinyin": "bié",
+      "word_type": "Adv",
+      "meaning_vn": "Đừng",
+      "example_zh": "最好都別吃。",
+      "example_pinyin": "Zuìhǎo dōu bié chī.",
+      "example_vn": "Tốt nhất đều đừng ăn."
+    },
+    {
+      "order_num": 36,
+      "word_zh": "關心",
+      "pinyin": "guānxīn",
+      "word_type": "Vst",
+      "meaning_vn": "Quan tâm",
+      "example_zh": "謝謝妳的關心。",
+      "example_pinyin": "Xièxie nǐ de guānxīn.",
+      "example_vn": "Cảm ơn sự quan tâm của cậu."
+    },
+    {
+      "order_num": 37,
+      "word_zh": "包",
+      "pinyin": "bāo",
+      "word_type": "M",
+      "meaning_vn": "Gói, bao",
+      "example_zh": "一包藥。",
+      "example_pinyin": "Yī bāo yào.",
+      "example_vn": "Một gói thuốc."
+    },
+    {
+      "order_num": 38,
+      "word_zh": "睡",
+      "pinyin": "shuì",
+      "word_type": "Vi",
+      "meaning_vn": "Ngủ",
+      "example_zh": "睡得比昨天好。",
+      "example_pinyin": "Shuì de bǐ zuótiān hǎo.",
+      "example_vn": "Ngủ ngon hơn hôm qua."
+    },
+    {
+      "order_num": 39,
+      "word_zh": "小時",
+      "pinyin": "xiǎoshí",
+      "word_type": "N",
+      "meaning_vn": "Giờ, tiếng đồng hồ",
+      "example_zh": "幾個小時。",
+      "example_pinyin": "Jǐ gè xiǎoshí.",
+      "example_vn": "Vài tiếng đồng hồ."
+    },
+    {
+      "order_num": 40,
+      "word_zh": "怎麼了",
+      "pinyin": "zěnme le",
+      "word_type": "Phrase",
+      "meaning_vn": "Sao thế? Bị làm sao vậy?",
+      "example_zh": "你怎麼了？",
+      "example_pinyin": "Nǐ zěnme le?",
+      "example_vn": "Cậu sao thế?"
+    },
+    {
+      "order_num": 41,
+      "word_zh": "不用了",
+      "pinyin": "búyòng le",
+      "word_type": "Phrase",
+      "meaning_vn": "Không cần đâu",
+      "example_zh": "不用了。",
+      "example_pinyin": "Búyòng le.",
+      "example_vn": "Không cần đâu."
+    },
+    {
+      "order_num": 42,
+      "word_zh": "健康中心",
+      "pinyin": "jiànkāng zhōngxīn",
+      "word_type": "Phrase",
+      "meaning_vn": "Trung tâm y tế",
+      "example_zh": "學校的健康中心。",
+      "example_pinyin": "Xuéxiào de jiànkāng zhōngxīn.",
+      "example_vn": "Trung tâm y tế của trường."
+    },
+    {
+      "order_num": 43,
+      "word_zh": "回家",
+      "pinyin": "huí jiā",
+      "word_type": "Phrase",
+      "meaning_vn": "Về nhà",
+      "example_zh": "我想回家。",
+      "example_pinyin": "Wǒ xiǎng huí jiā.",
+      "example_vn": "Tôi muốn về nhà."
+    },
+    {
+      "order_num": 44,
+      "word_zh": "最好",
+      "pinyin": "zuìhǎo",
+      "word_type": "Phrase",
+      "meaning_vn": "Tốt nhất là",
+      "example_zh": "最好都別吃。",
+      "example_pinyin": "Zuìhǎo dōu bié chī.",
+      "example_vn": "Tốt nhất đều đừng ăn."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "Non-committal Stance with Question Words",
+      "explanation": "Khi các đại từ nghi vấn (什麼, 多少, 幾, 哪裡...) xuất hiện trong CÂU PHỦ ĐỊNH, nó biểu đạt thái độ lảng tránh, không muốn trả lời rõ ràng hoặc thể hiện số lượng/mức độ không đáng kể.",
+      "examples": "[{\"zh\": \"我沒有多少錢。\", \"pinyin\": \"Wǒ méiyǒu duōshǎo qián.\", \"vn\": \"Tôi không có bao nhiêu tiền cả.\"}, {\"zh\": \"你的感冒沒有什麼關係。\", \"pinyin\": \"Nǐ de gǎnmào méiyǒu shénme guānxi.\", \"vn\": \"Bệnh cảm của bạn không có vấn đề gì đáng ngại đâu.\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "To Dispose of Something with 把 bǎ",
+      "explanation": "Cấu trúc 'Chủ ngữ + 把 (bǎ) + Tân ngữ + Động từ + 了' được dùng để nhấn mạnh sự XỬ LÝ của chủ ngữ đối với một tân ngữ (đã được xác định rõ) dẫn đến một kết quả hoặc thay đổi nào đó.",
+      "examples": "[{\"zh\": \"我把牛肉麵吃了。\", \"pinyin\": \"Wǒ bǎ niúròu miàn chī le.\", \"vn\": \"Tôi đã ăn hết tô mì bò rồi (xử lý tô mì bằng cách ăn hết).\"}, {\"zh\": \"房東把房子賣了。\", \"pinyin\": \"Fángdōng bǎ fángzi mài le.\", \"vn\": \"Chủ nhà đã bán căn nhà đi rồi.\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "V 了 le... 就 jiù... do... right after doing...",
+      "explanation": "Cấu trúc 'Động từ 1 + 了... 就 + Hành động 2' biểu thị hành động 2 diễn ra NGAY SAU KHI hành động 1 hoàn thành (Vừa làm xong V1 liền làm V2).",
+      "examples": "[{\"zh\": \"他吃了藥就睡覺。\", \"pinyin\": \"Tā chī le yào jiù shuìjiào.\", \"vn\": \"Anh ấy uống thuốc xong là đi ngủ ngay.\"}, {\"zh\": \"爸爸回了家就喝了兩杯烏龍茶。\", \"pinyin\": \"Bàba huí le jiā jiù hē le liǎng bēi Wūlóngchá.\", \"vn\": \"Bố vừa về đến nhà là uống ngay 2 ly trà Ô Long.\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "一點 yìdiǎn (A bit)",
+      "explanation": "'一點' dùng để chỉ số lượng ít (đứng trước danh từ) hoặc mức độ chênh lệch ít trong so sánh (đứng sau tính từ). Nếu dùng '有一點' trước tính từ thì nó mang nghĩa 'hơi...' (thường là điều không mong muốn).",
+      "examples": "[{\"zh\": \"她要吃一點麵線。 (Số lượng)\", \"pinyin\": \"Tā yào chī yìdiǎn miànxiàn.\", \"vn\": \"Cô ấy muốn ăn một chút mì.\"}, {\"zh\": \"請你早一點來！ (So sánh)\", \"pinyin\": \"Qǐng nǐ zǎo yìdiǎn lái!\", \"vn\": \"Cậu hãy đến sớm hơn một chút nhé!\"}, {\"zh\": \"牛肉麵有一點辣。 (Mức độ)\", \"pinyin\": \"Niúròu miàn yǒu yìdiǎn là.\", \"vn\": \"Mì bò có hơi cay.\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Comparing Actions with a 得 de Complement",
+      "explanation": "So sánh cách thức thực hiện hành động: 'A + (Động từ) + 比 + B + Động từ + 得 + Tính từ' hoặc 'A + Động từ + 得 + 比 + B + Tính từ'.",
+      "examples": "[{\"zh\": \"他比我做得快。\", \"pinyin\": \"Tā bǐ wǒ zuò de kuài.\", \"vn\": \"Anh ấy làm nhanh hơn tôi.\"}, {\"zh\": \"弟弟念書念得比哥哥好。\", \"pinyin\": \"Dìdi niànshū niàn de bǐ gēge hǎo.\", \"vn\": \"Em trai học giỏi hơn anh trai.\"}]"
+    },
+    {
+      "order_num": 6,
+      "title": "Complements of Degree in Comparison Structures",
+      "explanation": "Để chỉ rõ MỨC ĐỘ chênh lệch trong câu so sánh, ta dùng '一點' (yìdiǎn - một chút) hoặc '得多 / 多了' (de duō / duō le - hơn nhiều) đặt sau tính từ.",
+      "examples": "[{\"zh\": \"他的房間比我的大一點。\", \"pinyin\": \"Tā de fángjiān bǐ wǒ de dà yìdiǎn.\", \"vn\": \"Phòng của anh ấy lớn hơn phòng của tôi MỘT CHÚT.\"}, {\"zh\": \"捷運站比公車站遠得多。\", \"pinyin\": \"Jiéyùnzhàn bǐ gōngchēzhàn yuǎn de duō.\", \"vn\": \"Trạm tàu điện ngầm xa hơn HẲN so với trạm xe buýt.\"}]"
+    },
+    {
+      "order_num": 7,
+      "title": "Separable Verbs (Động từ ly hợp)",
+      "explanation": "Một số động từ (như 睡覺, 唱歌, 上課...) cấu tạo từ Động từ + Tân ngữ. Ta có thể tách chúng ra để chèn các thành phần khác vào giữa (như '了', tân ngữ, thời lượng).",
+      "examples": "[{\"zh\": \"他照了你一張相。\", \"pinyin\": \"Tā zhào le nǐ yì zhāng xiàng.\", \"vn\": \"Anh ấy đã chụp cho bạn một bức ảnh. (Tách 照相 chèn '了', '你', '一張' vào giữa)\"}, {\"zh\": \"我們每天上八個鐘頭的班。\", \"pinyin\": \"Wǒmen měi tiān shàng bā gè zhōngtóu de bān.\", \"vn\": \"Mỗi ngày chúng tôi làm việc 8 tiếng. (Tách 上班)\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "醫生",
+      "text_zh": "白小姐，妳哪裡不舒服？",
+      "pinyin": "Bái xiǎojiě, nǐ nǎlǐ bù shūfú?",
+      "translation_vn": "Cô Bạch, cô thấy khó chịu ở đâu?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "如玉",
+      "text_zh": "我一直流鼻水，頭很痛，胃口很差。什麼東西都不想吃。",
+      "pinyin": "Wǒ yìzhí liú bíshuǐ, tóu hěn tòng, wèikǒu hěn chā. Shénme dōngxi dōu bù xiǎng chī.",
+      "translation_vn": "Tôi liên tục bị chảy nước mũi, đầu rất đau, khẩu vị rất kém. Không muốn ăn bất cứ thứ gì cả."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "醫生",
+      "text_zh": "大概多久了？",
+      "pinyin": "Dàgài duō jiǔ le?",
+      "translation_vn": "Tình trạng này khoảng bao lâu rồi?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "如玉",
+      "text_zh": "已經四、五天了。",
+      "pinyin": "Yǐjīng sì, wǔ tiān le.",
+      "translation_vn": "Đã 4, 5 ngày nay rồi."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "醫生",
+      "text_zh": "我看看妳的喉嚨。喉嚨有一點發炎。",
+      "pinyin": "Wǒ kànkan nǐ de hóulóng. Hóulóng yǒu yìdiǎn fāyán.",
+      "translation_vn": "Để tôi xem cổ họng của cô nào. Cổ họng có hơi sưng viêm."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "如玉",
+      "text_zh": "請問我生的是什麼病？",
+      "pinyin": "Qǐngwèn wǒ shēng de shì shénme bìng?",
+      "translation_vn": "Xin hỏi bệnh của tôi là bệnh gì ạ?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "醫生",
+      "text_zh": "妳有一點發燒，是感冒，不過沒有什麼關係。",
+      "pinyin": "Nǐ yǒu yìdiǎn fāshāo, shì gǎnmào, bùguò méiyǒu shénme guānxi.",
+      "translation_vn": "Cô hơi sốt một chút, là bị cảm cúm thôi, nhưng không có vấn đề gì đáng ngại đâu."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "如玉",
+      "text_zh": "請問我得吃藥嗎？",
+      "pinyin": "Qǐngwèn wǒ děi chī yào ma?",
+      "translation_vn": "Xin hỏi tôi có cần uống thuốc không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "醫生",
+      "text_zh": "要，妳到藥局去拿藥。",
+      "pinyin": "Yào, nǐ dào yàojú qù ná yào.",
+      "translation_vn": "Có, cô qua hiệu thuốc lấy thuốc nhé."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "如玉",
+      "text_zh": "好的。請問我的病什麼時候會好？",
+      "pinyin": "Hǎo de. Qǐngwèn wǒ de bìng shénme shíhòu huì hǎo?",
+      "translation_vn": "Vâng. Xin hỏi bệnh của tôi bao giờ thì khỏi ạ?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 11,
+      "speaker": "醫生",
+      "text_zh": "回去把藥吃了，多喝水，多休息，早一點睡覺，很快就會好。",
+      "pinyin": "Huíqù bǎ yào chī le, duō hē shuǐ, duō xiūxí, zǎo yìdiǎn shuìjiào, hěn kuài jiù huì hǎo.",
+      "translation_vn": "Về nhà uống thuốc, uống nhiều nước, nghỉ ngơi nhiều, ngủ sớm một chút, thì sẽ rất nhanh khỏi thôi."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 12,
+      "speaker": "如玉",
+      "text_zh": "好的，謝謝您。",
+      "pinyin": "Hǎo de, xièxie nín.",
+      "translation_vn": "Vâng, cảm ơn bác sĩ."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "如玉",
+      "text_zh": "你怎麼了？臉色這麼難看。",
+      "pinyin": "Nǐ zěnme le? Liǎnsè zhème nánkàn.",
+      "translation_vn": "Cậu sao thế? Sắc mặt khó coi thế này."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "安同",
+      "text_zh": "昨天晚上肚子很不舒服，吃了東西就吐，還吐了好幾次。",
+      "pinyin": "Zuótiān wǎnshang dùzi hěn bù shūfú, chī le dōngxi jiù tù, hái tù le hǎo jǐ cì.",
+      "translation_vn": "Tối qua bụng rất khó chịu, ăn đồ ăn vào là nôn ra, còn nôn mất mấy lần lận."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "如玉",
+      "text_zh": "你這麼不舒服，我陪你去看病，好不好？",
+      "pinyin": "Nǐ zhème bù shūfú, wǒ péi nǐ qù kànbìng, hǎo bù hǎo?",
+      "translation_vn": "Cậu khó chịu như vậy, tớ đi cùng cậu đi khám bệnh nhé, được không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "安同",
+      "text_zh": "不用了。我在臺灣沒有健康保險。",
+      "pinyin": "Búyòng le. Wǒ zài Táiwān méiyǒu jiànkāng bǎoxiǎn.",
+      "translation_vn": "Không cần đâu. Tớ ở Đài Loan không có bảo hiểm y tế."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "如玉",
+      "text_zh": "那麼，我陪你去學校的健康中心。那裡的醫生很好，對學生也很客氣。",
+      "pinyin": "Nàme, wǒ péi nǐ qù xuéxiào de jiànkāng zhōngxīn. Nàlǐ de yīshēng hěn hǎo, duì xuéshēng yě hěn kèqì.",
+      "translation_vn": "Vậy thì, tớ đưa cậu đến trung tâm y tế của trường. Bác sĩ ở đó rất tốt, đối với học sinh cũng rất lịch sự."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "安同",
+      "text_zh": "謝謝妳。我想去藥局買藥就好了。",
+      "pinyin": "Xièxie nǐ. Wǒ xiǎng qù yàojú mǎi yào jiù hǎo le.",
+      "translation_vn": "Cảm ơn cậu. Tớ nghĩ ra hiệu thuốc mua thuốc là được rồi."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "如玉",
+      "text_zh": "你真的不去看病嗎？",
+      "pinyin": "Nǐ zhēnde bú qù kànbìng ma?",
+      "translation_vn": "Cậu thật sự không đi khám bệnh sao?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "安同",
+      "text_zh": "我想回家休息。請妳跟老師說，我生病了，不能上課。",
+      "pinyin": "Wǒ xiǎng huí jiā xiūxí. Qǐng nǐ gēn lǎoshī shuō, wǒ shēngbìng le, bù néng shàngkè.",
+      "translation_vn": "Tớ muốn về nhà nghỉ ngơi. Phiền cậu nói với giáo viên giúp, tớ bị bệnh rồi, không thể đi học được."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "如玉",
+      "text_zh": "好。你自己要多小心。油的、冰的東西最好都別吃。",
+      "pinyin": "Hǎo. Nǐ zìjǐ yào duō xiǎoxīn. Yóu de, bīng de dōngxi zuìhǎo dōu bié chī.",
+      "translation_vn": "Được. Bản thân cậu phải cẩn thận đấy. Đồ ăn dầu mỡ, đồ ăn lạnh tốt nhất là đều đừng ăn."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 10,
+      "speaker": "安同",
+      "text_zh": "謝謝妳的關心。",
+      "pinyin": "Xièxie nǐ de guānxīn.",
+      "translation_vn": "Cảm ơn sự quan tâm của cậu."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 11,
+      "speaker": "如玉",
+      "text_zh": "(如玉下課以後) 我來看你了。現在覺得怎麼樣？好一點了嗎？",
+      "pinyin": "(Rúyù xiàkè yǐhòu) Wǒ lái kàn nǐ le. Xiànzài juéde zěnmeyàng? Hǎo yìdiǎn le ma?",
+      "translation_vn": "(Sau khi Như Ngọc tan học) Tớ đến thăm cậu đây. Bây giờ cảm thấy thế nào rồi? Đã đỡ hơn chút nào chưa?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 12,
+      "speaker": "安同",
+      "text_zh": "謝謝妳，好多了。我吃了一包藥以後，睡得比昨天好。",
+      "pinyin": "Xièxie nǐ, hǎo duō le. Wǒ chī le yī bāo yào yǐhòu, shuì de bǐ zuótiān hǎo.",
+      "translation_vn": "Cảm ơn cậu, đỡ hơn nhiều rồi. Tớ uống một gói thuốc xong, thì ngủ ngon hơn ngày hôm qua."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 13,
+      "speaker": "如玉",
+      "text_zh": "不錯。你睡了幾個小時的覺以後，現在臉色比早上好得多了。",
+      "pinyin": "Bùcuò. Nǐ shuì le jǐ gè xiǎoshí de jiào yǐhòu, xiànzài liǎnsè bǐ zǎoshang hǎo de duō le.",
+      "translation_vn": "Không tồi. Cậu ngủ được mấy tiếng xong, bây giờ sắc mặt trông đã tốt hơn lúc sáng rất nhiều rồi đấy."
+    }
+  ]
+}

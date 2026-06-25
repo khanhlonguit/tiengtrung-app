@@ -1,0 +1,568 @@
+{
+  "id": 14,
+  "title_vn": "Thời tiết lạnh thế này!",
+  "title_zh": "天氣這麼冷！",
+  "subtitle": "Thời tiết",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "天氣",
+      "pinyin": "tiānqì",
+      "word_type": "N",
+      "meaning_vn": "Thời tiết",
+      "example_zh": "天氣很舒服。",
+      "example_pinyin": "Tiānqì hěn shūfú.",
+      "example_vn": "Thời tiết rất dễ chịu."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "冷",
+      "pinyin": "lěng",
+      "word_type": "Vs",
+      "meaning_vn": "Lạnh",
+      "example_zh": "天氣這麼冷！",
+      "example_pinyin": "Tiānqì zhème lěng!",
+      "example_vn": "Thời tiết lạnh thế này!"
+    },
+    {
+      "order_num": 3,
+      "word_zh": "風",
+      "pinyin": "fēng",
+      "word_type": "N",
+      "meaning_vn": "Gió",
+      "example_zh": "外面風那麼大。",
+      "example_pinyin": "Wàimiàn fēng nàme dà.",
+      "example_vn": "Bên ngoài gió to như vậy."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "滑雪",
+      "pinyin": "huáxuě",
+      "word_type": "V-sep",
+      "meaning_vn": "Trượt tuyết",
+      "example_zh": "我常去山上滑雪。",
+      "example_pinyin": "Wǒ cháng qù shānshàng huáxuě.",
+      "example_vn": "Tôi thường lên núi trượt tuyết."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "春天",
+      "pinyin": "chūntiān",
+      "word_type": "N",
+      "meaning_vn": "Mùa xuân",
+      "example_zh": "我比較喜歡春天。",
+      "example_pinyin": "Wǒ bǐjiào xǐhuan chūntiān.",
+      "example_vn": "Tôi thích mùa xuân hơn."
+    },
+    {
+      "order_num": 6,
+      "word_zh": "想",
+      "pinyin": "xiǎng",
+      "word_type": "Vst",
+      "meaning_vn": "Nhớ",
+      "example_zh": "有一點想家。",
+      "example_pinyin": "Yǒu yìdiǎn xiǎng jiā.",
+      "example_vn": "Có một chút nhớ nhà."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "新年",
+      "pinyin": "xīnnián",
+      "word_type": "N",
+      "meaning_vn": "Năm mới",
+      "example_zh": "新年快到了。",
+      "example_pinyin": "Xīnnián kuài dào le.",
+      "example_vn": "Năm mới sắp đến rồi."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "快",
+      "pinyin": "kuài",
+      "word_type": "Adv",
+      "meaning_vn": "Sắp, nhanh",
+      "example_zh": "新年快到了。",
+      "example_pinyin": "Xīnnián kuài dào le.",
+      "example_vn": "Năm mới sắp đến rồi."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "父母",
+      "pinyin": "fùmǔ",
+      "word_type": "N",
+      "meaning_vn": "Bố mẹ",
+      "example_zh": "回去看父母嗎？",
+      "example_pinyin": "Huíqù kàn fùmǔ ma?",
+      "example_vn": "Về nhà thăm bố mẹ hả?"
+    },
+    {
+      "order_num": 10,
+      "word_zh": "冬天",
+      "pinyin": "dōngtiān",
+      "word_type": "N",
+      "meaning_vn": "Mùa đông",
+      "example_zh": "冬天太冷了。",
+      "example_pinyin": "Dōngtiān tài lěng le.",
+      "example_vn": "Mùa đông lạnh quá."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "明年",
+      "pinyin": "míngnián",
+      "word_type": "N",
+      "meaning_vn": "Năm sau",
+      "example_zh": "我想明年秋天去看紅葉。",
+      "example_pinyin": "Wǒ xiǎng míngnián qiūtiān qù kàn hóngyè.",
+      "example_vn": "Tôi muốn mùa thu năm sau đi xem lá phong."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "秋天",
+      "pinyin": "qiūtiān",
+      "word_type": "N",
+      "meaning_vn": "Mùa thu",
+      "example_zh": "我想明年秋天去看紅葉。",
+      "example_pinyin": "Wǒ xiǎng míngnián qiūtiān qù kàn hóngyè.",
+      "example_vn": "Tôi muốn mùa thu năm sau đi xem lá phong."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "紅葉",
+      "pinyin": "hóngyè",
+      "word_type": "N",
+      "meaning_vn": "Lá phong đỏ",
+      "example_zh": "我想明年秋天去看紅葉。",
+      "example_pinyin": "Wǒ xiǎng míngnián qiūtiān qù kàn hóngyè.",
+      "example_vn": "Tôi muốn mùa thu năm sau đi xem lá phong đỏ."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "只",
+      "pinyin": "zhǐ",
+      "word_type": "Adv",
+      "meaning_vn": "Chỉ",
+      "example_zh": "因為我們只放十天的假。",
+      "example_pinyin": "Yīnwèi wǒmen zhǐ fàng shí tiān de jiǎ.",
+      "example_vn": "Bởi vì chúng tôi chỉ nghỉ lễ 10 ngày."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "玉山",
+      "pinyin": "Yù Shān",
+      "word_type": "Name",
+      "meaning_vn": "Núi Ngọc (Ngọc Sơn)",
+      "example_zh": "玉山常下雪。",
+      "example_pinyin": "Yù shān cháng xiàxuě.",
+      "example_vn": "Núi Ngọc Sơn thường có tuyết rơi."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "紐約",
+      "pinyin": "Niǔyuē",
+      "word_type": "Name",
+      "meaning_vn": "New York",
+      "example_zh": "我去紐約玩。",
+      "example_pinyin": "Wǒ qù Niǔyuē wán.",
+      "example_vn": "Tôi đi New York chơi."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "下雪",
+      "pinyin": "xiàxuě",
+      "word_type": "Phrase",
+      "meaning_vn": "Tuyết rơi",
+      "example_zh": "臺灣會不會下雪？",
+      "example_pinyin": "Táiwān huì bù huì xiàxuě?",
+      "example_vn": "Đài Loan có tuyết rơi không?"
+    },
+    {
+      "order_num": 18,
+      "word_zh": "十二月底",
+      "pinyin": "shí'èryuè dǐ",
+      "word_type": "Phrase",
+      "meaning_vn": "Cuối tháng 12",
+      "example_zh": "我打算十二月底回去。",
+      "example_pinyin": "Wǒ dǎsuàn shí'èryuè dǐ huíqù.",
+      "example_vn": "Tôi dự định cuối tháng 12 trở về."
+    },
+    {
+      "order_num": 19,
+      "word_zh": "雨",
+      "pinyin": "yǔ",
+      "word_type": "N",
+      "meaning_vn": "Mưa",
+      "example_zh": "雨下得這麼大。",
+      "example_pinyin": "Yǔ xià de zhème dà.",
+      "example_vn": "Mưa rơi lớn thế này."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "傘",
+      "pinyin": "sǎn",
+      "word_type": "N",
+      "meaning_vn": "Ô, dù",
+      "example_zh": "妳怎麼沒帶傘呢？",
+      "example_pinyin": "Nǐ zěnme méi dài sǎn ne?",
+      "example_vn": "Sao cậu không mang ô thế?"
+    },
+    {
+      "order_num": 21,
+      "word_zh": "颱風",
+      "pinyin": "táifēng",
+      "word_type": "N",
+      "meaning_vn": "Bão",
+      "example_zh": "颱風快要來了。",
+      "example_pinyin": "Táifēng kuài yào lái le.",
+      "example_vn": "Bão sắp đến rồi."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "要",
+      "pinyin": "yào",
+      "word_type": "Vaux",
+      "meaning_vn": "Sắp, sẽ",
+      "example_zh": "颱風快要來了。",
+      "example_pinyin": "Táifēng kuài yào lái le.",
+      "example_vn": "Bão sắp đến rồi."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "夏天",
+      "pinyin": "xiàtiān",
+      "word_type": "N",
+      "meaning_vn": "Mùa hè",
+      "example_zh": "這裡每年夏天都有颱風。",
+      "example_pinyin": "Zhèlǐ měi nián xiàtiān dōu yǒu táifēng.",
+      "example_vn": "Ở đây mỗi năm vào mùa hè đều có bão."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "濕",
+      "pinyin": "shī",
+      "word_type": "Vs",
+      "meaning_vn": "Ướt",
+      "example_zh": "哪裡都濕濕的。",
+      "example_pinyin": "Nǎlǐ dōu shīshī de.",
+      "example_vn": "Đâu đâu cũng ướt nhẹp."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "討厭",
+      "pinyin": "tǎoyàn",
+      "word_type": "Vs",
+      "meaning_vn": "Đáng ghét, phiền phức",
+      "example_zh": "真討厭。",
+      "example_pinyin": "Zhēn tǎoyàn.",
+      "example_vn": "Thật đáng ghét."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "新聞",
+      "pinyin": "xīnwén",
+      "word_type": "N",
+      "meaning_vn": "Tin tức",
+      "example_zh": "電視新聞說。",
+      "example_pinyin": "Diànshì xīnwén shuō.",
+      "example_vn": "Tin tức truyền hình nói rằng."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "更",
+      "pinyin": "gèng",
+      "word_type": "Adv",
+      "meaning_vn": "Càng, hơn nữa",
+      "example_zh": "這次的颱風會比上次的更大。",
+      "example_pinyin": "Zhè cì de táifēng huì bǐ shàng cì de gèng dà.",
+      "example_vn": "Cơn bão lần này sẽ còn lớn hơn cơn bão lần trước."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "大家",
+      "pinyin": "dàjiā",
+      "word_type": "N",
+      "meaning_vn": "Mọi người",
+      "example_zh": "請大家多小心。",
+      "example_pinyin": "Qǐng dàjiā duō xiǎoxīn.",
+      "example_vn": "Mong mọi người cẩn thận hơn."
+    },
+    {
+      "order_num": 29,
+      "word_zh": "小心",
+      "pinyin": "xiǎoxīn",
+      "word_type": "Vs",
+      "meaning_vn": "Cẩn thận",
+      "example_zh": "請大家多小心。",
+      "example_pinyin": "Qǐng dàjiā duō xiǎoxīn.",
+      "example_vn": "Mong mọi người cẩn thận hơn."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "可怕",
+      "pinyin": "kěpà",
+      "word_type": "Vs",
+      "meaning_vn": "Đáng sợ",
+      "example_zh": "希望這次的沒有上次的那麼可怕。",
+      "example_pinyin": "Xīwàng zhè cì de méiyǒu shàng cì de nàme kěpà.",
+      "example_vn": "Hi vọng lần này không đáng sợ như lần trước."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "停",
+      "pinyin": "tíng",
+      "word_type": "Vp",
+      "meaning_vn": "Tạm dừng, ngừng",
+      "example_zh": "妳看！雨停了。",
+      "example_pinyin": "Nǐ kàn! Yǔ tíng le.",
+      "example_vn": "Cậu nhìn kìa! Mưa tạnh rồi."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "下雨",
+      "pinyin": "xiàyǔ",
+      "word_type": "Phrase",
+      "meaning_vn": "Trời mưa",
+      "example_zh": "下雨了。",
+      "example_pinyin": "Xiàyǔ le.",
+      "example_vn": "Trời mưa rồi."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "這次",
+      "pinyin": "zhè cì",
+      "word_type": "Phrase",
+      "meaning_vn": "Lần này",
+      "example_zh": "這次的颱風。",
+      "example_pinyin": "Zhè cì de táifēng.",
+      "example_vn": "Cơn bão lần này."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "上次",
+      "pinyin": "shàng cì",
+      "word_type": "Phrase",
+      "meaning_vn": "Lần trước",
+      "example_zh": "上次的颱風。",
+      "example_pinyin": "Shàng cì de táifēng.",
+      "example_vn": "Cơn bão lần trước."
+    },
+    {
+      "order_num": 35,
+      "word_zh": "慢走",
+      "pinyin": "màn zǒu",
+      "word_type": "Phrase",
+      "meaning_vn": "Đi thong thả nhé",
+      "example_zh": "小心慢走。",
+      "example_pinyin": "Xiǎoxīn màn zǒu.",
+      "example_vn": "Cẩn thận nhé, đi thong thả."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "Time-Duration after verbal 了 le",
+      "explanation": "Để chỉ một hành động diễn ra trong bao lâu, ta đặt khoảng thời gian (số lượng thời gian) ra đằng sau động từ (đã có trợ từ 了). Nếu có tân ngữ, có thể lặp lại động từ hoặc đưa tân ngữ lên trước.",
+      "examples": "[{\"zh\": \"老師在美國住了一年。\", \"pinyin\": \"Lǎoshī zài Měiguó zhù le yī nián.\", \"vn\": \"Giáo viên đã sống ở Mỹ 1 năm.\"}, {\"zh\": \"他租房子租了半年。\", \"pinyin\": \"Tā zū fángzi zū le bàn nián.\", \"vn\": \"Anh ấy đã thuê nhà được nửa năm (có lặp lại động từ).\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Completion-to-date with Double 了 le",
+      "explanation": "Sử dụng mẫu câu có 2 chữ '了' (một sau động từ, một ở cuối câu) kết hợp với khoảng thời gian để chỉ một hành động đã diễn ra được bao lâu TÍNH ĐẾN THỜI ĐIỂM HIỆN TẠI, và có thể vẫn đang tiếp diễn.",
+      "examples": "[{\"zh\": \"這間房子，他已經租了半年了。\", \"pinyin\": \"Zhè jiān fángzi, tā yǐjīng zū le bàn nián le.\", \"vn\": \"Ngôi nhà này, anh ấy đã thuê được nửa năm rồi (và vẫn đang thuê).\"}, {\"zh\": \"他們學中文學了三個星期了。\", \"pinyin\": \"Tāmen xué Zhōngwén xué le sān gè xīngqī le.\", \"vn\": \"Họ học tiếng Trung được 3 tuần rồi.\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "快 kuài... 了 le (About to)",
+      "explanation": "Dùng '快... 了' (kuài... le) hoặc '快要... 了' (kuài yào... le) để biểu thị một sự việc gì đó SẮP XẢY RA.",
+      "examples": "[{\"zh\": \"快下雨了。\", \"pinyin\": \"Kuài xiàyǔ le.\", \"vn\": \"Trời sắp mưa rồi.\"}, {\"zh\": \"新年快到了。\", \"pinyin\": \"Xīnnián kuài dào le.\", \"vn\": \"Năm mới sắp đến rồi.\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "Comparison 更 gèng (Even more so)",
+      "explanation": "Phó từ '更' (gèng - càng/hơn nữa) được dùng trong câu so sánh để nhấn mạnh mức độ cao hơn nữa của tính từ so với vế trước hoặc một trạng thái đã biết trước đó.",
+      "examples": "[{\"zh\": \"今年比去年更冷。\", \"pinyin\": \"Jīnnián bǐ qùnián gèng lěng.\", \"vn\": \"Năm nay còn lạnh hơn năm ngoái (năm ngoái đã lạnh rồi, năm nay càng lạnh hơn).\"}, {\"zh\": \"他很高，他哥哥比他更高。\", \"pinyin\": \"Tā hěn gāo, tā gēge bǐ tā gèng gāo.\", \"vn\": \"Anh ấy rất cao, anh trai anh ấy còn cao hơn anh ấy.\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Inferior Comparison 沒有... 那麼 / 這麼... (Not as... as...)",
+      "explanation": "Sử dụng 'A 沒有 B (那麼/這麼) + Tính từ' để biểu thị so sánh kém: A không (như thế nào đó) bằng B.",
+      "examples": "[{\"zh\": \"火車沒有高鐵那麼快。\", \"pinyin\": \"Huǒchē méiyǒu gāotiě nàme kuài.\", \"vn\": \"Xe lửa không nhanh bằng tàu cao tốc.\"}, {\"zh\": \"這的颱風沒有上次的那麼可怕。\", \"pinyin\": \"Zhè cì de táifēng méiyǒu shàng cì de nàme kěpà.\", \"vn\": \"Cơn bão lần này không đáng sợ bằng cơn bão lần trước.\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "如玉",
+      "text_zh": "外面風那麼大，我覺得今天比昨天冷。臺灣會不會下雪？",
+      "pinyin": "Wàimiàn fēng nàme dà, wǒ juéde jīntiān bǐ zuótiān lěng. Táiwān huì bù huì xiàxuě?",
+      "translation_vn": "Bên ngoài gió to như vậy, tớ cảm thấy hôm nay lạnh hơn hôm qua. Đài Loan có tuyết rơi không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "明華",
+      "text_zh": "很高的山會下雪。玉山常下雪。美國呢？開始下雪了吧？",
+      "pinyin": "Hěn gāo de shān huì xiàxuě. Yù shān cháng xiàxuě. Měiguó ne? Kāishǐ xiàxuě le ba?",
+      "translation_vn": "Núi rất cao thì sẽ có tuyết rơi. Núi Ngọc Sơn thường có tuyết. Còn Mỹ thì sao? Bắt đầu có tuyết rồi chứ?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "如玉",
+      "text_zh": "還沒有。每年差不多十二月開始。下雪的時候，我常去山上滑雪。",
+      "pinyin": "Hái méiyǒu. Měi nián chàbùduō shí'èryuè kāishǐ. Xiàxuě de shíhòu, wǒ cháng qù shānshàng huáxuě.",
+      "translation_vn": "Vẫn chưa. Mỗi năm khoảng chừng tháng 12 thì bắt đầu. Lúc có tuyết rơi, tớ thường lên núi trượt tuyết."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "明華",
+      "text_zh": "我怕冷。我比較喜歡春天。",
+      "pinyin": "Wǒ pà lěng. Wǒ bǐjiào xǐhuan chūntiān.",
+      "translation_vn": "Tớ sợ lạnh. Tớ thích mùa xuân hơn."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "如玉",
+      "text_zh": "春天不錯，天氣很舒服。",
+      "pinyin": "Chūntiān bùcuò, tiānqì hěn shūfú.",
+      "translation_vn": "Mùa xuân không tồi, thời tiết rất dễ chịu."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "明華",
+      "text_zh": "我去年五月在紐約玩了兩個星期。那個時候，天氣很好，風景也很漂亮，我玩得非常開心。",
+      "pinyin": "Wǒ qùnián wǔyuè zài Niǔyuē wán le liǎng gè xīngqī. Nàge shíhòu, tiānqì hěn hǎo, fēngjǐng yě hěn piàoliang, wǒ wán de fēicháng kāixīn.",
+      "translation_vn": "Tháng 5 năm ngoái tớ đi chơi ở New York 2 tuần. Lúc đó, thời tiết rất đẹp, phong cảnh cũng rất rực rỡ, tớ chơi vô cùng vui vẻ."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "如玉",
+      "text_zh": "我在臺灣住了半年多了。有一點想家。",
+      "pinyin": "Wǒ zài Táiwān zhù le bàn nián duō le. Yǒu yìdiǎn xiǎng jiā.",
+      "translation_vn": "Tớ sống ở Đài Loan được hơn nửa năm rồi. Có hơi nhớ nhà."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "明華",
+      "text_zh": "新年快到了。想回去看父母嗎？",
+      "pinyin": "Xīnnián kuài dào le. Xiǎng huíqù kàn fùmǔ ma?",
+      "translation_vn": "Năm mới sắp đến rồi. Có muốn về nhà thăm bố mẹ không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "如玉",
+      "text_zh": "我打算十二月底回去。想跟我去美國玩嗎？",
+      "pinyin": "Wǒ dǎsuàn shí'èryuè dǐ huíqù. Xiǎng gēn wǒ qù Měiguó wán ma?",
+      "translation_vn": "Tớ dự định cuối tháng 12 về. Có muốn cùng tớ đến Mỹ chơi không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "明華",
+      "text_zh": "冬天太冷了。不過，我想明年秋天去看紅葉。對了，妳什麼時候回來？",
+      "pinyin": "Dōngtiān tài lěng le. Bùguò, wǒ xiǎng míngnián qiūtiān qù kàn hóngyè. Duì le, nǐ shénme shíhòu huílái?",
+      "translation_vn": "Mùa đông lạnh quá. Nhưng mà, tớ muốn mùa thu năm sau đi xem lá phong đỏ. À đúng rồi, bao giờ cậu trở lại?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 11,
+      "speaker": "如玉",
+      "text_zh": "因為我們只放十天的假，所以一月五號回來。",
+      "pinyin": "Yīnwèi wǒmen zhǐ fàng shí tiān de jiǎ, suǒyǐ yīyuè wǔhào huílái.",
+      "translation_vn": "Bởi vì bọn tớ chỉ nghỉ lễ 10 ngày, cho nên ngày 5 tháng 1 sẽ quay lại."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "明華",
+      "text_zh": "如玉，雨下得這麼大，妳怎麼沒帶傘呢？",
+      "pinyin": "Rúyù, yǔ xià de zhème dà, nǐ zěnme méi dài sǎn ne?",
+      "translation_vn": "Như Ngọc, mưa rơi lớn thế này, sao cậu không mang ô thế?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "如玉",
+      "text_zh": "我昨天帶了，可是今天忘了帶。",
+      "pinyin": "Wǒ zuótiān dài le, kěshì jīntiān wàng le dài.",
+      "translation_vn": "Hôm qua tớ mang rồi, nhưng hôm nay lại quên mang."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "明華",
+      "text_zh": "颱風快要來了。",
+      "pinyin": "Táifēng kuài yào lái le.",
+      "translation_vn": "Bão sắp đến rồi."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "如玉",
+      "text_zh": "我已經聽說了。",
+      "pinyin": "Wǒ yǐjīng tīngshuō le.",
+      "translation_vn": "Tớ đã nghe nói rồi."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "明華",
+      "text_zh": "這裡每年夏天都有颱風。颱風來的時候，風和雨都很大，做什麼都很不方便。",
+      "pinyin": "Zhèlǐ měi nián xiàtiān dōu yǒu táifēng. Táifēng lái de shíhòu, fēng hé yǔ dōu hěn dà, zuò shénme dōu hěn bù fāngbiàn.",
+      "translation_vn": "Ở đây mỗi năm vào mùa hè đều có bão. Lúc bão đến, gió và mưa đều rất lớn, làm gì cũng đều rất bất tiện."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "如玉",
+      "text_zh": "是啊！哪裡都濕濕的。真討厭。",
+      "pinyin": "Shì a! Nǎlǐ dōu shīshī de. Zhēn tǎoyàn.",
+      "translation_vn": "Đúng thế! Chỗ nào cũng ướt nhẹp. Thật đáng ghét."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "明華",
+      "text_zh": "電視新聞說，這次的颱風會比上次的更大，請大家多小心。",
+      "pinyin": "Diànshì xīnwén shuō, zhè cì de táifēng huì bǐ shàng cì de gèng dà, qǐng dàjiā duō xiǎoxīn.",
+      "translation_vn": "Tin tức truyền hình nói rằng, cơn bão lần này sẽ lớn hơn cơn bão lần trước, mong mọi người cẩn thận hơn."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "如玉",
+      "text_zh": "希望這次的沒有上次的那麼可怕。",
+      "pinyin": "Xīwàng zhè cì de méiyǒu shàng cì de nàme kěpà.",
+      "translation_vn": "Hy vọng cơn bão lần này không đáng sợ như cơn bão lần trước."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "明華",
+      "text_zh": "如玉，妳看！雨停了。",
+      "pinyin": "Rúyù, nǐ kàn! Yǔ tíng le.",
+      "translation_vn": "Như Ngọc, cậu nhìn kìa! Mưa tạnh rồi."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 10,
+      "speaker": "如玉",
+      "text_zh": "太好了！謝謝你的傘，再見。",
+      "pinyin": "Tài hǎo le! Xièxie nǐ de sǎn, zàijiàn.",
+      "translation_vn": "Tốt quá rồi! Cảm ơn cái ô của cậu nhé, tạm biệt."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 11,
+      "speaker": "明華",
+      "text_zh": "不客氣。小心慢走。",
+      "pinyin": "Bú kèqì. Xiǎoxīn màn zǒu.",
+      "translation_vn": "Không có chi. Cẩn thận, đi thong thả nhé."
+    }
+  ]
+}

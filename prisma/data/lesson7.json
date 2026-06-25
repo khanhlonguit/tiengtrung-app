@@ -1,0 +1,592 @@
+{
+  "id": 7,
+  "title_vn": "Sáng 9 giờ đi KTV",
+  "title_zh": "早上九點去 KTV",
+  "subtitle": "Thời gian (Điểm thời gian, Khoảng thời gian)",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "點",
+      "pinyin": "diǎn",
+      "word_type": "M",
+      "meaning_vn": "Giờ",
+      "example_zh": "早上九點去 KTV。",
+      "example_pinyin": "Zǎoshang jiǔ diǎn qù KTV.",
+      "example_vn": "Sáng 9 giờ đi KTV."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "KTV",
+      "pinyin": "KTV",
+      "word_type": "N",
+      "meaning_vn": "Karaoke",
+      "example_zh": "他們去 KTV 唱歌。",
+      "example_pinyin": "Tāmen qù KTV chànggē.",
+      "example_vn": "Họ đi KTV hát."
+    },
+    {
+      "order_num": 3,
+      "word_zh": "唱歌",
+      "pinyin": "chànggē",
+      "word_type": "V-sep",
+      "meaning_vn": "Hát",
+      "example_zh": "我想聽你唱歌。",
+      "example_pinyin": "Wǒ xiǎng tīng nǐ chànggē.",
+      "example_vn": "Tôi muốn nghe bạn hát."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "分",
+      "pinyin": "fēn",
+      "word_type": "M",
+      "meaning_vn": "Phút",
+      "example_zh": "九點二十分在大安 KTV 見面。",
+      "example_pinyin": "Jiǔ diǎn èrshí fēn zài Dà'ān KTV jiànmiàn.",
+      "example_vn": "9 giờ 20 phút gặp mặt tại KTV Đại An."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "見面",
+      "pinyin": "jiànmiàn",
+      "word_type": "V-sep",
+      "meaning_vn": "Gặp mặt",
+      "example_zh": "我們明天見面。",
+      "example_pinyin": "Wǒmen míngtiān jiànmiàn.",
+      "example_vn": "Ngày mai chúng ta gặp mặt."
+    },
+    {
+      "order_num": 6,
+      "word_zh": "從",
+      "pinyin": "cóng",
+      "word_type": "Prep",
+      "meaning_vn": "Từ",
+      "example_zh": "從早上七點到中午十二點，最便宜。",
+      "example_pinyin": "Cóng zǎoshang qī diǎn dào zhōngwǔ shí'èr diǎn, zuì piányí.",
+      "example_vn": "Từ 7 giờ sáng đến 12 giờ trưa là rẻ nhất."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "中午",
+      "pinyin": "zhōngwǔ",
+      "word_type": "N",
+      "meaning_vn": "Buổi trưa",
+      "example_zh": "我中午有空。",
+      "example_pinyin": "Wǒ zhōngwǔ yǒu kòng.",
+      "example_vn": "Buổi trưa tôi rảnh."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "得",
+      "pinyin": "děi",
+      "word_type": "Vaux",
+      "meaning_vn": "Phải",
+      "example_zh": "我想去，可是我得去銀行。",
+      "example_pinyin": "Wǒ xiǎng qù, kěshì wǒ děi qù yínháng.",
+      "example_vn": "Tôi muốn đi, nhưng tôi phải đi ngân hàng."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "銀行",
+      "pinyin": "yínháng",
+      "word_type": "N",
+      "meaning_vn": "Ngân hàng",
+      "example_zh": "他去銀行買東西。",
+      "example_pinyin": "Tā qù yínháng mǎi dōngxī.",
+      "example_vn": "Anh ấy đi ngân hàng mua đồ."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "時候",
+      "pinyin": "shíhòu",
+      "word_type": "N",
+      "meaning_vn": "Lúc, khi",
+      "example_zh": "你什麼時候有空？",
+      "example_pinyin": "Nǐ shénme shíhòu yǒu kòng?",
+      "example_vn": "Khi nào bạn rảnh?"
+    },
+    {
+      "order_num": 11,
+      "word_zh": "後天",
+      "pinyin": "hòutiān",
+      "word_type": "N",
+      "meaning_vn": "Ngày kia",
+      "example_zh": "後天我有空，你呢？",
+      "example_pinyin": "Hòutiān wǒ yǒu kòng, nǐ ne?",
+      "example_vn": "Ngày kia tôi rảnh, còn bạn?"
+    },
+    {
+      "order_num": 12,
+      "word_zh": "大安",
+      "pinyin": "Dà'ān",
+      "word_type": "Name",
+      "meaning_vn": "Đại An (Tên khu vực ở Đài Bắc)",
+      "example_zh": "我們在大安 KTV 見面。",
+      "example_pinyin": "Wǒmen zài Dà'ān KTV jiànmiàn.",
+      "example_vn": "Chúng ta gặp nhau ở KTV Đại An."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "下次",
+      "pinyin": "xià cì",
+      "word_type": "Phrase",
+      "meaning_vn": "Lần tới",
+      "example_zh": "下次你一定要來。",
+      "example_pinyin": "Xià cì nǐ yīdìng yào lái.",
+      "example_vn": "Lần tới bạn nhất định phải đến."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "沒問題",
+      "pinyin": "méi wèntí",
+      "word_type": "Phrase",
+      "meaning_vn": "Không vấn đề gì",
+      "example_zh": "沒問題。我們後天見。",
+      "example_pinyin": "Méi wèntí. Wǒmen hòutiān jiàn.",
+      "example_vn": "Không vấn đề gì. Ngày kia chúng ta gặp."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "對了",
+      "pinyin": "duìle",
+      "word_type": "Phrase",
+      "meaning_vn": "À đúng rồi",
+      "example_zh": "對了，什麼時候一起吃飯？",
+      "example_pinyin": "Duìle, shénme shíhòu yīqǐ chīfàn?",
+      "example_vn": "À đúng rồi, khi nào cùng đi ăn?"
+    },
+    {
+      "order_num": 16,
+      "word_zh": "有空",
+      "pinyin": "yǒu kòng",
+      "word_type": "Phrase",
+      "meaning_vn": "Có thời gian rảnh",
+      "example_zh": "後天我有空。",
+      "example_pinyin": "Hòutiān wǒ yǒu kòng.",
+      "example_vn": "Ngày kia tôi rảnh."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "再見",
+      "pinyin": "zàijiàn",
+      "word_type": "Phrase",
+      "meaning_vn": "Tạm biệt",
+      "example_zh": "好啊！再見。",
+      "example_pinyin": "Hǎo a! Zàijiàn.",
+      "example_vn": "Được! Tạm biệt."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "在",
+      "pinyin": "zài",
+      "word_type": "Vs",
+      "meaning_vn": "Đang",
+      "example_zh": "你在吃飯嗎？",
+      "example_pinyin": "Nǐ zài chīfàn ma?",
+      "example_vn": "Bạn đang ăn cơm à?"
+    },
+    {
+      "order_num": 19,
+      "word_zh": "午餐",
+      "pinyin": "wǔcān",
+      "word_type": "N",
+      "meaning_vn": "Bữa trưa",
+      "example_zh": "是，吃午餐，等一下要上課。",
+      "example_pinyin": "Shì, chī wǔcān, děng yīxià yào shàngkè.",
+      "example_vn": "Đúng, ăn trưa, đợi một chút phải đi học."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "剛",
+      "pinyin": "gāng",
+      "word_type": "Adv",
+      "meaning_vn": "Vừa mới",
+      "example_zh": "我剛下課。",
+      "example_pinyin": "Wǒ gāng xiàkè.",
+      "example_vn": "Tôi vừa tan học."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "下課",
+      "pinyin": "xiàkè",
+      "word_type": "V-sep",
+      "meaning_vn": "Tan học",
+      "example_zh": "我剛下課。",
+      "example_pinyin": "Wǒ gāng xiàkè.",
+      "example_vn": "Tôi vừa tan học."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "下午",
+      "pinyin": "xiàwǔ",
+      "word_type": "N",
+      "meaning_vn": "Buổi chiều",
+      "example_zh": "下午四點半學校有籃球比賽。",
+      "example_pinyin": "Xiàwǔ sì diǎn bàn xuéxiào yǒu lánqiú bǐsài.",
+      "example_vn": "4 rưỡi chiều trường có trận đấu bóng rổ."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "半",
+      "pinyin": "bàn",
+      "word_type": "N",
+      "meaning_vn": "Một nửa, rưỡi",
+      "example_zh": "下午四點半。",
+      "example_pinyin": "Xiàwǔ sì diǎn bàn.",
+      "example_vn": "4 giờ rưỡi chiều."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "比賽",
+      "pinyin": "bǐsài",
+      "word_type": "N",
+      "meaning_vn": "Cuộc thi, trận đấu",
+      "example_zh": "比賽幾點結束？",
+      "example_pinyin": "Bǐsài jǐ diǎn jiéshù?",
+      "example_vn": "Trận đấu mấy giờ kết thúc?"
+    },
+    {
+      "order_num": 25,
+      "word_zh": "結束",
+      "pinyin": "jiéshù",
+      "word_type": "Vp",
+      "meaning_vn": "Kết thúc",
+      "example_zh": "比賽幾點結束？",
+      "example_pinyin": "Bǐsài jǐ diǎn jiéshù?",
+      "example_vn": "Trận đấu mấy giờ kết thúc?"
+    },
+    {
+      "order_num": 26,
+      "word_zh": "最近",
+      "pinyin": "zuìjìn",
+      "word_type": "N",
+      "meaning_vn": "Gần đây",
+      "example_zh": "我最近很忙。",
+      "example_pinyin": "Wǒ zuìjìn hěn máng.",
+      "example_vn": "Gần đây tôi rất bận."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "忙",
+      "pinyin": "máng",
+      "word_type": "Vs",
+      "meaning_vn": "Bận",
+      "example_zh": "我最近很忙。",
+      "example_pinyin": "Wǒ zuìjìn hěn máng.",
+      "example_vn": "Gần đây tôi rất bận."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "每",
+      "pinyin": "měi",
+      "word_type": "Det",
+      "meaning_vn": "Mỗi",
+      "example_zh": "每天晚上都上書法課。",
+      "example_pinyin": "Měitiān wǎnshang dōu shàng shūfǎ kè.",
+      "example_vn": "Mỗi buổi tối đều đi học lớp thư pháp."
+    },
+    {
+      "order_num": 29,
+      "word_zh": "天",
+      "pinyin": "tiān",
+      "word_type": "M",
+      "meaning_vn": "Ngày",
+      "example_zh": "每天。",
+      "example_pinyin": "Měitiān.",
+      "example_vn": "Mỗi ngày."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "書法",
+      "pinyin": "shūfǎ",
+      "word_type": "N",
+      "meaning_vn": "Thư pháp",
+      "example_zh": "每天晚上都上書法課。",
+      "example_pinyin": "Měitiān wǎnshang dōu shàng shūfǎ kè.",
+      "example_vn": "Mỗi buổi tối đều đi học lớp thư pháp."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "課",
+      "pinyin": "kè",
+      "word_type": "N",
+      "meaning_vn": "Lớp học, bài học",
+      "example_zh": "書法課。",
+      "example_pinyin": "Shūfǎ kè.",
+      "example_vn": "Lớp thư pháp."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "開始",
+      "pinyin": "kāishǐ",
+      "word_type": "Vp",
+      "meaning_vn": "Bắt đầu",
+      "example_zh": "剛開始學。",
+      "example_pinyin": "Gāng kāishǐ xué.",
+      "example_vn": "Vừa mới bắt đầu học."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "字",
+      "pinyin": "zì",
+      "word_type": "N",
+      "meaning_vn": "Chữ",
+      "example_zh": "字寫得不好。",
+      "example_pinyin": "Zì xiě dé bù hǎo.",
+      "example_vn": "Chữ viết không được đẹp."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "寫",
+      "pinyin": "xiě",
+      "word_type": "V",
+      "meaning_vn": "Viết",
+      "example_zh": "字寫得不好。",
+      "example_pinyin": "Zì xiě dé bù hǎo.",
+      "example_vn": "Chữ viết không được đẹp."
+    },
+    {
+      "order_num": 35,
+      "word_zh": "可以",
+      "pinyin": "kěyǐ",
+      "word_type": "Vaux",
+      "meaning_vn": "Có thể (cho phép)",
+      "example_zh": "我有空可以去看看嗎？",
+      "example_pinyin": "Wǒ yǒu kòng kěyǐ qù kànkan ma?",
+      "example_vn": "Lúc rảnh tôi có thể đến xem thử không?"
+    },
+    {
+      "order_num": 36,
+      "word_zh": "問",
+      "pinyin": "wèn",
+      "word_type": "V",
+      "meaning_vn": "Hỏi",
+      "example_zh": "我得問問老師。",
+      "example_pinyin": "Wǒ děi wènwen lǎoshī.",
+      "example_vn": "Tôi phải hỏi thầy giáo xem sao."
+    },
+    {
+      "order_num": 37,
+      "word_zh": "等一下",
+      "pinyin": "děng yīxià",
+      "word_type": "Phrase",
+      "meaning_vn": "Đợi một chút, lát nữa",
+      "example_zh": "等一下要上課。",
+      "example_pinyin": "Děng yīxià yào shàngkè.",
+      "example_vn": "Lát nữa phải đi học."
+    },
+    {
+      "order_num": 38,
+      "word_zh": "有事",
+      "pinyin": "yǒu shì",
+      "word_type": "Phrase",
+      "meaning_vn": "Có việc, bận",
+      "example_zh": "妳晚上有事嗎？",
+      "example_pinyin": "Nǐ wǎnshang yǒu shì ma?",
+      "example_vn": "Tối nay bạn có việc gì không?"
+    },
+    {
+      "order_num": 39,
+      "word_zh": "有意思",
+      "pinyin": "yǒu yìsi",
+      "word_type": "Phrase",
+      "meaning_vn": "Thú vị",
+      "example_zh": "我覺得很有意思。",
+      "example_pinyin": "Wǒ juéde hěn yǒu yìsi.",
+      "example_vn": "Tôi thấy rất thú vị."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "Time and Place of Events",
+      "explanation": "Thời gian và địa điểm của sự kiện thường được chỉ định trong câu bằng cách sử dụng trình tự: Time + Place + Event. Chủ ngữ của câu đứng trước hoặc sau Thời gian.",
+      "examples": "[{\"zh\": \"他和他朋友下午在教室寫書法。\", \"pinyin\": \"Tā hé tā péngyǒu xiàwǔ zài jiàoshì xiě shūfǎ.\", \"vn\": \"Cậu ấy và bạn của cậu ấy buổi chiều viết thư pháp ở phòng học.\"}, {\"zh\": \"我昨天晚上到我家附近的咖啡店喝咖啡。\", \"pinyin\": \"Wǒ zuótiān wǎnshang dào wǒ jiā fùjìn de kāfēidiàn hē kāfēi.\", \"vn\": \"Tối hôm qua tôi đến quán cà phê gần nhà uống cà phê.\"}, {\"zh\": \"我晚上不在家吃飯。\", \"pinyin\": \"Wǒ wǎnshang bù zài jiā chīfàn.\", \"vn\": \"Buổi tối tôi không ăn cơm ở nhà.\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "從...到... (from A to B)",
+      "explanation": "Cấu trúc này được sử dụng để chỉ khoảng cách không gian 'từ... đến...' giữa hai địa điểm và khoảng thời gian 'từ... đến...' của một sự kiện. Nói cách khác, A và B có thể chỉ thời gian hoặc địa điểm.",
+      "examples": "[{\"zh\": \"我從早上十點二十分到下午一點十分有中文課。\", \"pinyin\": \"Wǒ cóng zǎoshang shí diǎn èrshí fēn dào xiàwǔ yī diǎn shí fēn yǒu zhōngwén kè.\", \"vn\": \"Tôi từ 10 giờ 20 sáng đến 1 giờ 10 chiều có lớp tiếng Trung.\"}, {\"zh\": \"從我家到那個游泳池有一點遠。\", \"pinyin\": \"Cóng wǒ jiā dào nàge yóuyǒngchí yǒu yīdiǎn yuǎn.\", \"vn\": \"Từ nhà tôi đến hồ bơi đó hơi xa một chút.\"}, {\"zh\": \"我們書法課不是從九點到十一點。\", \"pinyin\": \"Wǒmen shūfǎ kè bù shì cóng jiǔ diǎn dào shíyī diǎn.\", \"vn\": \"Lớp thư pháp của chúng ta không phải từ 9 giờ đến 11 giờ.\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "Progressive, On-going Actions: 在 zài",
+      "explanation": "在 (zài) chỉ một hoạt động đang diễn ra ở hiện tại hoặc tại một thời điểm nhất định. Chỉ động từ hành động mới có thể sử dụng cấu trúc 在 zài.",
+      "examples": "[{\"zh\": \"李老師在上課。\", \"pinyin\": \"Lǐ lǎoshī zài shàngkè.\", \"vn\": \"Thầy Lý đang lên lớp.\"}, {\"zh\": \"昨天下午五點我在做飯。\", \"pinyin\": \"Zuótiān xiàwǔ wǔ diǎn wǒ zài zuò fàn.\", \"vn\": \"5 giờ chiều hôm qua tôi đang nấu cơm.\"}, {\"zh\": \"他不是在看書。\", \"pinyin\": \"Tā bù shì zài kànshū.\", \"vn\": \"Cậu ấy không phải đang đọc sách.\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "每 měi (every, each)",
+      "explanation": "Từ định lượng 每 (měi) biểu thị ý nghĩa mỗi, mọi. Các câu có 每 hầu như luôn đi kèm với phó từ 都 (dōu) 'đều' để nhấn mạnh ý nghĩa 'không ngoại lệ'.",
+      "examples": "[{\"zh\": \"他妹妹每天都有空。\", \"pinyin\": \"Tā mèimei měitiān dōu yǒu kòng.\", \"vn\": \"Em gái cậu ấy mỗi ngày đều rảnh.\"}, {\"zh\": \"他朋友每個週末都去學校附近的游泳池游泳。\", \"pinyin\": \"Tā péngyǒu měi ge zhōumò dōu qù xuéxiào fùjìn de yóuyǒngchí yóuyǒng.\", \"vn\": \"Bạn cậu ấy mỗi cuối tuần đều đi đến hồ bơi gần trường bơi lội.\"}, {\"zh\": \"他每天都不忙。\", \"pinyin\": \"Tā měitiān dōu bù máng.\", \"vn\": \"Cậu ấy mỗi ngày đều không bận.\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "可以 kěyǐ (permission)",
+      "explanation": "可以 (kěyǐ) biểu thị sự cho phép thực hiện một hành động.",
+      "examples": "[{\"zh\": \"我媽媽說，你們可以來我家打籃球。\", \"pinyin\": \"Wǒ māma shuō, nǐmen kěyǐ lái wǒ jiā dǎ lánqiú.\", \"vn\": \"Mẹ tôi nói, các bạn có thể đến nhà tôi chơi bóng rổ.\"}, {\"zh\": \"爸爸說，我可以買這支手機。\", \"pinyin\": \"Bàba shuō, wǒ kěyǐ mǎi zhè zhī shǒujī.\", \"vn\": \"Bố nói, tôi có thể mua chiếc điện thoại này.\"}, {\"zh\": \"你可以叫我小馬。\", \"pinyin\": \"Nǐ kěyǐ jiào wǒ Xiǎo Mǎ.\", \"vn\": \"Bạn có thể gọi tôi là Tiểu Mã.\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "安同",
+      "text_zh": "月美，妳要去哪裡？",
+      "pinyin": "Yuèměi, nǐ yào qù nǎlǐ?",
+      "translation_vn": "Nguyệt Mỹ, cậu muốn đi đâu vậy?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "月美",
+      "text_zh": "去 KTV 唱歌。我和朋友九點二十分在大安 KTV 見面。",
+      "pinyin": "Qù KTV chànggē. Wǒ hé péngyǒu jiǔ diǎn èrshí fēn zài Dà'ān KTV jiànmiàn.",
+      "translation_vn": "Đi KTV hát. Tớ và bạn hẹn gặp mặt ở KTV Đại An lúc 9 giờ 20 phút."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "安同",
+      "text_zh": "早上九點去 KTV？為什麼？",
+      "pinyin": "Zǎoshang jiǔ diǎn qù KTV? Wèishénme?",
+      "translation_vn": "Sáng 9 giờ đi KTV sao? Vì sao vậy?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "月美",
+      "text_zh": "從早上七點到中午十二點，最便宜。要不要一起去？",
+      "pinyin": "Cóng zǎoshang qī diǎn dào zhōngwǔ shí'èr diǎn, zuì piányí. Yào bù yào yīqǐ qù?",
+      "translation_vn": "Từ 7 giờ sáng đến 12 giờ trưa là rẻ nhất. Cậu có muốn đi cùng không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "安同",
+      "text_zh": "我想去，可是我得去銀行。下次吧！",
+      "pinyin": "Wǒ xiǎng qù, kěshì wǒ děi qù yínháng. Xià cì ba!",
+      "translation_vn": "Tớ muốn đi, nhưng tớ phải đi ngân hàng. Để lần tới vậy!"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "月美",
+      "text_zh": "好啊，下次你一定要來，我想聽你唱歌。",
+      "pinyin": "Hǎo a, xià cì nǐ yīdìng yào lái, wǒ xiǎng tīng nǐ chànggē.",
+      "translation_vn": "Được, lần tới cậu nhất định phải đến nhé, tớ muốn nghe cậu hát."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "安同",
+      "text_zh": "沒問題。對了，什麼時候有空一起吃飯？",
+      "pinyin": "Méi wèntí. Duìle, shénme shíhòu yǒu kòng yīqǐ chīfàn?",
+      "translation_vn": "Không vấn đề gì. À đúng rồi, khi nào cậu rảnh thì cùng đi ăn nhé?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "月美",
+      "text_zh": "後天我有空，你呢？",
+      "pinyin": "Hòutiān wǒ yǒu kòng, nǐ ne?",
+      "translation_vn": "Ngày kia tớ rảnh, còn cậu?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "安同",
+      "text_zh": "我也有空，後天晚上七點怎麼樣？",
+      "pinyin": "Wǒ yě yǒu kòng, hòutiān wǎnshang qī diǎn zěnmeyàng?",
+      "translation_vn": "Tớ cũng rảnh, 7 giờ tối ngày kia được không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "月美",
+      "text_zh": "好啊！再見。",
+      "pinyin": "Hǎo a! Zàijiàn.",
+      "translation_vn": "Được nha! Tạm biệt."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "安同",
+      "text_zh": "如玉，妳在吃飯嗎？",
+      "pinyin": "Rúyù, nǐ zài chīfàn ma?",
+      "translation_vn": "Như Ngọc, cậu đang ăn cơm à?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "如玉",
+      "text_zh": "是，吃午餐，等一下要上課。你呢？",
+      "pinyin": "Shì, chī wǔcān, děng yīxià yào shàngkè. Nǐ ne?",
+      "translation_vn": "Đúng, ăn trưa, lát nữa phải lên lớp. Còn cậu thì sao?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "安同",
+      "text_zh": "我剛下課。對了，下午四點半學校有籃球比賽。妳想去看嗎？",
+      "pinyin": "Wǒ gāng xiàkè. Duìle, xiàwǔ sì diǎn bàn xuéxiào yǒu lánqiú bǐsài. Nǐ xiǎng qù kàn ma?",
+      "translation_vn": "Tớ vừa tan học. À đúng rồi, 4 rưỡi chiều nay trường có thi đấu bóng rổ. Cậu có muốn đi xem không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "如玉",
+      "text_zh": "想啊。比賽幾點結束？",
+      "pinyin": "Xiǎng a. Bǐsài jǐ diǎn jiéshù?",
+      "translation_vn": "Muốn chứ. Trận đấu mấy giờ kết thúc?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "安同",
+      "text_zh": "六點半。妳晚上有事嗎？",
+      "pinyin": "Liù diǎn bàn. Nǐ wǎnshang yǒu shì ma?",
+      "translation_vn": "6 giờ rưỡi. Buổi tối cậu có việc gì không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "如玉",
+      "text_zh": "我最近很忙，每天晚上都上書法課。",
+      "pinyin": "Wǒ zuìjìn hěn máng, měitiān wǎnshang dōu shàng shūfǎ kè.",
+      "translation_vn": "Gần đây tớ rất bận, mỗi buổi tối đều học lớp thư pháp."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "安同",
+      "text_zh": "學得怎麼樣？",
+      "pinyin": "Xué de zěnmeyàng?",
+      "translation_vn": "Cậu học thế nào rồi?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "如玉",
+      "text_zh": "剛開始學，字寫得不好，可是我覺得很有意思。",
+      "pinyin": "Gāng kāishǐ xué, zì xiě dé bù hǎo, kěshì wǒ juéde hěn yǒu yìsi.",
+      "translation_vn": "Vừa mới bắt đầu học thôi, chữ viết không được đẹp, nhưng tớ thấy rất thú vị."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "安同",
+      "text_zh": "我有空可以去看看嗎？",
+      "pinyin": "Wǒ yǒu kòng kěyǐ qù kànkan ma?",
+      "translation_vn": "Khi nào tớ rảnh tớ có thể đến xem thử không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 10,
+      "speaker": "如玉",
+      "text_zh": "我得問問老師。",
+      "pinyin": "Wǒ děi wènwen lǎoshī.",
+      "translation_vn": "Tớ phải hỏi thầy giáo xem sao đã."
+    }
+  ]
+}

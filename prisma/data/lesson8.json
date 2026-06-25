@@ -1,0 +1,534 @@
+{
+  "id": 8,
+  "title_vn": "Đi tàu hỏa đến Đài Nam",
+  "title_zh": "坐火車去臺南",
+  "subtitle": "Phương tiện giao thông",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "坐",
+      "pinyin": "zuò",
+      "word_type": "V",
+      "meaning_vn": "Ngồi, đi (xe)",
+      "example_zh": "我想坐火車去。",
+      "example_pinyin": "Wǒ xiǎng zuò huǒchē qù.",
+      "example_vn": "Tôi muốn đi bằng tàu hỏa."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "火車",
+      "pinyin": "huǒchē",
+      "word_type": "N",
+      "meaning_vn": "Tàu hỏa",
+      "example_zh": "火車太慢了。",
+      "example_pinyin": "Huǒchē tài màn le.",
+      "example_vn": "Tàu hỏa quá chậm."
+    },
+    {
+      "order_num": 3,
+      "word_zh": "跟",
+      "pinyin": "gēn",
+      "word_type": "Prep",
+      "meaning_vn": "Với, cùng",
+      "example_zh": "我想跟朋友去。",
+      "example_pinyin": "Wǒ xiǎng gēn péngyǒu qù.",
+      "example_vn": "Tôi muốn đi cùng bạn."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "玩",
+      "pinyin": "wán",
+      "word_type": "V",
+      "meaning_vn": "Chơi",
+      "example_zh": "去臺南玩。",
+      "example_pinyin": "Qù Táinán wán.",
+      "example_vn": "Đi Đài Nam chơi."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "怎麼",
+      "pinyin": "zěnme",
+      "word_type": "Adv",
+      "meaning_vn": "Thế nào, làm sao",
+      "example_zh": "怎麼去？",
+      "example_pinyin": "Zěnme qù?",
+      "example_vn": "Đi thế nào?"
+    },
+    {
+      "order_num": 6,
+      "word_zh": "慢",
+      "pinyin": "màn",
+      "word_type": "Vs",
+      "meaning_vn": "Chậm",
+      "example_zh": "火車太慢了。",
+      "example_pinyin": "Huǒchē tài màn le.",
+      "example_vn": "Tàu hỏa chậm quá."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "鐘頭",
+      "pinyin": "zhōngtóu",
+      "word_type": "N",
+      "meaning_vn": "Giờ, tiếng đồng hồ",
+      "example_zh": "要四個多鐘頭。",
+      "example_pinyin": "Yào sì gè duō zhōngtóu.",
+      "example_vn": "Cần hơn 4 tiếng đồng hồ."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "比較",
+      "pinyin": "bǐjiào",
+      "word_type": "Adv",
+      "meaning_vn": "Hơn, tương đối",
+      "example_zh": "坐高鐵比較快。",
+      "example_pinyin": "Zuò gāotiě bǐjiào kuài.",
+      "example_vn": "Đi tàu cao tốc nhanh hơn."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "快",
+      "pinyin": "kuài",
+      "word_type": "Vs",
+      "meaning_vn": "Nhanh",
+      "example_zh": "坐高鐵比較快。",
+      "example_pinyin": "Zuò gāotiě bǐjiào kuài.",
+      "example_vn": "Đi tàu cao tốc nhanh hơn."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "車票",
+      "pinyin": "chēpiào",
+      "word_type": "N",
+      "meaning_vn": "Vé xe, vé tàu",
+      "example_zh": "高鐵車票非常貴。",
+      "example_pinyin": "Gāotiě chēpiào fēicháng guì.",
+      "example_vn": "Vé tàu cao tốc vô cùng đắt."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "非常",
+      "pinyin": "fēicháng",
+      "word_type": "Adv",
+      "meaning_vn": "Rất, vô cùng",
+      "example_zh": "高鐵車票非常貴。",
+      "example_pinyin": "Gāotiě chēpiào fēicháng guì.",
+      "example_vn": "Vé tàu cao tốc vô cùng đắt."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "但是",
+      "pinyin": "dànshì",
+      "word_type": "Conj",
+      "meaning_vn": "Nhưng mà",
+      "example_zh": "但是坐高鐵又快又舒服。",
+      "example_pinyin": "Dànshì zuò gāotiě yòu kuài yòu shūfú.",
+      "example_vn": "Nhưng đi tàu cao tốc vừa nhanh vừa thoải mái."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "又",
+      "pinyin": "yòu",
+      "word_type": "Adv",
+      "meaning_vn": "Vừa... vừa...",
+      "example_zh": "又快又舒服。",
+      "example_pinyin": "Yòu kuài yòu shūfú.",
+      "example_vn": "Vừa nhanh vừa thoải mái."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "舒服",
+      "pinyin": "shūfú",
+      "word_type": "Vs",
+      "meaning_vn": "Thoải mái",
+      "example_zh": "又快又舒服。",
+      "example_pinyin": "Yòu kuài yòu shūfú.",
+      "example_vn": "Vừa nhanh vừa thoải mái."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "站",
+      "pinyin": "zhàn",
+      "word_type": "N",
+      "meaning_vn": "Trạm, ga",
+      "example_zh": "在高鐵站買票。",
+      "example_pinyin": "Zài gāotiě zhàn mǎi piào.",
+      "example_vn": "Mua vé ở ga tàu cao tốc."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "或是",
+      "pinyin": "huòshì",
+      "word_type": "Conj",
+      "meaning_vn": "Hoặc là",
+      "example_zh": "網路上或是便利商店都可以。",
+      "example_pinyin": "Wǎngzhù shàng huòshì biànlì shāngdiàn dōu kěyǐ.",
+      "example_vn": "Trên mạng hoặc là cửa hàng tiện lợi đều được."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "臺南",
+      "pinyin": "Táinán",
+      "word_type": "Name",
+      "meaning_vn": "Đài Nam",
+      "example_zh": "坐火車去臺南。",
+      "example_pinyin": "Zuò huǒchē qù Táinán.",
+      "example_vn": "Đi tàu hỏa đến Đài Nam."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "高鐵",
+      "pinyin": "Gāotiě",
+      "word_type": "Name",
+      "meaning_vn": "Tàu cao tốc (HSR)",
+      "example_zh": "坐高鐵比較快。",
+      "example_pinyin": "Zuò gāotiě bǐjiào kuài.",
+      "example_vn": "Đi tàu cao tốc nhanh hơn."
+    },
+    {
+      "order_num": 19,
+      "word_zh": "網路上",
+      "pinyin": "wǎngzhù shàng",
+      "word_type": "Phrase",
+      "meaning_vn": "Trên mạng",
+      "example_zh": "在網路上買。",
+      "example_pinyin": "Zài wǎngzhù shàng mǎi.",
+      "example_vn": "Mua ở trên mạng."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "便利商店",
+      "pinyin": "biànlì shāngdiàn",
+      "word_type": "Phrase",
+      "meaning_vn": "Cửa hàng tiện lợi",
+      "example_zh": "便利商店都可以。",
+      "example_pinyin": "Biànlì shāngdiàn dōu kěyǐ.",
+      "example_vn": "Cửa hàng tiện lợi đều được."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "同學",
+      "pinyin": "tóngxué",
+      "word_type": "N",
+      "meaning_vn": "Bạn học",
+      "example_zh": "我要跟同學去。",
+      "example_pinyin": "Wǒ yào gēn tóngxué qù.",
+      "example_vn": "Tôi muốn đi cùng bạn học."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "參觀",
+      "pinyin": "cānguān",
+      "word_type": "V",
+      "meaning_vn": "Tham quan",
+      "example_zh": "去參觀故宮博物院。",
+      "example_pinyin": "Qù cānguān Gùgōng Bówùyuàn.",
+      "example_vn": "Đi tham quan Bảo tàng Cố cung."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "古代",
+      "pinyin": "gǔdài",
+      "word_type": "N",
+      "meaning_vn": "Thời cổ đại",
+      "example_zh": "有很多中國古代的東西。",
+      "example_pinyin": "Yǒu hěn duō Zhōngguó gǔdài de dōngxī.",
+      "example_vn": "Có rất nhiều đồ vật thời cổ đại của Trung Quốc."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "騎",
+      "pinyin": "qí",
+      "word_type": "V",
+      "meaning_vn": "Cưỡi, đi (xe đạp, xe máy)",
+      "example_zh": "我同學騎機車載我。",
+      "example_pinyin": "Wǒ tóngxué qí jīchē zài wǒ.",
+      "example_vn": "Bạn học của tôi đi xe máy chở tôi."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "機車",
+      "pinyin": "jīchē",
+      "word_type": "N",
+      "meaning_vn": "Xe máy, xe tay ga",
+      "example_zh": "我同學騎機車載我。",
+      "example_pinyin": "Wǒ tóngxué qí jīchē zài wǒ.",
+      "example_vn": "Bạn học của tôi đi xe máy chở tôi."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "載",
+      "pinyin": "zài",
+      "word_type": "V",
+      "meaning_vn": "Chở",
+      "example_zh": "我同學騎機車載我。",
+      "example_pinyin": "Wǒ tóngxué qí jīchē zài wǒ.",
+      "example_vn": "Bạn học của tôi đi xe máy chở tôi."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "捷運",
+      "pinyin": "jiéyùn",
+      "word_type": "N",
+      "meaning_vn": "Tàu điện ngầm (MRT)",
+      "example_zh": "我想坐捷運去。",
+      "example_pinyin": "Wǒ xiǎng zuò jiéyùn qù.",
+      "example_vn": "Tôi muốn đi bằng tàu điện ngầm."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "比",
+      "pinyin": "bǐ",
+      "word_type": "Prep",
+      "meaning_vn": "So với, hơn",
+      "example_zh": "騎機車比坐公車快嗎？",
+      "example_pinyin": "Qí jīchē bǐ zuò gōngchē kuài ma?",
+      "example_vn": "Đi xe máy có nhanh hơn đi xe buýt không?"
+    },
+    {
+      "order_num": 29,
+      "word_zh": "故宮博物院",
+      "pinyin": "Gùgōng Bówùyuàn",
+      "word_type": "Name",
+      "meaning_vn": "Bảo tàng Cố cung",
+      "example_zh": "去參觀故宮博物院。",
+      "example_pinyin": "Qù cānguān Gùgōng Bówùyuàn.",
+      "example_vn": "Đi tham quan Bảo tàng Cố cung."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "中國",
+      "pinyin": "Zhōngguó",
+      "word_type": "Name",
+      "meaning_vn": "Trung Quốc",
+      "example_zh": "中國古代的東西。",
+      "example_pinyin": "Zhōngguó gǔdài de dōngxī.",
+      "example_vn": "Đồ vật thời cổ đại của Trung Quốc."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "公共汽車",
+      "pinyin": "gōnggòng qìchē",
+      "word_type": "Phrase",
+      "meaning_vn": "Xe buýt",
+      "example_zh": "妳可以坐公共汽車去。",
+      "example_pinyin": "Nǐ kěyǐ zuò gōnggòng qìchē qù.",
+      "example_vn": "Bạn có thể đi xe buýt."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "不行",
+      "pinyin": "bù xíng",
+      "word_type": "Phrase",
+      "meaning_vn": "Không được",
+      "example_zh": "不行，到故宮沒有捷運。",
+      "example_pinyin": "Bù xíng, dào Gùgōng méi yǒu jiéyùn.",
+      "example_vn": "Không được, đến Cố cung không có tàu điện ngầm."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "計程車",
+      "pinyin": "jìchéngchē",
+      "word_type": "Phrase",
+      "meaning_vn": "Xe taxi",
+      "example_zh": "妳要不要坐計程車去？",
+      "example_pinyin": "Nǐ yào bù yào zuò jìchéngchē qù?",
+      "example_vn": "Bạn có muốn đi taxi không?"
+    },
+    {
+      "order_num": 34,
+      "word_zh": "差不多",
+      "pinyin": "chàbùduō",
+      "word_type": "Phrase",
+      "meaning_vn": "Gần giống nhau, xấp xỉ",
+      "example_zh": "差不多。",
+      "example_pinyin": "Chàbùduō.",
+      "example_vn": "Gần bằng nhau."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "Companionship with 跟 gēn",
+      "explanation": "Giới từ 跟 (gēn) giới thiệu người mà ai đó làm việc gì đó cùng. Cụm từ '跟 gēn + người' đứng trước động từ. Phó từ 一起 (yīqǐ) thường đi kèm với 跟 và được đặt trước động từ chính.",
+      "examples": "[{\"zh\": \"我常跟哥哥去看棒球比賽。\", \"pinyin\": \"Wǒ cháng gēn gēge qù kàn bàngqiú bǐsài.\", \"vn\": \"Tôi thường cùng anh trai đi xem trận bóng chày.\"}, {\"zh\": \"我跟朋友在餐廳吃飯。\", \"pinyin\": \"Wǒ gēn péngyǒu zài cāntīng chīfàn.\", \"vn\": \"Tôi cùng bạn bè ăn cơm ở nhà hàng.\"}, {\"zh\": \"我今天不跟同學去上書法課。\", \"pinyin\": \"Wǒ jīntiān bù gēn tóngxué qù shàng shūfǎ kè.\", \"vn\": \"Hôm nay tôi không đi học thư pháp cùng bạn học.\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Asking How with 怎麼 zěnme",
+      "explanation": "怎麼 (zěnme) là một phó từ nghi vấn, dùng để hỏi cách thức thực hiện một việc gì đó. Phân biệt: 怎麼 (Thế nào, làm sao) là phó từ, trong khi 怎麼樣 (Thế nào, ra sao) là tính từ trạng thái.",
+      "examples": "[{\"zh\": \"你們怎麼去？\", \"pinyin\": \"Nǐmen zěnme qù?\", \"vn\": \"Các bạn đi bằng gì?\"}, {\"zh\": \"這個菜怎麼做？\", \"pinyin\": \"Zhège cài zěnme zuò?\", \"vn\": \"Món này làm như thế nào?\"}, {\"zh\": \"這支新手機怎麼上網？\", \"pinyin\": \"Zhè zhī xīn shǒujī zěnme shàngwǎng?\", \"vn\": \"Cái điện thoại mới này lên mạng thế nào?\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "Implicit Comparison with 比較 bǐjiào",
+      "explanation": "Phó từ 比較 (bǐjiào) truyền đạt một sự so sánh ngầm. Sự so sánh được hiểu dựa trên ngữ cảnh.",
+      "examples": "[{\"zh\": \"今天比較熱。\", \"pinyin\": \"Jīntiān bǐjiào rè.\", \"vn\": \"Hôm nay tương đối nóng (nóng hơn mức bình thường).\"}, {\"zh\": \"越南餐廳很遠。坐捷運比較快。\", \"pinyin\": \"Yuènán cāntīng hěn yuǎn. Zuò jiéyùn bǐjiào kuài.\", \"vn\": \"Nhà hàng Việt Nam rất xa. Đi tàu điện ngầm sẽ nhanh hơn.\"}, {\"zh\": \"昨天比較不熱。\", \"pinyin\": \"Zuótiān bǐjiào bù rè.\", \"vn\": \"Hôm qua đỡ nóng hơn.\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "又 yòu… 又 yòu… (both A and B)",
+      "explanation": "Mẫu câu 又... 又... (vừa... vừa...) được sử dụng để chỉ ra hai phẩm chất, tình huống hoặc hành vi đều đúng với người hoặc vật đang được nhắc đến. Cấu trúc: 又 + Vs + 又 + Vs.",
+      "examples": "[{\"zh\": \"這家餐廳的菜，又便宜又好吃。\", \"pinyin\": \"Zhè jiā cāntīng de cài, yòu piányí yòu hǎochī.\", \"vn\": \"Đồ ăn ở nhà hàng này, vừa rẻ lại vừa ngon.\"}, {\"zh\": \"坐高鐵又快又舒服。\", \"pinyin\": \"Zuò gāotiě yòu kuài yòu shūfú.\", \"vn\": \"Đi tàu cao tốc vừa nhanh vừa thoải mái.\"}, {\"zh\": \"我的舊手機又不能照相又不能上網。\", \"pinyin\": \"Wǒ de jiù shǒujī yòu bù néng zhàoxiàng yòu bù néng shàngwǎng.\", \"vn\": \"Chiếc điện thoại cũ của tôi vừa không thể chụp ảnh lại vừa không thể lên mạng.\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Comparison with 比 bǐ",
+      "explanation": "Giới từ 比 (bǐ) biểu thị sự so sánh rõ ràng giữa hai đối tượng. Cấu trúc: A 比 B Vs (A hơn B về mặt nào đó). Dạng phủ định là 不比 hoặc 不是比.",
+      "examples": "[{\"zh\": \"山上的風景比這裡漂亮。\", \"pinyin\": \"Shānshàng de fēngjǐng bǐ zhèlǐ piàoliang.\", \"vn\": \"Phong cảnh trên núi đẹp hơn ở đây.\"}, {\"zh\": \"坐捷運比坐火車快。\", \"pinyin\": \"Zuò jiéyùn bǐ zuò huǒchē kuài.\", \"vn\": \"Đi tàu điện ngầm nhanh hơn đi tàu hỏa.\"}, {\"zh\": \"我的車不比他的車貴。\", \"pinyin\": \"Wǒ de chē bù bǐ tā de chē guì.\", \"vn\": \"Xe của tôi không đắt hơn xe của anh ấy.\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "如玉",
+      "text_zh": "這個週末，我想跟朋友去臺南玩。",
+      "pinyin": "Zhège zhōumò, wǒ xiǎng gēn péngyǒu qù Táinán wán.",
+      "translation_vn": "Cuối tuần này, tớ muốn cùng bạn bè đi Đài Nam chơi."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "明華",
+      "text_zh": "怎麼去？",
+      "pinyin": "Zěnme qù?",
+      "translation_vn": "Đi bằng gì?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "如玉",
+      "text_zh": "我想坐火車去。",
+      "pinyin": "Wǒ xiǎng zuò huǒchē qù.",
+      "translation_vn": "Tớ muốn đi bằng tàu hỏa."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "明華",
+      "text_zh": "火車太慢了，要四個多鐘頭，坐高鐵比較快。",
+      "pinyin": "Huǒchē tài màn le, yào sì gè duō zhōngtóu, zuò gāotiě bǐjiào kuài.",
+      "translation_vn": "Tàu hỏa chậm quá, mất hơn 4 tiếng lận, đi tàu cao tốc sẽ nhanh hơn."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "如玉",
+      "text_zh": "可是聽說高鐵車票非常貴。",
+      "pinyin": "Kěshì tīngshuō gāotiě chēpiào fēicháng guì.",
+      "translation_vn": "Nhưng tớ nghe nói vé tàu cao tốc vô cùng đắt."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "明華",
+      "text_zh": "高鐵車票有一點貴，但是坐高鐵又快又舒服。",
+      "pinyin": "Gāotiě chēpiào yǒu yīdiǎn guì, dànshì zuò gāotiě yòu kuài yòu shūfú.",
+      "translation_vn": "Vé tàu cao tốc hơi đắt một chút, nhưng mà đi tàu cao tốc vừa nhanh vừa thoải mái."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "如玉",
+      "text_zh": "我不知道在哪裡買票。",
+      "pinyin": "Wǒ bù zhīdào zài nǎlǐ mǎi piào.",
+      "translation_vn": "Tớ không biết mua vé ở đâu."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "明華",
+      "text_zh": "在高鐵站、網路上或是便利商店都可以。",
+      "pinyin": "Zài gāotiě zhàn, wǎngzhù shàng huòshì biànlì shāngdiàn dōu kěyǐ.",
+      "translation_vn": "Mua ở ga tàu cao tốc, trên mạng hoặc là ở cửa hàng tiện lợi đều được."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "如玉",
+      "text_zh": "這麼方便！那我坐高鐵去，謝謝你。",
+      "pinyin": "Zhème fāngbiàn! Nà wǒ zuò gāotiě qù, xièxie nǐ.",
+      "translation_vn": "Tiện lợi thế! Vậy tớ đi tàu cao tốc, cảm ơn cậu nha."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "如玉",
+      "text_zh": "安同，明天我們沒課，你想去哪裡？",
+      "pinyin": "Āntóng, míngtiān wǒmen méi kè, nǐ xiǎng qù nǎlǐ?",
+      "translation_vn": "An Đồng, ngày mai chúng ta không có lớp, cậu muốn đi đâu?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "安同",
+      "text_zh": "我要跟同學去參觀故宮博物院。",
+      "pinyin": "Wǒ yào gēn tóngxué qù cānguān Gùgōng Bówùyuàn.",
+      "translation_vn": "Tớ muốn cùng bạn bè đi tham quan Bảo tàng Cố cung."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "如玉",
+      "text_zh": "聽說那裡有很多中國古代的東西。",
+      "pinyin": "Tīngshuō nàlǐ yǒu hěn duō Zhōngguó gǔdài de dōngxī.",
+      "translation_vn": "Nghe nói ở đó có rất nhiều món đồ cổ đại của Trung Quốc."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "安同",
+      "text_zh": "是啊。妳要跟我們去看看嗎？",
+      "pinyin": "Shì a. Nǐ yào gēn wǒmen qù kànkan ma?",
+      "translation_vn": "Đúng thế. Cậu có muốn cùng chúng tớ đi xem thử không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "如玉",
+      "text_zh": "好。怎麼去？",
+      "pinyin": "Hǎo. Zěnme qù?",
+      "translation_vn": "Được. Đi thế nào?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "安同",
+      "text_zh": "我同學騎機車載我。妳可以坐公共汽車去。",
+      "pinyin": "Wǒ tóngxué qí jīchē zài wǒ. Nǐ kěyǐ zuò gōnggòng qìchē qù.",
+      "translation_vn": "Bạn tớ đi xe máy chở tớ. Cậu có thể đi xe buýt."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "如玉",
+      "text_zh": "我想坐捷運去。比較快。",
+      "pinyin": "Wǒ xiǎng zuò jiéyùn qù. Bǐjiào kuài.",
+      "translation_vn": "Tớ muốn đi tàu điện ngầm. Nhanh hơn một chút."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "安同",
+      "text_zh": "不行，到故宮沒有捷運。妳要不要坐計程車去？",
+      "pinyin": "Bù xíng, dào Gùgōng méi yǒu jiéyùn. Nǐ yào bù yào zuò jìchéngchē qù?",
+      "translation_vn": "Không được, đến Cố cung không có tàu điện ngầm. Cậu có muốn đi taxi không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "如玉",
+      "text_zh": "太貴了！我坐公車。騎機車比坐公車快嗎？",
+      "pinyin": "Tài guì le! Wǒ zuò gōngchē. Qí jīchē bǐ zuò gōngchē kuài ma?",
+      "translation_vn": "Đắt quá! Tớ sẽ đi xe buýt. Đi xe máy có nhanh hơn xe buýt không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 10,
+      "speaker": "安同",
+      "text_zh": "差不多。",
+      "pinyin": "Chàbùduō.",
+      "translation_vn": "Cũng xấp xỉ nhau thôi."
+    }
+  ]
+}

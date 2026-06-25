@@ -1,0 +1,586 @@
+{
+  "id": 3,
+  "title_vn": "Cuối tuần làm gì?",
+  "title_zh": "週末做什麼",
+  "subtitle": "Sở thích & hoạt động",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "週末",
+      "pinyin": "zhōumò",
+      "word_type": "N",
+      "meaning_vn": "Cuối tuần",
+      "example_zh": "明天是週末。",
+      "example_pinyin": "Míngtiān shì zhōumò.",
+      "example_vn": "Ngày mai là cuối tuần."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "聽",
+      "pinyin": "tīng",
+      "word_type": "V",
+      "meaning_vn": "Nghe",
+      "example_zh": "你喜歡聽音樂嗎？",
+      "example_pinyin": "Nǐ xǐhuān tīng yīnyuè ma?",
+      "example_vn": "Bạn thích nghe nhạc không?"
+    },
+    {
+      "order_num": 3,
+      "word_zh": "音樂",
+      "pinyin": "yīnyuè",
+      "word_type": "N",
+      "meaning_vn": "Âm nhạc",
+      "example_zh": "我不喜歡聽音樂。",
+      "example_pinyin": "Wǒ bù xǐhuān tīng yīnyuè.",
+      "example_vn": "Tôi không thích nghe nhạc."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "運動",
+      "pinyin": "yùndòng",
+      "word_type": "Vi",
+      "meaning_vn": "Vận động, tập thể dục",
+      "example_zh": "我喜歡運動。",
+      "example_pinyin": "Wǒ xǐhuān yùndòng.",
+      "example_vn": "Tôi thích thể dục."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "打",
+      "pinyin": "dǎ",
+      "word_type": "V",
+      "meaning_vn": "Chơi, đánh (dùng tay)",
+      "example_zh": "你喜歡打網球嗎？",
+      "example_pinyin": "Nǐ xǐhuān dǎ wǎngqiú ma?",
+      "example_vn": "Bạn thích chơi tennis không?"
+    },
+    {
+      "order_num": 6,
+      "word_zh": "網球",
+      "pinyin": "wǎngqiú",
+      "word_type": "N",
+      "meaning_vn": "Quần vợt, tennis",
+      "example_zh": "我不喜歡打網球。",
+      "example_pinyin": "Wǒ bù xǐhuān dǎ wǎngqiú.",
+      "example_vn": "Tôi không thích chơi tennis."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "棒球",
+      "pinyin": "bàngqiú",
+      "word_type": "N",
+      "meaning_vn": "Bóng chày",
+      "example_zh": "打棒球和游泳。",
+      "example_pinyin": "Dǎ bàngqiú hé yóuyǒng.",
+      "example_vn": "Chơi bóng chày và bơi lội."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "和",
+      "pinyin": "hé",
+      "word_type": "Conj",
+      "meaning_vn": "Và, với (nối danh từ)",
+      "example_zh": "棒球和游泳",
+      "example_pinyin": "bàngqiú hé yóuyǒng",
+      "example_vn": "bóng chày và bơi lội"
+    },
+    {
+      "order_num": 9,
+      "word_zh": "游泳",
+      "pinyin": "yóuyǒng",
+      "word_type": "V-sep",
+      "meaning_vn": "Bơi lội",
+      "example_zh": "我喜歡游泳。",
+      "example_pinyin": "Wǒ xǐhuān yóuyǒng.",
+      "example_vn": "Tôi thích bơi lội."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "常",
+      "pinyin": "cháng",
+      "word_type": "Adv",
+      "meaning_vn": "Thường, hay",
+      "example_zh": "我常打籃球。",
+      "example_pinyin": "Wǒ cháng dǎ lánqiú.",
+      "example_vn": "Tôi thường chơi bóng rổ."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "籃球",
+      "pinyin": "lánqiú",
+      "word_type": "N",
+      "meaning_vn": "Bóng rổ",
+      "example_zh": "我常打籃球，也常踢足球。",
+      "example_pinyin": "Wǒ cháng dǎ lánqiú, yě cháng tī zúqiú.",
+      "example_vn": "Tôi thường chơi bóng rổ, cũng hay đá bóng."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "也",
+      "pinyin": "yě",
+      "word_type": "Adv",
+      "meaning_vn": "Cũng",
+      "example_zh": "我也喜歡。",
+      "example_pinyin": "Wǒ yě xǐhuān.",
+      "example_vn": "Tôi cũng thích."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "踢",
+      "pinyin": "tī",
+      "word_type": "V",
+      "meaning_vn": "Đá (dùng chân)",
+      "example_zh": "我喜歡踢足球。",
+      "example_pinyin": "Wǒ xǐhuān tī zúqiú.",
+      "example_vn": "Tôi thích đá bóng."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "足球",
+      "pinyin": "zúqiú",
+      "word_type": "N",
+      "meaning_vn": "Bóng đá",
+      "example_zh": "踢足球很好玩！",
+      "example_pinyin": "Tī zúqiú hěn hǎowán!",
+      "example_vn": "Đá bóng rất vui!"
+    },
+    {
+      "order_num": 15,
+      "word_zh": "覺得",
+      "pinyin": "juéde",
+      "word_type": "Vst",
+      "meaning_vn": "Cảm thấy, nghĩ, thấy",
+      "example_zh": "我覺得踢足球很好玩。",
+      "example_pinyin": "Wǒ juéde tī zúqiú hěn hǎowán.",
+      "example_vn": "Tôi thấy đá bóng rất vui."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "好玩",
+      "pinyin": "hǎowán",
+      "word_type": "Vst",
+      "meaning_vn": "Vui, thú vị",
+      "example_zh": "這個遊戲很好玩。",
+      "example_pinyin": "Zhège yóuxì hěn hǎowán.",
+      "example_vn": "Trò chơi này rất vui."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "明天",
+      "pinyin": "míngtiān",
+      "word_type": "N",
+      "meaning_vn": "Ngày mai",
+      "example_zh": "明天是週末。",
+      "example_pinyin": "Míngtiān shì zhōumò.",
+      "example_vn": "Ngày mai là cuối tuần."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "早上",
+      "pinyin": "zǎoshang",
+      "word_type": "N",
+      "meaning_vn": "Buổi sáng",
+      "example_zh": "我們早上去踢足球。",
+      "example_pinyin": "Wǒmen zǎoshang qù tī zúqiú.",
+      "example_vn": "Chúng ta sáng đi đá bóng."
+    },
+    {
+      "order_num": 19,
+      "word_zh": "去",
+      "pinyin": "qù",
+      "word_type": "V",
+      "meaning_vn": "Đi, đi đến",
+      "example_zh": "我們去看電影吧！",
+      "example_pinyin": "Wǒmen qù kàn diànyǐng ba!",
+      "example_vn": "Chúng ta đi xem phim đi!"
+    },
+    {
+      "order_num": 20,
+      "word_zh": "怎麼樣",
+      "pinyin": "zěnmeyàng",
+      "word_type": "Vs",
+      "meaning_vn": "Thế nào, như thế nào",
+      "example_zh": "去踢足球，怎麼樣？",
+      "example_pinyin": "Qù tī zúqiú, zěnmeyàng?",
+      "example_vn": "Đi đá bóng, thế nào?"
+    },
+    {
+      "order_num": 21,
+      "word_zh": "啊",
+      "pinyin": "a",
+      "word_type": "P",
+      "meaning_vn": "Nhỉ, nhá (trợ từ cuối câu)",
+      "example_zh": "好啊！",
+      "example_pinyin": "Hǎo a!",
+      "example_vn": "Được đó!"
+    },
+    {
+      "order_num": 22,
+      "word_zh": "好啊",
+      "pinyin": "hǎo a",
+      "word_type": "Expr",
+      "meaning_vn": "Được đó, đồng ý",
+      "example_zh": "好啊！",
+      "example_pinyin": "Hǎo a!",
+      "example_vn": "Được đó!"
+    },
+    {
+      "order_num": 23,
+      "word_zh": "今天",
+      "pinyin": "jīntiān",
+      "word_type": "N",
+      "meaning_vn": "Hôm nay",
+      "example_zh": "今天晚上去看電影。",
+      "example_pinyin": "Jīntiān wǎnshàng qù kàn diànyǐng.",
+      "example_vn": "Tối nay đi xem phim."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "晚上",
+      "pinyin": "wǎnshang",
+      "word_type": "N",
+      "meaning_vn": "Buổi tối",
+      "example_zh": "今天晚上去看電影。",
+      "example_pinyin": "Jīntiān wǎnshàng qù kàn diànyǐng.",
+      "example_vn": "Tối nay đi xem phim."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "看",
+      "pinyin": "kàn",
+      "word_type": "V",
+      "meaning_vn": "Xem, nhìn",
+      "example_zh": "你想看電影嗎？",
+      "example_pinyin": "Nǐ xiǎng kàn diànyǐng ma?",
+      "example_vn": "Bạn muốn xem phim không?"
+    },
+    {
+      "order_num": 26,
+      "word_zh": "電影",
+      "pinyin": "diànyǐng",
+      "word_type": "N",
+      "meaning_vn": "Phim điện ảnh",
+      "example_zh": "臺灣電影，我都想看。",
+      "example_pinyin": "Táiwān diànyǐng, wǒ dōu xiǎng kàn.",
+      "example_vn": "Phim Đài Loan, tôi đều muốn xem."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "想",
+      "pinyin": "xiǎng",
+      "word_type": "V-aux",
+      "meaning_vn": "Muốn, định, nghĩ",
+      "example_zh": "你想看美國電影還是臺灣電影？",
+      "example_pinyin": "Nǐ xiǎng kàn Měiguó diànyǐng háishì Táiwān diànyǐng?",
+      "example_vn": "Bạn muốn xem phim Mỹ hay phim Đài Loan?"
+    },
+    {
+      "order_num": 28,
+      "word_zh": "還是",
+      "pinyin": "háishì",
+      "word_type": "Conj",
+      "meaning_vn": "Hay, hay là (lựa chọn)",
+      "example_zh": "喝茶還是喝咖啡？",
+      "example_pinyin": "Hē chá háishì hē kāfēi?",
+      "example_vn": "Uống trà hay uống cà phê?"
+    },
+    {
+      "order_num": 29,
+      "word_zh": "吧",
+      "pinyin": "ba",
+      "word_type": "P",
+      "meaning_vn": "Đi, nhé (gợi ý cuối câu)",
+      "example_zh": "我們看臺灣電影吧！",
+      "example_pinyin": "Wǒmen kàn Táiwān diànyǐng ba!",
+      "example_vn": "Chúng ta xem phim Đài Loan nhé!"
+    },
+    {
+      "order_num": 30,
+      "word_zh": "可以",
+      "pinyin": "kěyǐ",
+      "word_type": "V-aux",
+      "meaning_vn": "Có thể (khả năng)",
+      "example_zh": "看電影可以學中文。",
+      "example_pinyin": "Kàn diànyǐng kěyǐ xué Zhōngwén.",
+      "example_vn": "Xem phim có thể học tiếng Trung."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "學",
+      "pinyin": "xué",
+      "word_type": "V",
+      "meaning_vn": "Học",
+      "example_zh": "我在學中文。",
+      "example_pinyin": "Wǒ zài xué Zhōngwén.",
+      "example_vn": "Tôi đang học tiếng Trung."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "中文",
+      "pinyin": "Zhōngwén",
+      "word_type": "N",
+      "meaning_vn": "Tiếng Trung",
+      "example_zh": "看電影可以學中文。",
+      "example_pinyin": "Kàn diànyǐng kěyǐ xué Zhōngwén.",
+      "example_vn": "Xem phim có thể học tiếng Trung."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "一起",
+      "pinyin": "yìqǐ",
+      "word_type": "Adv",
+      "meaning_vn": "Cùng nhau",
+      "example_zh": "我們一起去吃飯吧！",
+      "example_pinyin": "Wǒmen yìqǐ qù chīfàn ba!",
+      "example_vn": "Chúng ta cùng đi ăn cơm nhé!"
+    },
+    {
+      "order_num": 34,
+      "word_zh": "吃",
+      "pinyin": "chī",
+      "word_type": "V",
+      "meaning_vn": "Ăn",
+      "example_zh": "我們去吃越南菜。",
+      "example_pinyin": "Wǒmen qù chī Yuènán cài.",
+      "example_vn": "Chúng ta đi ăn món Việt Nam."
+    },
+    {
+      "order_num": 35,
+      "word_zh": "晚飯",
+      "pinyin": "wǎnfàn",
+      "word_type": "N",
+      "meaning_vn": "Bữa tối, cơm tối",
+      "example_zh": "晚上一起吃晚飯，好不好？",
+      "example_pinyin": "Wǎnshàng yīqǐ chī wǎnfàn, hǎo bù hǎo?",
+      "example_vn": "Tối cùng ăn tối nhé, được không?"
+    },
+    {
+      "order_num": 36,
+      "word_zh": "菜",
+      "pinyin": "cài",
+      "word_type": "N",
+      "meaning_vn": "Món ăn, rau",
+      "example_zh": "我們去吃越南菜。",
+      "example_pinyin": "Wǒmen qù chī Yuènán cài.",
+      "example_vn": "Chúng ta đi ăn món Việt Nam."
+    },
+    {
+      "order_num": 37,
+      "word_zh": "越南",
+      "pinyin": "Yuènán",
+      "word_type": "N",
+      "meaning_vn": "Việt Nam",
+      "example_zh": "我們去吃越南菜。",
+      "example_pinyin": "Wǒmen qù chī Yuènán cài.",
+      "example_vn": "Chúng ta đi ăn món Việt Nam."
+    },
+    {
+      "order_num": 38,
+      "word_zh": "好不好",
+      "pinyin": "hǎo bù hǎo",
+      "word_type": "Expr",
+      "meaning_vn": "Được không, đồng ý không",
+      "example_zh": "一起去吃飯，好不好？",
+      "example_pinyin": "Yìqǐ qù chīfàn, hǎo bù hǎo?",
+      "example_vn": "Cùng đi ăn, được không?"
+    },
+    {
+      "order_num": 39,
+      "word_zh": "做什麼",
+      "pinyin": "zuò shénme",
+      "word_type": "Expr",
+      "meaning_vn": "Làm gì",
+      "example_zh": "你喜歡做什麼？",
+      "example_pinyin": "Nǐ xǐhuān zuò shénme?",
+      "example_vn": "Bạn thích làm gì?"
+    },
+    {
+      "order_num": 40,
+      "word_zh": "白如玉",
+      "pinyin": "Bái Rúyù",
+      "word_type": "N",
+      "meaning_vn": "Bạch Như Ngọc (tên riêng)",
+      "example_zh": "白如玉是美國人。",
+      "example_pinyin": "Bái Rúyù shì Měiguó rén.",
+      "example_vn": "Bạch Như Ngọc là người Mỹ."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "Vị trí của Từ chỉ Thời gian",
+      "explanation": "Từ chỉ thời gian xuất hiện sau hoặc trước chủ ngữ, không đứng cuối câu. Cấu trúc: [Thời gian] + Chủ ngữ + VP hoặc Chủ ngữ + [Thời gian] + VP. Các đơn vị thời gian từ lớn đến nhỏ.",
+      "examples": "[{\"zh\":\"我們今天去看電影。\",\"pinyin\":\"Wǒmen jīntiān qù kàn diànyǐng.\",\"vn\":\"Hôm nay chúng tôi đi xem phim.\"},{\"zh\":\"你明天想去游泳嗎？\",\"pinyin\":\"Nǐ míngtiān xiǎng qù yóuyǒng ma?\",\"vn\":\"Ngày mai bạn có muốn đi bơi không?\"},{\"zh\":\"明天晚上 (lớn → nhỏ)\",\"pinyin\":\"míngtiān wǎnshàng\",\"vn\":\"Tối ngày mai (ngày → buổi)\"},{\"zh\":\"週末早上 (lớn → nhỏ)\",\"pinyin\":\"zhōumò zǎoshàng\",\"vn\":\"Sáng cuối tuần (tuần → buổi)\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Đi làm gì đó — 去 (qù) + VP",
+      "explanation": "去 + động từ/cụm động từ chỉ ý định đi đến đâu để làm gì. Từ phủ định, trợ động từ, trạng từ đặt TRƯỚC 去.",
+      "examples": "[{\"zh\":\"我去打網球。\",\"pinyin\":\"Wǒ qù dǎ wǎngqiú.\",\"vn\":\"Tôi đi chơi quần vợt.\"},{\"zh\":\"我們去看電影吧！\",\"pinyin\":\"Wǒmen qù kàn diànyǐng ba!\",\"vn\":\"Chúng ta đi xem phim đi!\"},{\"zh\":\"我不去打籃球。\",\"pinyin\":\"Wǒ bú qù dǎ lánqiú.\",\"vn\":\"Tôi không đi chơi bóng rổ.\"},{\"zh\":\"你要去看電影嗎？\",\"pinyin\":\"Nǐ yào qù kàn diànyǐng ma?\",\"vn\":\"Bạn muốn đi xem phim không?\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "Câu Chủ đề — Nhận xét (Topic-Comment)",
+      "explanation": "Đưa đối tượng lên đầu câu làm \"chủ đề\", phần còn lại là \"nhận xét\". Nếu chủ đề là tập hợp/nhiều đối tượng, bắt buộc dùng 都 (dōu).",
+      "examples": "[{\"zh\":\"打棒球，我不喜歡。\",\"pinyin\":\"Dǎ bàngqiú, wǒ bù xǐhuān.\",\"vn\":\"Chơi bóng chày, tôi không thích.\"},{\"zh\":\"這張照片，我覺得很好看。\",\"pinyin\":\"Zhè zhāng zhàopiàn, wǒ juéde hěn hǎokàn.\",\"vn\":\"Bức ảnh này, tôi nghĩ rất đẹp.\"},{\"zh\":\"中國菜，我都喜歡吃。\",\"pinyin\":\"Zhōngguó cài, wǒ dōu xǐhuān chī.\",\"vn\":\"Đồ ăn Trung Quốc, tôi đều thích ăn.\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "Trật tự trạng từ: 也、都、常",
+      "explanation": "也 (yě) đứng trước 都/常. Trật tự: 也 → 都 → 常 → VP. Khi phủ định: 也 đứng trước 不/沒有, 不 đứng trước 常.",
+      "examples": "[{\"zh\":\"我不是日本人，他也不是。\",\"pinyin\":\"Wǒ bú shì Rìběn rén, tā yě bú shì.\",\"vn\":\"Tôi không phải người Nhật, anh ấy cũng không phải.\"},{\"zh\":\"我沒有弟弟，也沒有妹妹。\",\"pinyin\":\"Wǒ méiyǒu dìdi, yě méiyǒu mèimei.\",\"vn\":\"Tôi không có em trai, cũng không có em gái.\"},{\"zh\":\"我不常看電影。\",\"pinyin\":\"Wǒ bù cháng kàn diànyǐng.\",\"vn\":\"Tôi không hay xem phim.\"},{\"zh\":\"我們都不是美國人。\",\"pinyin\":\"Wǒmen dōu bú shì Měiguó rén.\",\"vn\":\"Chúng tôi đều không phải người Mỹ.\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Gợi ý với 吧 (ba)",
+      "explanation": "吧 đặt cuối câu để biểu thị lời gợi ý, đề xuất nhẹ nhàng. Làm dịu câu mệnh lệnh, giúp câu lịch sự hơn.",
+      "examples": "[{\"zh\":\"我們看臺灣電影吧！\",\"pinyin\":\"Wǒmen kàn Táiwān diànyǐng ba!\",\"vn\":\"Chúng ta xem phim Đài Loan nhé!\"},{\"zh\":\"我們去喝咖啡吧。\",\"pinyin\":\"Wǒmen qù hē kāfēi ba.\",\"vn\":\"Chúng mình đi uống cà phê đi.\"},{\"zh\":\"我們打網球吧！\",\"pinyin\":\"Wǒmen dǎ wǎngqiú ba!\",\"vn\":\"Chúng ta chơi quần vợt đi!\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "安同",
+      "text_zh": "田中，你喜歡聽音樂嗎？",
+      "pinyin": "Tiánzhōng, nǐ xǐhuān tīng yīnyuè ma?",
+      "translation_vn": "Điền Trung, anh có thích nghe nhạc không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "田中",
+      "text_zh": "我不喜歡聽音樂。我喜歡運動。",
+      "pinyin": "Wǒ bù xǐhuān tīng yīnyuè. Wǒ xǐhuān yùndòng.",
+      "translation_vn": "Anh không thích nghe nhạc. Anh thích tập thể dục."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "安同",
+      "text_zh": "你喜歡打網球嗎？",
+      "pinyin": "Nǐ xǐhuān dǎ wǎngqiú ma?",
+      "translation_vn": "Anh thích chơi quần vợt không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "田中",
+      "text_zh": "我不喜歡打網球。",
+      "pinyin": "Wǒ bù xǐhuān dǎ wǎngqiú.",
+      "translation_vn": "Anh không thích chơi quần vợt."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "安同",
+      "text_zh": "你喜歡做什麼？",
+      "pinyin": "Nǐ xǐhuān zuò shénme?",
+      "translation_vn": "Anh thích làm gì?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "田中",
+      "text_zh": "打棒球和游泳，你呢？",
+      "pinyin": "Dǎ bàngqiú hé yóuyǒng, nǐ ne?",
+      "translation_vn": "Chơi bóng chày và bơi lội. Còn em?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "安同",
+      "text_zh": "我常打籃球，也常踢足球。",
+      "pinyin": "Wǒ cháng dǎ lánqiú, yě cháng tī zúqiú.",
+      "translation_vn": "Em thường chơi bóng rổ, cũng hay đá bóng."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "田中",
+      "text_zh": "我覺得踢足球很好玩。",
+      "pinyin": "Wǒ juéde tī zúqiú hěn hǎowán.",
+      "translation_vn": "Anh thấy bóng đá rất vui."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "安同",
+      "text_zh": "明天是週末，我們早上去踢足球，怎麼樣？",
+      "pinyin": "Míngtiān shì zhōumò. Wǒmen zǎoshang qù tī zúqiú, zěnmeyàng?",
+      "translation_vn": "Ngày mai là cuối tuần. Sáng mai chúng ta đi đá bóng, thế nào?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "田中",
+      "text_zh": "好啊！",
+      "pinyin": "Hǎo a!",
+      "translation_vn": "Được đó!"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "如玉",
+      "text_zh": "今天晚上我們去看電影，好不好？",
+      "pinyin": "Jīntiān wǎnshàng wǒmen qù kàn diànyǐng, hǎo bù hǎo?",
+      "translation_vn": "Tối nay chúng mình đi xem phim nhé, đồng ý không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "月美",
+      "text_zh": "好啊！",
+      "pinyin": "Hǎo a!",
+      "translation_vn": "Được thôi!"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "如玉",
+      "text_zh": "妳想看美國電影還是臺灣電影？",
+      "pinyin": "Nǐ xiǎng kàn Měiguó diànyǐng háishì Táiwān diànyǐng?",
+      "translation_vn": "Chị muốn xem phim Mỹ hay phim Đài Loan?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "月美",
+      "text_zh": "美國電影、臺灣電影，我都想看。",
+      "pinyin": "Měiguó diànyǐng, Táiwān diànyǐng, wǒ dōu xiǎng kàn.",
+      "translation_vn": "Phim Mỹ hay phim Đài Loan, với chị đều được."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "如玉",
+      "text_zh": "我們看臺灣電影吧！",
+      "pinyin": "Wǒmen kàn Táiwān diànyǐng ba!",
+      "translation_vn": "Chúng mình xem phim Đài Loan nhé!"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "月美",
+      "text_zh": "好啊！看電影可以學中文。",
+      "pinyin": "Hǎo a! Kàn diànyǐng kěyǐ xué Zhōngwén.",
+      "translation_vn": "Ừ! Xem phim có thể học tiếng Trung."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "如玉",
+      "text_zh": "晚上要不要一起吃晚飯？",
+      "pinyin": "Wǎnshàng yào bú yào yìqǐ chī wǎnfàn?",
+      "translation_vn": "Tối có muốn cùng ăn tối không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "月美",
+      "text_zh": "好，我們去吃越南菜。",
+      "pinyin": "Hǎo, wǒmen qù chī Yuènán cài.",
+      "translation_vn": "Ừ, chúng mình đi ăn món Việt Nam đi."
+    }
+  ]
+}

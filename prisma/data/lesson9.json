@@ -1,0 +1,518 @@
+{
+  "id": 9,
+  "title_vn": "Nghỉ lễ đi đâu chơi?",
+  "title_zh": "放假去哪裡玩？",
+  "subtitle": "Giải trí (Thời điểm và khoảng thời gian)",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "星期",
+      "pinyin": "xīngqí",
+      "word_type": "N",
+      "meaning_vn": "Tuần",
+      "example_zh": "下個星期我們放假。",
+      "example_pinyin": "Xià ge xīngqí wǒmen fàngjià.",
+      "example_vn": "Tuần sau chúng tôi nghỉ lễ."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "回國",
+      "pinyin": "huíguó",
+      "word_type": "V-sep",
+      "meaning_vn": "Về nước",
+      "example_zh": "你要回國嗎？",
+      "example_pinyin": "Nǐ yào huíguó ma?",
+      "example_vn": "Bạn có về nước không?"
+    },
+    {
+      "order_num": 3,
+      "word_zh": "打算",
+      "pinyin": "dǎsuàn",
+      "word_type": "Vaux",
+      "meaning_vn": "Dự định",
+      "example_zh": "我打算在家看電視。",
+      "example_pinyin": "Wǒ dǎsuàn zài jiā kàn diànshì.",
+      "example_vn": "Tôi dự định ở nhà xem tivi."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "電視",
+      "pinyin": "diànshì",
+      "word_type": "N",
+      "meaning_vn": "Tivi",
+      "example_zh": "我打算在家看電視。",
+      "example_pinyin": "Wǒ dǎsuàn zài jiā kàn diànshì.",
+      "example_vn": "Tôi dự định ở nhà xem tivi."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "影片",
+      "pinyin": "yǐngpiàn",
+      "word_type": "N",
+      "meaning_vn": "Phim, video",
+      "example_zh": "看影片學中文。",
+      "example_pinyin": "Kàn yǐngpiàn xué Zhōngwén.",
+      "example_vn": "Xem phim học tiếng Trung."
+    },
+    {
+      "order_num": 6,
+      "word_zh": "旅行",
+      "pinyin": "lǚxíng",
+      "word_type": "Vi",
+      "meaning_vn": "Du lịch",
+      "example_zh": "你常去旅行嗎？",
+      "example_pinyin": "Nǐ cháng qù lǚxíng ma?",
+      "example_vn": "Bạn có thường đi du lịch không?"
+    },
+    {
+      "order_num": 7,
+      "word_zh": "功課",
+      "pinyin": "gōngkè",
+      "word_type": "N",
+      "meaning_vn": "Bài tập về nhà",
+      "example_zh": "在家寫功課。",
+      "example_pinyin": "Zài jiā xiě gōngkè.",
+      "example_vn": "Ở nhà làm bài tập."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "出去",
+      "pinyin": "chūqù",
+      "word_type": "Vi",
+      "meaning_vn": "Ra ngoài",
+      "example_zh": "有時候出去玩。",
+      "example_pinyin": "Yǒu shíhòu chūqù wán.",
+      "example_vn": "Có lúc ra ngoài chơi."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "大概",
+      "pinyin": "dàgài",
+      "word_type": "Adv",
+      "meaning_vn": "Khoảng, đại khái",
+      "example_zh": "大概玩四、五天。",
+      "example_pinyin": "Dàgài wán sì, wǔ tiān.",
+      "example_vn": "Chơi khoảng 4, 5 ngày."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "放假",
+      "pinyin": "fàngjià",
+      "word_type": "Phrase",
+      "meaning_vn": "Nghỉ lễ",
+      "example_zh": "我們放五天的假。",
+      "example_pinyin": "Wǒmen fàng wǔ tiān de jià.",
+      "example_vn": "Chúng tôi nghỉ lễ 5 ngày."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "下個星期",
+      "pinyin": "xià ge xīngqí",
+      "word_type": "Phrase",
+      "meaning_vn": "Tuần sau",
+      "example_zh": "下個星期我們放假。",
+      "example_pinyin": "Xià ge xīngqí wǒmen fàngjià.",
+      "example_vn": "Tuần sau chúng tôi nghỉ lễ."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "有時候",
+      "pinyin": "yǒu shíhòu",
+      "word_type": "Phrase",
+      "meaning_vn": "Có lúc, thỉnh thoảng",
+      "example_zh": "有時候在家寫功課。",
+      "example_pinyin": "Yǒu shíhòu zài jiā xiě gōngkè.",
+      "example_vn": "Có lúc ở nhà làm bài tập."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "多久",
+      "pinyin": "duō jiǔ",
+      "word_type": "Phrase",
+      "meaning_vn": "Bao lâu",
+      "example_zh": "去玩多久？",
+      "example_pinyin": "Qù wán duō jiǔ?",
+      "example_vn": "Đi chơi bao lâu?"
+    },
+    {
+      "order_num": 14,
+      "word_zh": "臺東",
+      "pinyin": "Táidōng",
+      "word_type": "Name",
+      "meaning_vn": "Đài Đông",
+      "example_zh": "去臺東玩。",
+      "example_pinyin": "Qù Táidōng wán.",
+      "example_vn": "Đi Đài Đông chơi."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "女",
+      "pinyin": "nǚ",
+      "word_type": "N",
+      "meaning_vn": "Nữ, con gái",
+      "example_zh": "我女朋友要來臺灣看我。",
+      "example_pinyin": "Wǒ nǚpéngyǒu yào lái Táiwān kàn wǒ.",
+      "example_vn": "Bạn gái tôi sẽ đến Đài Loan thăm tôi."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "月",
+      "pinyin": "yuè",
+      "word_type": "N",
+      "meaning_vn": "Tháng",
+      "example_zh": "九月。",
+      "example_pinyin": "Jiǔ yuè.",
+      "example_vn": "Tháng 9."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "號",
+      "pinyin": "hào",
+      "word_type": "N",
+      "meaning_vn": "Ngày (trong tháng)",
+      "example_zh": "九月三十號。",
+      "example_pinyin": "Jiǔ yuè sānshí hào.",
+      "example_vn": "Ngày 30 tháng 9."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "帶",
+      "pinyin": "dài",
+      "word_type": "V",
+      "meaning_vn": "Mang, dẫn",
+      "example_zh": "你想帶她去哪裡玩？",
+      "example_pinyin": "Nǐ xiǎng dài tā qù nǎlǐ wán?",
+      "example_vn": "Bạn muốn dẫn cô ấy đi đâu chơi?"
+    },
+    {
+      "order_num": 19,
+      "word_zh": "她",
+      "pinyin": "tā",
+      "word_type": "N",
+      "meaning_vn": "Cô ấy",
+      "example_zh": "你想帶她去哪裡玩？",
+      "example_pinyin": "Nǐ xiǎng dài tā qù nǎlǐ wán?",
+      "example_vn": "Bạn muốn dẫn cô ấy đi đâu chơi?"
+    },
+    {
+      "order_num": 20,
+      "word_zh": "還",
+      "pinyin": "hái",
+      "word_type": "Adv",
+      "meaning_vn": "Vẫn, còn",
+      "example_zh": "還不知道。",
+      "example_pinyin": "Hái bù zhīdào.",
+      "example_vn": "Vẫn chưa biết."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "建議",
+      "pinyin": "jiànyì",
+      "word_type": "N",
+      "meaning_vn": "Kiến nghị, đề nghị",
+      "example_zh": "你有什麼建議？",
+      "example_pinyin": "Nǐ yǒu shénme jiànyì?",
+      "example_vn": "Bạn có đề nghị gì không?"
+    },
+    {
+      "order_num": 22,
+      "word_zh": "夜市",
+      "pinyin": "yèshì",
+      "word_type": "N",
+      "meaning_vn": "Chợ đêm",
+      "example_zh": "臺灣的夜市很有名。",
+      "example_pinyin": "Táiwān de yèshì hěn yǒumíng.",
+      "example_vn": "Chợ đêm của Đài Loan rất nổi tiếng."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "應該",
+      "pinyin": "yīnggāi",
+      "word_type": "Vaux",
+      "meaning_vn": "Nên",
+      "example_zh": "你們應該去逛逛。",
+      "example_pinyin": "Nǐmen yīnggāi qù guàngguang.",
+      "example_vn": "Các bạn nên đi dạo."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "逛",
+      "pinyin": "guàng",
+      "word_type": "V",
+      "meaning_vn": "Dạo, đi dạo",
+      "example_zh": "你們應該去逛逛。",
+      "example_pinyin": "Nǐmen yīnggāi qù guàngguang.",
+      "example_vn": "Các bạn nên đi dạo."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "特別",
+      "pinyin": "tèbié",
+      "word_type": "Vs",
+      "meaning_vn": "Đặc biệt",
+      "example_zh": "臺灣的茶也很特別。",
+      "example_pinyin": "Táiwān de chá yě hěn tèbié.",
+      "example_vn": "Trà của Đài Loan cũng rất đặc biệt."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "茶館",
+      "pinyin": "cháguǎn",
+      "word_type": "N",
+      "meaning_vn": "Quán trà",
+      "example_zh": "臺北有很多茶館。",
+      "example_pinyin": "Táiběi yǒu hěn duō cháguǎn.",
+      "example_vn": "Đài Bắc có rất nhiều quán trà."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "決定",
+      "pinyin": "juédìng",
+      "word_type": "Vp",
+      "meaning_vn": "Quyết định",
+      "example_zh": "我決定帶她去貓空。",
+      "example_pinyin": "Wǒ juédìng dài tā qù Māokōng.",
+      "example_vn": "Tôi quyết định dẫn cô ấy đi Miêu Không."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "要是",
+      "pinyin": "yàoshì",
+      "word_type": "Conj",
+      "meaning_vn": "Nếu như",
+      "example_zh": "要是那時候我有空。",
+      "example_pinyin": "Yàoshì nà shíhòu wǒ yǒu kòng.",
+      "example_vn": "Nếu như lúc đó tôi rảnh."
+    },
+    {
+      "order_num": 29,
+      "word_zh": "就",
+      "pinyin": "jiù",
+      "word_type": "Adv",
+      "meaning_vn": "Thì",
+      "example_zh": "要是那時候我有空，就跟你們一起去。",
+      "example_pinyin": "Yàoshì nà shíhòu wǒ yǒu kòng, jiù gēn nǐmen yīqǐ qù.",
+      "example_vn": "Nếu như lúc đó tôi rảnh, thì sẽ cùng các bạn đi."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "貓空",
+      "pinyin": "Māokōng",
+      "word_type": "Name",
+      "meaning_vn": "Miêu Không (Địa danh ở Đài Bắc)",
+      "example_zh": "我決定帶她去貓空。",
+      "example_pinyin": "Wǒ juédìng dài tā qù Māokōng.",
+      "example_vn": "Tôi quyết định dẫn cô ấy đi Miêu Không."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "Time-When vs. Time-Duration",
+      "explanation": "Từ chỉ thời điểm (Time-When) chỉ khi nào một hành động xảy ra. Từ chỉ khoảng thời gian (Time-Duration) chỉ hành động đó kéo dài trong bao lâu.",
+      "examples": "[{\"zh\": \"昨天\", \"pinyin\": \"zuótiān\", \"vn\": \"Hôm qua (Thời điểm)\"}, {\"zh\": \"一天\", \"pinyin\": \"yī tiān\", \"vn\": \"Một ngày (Khoảng thời gian)\"}, {\"zh\": \"六點半\", \"pinyin\": \"liù diǎn bàn\", \"vn\": \"6 rưỡi (Thời điểm)\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Time-Duration 'for a period of time'",
+      "explanation": "Cụm từ chỉ khoảng thời gian (Time-Duration) cho biết một hành động kéo dài bao lâu. Vị trí: Đứng trực tiếp sau động từ. Nếu động từ có tân ngữ, ta lặp lại động từ (V + O + V + duration). Nếu động từ mang tính ly hợp, khoảng thời gian sẽ được chèn vào giữa.",
+      "examples": "[{\"zh\": \"我去花蓮玩一個星期。\", \"pinyin\": \"Wǒ qù Huālián wán yī gè xīngqí.\", \"vn\": \"Tôi đi Hoa Liên chơi 1 tuần.\"}, {\"zh\": \"他打算教中文教一年。\", \"pinyin\": \"Tā dǎsuàn jiāo Zhōngwén jiāo yī nián.\", \"vn\": \"Anh ấy dự định dạy tiếng Trung 1 năm.\"}, {\"zh\": \"我們打算明天去KTV唱三個鐘頭的歌。\", \"pinyin\": \"Wǒmen dǎsuàn míngtiān qù KTV chàng sān ge zhōngtóu de gē.\", \"vn\": \"Chúng tôi dự định ngày mai đi KTV hát 3 tiếng đồng hồ.\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "…的時候 de shíhòu (when)",
+      "explanation": "Cấu trúc '…的時候' (lúc, khi) chỉ ra thời điểm một sự việc xảy ra, đã xảy ra hoặc sẽ xảy ra.",
+      "examples": "[{\"zh\": \"在山上風景的時候，我覺得很舒服。\", \"pinyin\": \"Zài shānshàng fēngjǐng de shíhòu, wǒ juéde hěn shūfú.\", \"vn\": \"Lúc ở trên núi ngắm cảnh, tôi cảm thấy rất thoải mái.\"}, {\"zh\": \"放假的時候，我喜歡去逛夜市。\", \"pinyin\": \"Fàngjià de shíhòu, wǒ xǐhuan qù guàng yèshì.\", \"vn\": \"Khi nghỉ lễ, tôi thích đi dạo chợ đêm.\"}, {\"zh\": \"你有空的時候，請到我家來玩。\", \"pinyin\": \"Nǐ yǒu kòng de shíhòu, qǐng dào wǒ jiā lái wán.\", \"vn\": \"Lúc nào rảnh rỗi, mời bạn đến nhà tôi chơi.\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "有時候 yǒu shíhòu…，有時候 yǒu shíhòu…",
+      "explanation": "Cấu trúc '有時候...，有時候...' (có lúc..., có lúc...) đề cập đến hai khả năng thay phiên nhau của các sự kiện trong một tình huống nhất định.",
+      "examples": "[{\"zh\": \"我有時候吃中國菜，有時候吃越南菜。\", \"pinyin\": \"Wǒ yǒu shíhòu chī Zhōngguó cài, yǒu shíhòu chī Yuènán cài.\", \"vn\": \"Tôi có lúc ăn món ăn Trung Quốc, có lúc ăn món ăn Việt Nam.\"}, {\"zh\": \"在圖書館的時候，我有時候看書，有時候上網。\", \"pinyin\": \"Zài túshūguǎn de shíhòu, wǒ yǒu shíhòu kànshū, yǒu shíhòu shàngwǎng.\", \"vn\": \"Lúc ở thư viện, tôi có lúc đọc sách, có lúc lên mạng.\"}, {\"zh\": \"放假的時候，我有時候在家寫功課，有時候出去玩。\", \"pinyin\": \"Fàngjià de shíhòu, wǒ yǒu shíhòu zài jiā xiě gōngkè, yǒu shíhòu chūqù wán.\", \"vn\": \"Lúc nghỉ lễ, tôi có lúc ở nhà làm bài tập, có lúc ra ngoài chơi.\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Condition and Consequence: 要是 yàoshì… 就 jiù…",
+      "explanation": "Cấu trúc 要是...就... (Nếu... thì...). 要是 (yàoshì) đưa ra điều kiện, trong khi 就 (jiù) đưa ra kết quả. 要是 có thể đứng trước hoặc sau chủ ngữ của mệnh đề đầu tiên. 就 luôn đứng ngay trước vị ngữ của mệnh đề thứ hai.",
+      "examples": "[{\"zh\": \"要是我有錢，我就買大房子。\", \"pinyin\": \"Yàoshì wǒ yǒu qián, wǒ jiù mǎi dà fángzi.\", \"vn\": \"Nếu tôi có tiền, tôi sẽ mua một căn nhà lớn.\"}, {\"zh\": \"我要是不回國，我就跟你們一起去玩。\", \"pinyin\": \"Wǒ yàoshì bù huíguó, wǒ jiù gēn nǐmen yīqǐ qù wán.\", \"vn\": \"Nếu tôi không về nước, tôi sẽ cùng các bạn đi chơi.\"}, {\"zh\": \"要是下個月不忙，她就回國。\", \"pinyin\": \"Yàoshì xià ge yuè bù máng, tā jiù huíguó.\", \"vn\": \"Nếu tháng sau không bận, cô ấy sẽ về nước.\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "安同",
+      "text_zh": "田中，下個星期我們放五天的假，你要回國嗎？",
+      "pinyin": "Tiánzhōng, xià ge xīngqí wǒmen fàng wǔ tiān de jià, nǐ yào huíguó ma?",
+      "translation_vn": "Điền Trung, tuần sau chúng ta nghỉ lễ 5 ngày, cậu có về nước không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "田中",
+      "text_zh": "不，我打算在家看電視、影片學中文，你呢？",
+      "pinyin": "Bù, wǒ dǎsuàn zài jiā kàn diànshì, yǐngpiàn xué Zhōngwén, nǐ ne?",
+      "translation_vn": "Không, tớ định ở nhà xem tivi, xem phim để học tiếng Trung, còn cậu?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "安同",
+      "text_zh": "我想跟朋友去玩。",
+      "pinyin": "Wǒ xiǎng gēn péngyǒu qù wán.",
+      "translation_vn": "Tớ muốn cùng bạn bè đi chơi."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "田中",
+      "text_zh": "不錯啊。去什麼地方？",
+      "pinyin": "Bùcuò a. Qù shénme dìfāng?",
+      "translation_vn": "Được đấy. Đi chỗ nào?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "安同",
+      "text_zh": "臺東。聽說那裡的風景非常漂亮。",
+      "pinyin": "Táidōng. Tīngshuō nàlǐ de fēngjǐng fēicháng piàoliang.",
+      "translation_vn": "Đài Đông. Nghe nói phong cảnh ở đó vô cùng đẹp."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "田中",
+      "text_zh": "我也聽說。放假的時候，你常去旅行嗎？",
+      "pinyin": "Wǒ yě tīngshuō. Fàngjià de shíhòu, nǐ cháng qù lǚxíng ma?",
+      "translation_vn": "Tớ cũng nghe nói vậy. Lúc nghỉ lễ, cậu có thường đi du lịch không?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "安同",
+      "text_zh": "不一定。有時候在家寫功課，有時候出去玩。",
+      "pinyin": "Bù yīdìng. Yǒu shíhòu zài jiā xiě gōngkè, yǒu shíhòu chūqù wán.",
+      "translation_vn": "Cũng không chắc. Có lúc ở nhà làm bài tập, có lúc ra ngoài chơi."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "田中",
+      "text_zh": "你們什麼時候去臺東？",
+      "pinyin": "Nǐmen shénme shíhòu qù Táidōng?",
+      "translation_vn": "Khi nào các cậu đi Đài Đông?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "安同",
+      "text_zh": "這個星期六下午去。",
+      "pinyin": "Zhège xīngqíliù xiàwǔ qù.",
+      "translation_vn": "Chiều thứ bảy tuần này đi."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "田中",
+      "text_zh": "去玩多久？",
+      "pinyin": "Qù wán duō jiǔ?",
+      "translation_vn": "Đi chơi bao lâu?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 11,
+      "speaker": "安同",
+      "text_zh": "大概玩四、五天。",
+      "pinyin": "Dàgài wán sì, wǔ tiān.",
+      "translation_vn": "Chơi khoảng 4, 5 ngày."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "田中",
+      "text_zh": "我女朋友九月三十號要來臺灣看我。",
+      "pinyin": "Wǒ nǚpéngyǒu jiǔ yuè sānshí hào yào lái Táiwān kàn wǒ.",
+      "translation_vn": "Bạn gái tớ ngày 30 tháng 9 sẽ đến Đài Loan thăm tớ."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "明華",
+      "text_zh": "你想帶她去哪裡玩？",
+      "pinyin": "Nǐ xiǎng dài tā qù nǎlǐ wán?",
+      "translation_vn": "Cậu muốn dẫn cô ấy đi đâu chơi?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "田中",
+      "text_zh": "還不知道。你有什麼建議？",
+      "pinyin": "Hái bù zhīdào. Nǐ yǒu shénme jiànyì?",
+      "translation_vn": "Vẫn chưa biết. Cậu có đề nghị gì không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "明華",
+      "text_zh": "臺灣的夜市很有名。你們應該去逛逛。",
+      "pinyin": "Táiwān de yèshì hěn yǒumíng. Nǐmen yīnggāi qù guàngguang.",
+      "translation_vn": "Chợ đêm của Đài Loan rất nổi tiếng. Các cậu nên đi dạo thử."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "田中",
+      "text_zh": "謝謝，還有什麼好玩的地方？",
+      "pinyin": "Xièxie, hái yǒu shénme hǎowán de dìfāng?",
+      "translation_vn": "Cảm ơn, còn chỗ nào chơi vui nữa không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "明華",
+      "text_zh": "臺灣的茶也很特別。臺北有很多茶館。",
+      "pinyin": "Táiwān de chá yě hěn tèbié. Táiběi yǒu hěn duō cháguǎn.",
+      "translation_vn": "Trà của Đài Loan cũng rất đặc biệt. Đài Bắc có rất nhiều quán trà."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "田中",
+      "text_zh": "到哪裡喝茶比較好？",
+      "pinyin": "Dào nǎlǐ hē chá bǐjiào hǎo?",
+      "translation_vn": "Đến đâu uống trà thì tốt hơn?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "明華",
+      "text_zh": "你們可以去貓空。那裡的風景很美。",
+      "pinyin": "Nǐmen kěyǐ qù Māokōng. Nàlǐ de fēngjǐng hěn měi.",
+      "translation_vn": "Các cậu có thể đi Miêu Không. Phong cảnh ở đó rất đẹp."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "田中",
+      "text_zh": "謝謝你。我決定帶她去貓空。你也一起去，好不好？",
+      "pinyin": "Xièxie nǐ. Wǒ juédìng dài tā qù Māokōng. Nǐ yě yīqǐ qù, hǎo bù hǎo?",
+      "translation_vn": "Cảm ơn cậu. Tớ quyết định dẫn cô ấy đi Miêu Không. Cậu cũng đi cùng nhé, được không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 10,
+      "speaker": "明華",
+      "text_zh": "要是那時候我有空，就跟你們一起去。",
+      "pinyin": "Yàoshì nà shíhòu wǒ yǒu kòng, jiù gēn nǐmen yīqǐ qù.",
+      "translation_vn": "Nếu như lúc đó tớ rảnh, tớ sẽ đi cùng các cậu."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 11,
+      "speaker": "田中",
+      "text_zh": "太好了！謝謝！",
+      "pinyin": "Tài hǎo le! Xièxie!",
+      "translation_vn": "Tốt quá rồi! Cảm ơn nha!"
+    }
+  ]
+}

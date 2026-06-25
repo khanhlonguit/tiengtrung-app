@@ -1,49 +1,117 @@
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* ══════════════════════════════════════
+   CSS VARIABLES — DARK THEME (default)
+══════════════════════════════════════ */
+:root,
+html[data-theme="dark"] {
+  --bg-base:        #0f1117;
+  --bg-surface:     #161b2e;
+  --bg-elevated:    #1c2236;
+  --bg-hover:       rgba(255,255,255,0.03);
+  --bg-hover-med:   rgba(255,255,255,0.05);
+  --bg-active:      rgba(108,99,255,0.06);
+  --bg-active-med:  rgba(108,99,255,0.08);
+  --bg-code:        #0f1117;
+
+  --border-subtle:  rgba(255,255,255,0.06);
+  --border-faint:   rgba(255,255,255,0.04);
+  --border-accent:  rgba(108,99,255,0.3);
+
+  --text-primary:   #f0f2ff;
+  --text-body:      #e4e6f0;
+  --text-secondary: #c4c9e2;
+  --text-muted:     #9ca3af;
+  --text-faint:     #6b7280;
+  --text-dim:       #4b5563;
+
+  --accent:         #6c63ff;
+  --accent-soft:    rgba(108,99,255,0.15);
+  --accent-label:   #a5b4fc;
+
+  --scrollbar-thumb: rgba(255,255,255,0.1);
+
+  /* Theme toggle button */
+  --theme-btn-bg:    rgba(255,255,255,0.06);
+  --theme-btn-hover: rgba(255,255,255,0.1);
+  --theme-btn-color: #9ca3af;
 }
 
-html {
+/* ══════════════════════════════════════
+   CSS VARIABLES — LIGHT THEME
+══════════════════════════════════════ */
+html[data-theme="light"] {
+  --bg-base:        #f4f6fb;
+  --bg-surface:     #ffffff;
+  --bg-elevated:    #eef1f8;
+  --bg-hover:       rgba(0,0,0,0.03);
+  --bg-hover-med:   rgba(0,0,0,0.05);
+  --bg-active:      rgba(108,99,255,0.06);
+  --bg-active-med:  rgba(108,99,255,0.1);
+  --bg-code:        #f4f6fb;
+
+  --border-subtle:  rgba(0,0,0,0.08);
+  --border-faint:   rgba(0,0,0,0.05);
+  --border-accent:  rgba(108,99,255,0.3);
+
+  --text-primary:   #1a1d2e;
+  --text-body:      #2a2d3e;
+  --text-secondary: #3d405a;
+  --text-muted:     #555870;
+  --text-faint:     #6b7280;
+  --text-dim:       #9ca3af;
+
+  --accent:         #5b51e8;
+  --accent-soft:    rgba(108,99,255,0.1);
+  --accent-label:   #5b51e8;
+
+  --scrollbar-thumb: rgba(0,0,0,0.12);
+
+  --theme-btn-bg:    rgba(0,0,0,0.06);
+  --theme-btn-hover: rgba(0,0,0,0.1);
+  --theme-btn-color: #555870;
+}
+
+/* ══════════════════════════════════════
+   GLOBAL BASE STYLES
+══════════════════════════════════════ */
+html { height: 100%; }
+
+body {
   height: 100%;
-}
-
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-}
-
-body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Inter', 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg-base);
+  color: var(--text-body);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  transition: background 0.25s ease, color 0.25s ease;
 }
 
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
+#__next { height: 100%; }
 
-a {
-  color: inherit;
-  text-decoration: none;
+/* ── THEME TOGGLE BUTTON (shared, used in topbar & flashcard header) ── */
+.themeToggleBtn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: 20px;
+  border: 1px solid var(--border-subtle);
+  background: var(--theme-btn-bg);
+  color: var(--theme-btn-color);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  white-space: nowrap;
+  font-family: inherit;
 }
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
+.themeToggleBtn:hover {
+  background: var(--theme-btn-hover);
+  color: var(--text-body);
+  border-color: var(--border-accent);
 }

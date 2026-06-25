@@ -1,0 +1,590 @@
+{
+  "id": 12,
+  "title_vn": "Bạn học tiếng Trung ở Đài Loan bao lâu rồi?",
+  "title_zh": "你在臺灣學多久的中文？",
+  "subtitle": "Học tập và làm việc",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "計畫",
+      "pinyin": "jìhuà",
+      "word_type": "V",
+      "meaning_vn": "Kế hoạch, dự định",
+      "example_zh": "你計畫在臺灣學多久的中文？",
+      "example_pinyin": "Nǐ jìhuà zài Táiwān xué duō jiǔ de Zhōngwén?",
+      "example_vn": "Bạn dự định học tiếng Trung ở Đài Loan bao lâu?"
+    },
+    {
+      "order_num": 2,
+      "word_zh": "年",
+      "pinyin": "nián",
+      "word_type": "M",
+      "meaning_vn": "Năm (lượng từ)",
+      "example_zh": "五年。",
+      "example_pinyin": "Wǔ nián.",
+      "example_vn": "Năm năm."
+    },
+    {
+      "order_num": 3,
+      "word_zh": "久",
+      "pinyin": "jiǔ",
+      "word_type": "Vs",
+      "meaning_vn": "Lâu",
+      "example_zh": "為什麼要這麼久的時間？",
+      "example_pinyin": "Wèishénme yào zhème jiǔ de shíjiān?",
+      "example_vn": "Tại sao lại cần thời gian lâu như vậy?"
+    },
+    {
+      "order_num": 4,
+      "word_zh": "時間",
+      "pinyin": "shíjiān",
+      "word_type": "N",
+      "meaning_vn": "Thời gian",
+      "example_zh": "這麼久的時間。",
+      "example_pinyin": "Zhème jiǔ de shíjiān.",
+      "example_vn": "Thời gian lâu như vậy."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "先",
+      "pinyin": "xiān",
+      "word_type": "Adv",
+      "meaning_vn": "Trước tiên",
+      "example_zh": "我先在語言中心念一年。",
+      "example_pinyin": "Wǒ xiān zài yǔyán zhōngxīn niàn yī nián.",
+      "example_vn": "Tôi học ở trung tâm ngoại ngữ một năm trước."
+    },
+    {
+      "order_num": 6,
+      "word_zh": "念",
+      "pinyin": "niàn",
+      "word_type": "V",
+      "meaning_vn": "Học, đọc",
+      "example_zh": "念四年大學。",
+      "example_pinyin": "Niàn sì nián dàxué.",
+      "example_vn": "Học đại học 4 năm."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "大學",
+      "pinyin": "dàxué",
+      "word_type": "N",
+      "meaning_vn": "Đại học",
+      "example_zh": "念四年大學。",
+      "example_pinyin": "Niàn sì nián dàxué.",
+      "example_vn": "Học đại học 4 năm."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "需要",
+      "pinyin": "xūyào",
+      "word_type": "Vst",
+      "meaning_vn": "Cần thiết",
+      "example_zh": "需要五年。",
+      "example_pinyin": "Xūyào wǔ nián.",
+      "example_vn": "Cần 5 năm."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "花",
+      "pinyin": "huā",
+      "word_type": "V",
+      "meaning_vn": "Tiêu (thời gian, tiền bạc)",
+      "example_zh": "這得花不少錢！",
+      "example_pinyin": "Zhè děi huā bù shǎo qián!",
+      "example_vn": "Việc này tốn không ít tiền đâu!"
+    },
+    {
+      "order_num": 10,
+      "word_zh": "獎學金",
+      "pinyin": "jiǎngxuéjīn",
+      "word_type": "N",
+      "meaning_vn": "Học bổng",
+      "example_zh": "我有獎學金。",
+      "example_pinyin": "Wǒ yǒu jiǎngxuéjīn.",
+      "example_vn": "Tôi có học bổng."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "成績",
+      "pinyin": "chéngjī",
+      "word_type": "N",
+      "meaning_vn": "Thành tích, điểm số",
+      "example_zh": "要是成績不好，就沒獎學金了。",
+      "example_pinyin": "Yàoshì chéngjī bù hǎo, jiù méi jiǎngxuéjīn le.",
+      "example_vn": "Nếu thành tích không tốt, thì không có học bổng nữa."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "學費",
+      "pinyin": "xuéfèi",
+      "word_type": "N",
+      "meaning_vn": "Học phí",
+      "example_zh": "我的學費是公司替我付的。",
+      "example_pinyin": "Wǒ de xuéfèi shì gōngsī tì wǒ fù de.",
+      "example_vn": "Học phí của tôi là do công ty trả thay."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "公司",
+      "pinyin": "gōngsī",
+      "word_type": "N",
+      "meaning_vn": "Công ty",
+      "example_zh": "公司替我付學費。",
+      "example_pinyin": "Gōngsī tì wǒ fù xuéfèi.",
+      "example_vn": "Công ty trả học phí giúp tôi."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "替",
+      "pinyin": "tì",
+      "word_type": "Prep",
+      "meaning_vn": "Thay cho",
+      "example_zh": "公司替我付學費。",
+      "example_pinyin": "Gōngsī tì wǒ fù xuéfèi.",
+      "example_vn": "Công ty trả học phí giúp tôi."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "希望",
+      "pinyin": "xīwàng",
+      "word_type": "Vst",
+      "meaning_vn": "Hy vọng",
+      "example_zh": "希望我以後可以到這家公司上班。",
+      "example_pinyin": "Xīwàng wǒ yǐhòu kěyǐ dào zhè jiā gōngsī shàngbān.",
+      "example_vn": "Hy vọng sau này tôi có thể đến công ty này làm việc."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "以後",
+      "pinyin": "yǐhòu",
+      "word_type": "N",
+      "meaning_vn": "Sau này",
+      "example_zh": "以後可以到這家公司上班。",
+      "example_pinyin": "Yǐhòu kěyǐ dào zhè jiā gōngsī shàngbān.",
+      "example_vn": "Sau này có thể đến công ty này làm việc."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "到",
+      "pinyin": "dào",
+      "word_type": "V",
+      "meaning_vn": "Đến",
+      "example_zh": "到公司上班。",
+      "example_pinyin": "Dào gōngsī shàngbān.",
+      "example_vn": "Đến công ty làm việc."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "上班",
+      "pinyin": "shàngbān",
+      "word_type": "V-sep",
+      "meaning_vn": "Đi làm",
+      "example_zh": "到公司上班。",
+      "example_pinyin": "Dào gōngsī shàngbān.",
+      "example_vn": "Đến công ty làm việc."
+    },
+    {
+      "order_num": 19,
+      "word_zh": "念書",
+      "pinyin": "niànshū",
+      "word_type": "V-sep",
+      "meaning_vn": "Đi học, học hành",
+      "example_zh": "又要上班，又要念書。",
+      "example_pinyin": "Yòu yào shàngbān, yòu yào niànshū.",
+      "example_vn": "Vừa phải đi làm, vừa phải đi học."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "累",
+      "pinyin": "lèi",
+      "word_type": "Vs",
+      "meaning_vn": "Mệt",
+      "example_zh": "真的很累。",
+      "example_pinyin": "Zhēnde hěn lèi.",
+      "example_vn": "Thật sự rất mệt."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "語言中心",
+      "pinyin": "yǔyán zhōngxīn",
+      "word_type": "Phrase",
+      "meaning_vn": "Trung tâm ngoại ngữ",
+      "example_zh": "我先在語言中心念一年。",
+      "example_pinyin": "Wǒ xiān zài yǔyán zhōngxīn niàn yī nián.",
+      "example_vn": "Tôi học ở trung tâm ngoại ngữ một năm trước."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "加油",
+      "pinyin": "jiāyóu",
+      "word_type": "Phrase",
+      "meaning_vn": "Cố lên",
+      "example_zh": "我們一起加油吧！",
+      "example_pinyin": "Wǒmen yīqǐ jiāyóu ba!",
+      "example_vn": "Chúng ta cùng cố lên nhé!"
+    },
+    {
+      "order_num": 23,
+      "word_zh": "工作",
+      "pinyin": "gōngzuò",
+      "word_type": "Vi",
+      "meaning_vn": "Làm việc",
+      "example_zh": "來臺灣工作的。",
+      "example_pinyin": "Lái Táiwān gōngzuò de.",
+      "example_vn": "Đến Đài Loan làm việc."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "去年",
+      "pinyin": "qùnián",
+      "word_type": "N",
+      "meaning_vn": "Năm ngoái",
+      "example_zh": "去年，我已經在臺灣工作一年了。",
+      "example_pinyin": "Qùnián, wǒ yǐjīng zài Táiwān gōngzuò yī nián le.",
+      "example_vn": "Từ năm ngoái, tôi đã làm việc ở Đài Loan được một năm rồi."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "做",
+      "pinyin": "zuò",
+      "word_type": "V",
+      "meaning_vn": "Làm",
+      "example_zh": "做生意。",
+      "example_pinyin": "Zuò shēngyì.",
+      "example_vn": "Làm ăn, kinh doanh."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "生意",
+      "pinyin": "shēngyì",
+      "word_type": "N",
+      "meaning_vn": "Làm ăn, kinh doanh",
+      "example_zh": "因為我們公司跟臺灣人做生意。",
+      "example_pinyin": "Yīnwèi wǒmen gōngsī gēn Táiwān rén zuò shēngyì.",
+      "example_vn": "Bởi vì công ty chúng tôi làm ăn với người Đài Loan."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "以後",
+      "pinyin": "yǐhòu",
+      "word_type": "N",
+      "meaning_vn": "Sau khi",
+      "example_zh": "妳回國以後，打算做什麼？",
+      "example_pinyin": "Nǐ huíguó yǐhòu, dǎsuàn zuò shénme?",
+      "example_vn": "Sau khi cô về nước, dự định làm gì?"
+    },
+    {
+      "order_num": 28,
+      "word_zh": "好",
+      "pinyin": "hǎo",
+      "word_type": "Vs",
+      "meaning_vn": "Dễ dàng",
+      "example_zh": "好找嗎？",
+      "example_pinyin": "Hǎo zhǎo ma?",
+      "example_vn": "Có dễ tìm không?"
+    },
+    {
+      "order_num": 29,
+      "word_zh": "找",
+      "pinyin": "zhǎo",
+      "word_type": "V",
+      "meaning_vn": "Tìm kiếm",
+      "example_zh": "想找個工作。",
+      "example_pinyin": "Xiǎng zhǎo gè gōngzuò.",
+      "example_vn": "Muốn tìm một công việc."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "工作",
+      "pinyin": "gōngzuò",
+      "word_type": "N",
+      "meaning_vn": "Công việc",
+      "example_zh": "找個有機會說中文的工作。",
+      "example_pinyin": "Zhǎo gè yǒu jīhuì shuō Zhōngwén de gōngzuò.",
+      "example_vn": "Tìm một công việc có cơ hội nói tiếng Trung."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "這樣",
+      "pinyin": "zhèyàng",
+      "word_type": "N",
+      "meaning_vn": "Như vậy",
+      "example_zh": "這樣的工作。",
+      "example_pinyin": "Zhèyàng de gōngzuò.",
+      "example_vn": "Công việc như vậy."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "國家",
+      "pinyin": "guójiā",
+      "word_type": "N",
+      "meaning_vn": "Quốc gia",
+      "example_zh": "在你們國家好找嗎？",
+      "example_pinyin": "Zài nǐmen guójiā hǎo zhǎo ma?",
+      "example_vn": "Ở quốc gia của các bạn có dễ tìm không?"
+    },
+    {
+      "order_num": 33,
+      "word_zh": "試",
+      "pinyin": "shì",
+      "word_type": "Vi",
+      "meaning_vn": "Thử",
+      "example_zh": "我試試看。",
+      "example_pinyin": "Wǒ shìshikàn.",
+      "example_vn": "Tôi thử xem sao."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "難",
+      "pinyin": "nán",
+      "word_type": "Vs",
+      "meaning_vn": "Khó",
+      "example_zh": "要是難找呢？",
+      "example_pinyin": "Yàoshì nán zhǎo ne?",
+      "example_vn": "Nếu như khó tìm thì sao?"
+    },
+    {
+      "order_num": 35,
+      "word_zh": "那麼",
+      "pinyin": "nàme",
+      "word_type": "Ptc",
+      "meaning_vn": "Vậy thì",
+      "example_zh": "那麼我再來臺灣。",
+      "example_pinyin": "Nàme wǒ zài lái Táiwān.",
+      "example_vn": "Vậy thì tôi sẽ lại đến Đài Loan."
+    },
+    {
+      "order_num": 36,
+      "word_zh": "再",
+      "pinyin": "zài",
+      "word_type": "Adv",
+      "meaning_vn": "Lại (nữa)",
+      "example_zh": "再來臺灣。",
+      "example_pinyin": "Zài lái Táiwān.",
+      "example_vn": "Lại đến Đài Loan."
+    },
+    {
+      "order_num": 37,
+      "word_zh": "試試看",
+      "pinyin": "shìshikàn",
+      "word_type": "Phrase",
+      "meaning_vn": "Thử xem sao",
+      "example_zh": "我試試看。",
+      "example_pinyin": "Wǒ shìshikàn.",
+      "example_vn": "Tôi thử xem sao."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "先 xiān..., 再 zài... (First..., and then...)",
+      "explanation": "Cấu trúc này biểu thị trình tự thời gian của hai sự việc liên tiếp: 'làm việc gì đó trước (先)..., sau đó mới làm việc gì đó (再)...'. Áp dụng cho cả quá khứ và tương lai.",
+      "examples": "[{\"zh\": \"我想先吃晚飯再給媽媽打電話。\", \"pinyin\": \"Wǒ xiǎng xiān chī wǎnfàn zài gěi māma dǎ diànhuà.\", \"vn\": \"Tôi muốn ăn tối trước rồi mới gọi điện cho mẹ.\"}, {\"zh\": \"他計畫在臺灣先學語言再念大學。\", \"pinyin\": \"Tā jìhuà zài Táiwān xiān xué yǔyán zài niàn dàxué.\", \"vn\": \"Anh ấy dự định học ngôn ngữ ở Đài Loan trước rồi mới học đại học.\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "To Focus with 是 shì... 的 de",
+      "explanation": "Sử dụng cấu trúc 'Subject + 是 + Focus + Activity + 的' để nhấn mạnh vào một yếu tố trong một sự kiện ĐÃ XẢY RA trong quá khứ (như thời gian, địa điểm, phương tiện, người thực hiện...).",
+      "examples": "[{\"zh\": \"他是昨天晚上到臺灣的。\", \"pinyin\": \"Tā shì zuótiān wǎnshang dào Táiwān de.\", \"vn\": \"Anh ấy đến Đài Loan vào tối hôm qua (nhấn mạnh thời gian).\"}, {\"zh\": \"這支手機是在夜市買的。\", \"pinyin\": \"Zhè zhī shǒujī shì zài yèshì mǎi de.\", \"vn\": \"Chiếc điện thoại này được mua ở chợ đêm (nhấn mạnh địa điểm).\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "以後 yǐhòu (After...)",
+      "explanation": "Có thể dùng riêng lẻ mang nghĩa 'Sau này/Trong tương lai', hoặc dùng sau một sự kiện để chỉ thời điểm 'Sau khi (việc đó xảy ra)...'",
+      "examples": "[{\"zh\": \"回國以後，我要找個有機會說中文的工作。\", \"pinyin\": \"Huíguó yǐhòu, wǒ yào zhǎo gè yǒu jīhuì shuō Zhōngwén de gōngzuò.\", \"vn\": \"Sau khi về nước, tôi muốn tìm một công việc có cơ hội nói tiếng Trung.\"}, {\"zh\": \"我們以後都得上班。\", \"pinyin\": \"Wǒmen yǐhòu dōu děi shàngbān.\", \"vn\": \"Sau này tất cả chúng ta đều phải đi làm.\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "Special Meanings of 好 hǎo / 難 nán + Verbs",
+      "explanation": "Khi 好 (hǎo) / 難 (nán) kết hợp với động từ sẽ mang nghĩa 'dễ (làm gì)' hoặc 'khó (làm gì)'. Nếu kết hợp với động từ giác quan (ăn, uống, xem, nghe) sẽ thành tính từ chỉ sự ngon/dở, đẹp/xấu, hay/dở.",
+      "examples": "[{\"zh\": \"日本菜好吃也好看。\", \"pinyin\": \"Rìběn cài hǎochī yě hǎokàn.\", \"vn\": \"Món ăn Nhật Bản vừa ngon vừa đẹp mắt.\"}, {\"zh\": \"好工作很難找。\", \"pinyin\": \"Hǎo gōngzuò hěn nán zhǎo.\", \"vn\": \"Công việc tốt rất khó tìm.\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "田中",
+      "text_zh": "安同，你計畫在臺灣學多久的中文？",
+      "pinyin": "Āntóng, nǐ jìhuà zài Táiwān xué duō jiǔ de Zhōngwén?",
+      "translation_vn": "An Đồng, cậu dự định học tiếng Trung ở Đài Loan bao lâu?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "安同",
+      "text_zh": "五年。",
+      "pinyin": "Wǔ nián.",
+      "translation_vn": "Năm năm."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "田中",
+      "text_zh": "為什麼要這麼久的時間？",
+      "pinyin": "Wèishénme yào zhème jiǔ de shíjiān?",
+      "translation_vn": "Tại sao lại cần thời gian lâu như vậy?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "安同",
+      "text_zh": "我先在語言中心念一年，再念四年大學，所以需要五年。",
+      "pinyin": "Wǒ xiān zài yǔyán zhōngxīn niàn yī nián, zài niàn sì nián dàxué, suǒyǐ xūyào wǔ nián.",
+      "translation_vn": "Tớ học ở trung tâm ngoại ngữ một năm trước, rồi mới học đại học bốn năm, cho nên cần năm năm."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "田中",
+      "text_zh": "這得花不少錢！",
+      "pinyin": "Zhè děi huā bù shǎo qián!",
+      "translation_vn": "Việc này tốn không ít tiền đâu!"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "安同",
+      "text_zh": "對，不過我有獎學金。要是成績不好，就沒獎學金了。你呢？",
+      "pinyin": "Duì, bùguò wǒ yǒu jiǎngxuéjīn. Yàoshì chéngjī bù hǎo, jiù méi jiǎngxuéjīn le. Nǐ ne?",
+      "translation_vn": "Đúng vậy, nhưng mà tớ có học bổng. Nếu thành tích không tốt, thì sẽ không có học bổng nữa. Còn cậu thì sao?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "田中",
+      "text_zh": "我的學費是公司替我付的。",
+      "pinyin": "Wǒ de xuéfèi shì gōngsī tì wǒ fù de.",
+      "translation_vn": "Học phí của tớ là do công ty trả thay."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "安同",
+      "text_zh": "你打算學多久呢？",
+      "pinyin": "Nǐ dǎsuàn xué duō jiǔ ne?",
+      "translation_vn": "Cậu định học bao lâu?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "田中",
+      "text_zh": "大概兩年，是公司決定的。希望我以後也可以到這麼好的公司上班。",
+      "pinyin": "Dàgài liǎng nián, shì gōngsī juédìng de. Xīwàng wǒ yǐhòu yě kěyǐ dào zhème hǎo de gōngsī shàngbān.",
+      "translation_vn": "Chắc khoảng hai năm, là do công ty quyết định. Hy vọng sau này tớ cũng có thể đến công ty tốt như vậy làm việc."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "安同",
+      "text_zh": "我又要上班，又要念書，真的很累。",
+      "pinyin": "Wǒ yòu yào shàngbān, yòu yào niànshū, zhēnde hěn lèi.",
+      "translation_vn": "Tớ vừa phải đi làm, vừa phải đi học, thật sự rất mệt."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 11,
+      "speaker": "田中",
+      "text_zh": "我們一起加油吧！",
+      "pinyin": "Wǒmen yīqǐ jiāyóu ba!",
+      "translation_vn": "Chúng ta cùng cố lên nhé!"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "月美",
+      "text_zh": "田中，你是什麼時候來臺灣工作的？",
+      "pinyin": "Tiánzhōng, nǐ shì shénme shíhòu lái Táiwān gōngzuò de?",
+      "translation_vn": "Điền Trung, cậu đến Đài Loan làm việc từ bao giờ vậy?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "田中",
+      "text_zh": "去年，我已經在臺灣工作一年了。",
+      "pinyin": "Qùnián, wǒ yǐjīng zài Táiwān gōngzuò yī nián le.",
+      "translation_vn": "Năm ngoái, tớ đã làm việc ở Đài Loan được một năm rồi."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "月美",
+      "text_zh": "為什麼你們公司要替你付學費？",
+      "pinyin": "Wèishénme nǐmen gōngsī yào tì nǐ fù xuéfèi?",
+      "translation_vn": "Tại sao công ty các cậu lại trả học phí thay cho cậu?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "田中",
+      "text_zh": "因為我們公司跟臺灣人做生意。老闆希望我們都會說中文。",
+      "pinyin": "Yīnwèi wǒmen gōngsī gēn Táiwān rén zuò shēngyì. Lǎobǎn xīwàng wǒmen dōu huì shuō Zhōngwén.",
+      "translation_vn": "Bởi vì công ty chúng tớ làm ăn với người Đài Loan. Ông chủ hy vọng chúng tớ đều biết nói tiếng Trung."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "月美",
+      "text_zh": "我覺得你們公司真好。",
+      "pinyin": "Wǒ juéde nǐmen gōngsī zhēn hǎo.",
+      "translation_vn": "Tớ cảm thấy công ty các cậu thật tốt."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "田中",
+      "text_zh": "對了，妳回國以後，打算做什麼？",
+      "pinyin": "Duìle, nǐ huíguó yǐhòu, dǎsuàn zuò shénme?",
+      "translation_vn": "À đúng rồi, sau khi cậu về nước, dự định làm gì?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "月美",
+      "text_zh": "我回國以後，也想找個有機會說中文的工作。",
+      "pinyin": "Wǒ huíguó yǐhòu, yě xiǎng zhǎo gè yǒu jīhuì shuō Zhōngwén de gōngzuò.",
+      "translation_vn": "Sau khi tớ về nước, cũng muốn tìm một công việc có cơ hội nói tiếng Trung."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "田中",
+      "text_zh": "不錯，這樣的工作在你們國家好找嗎？",
+      "pinyin": "Bùcuò, zhèyàng de gōngzuò zài nǐmen guójiā hǎo zhǎo ma?",
+      "translation_vn": "Không tồi, công việc như vậy ở đất nước cậu có dễ tìm không?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "月美",
+      "text_zh": "不知道好不好找，我試試看。",
+      "pinyin": "Bù zhīdào hǎo bù hǎo zhǎo, wǒ shìshikàn.",
+      "translation_vn": "Không biết là có dễ tìm không, tớ thử tìm xem sao."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 10,
+      "speaker": "田中",
+      "text_zh": "要是難找呢？",
+      "pinyin": "Yàoshì nán zhǎo ne?",
+      "translation_vn": "Nếu như khó tìm thì sao?"
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 11,
+      "speaker": "月美",
+      "text_zh": "那麼我再來臺灣學中文。",
+      "pinyin": "Nàme wǒ zài lái Táiwān xué Zhōngwén.",
+      "translation_vn": "Vậy thì tớ sẽ lại đến Đài Loan học tiếng Trung."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 12,
+      "speaker": "田中",
+      "text_zh": "太好了！那我們就可以再見面了。",
+      "pinyin": "Tài hǎo le! Nà wǒmen jiù kěyǐ zài jiànmiàn le.",
+      "translation_vn": "Tốt quá rồi! Vậy chúng ta có thể gặp lại nhau nữa rồi."
+    }
+  ]
+}
