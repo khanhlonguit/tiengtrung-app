@@ -779,18 +779,41 @@
   .heroZh { font-size: 26px; }
   .heroVn { font-size: 16px; }
 
-  /* Vocab table: collapse to 3 useful columns */
-  .vocabListHeader,
+  /* Vocab table: collapse into stacked rows */
+  .vocabListHeader { display: none; }
+  
   .vocabRow {
-    grid-template-columns: 28px 1fr 1fr;
+    grid-template-columns: 28px 1fr;
+    grid-template-rows: auto auto auto;
+    row-gap: 2px;
+    padding: 12px 10px;
+    align-items: flex-start;
   }
-  /* Hide pinyin, type columns on mobile */
-  .colPinyin,
+  
+  .colNum { grid-column: 1; grid-row: 1 / 4; margin-top: 4px; }
+  .colZh { grid-column: 2; grid-row: 1; justify-content: flex-start; }
+  
+  .colPinyin { 
+    display: flex; 
+    grid-column: 2; 
+    grid-row: 2; 
+    font-size: 14px; 
+    padding: 0;
+    justify-content: flex-start;
+  }
+  
+  .colMeaning { 
+    grid-column: 2; 
+    grid-row: 3; 
+    font-size: 13px; 
+    padding: 0;
+    justify-content: flex-start;
+    color: var(--text-muted);
+  }
+
+  /* Hide Type and Expand columns on mobile */
   .colType,
   .colExpand { display: none; }
-
-  /* Meaning column takes full remaining space */
-  .colMeaning { font-size: 12px; }
 
   /* Vocab example indentation */
   .vocabExample { padding: 10px 12px 12px 40px; }
