@@ -114,6 +114,13 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
   // Init TTS voices
   useEffect(() => { initVoices(); }, []);
 
+  // Auto-speak on flip
+  useEffect(() => {
+    if (flipped && current) {
+      speak(current.word_zh);
+    }
+  }, [flipped, current]);
+
   const progress = cards.length > 0 ? ((currentIndex + 1) / cards.length) * 100 : 0;
 
   return (
