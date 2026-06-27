@@ -12,7 +12,8 @@
       "meaning_vn": "Thịt bò",
       "example_zh": "牛肉麵真好吃。",
       "example_pinyin": "Niúròu miàn zhēn hǎochī.",
-      "example_vn": "Mì bò thật ngon."
+      "example_vn": "Mì bò thật ngon.",
+      "meaning_hv": "Ngưu Nhục"
     },
     {
       "order_num": 2,
@@ -22,7 +23,8 @@
       "meaning_vn": "Mì",
       "example_zh": "牛肉麵真好吃。",
       "example_pinyin": "Niúròu miàn zhēn hǎochī.",
-      "example_vn": "Mì bò thật ngon."
+      "example_vn": "Mì bò thật ngon.",
+      "meaning_hv": "Miến"
     },
     {
       "order_num": 3,
@@ -32,7 +34,8 @@
       "meaning_vn": "Thật, thật sự",
       "example_zh": "真好吃。",
       "example_pinyin": "Zhēn hǎochī.",
-      "example_vn": "Thật ngon."
+      "example_vn": "Thật ngon.",
+      "meaning_hv": "Chân"
     },
     {
       "order_num": 4,
@@ -42,7 +45,8 @@
       "meaning_vn": "Ngon (đồ ăn)",
       "example_zh": "真好吃。",
       "example_pinyin": "Zhēn hǎochī.",
-      "example_vn": "Thật ngon."
+      "example_vn": "Thật ngon.",
+      "meaning_hv": "Hảo Cật"
     },
     {
       "order_num": 5,
@@ -52,7 +56,8 @@
       "meaning_vn": "Nói",
       "example_zh": "很多人都說台灣有不少有名的小吃。",
       "example_pinyin": "Hěn duō rén dōu shuō Táiwān yǒu bù shǎo yǒumíng de xiǎochī.",
-      "example_vn": "Nhiều người đều nói Đài Loan có không ít món ăn vặt nổi tiếng."
+      "example_vn": "Nhiều người đều nói Đài Loan có không ít món ăn vặt nổi tiếng.",
+      "meaning_hv": "Thuyết"
     },
     {
       "order_num": 6,
@@ -62,7 +67,8 @@
       "meaning_vn": "Ít",
       "example_zh": "有不少有名的小吃。",
       "example_pinyin": "Yǒu bù shǎo yǒumíng de xiǎochī.",
-      "example_vn": "Có không ít món ăn nhẹ nổi tiếng."
+      "example_vn": "Có không ít món ăn nhẹ nổi tiếng.",
+      "meaning_hv": "Thiểu"
     },
     {
       "order_num": 7,
@@ -72,7 +78,8 @@
       "meaning_vn": "Nổi tiếng",
       "example_zh": "這家餐廳很有名。",
       "example_pinyin": "Zhè jiā cāntīng hěn yǒumíng.",
-      "example_vn": "Nhà hàng này rất nổi tiếng."
+      "example_vn": "Nhà hàng này rất nổi tiếng.",
+      "meaning_hv": "Hữu Danh"
     },
     {
       "order_num": 8,
@@ -82,7 +89,8 @@
       "meaning_vn": "Món ăn nhẹ, ăn vặt",
       "example_zh": "台灣小吃很好吃。",
       "example_pinyin": "Táiwān xiǎochī hěn hǎochī.",
-      "example_vn": "Món ăn vặt Đài Loan rất ngon."
+      "example_vn": "Món ăn vặt Đài Loan rất ngon.",
+      "meaning_hv": "Tiểu Cật"
     },
     {
       "order_num": 9,
@@ -92,7 +100,8 @@
       "meaning_vn": "Nhất",
       "example_zh": "你最喜歡吃什麼？",
       "example_pinyin": "Nǐ zuì xǐhuān chī shénme?",
-      "example_vn": "Bạn thích ăn gì nhất?"
+      "example_vn": "Bạn thích ăn gì nhất?",
+      "meaning_hv": "Tối"
     },
     {
       "order_num": 10,
@@ -102,7 +111,8 @@
       "meaning_vn": "Canh, súp",
       "example_zh": "湯也好喝。",
       "example_pinyin": "Tāng yě hǎohē.",
-      "example_vn": "Canh cũng rất ngon."
+      "example_vn": "Canh cũng rất ngon.",
+      "meaning_hv": "Thang"
     },
     {
       "order_num": 11,
@@ -112,7 +122,8 @@
       "meaning_vn": "Như thế, đến thế",
       "example_zh": "這麼好吃，我很想吃。",
       "example_pinyin": "Zhème hǎochī, wǒ hěn xiǎng chī.",
-      "example_vn": "Ngon như thế, tôi rất muốn ăn."
+      "example_vn": "Ngon như thế, tôi rất muốn ăn.",
+      "meaning_hv": "Giá Ma"
     },
     {
       "order_num": 12,
@@ -122,7 +133,8 @@
       "meaning_vn": "Biết",
       "example_zh": "我知道一家有名的店。",
       "example_pinyin": "Wǒ zhīdào yì jiā yǒumíng de diàn.",
-      "example_vn": "Tôi biết một cửa hàng nổi tiếng."
+      "example_vn": "Tôi biết một cửa hàng nổi tiếng.",
+      "meaning_hv": "Tri Đạo"
     },
     {
       "order_num": 13,
@@ -132,7 +144,8 @@
       "meaning_vn": "Lượng từ cho nhà hàng, quán ăn",
       "example_zh": "一家有名的牛肉麵店。",
       "example_pinyin": "Yì jiā yǒumíng de niúròu miàn diàn.",
-      "example_vn": "Một tiệm mì bò nổi tiếng."
+      "example_vn": "Một tiệm mì bò nổi tiếng.",
+      "meaning_hv": "Gia"
     },
     {
       "order_num": 14,
@@ -142,7 +155,8 @@
       "meaning_vn": "Tiệm, cửa hàng",
       "example_zh": "一家有名的牛肉麵店。",
       "example_pinyin": "Yì jiā yǒumíng de niúròu miàn diàn.",
-      "example_vn": "Một tiệm mì bò nổi tiếng."
+      "example_vn": "Một tiệm mì bò nổi tiếng.",
+      "meaning_hv": "Điếm"
     },
     {
       "order_num": 15,
@@ -152,7 +166,8 @@
       "meaning_vn": "Nhất định",
       "example_zh": "一定要點大碗的。",
       "example_pinyin": "Yídìng yào diǎn dà wǎn de.",
-      "example_vn": "Nhất định phải gọi tô lớn."
+      "example_vn": "Nhất định phải gọi tô lớn.",
+      "meaning_hv": "Nhất Định"
     },
     {
       "order_num": 16,
@@ -162,7 +177,8 @@
       "meaning_vn": "Gọi món",
       "example_zh": "一定要點大碗的。",
       "example_pinyin": "Yídìng yào diǎn dà wǎn de.",
-      "example_vn": "Nhất định phải gọi tô lớn."
+      "example_vn": "Nhất định phải gọi tô lớn.",
+      "meaning_hv": "Điểm"
     },
     {
       "order_num": 17,
@@ -172,7 +188,8 @@
       "meaning_vn": "Bát, tô",
       "example_zh": "大碗的。",
       "example_pinyin": "Dà wǎn de.",
-      "example_vn": "Tô lớn."
+      "example_vn": "Tô lớn.",
+      "meaning_hv": "Oản"
     },
     {
       "order_num": 18,
@@ -182,7 +199,8 @@
       "meaning_vn": "Đúng vậy",
       "example_zh": "是啊！都很好吃。",
       "example_pinyin": "Shì a! Dōu hěn hǎochī.",
-      "example_vn": "Đúng vậy! Đều rất ngon."
+      "example_vn": "Đúng vậy! Đều rất ngon.",
+      "meaning_hv": "Thị A"
     },
     {
       "order_num": 19,
@@ -192,7 +210,8 @@
       "meaning_vn": "Tiểu long bao",
       "example_zh": "小籠包很好吃。",
       "example_pinyin": "Xiǎolóngbāo hěn hǎochī.",
-      "example_vn": "Tiểu long bao rất ngon."
+      "example_vn": "Tiểu long bao rất ngon.",
+      "meaning_hv": "Tiểu Lồng Bao"
     },
     {
       "order_num": 20,
@@ -202,7 +221,8 @@
       "meaning_vn": "Đậu hũ thúi",
       "example_zh": "臭豆腐很好吃。",
       "example_pinyin": "Chòu dòufu hěn hǎochī.",
-      "example_vn": "Đậu hũ thúi rất ngon."
+      "example_vn": "Đậu hũ thúi rất ngon.",
+      "meaning_hv": "Xú Đậu Hủ"
     },
     {
       "order_num": 21,
@@ -212,7 +232,8 @@
       "meaning_vn": "Tuyệt quá",
       "example_zh": "太好了！",
       "example_pinyin": "Tài hǎo le!",
-      "example_vn": "Tuyệt quá!"
+      "example_vn": "Tuyệt quá!",
+      "meaning_hv": "Thái Hảo Liễu"
     },
     {
       "order_num": 22,
@@ -222,7 +243,8 @@
       "meaning_vn": "Hôm qua",
       "example_zh": "昨天晚上那家餐廳。",
       "example_pinyin": "Zuótiān wǎnshang nà jiā cāntīng.",
-      "example_vn": "Nhà hàng tối qua."
+      "example_vn": "Nhà hàng tối qua.",
+      "meaning_hv": "Tạc Thiên"
     },
     {
       "order_num": 23,
@@ -232,7 +254,8 @@
       "meaning_vn": "Nhà hàng",
       "example_zh": "那家餐廳的菜很好吃。",
       "example_pinyin": "Nà jiā cāntīng de cài hěn hǎochī.",
-      "example_vn": "Đồ ăn của nhà hàng kia rất ngon."
+      "example_vn": "Đồ ăn của nhà hàng kia rất ngon.",
+      "meaning_hv": "Xan Sảnh"
     },
     {
       "order_num": 24,
@@ -242,7 +265,8 @@
       "meaning_vn": "Nhưng mà",
       "example_zh": "很好吃，可是有一點辣。",
       "example_pinyin": "Hěn hǎochī, kěshì yǒu yìdiǎn là.",
-      "example_vn": "Rất ngon, nhưng hơi cay một chút."
+      "example_vn": "Rất ngon, nhưng hơi cay một chút.",
+      "meaning_hv": "Khả Thị"
     },
     {
       "order_num": 25,
@@ -252,7 +276,8 @@
       "meaning_vn": "Cay",
       "example_zh": "有一點辣。",
       "example_pinyin": "Yǒu yìdiǎn là.",
-      "example_vn": "Hơi cay một chút."
+      "example_vn": "Hơi cay một chút.",
+      "meaning_hv": "Lạt"
     },
     {
       "order_num": 26,
@@ -262,7 +287,8 @@
       "meaning_vn": "Sợ",
       "example_zh": "我也怕辣。",
       "example_pinyin": "Wǒ yě pà là.",
-      "example_vn": "Tôi cũng sợ cay."
+      "example_vn": "Tôi cũng sợ cay.",
+      "meaning_hv": "Phạ"
     },
     {
       "order_num": 27,
@@ -272,7 +298,8 @@
       "meaning_vn": "Cho nên",
       "example_zh": "所以我喜歡自己做飯。",
       "example_pinyin": "Suǒyǐ wǒ xǐhuān zìjǐ zuòfàn.",
-      "example_vn": "Cho nên tôi thích tự mình nấu ăn."
+      "example_vn": "Cho nên tôi thích tự mình nấu ăn.",
+      "meaning_hv": "Sở Dĩ"
     },
     {
       "order_num": 28,
@@ -282,7 +309,8 @@
       "meaning_vn": "Tự mình",
       "example_zh": "自己做飯。",
       "example_pinyin": "Zìjǐ zuòfàn.",
-      "example_vn": "Tự nấu ăn."
+      "example_vn": "Tự nấu ăn.",
+      "meaning_hv": "Tự Kỷ"
     },
     {
       "order_num": 29,
@@ -292,7 +320,8 @@
       "meaning_vn": "Nấu ăn",
       "example_zh": "妳會做飯嗎？",
       "example_pinyin": "Nǐ huì zuòfàn ma?",
-      "example_vn": "Bạn biết nấu ăn không?"
+      "example_vn": "Bạn biết nấu ăn không?",
+      "meaning_hv": "Tố Phạn"
     },
     {
       "order_num": 30,
@@ -302,7 +331,8 @@
       "meaning_vn": "Trợ từ bổ ngữ",
       "example_zh": "你做飯做得怎麼樣？",
       "example_pinyin": "Nǐ zuòfàn zuò de zěnmeyàng?",
-      "example_vn": "Bạn nấu ăn như thế nào?"
+      "example_vn": "Bạn nấu ăn như thế nào?",
+      "meaning_hv": "Đắc"
     },
     {
       "order_num": 31,
@@ -312,7 +342,8 @@
       "meaning_vn": "Biết (kỹ năng)",
       "example_zh": "妳會做飯嗎？",
       "example_pinyin": "Nǐ huì zuòfàn ma?",
-      "example_vn": "Bạn biết nấu ăn không?"
+      "example_vn": "Bạn biết nấu ăn không?",
+      "meaning_hv": "Hội"
     },
     {
       "order_num": 32,
@@ -322,7 +353,8 @@
       "meaning_vn": "Tráng miệng",
       "example_zh": "我的甜點也做得不錯。",
       "example_pinyin": "Wǒ de tiándiǎn yě zuò de búcuò.",
-      "example_vn": "Món tráng miệng của tôi làm cũng khá tốt."
+      "example_vn": "Món tráng miệng của tôi làm cũng khá tốt.",
+      "meaning_hv": "Điềm Điểm"
     },
     {
       "order_num": 33,
@@ -332,7 +364,8 @@
       "meaning_vn": "Không tệ, khá tốt",
       "example_zh": "做得不錯。",
       "example_pinyin": "Zuò de búcuò.",
-      "example_vn": "Làm không tệ."
+      "example_vn": "Làm không tệ.",
+      "meaning_hv": "Bất Thác"
     },
     {
       "order_num": 34,
@@ -342,7 +375,8 @@
       "meaning_vn": "Có thể",
       "example_zh": "你可以教我嗎？",
       "example_pinyin": "Nǐ kěyǐ jiāo wǒ ma?",
-      "example_vn": "Bạn có thể dạy tôi không?"
+      "example_vn": "Bạn có thể dạy tôi không?",
+      "meaning_hv": "Khả Dĩ"
     },
     {
       "order_num": 35,
@@ -352,7 +386,8 @@
       "meaning_vn": "Dạy",
       "example_zh": "你可以教我嗎？",
       "example_pinyin": "Nǐ kěyǐ jiāo wǒ ma?",
-      "example_vn": "Bạn có thể dạy tôi không?"
+      "example_vn": "Bạn có thể dạy tôi không?",
+      "meaning_hv": "Giáo"
     },
     {
       "order_num": 36,
@@ -362,7 +397,8 @@
       "meaning_vn": "Đến",
       "example_zh": "你到我家來。",
       "example_pinyin": "Nǐ dào wǒ jiā lái.",
-      "example_vn": "Bạn đến nhà tôi nhé."
+      "example_vn": "Bạn đến nhà tôi nhé.",
+      "meaning_hv": "Đáo"
     }
   ],
   "grammar": [

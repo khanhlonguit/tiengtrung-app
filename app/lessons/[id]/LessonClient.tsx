@@ -11,7 +11,11 @@ type Lesson = { id: number; title_vn: string; title_zh: string; subtitle: string
 type Vocab = {
   id: number; lesson_id: number; order_num: number;
   word_zh: string; pinyin: string; word_type: string;
-  meaning_vn: string; example_zh: string; example_pinyin: string; example_vn: string;
+  meaning_vn: string;
+  meaning_hv: string;
+  example_zh: string;
+  example_pinyin: string;
+  example_vn: string;
 };
 type Grammar = {
   id: number; lesson_id: number; order_num: number;
@@ -277,6 +281,7 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                       <span className={styles.colNum}>#</span>
                       <span className={styles.colZh}>Chữ Hán</span>
                       <span className={styles.colPinyin}>Pinyin</span>
+                      <span className={styles.colHv}>Hán Việt</span>
                       <span className={styles.colType}>Loại</span>
                       <span className={styles.colMeaning}>Nghĩa</span>
                       <span className={styles.colExpand}></span>
@@ -300,6 +305,7 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                             </button>
                           </span>
                           <span className={styles.colPinyin}>{v.pinyin}</span>
+                          <span className={styles.colHv}>{v.meaning_hv}</span>
                           <span className={styles.colType}>
                             {v.word_type && <span className={styles.vocabType}>{v.word_type}</span>}
                           </span>

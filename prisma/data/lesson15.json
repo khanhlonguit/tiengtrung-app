@@ -12,7 +12,8 @@
       "meaning_vn": "Bác sĩ",
       "example_zh": "看醫生。",
       "example_pinyin": "Kàn yīshēng.",
-      "example_vn": "Khám bác sĩ."
+      "example_vn": "Khám bác sĩ.",
+      "meaning_hv": "Y Sinh"
     },
     {
       "order_num": 2,
@@ -22,7 +23,8 @@
       "meaning_vn": "Liên tục, suốt",
       "example_zh": "我一直流鼻水。",
       "example_pinyin": "Wǒ yìzhí liú bíshuǐ.",
-      "example_vn": "Tôi liên tục chảy nước mũi."
+      "example_vn": "Tôi liên tục chảy nước mũi.",
+      "meaning_hv": "Nhất Trực"
     },
     {
       "order_num": 3,
@@ -32,7 +34,8 @@
       "meaning_vn": "Chảy",
       "example_zh": "流鼻水。",
       "example_pinyin": "Liú bíshuǐ.",
-      "example_vn": "Chảy nước mũi."
+      "example_vn": "Chảy nước mũi.",
+      "meaning_hv": "Lưu"
     },
     {
       "order_num": 4,
@@ -42,7 +45,8 @@
       "meaning_vn": "Nước mũi",
       "example_zh": "流鼻水。",
       "example_pinyin": "Liú bíshuǐ.",
-      "example_vn": "Chảy nước mũi."
+      "example_vn": "Chảy nước mũi.",
+      "meaning_hv": "Tỵ Thuỷ"
     },
     {
       "order_num": 5,
@@ -52,7 +56,8 @@
       "meaning_vn": "Đầu",
       "example_zh": "頭很痛。",
       "example_pinyin": "Tóu hěn tòng.",
-      "example_vn": "Đầu rất đau."
+      "example_vn": "Đầu rất đau.",
+      "meaning_hv": "Đầu"
     },
     {
       "order_num": 6,
@@ -62,7 +67,8 @@
       "meaning_vn": "Đau",
       "example_zh": "頭很痛。",
       "example_pinyin": "Tóu hěn tòng.",
-      "example_vn": "Đầu rất đau."
+      "example_vn": "Đầu rất đau.",
+      "meaning_hv": "Thống"
     },
     {
       "order_num": 7,
@@ -72,7 +78,8 @@
       "meaning_vn": "Khẩu vị, sự thèm ăn",
       "example_zh": "胃口很差。",
       "example_pinyin": "Wèikǒu hěn chā.",
-      "example_vn": "Khẩu vị rất kém."
+      "example_vn": "Khẩu vị rất kém.",
+      "meaning_hv": "Vị Khẩu"
     },
     {
       "order_num": 8,
@@ -82,7 +89,8 @@
       "meaning_vn": "Kém, tồi",
       "example_zh": "胃口很差。",
       "example_pinyin": "Wèikǒu hěn chā.",
-      "example_vn": "Khẩu vị rất kém."
+      "example_vn": "Khẩu vị rất kém.",
+      "meaning_hv": "Sai"
     },
     {
       "order_num": 9,
@@ -92,7 +100,8 @@
       "meaning_vn": "Cổ họng",
       "example_zh": "喉嚨有一點發炎。",
       "example_pinyin": "Hóulóng yǒu yìdiǎn fāyán.",
-      "example_vn": "Cổ họng có hơi viêm."
+      "example_vn": "Cổ họng có hơi viêm.",
+      "meaning_hv": "Hầu Lung"
     },
     {
       "order_num": 10,
@@ -102,7 +111,8 @@
       "meaning_vn": "Viêm, phát viêm",
       "example_zh": "喉嚨有一點發炎。",
       "example_pinyin": "Hóulóng yǒu yìdiǎn fāyán.",
-      "example_vn": "Cổ họng có hơi viêm."
+      "example_vn": "Cổ họng có hơi viêm.",
+      "meaning_hv": "Phát Viêm"
     },
     {
       "order_num": 11,
@@ -112,7 +122,8 @@
       "meaning_vn": "Bị ốm, bị bệnh",
       "example_zh": "我生的是什麼病？",
       "example_pinyin": "Wǒ shēng de shì shénme bìng?",
-      "example_vn": "Bệnh tôi bị là bệnh gì?"
+      "example_vn": "Bệnh tôi bị là bệnh gì?",
+      "meaning_hv": "Sinh Bệnh"
     },
     {
       "order_num": 12,
@@ -122,7 +133,8 @@
       "meaning_vn": "Sốt",
       "example_zh": "妳有一點發燒。",
       "example_pinyin": "Nǐ yǒu yìdiǎn fāshāo.",
-      "example_vn": "Cô có hơi sốt."
+      "example_vn": "Cô có hơi sốt.",
+      "meaning_hv": "Phát Thiêu"
     },
     {
       "order_num": 13,
@@ -132,7 +144,8 @@
       "meaning_vn": "Cảm cúm",
       "example_zh": "是感冒。",
       "example_pinyin": "Shì gǎnmào.",
-      "example_vn": "Là cảm cúm."
+      "example_vn": "Là cảm cúm.",
+      "meaning_hv": "Cảm Mạo"
     },
     {
       "order_num": 14,
@@ -142,7 +155,8 @@
       "meaning_vn": "Thuốc",
       "example_zh": "吃藥。",
       "example_pinyin": "Chī yào.",
-      "example_vn": "Uống thuốc."
+      "example_vn": "Uống thuốc.",
+      "meaning_hv": "Dược"
     },
     {
       "order_num": 15,
@@ -152,7 +166,8 @@
       "meaning_vn": "Hiệu thuốc, tiệm thuốc",
       "example_zh": "到藥局去。",
       "example_pinyin": "Dào yàojú qù.",
-      "example_vn": "Đến hiệu thuốc."
+      "example_vn": "Đến hiệu thuốc.",
+      "meaning_hv": "Dược Cục"
     },
     {
       "order_num": 16,
@@ -162,7 +177,8 @@
       "meaning_vn": "Lấy, cầm",
       "example_zh": "拿藥。",
       "example_pinyin": "Ná yào.",
-      "example_vn": "Lấy thuốc."
+      "example_vn": "Lấy thuốc.",
+      "meaning_hv": "Nã"
     },
     {
       "order_num": 17,
@@ -172,7 +188,8 @@
       "meaning_vn": "Cầm, lấy (giới từ chỉ sự xử lý)",
       "example_zh": "把藥吃了。",
       "example_pinyin": "Bǎ yào chī le.",
-      "example_vn": "Uống thuốc đi."
+      "example_vn": "Uống thuốc đi.",
+      "meaning_hv": "Bả"
     },
     {
       "order_num": 18,
@@ -182,7 +199,8 @@
       "meaning_vn": "Nước",
       "example_zh": "多喝水。",
       "example_pinyin": "Duō hē shuǐ.",
-      "example_vn": "Uống nhiều nước."
+      "example_vn": "Uống nhiều nước.",
+      "meaning_hv": "Thuỷ"
     },
     {
       "order_num": 19,
@@ -192,7 +210,8 @@
       "meaning_vn": "Nghỉ ngơi",
       "example_zh": "多休息。",
       "example_pinyin": "Duō xiūxí.",
-      "example_vn": "Nghỉ ngơi nhiều."
+      "example_vn": "Nghỉ ngơi nhiều.",
+      "meaning_hv": "Hưu Tức"
     },
     {
       "order_num": 20,
@@ -202,7 +221,8 @@
       "meaning_vn": "Ngủ",
       "example_zh": "早一點睡覺。",
       "example_pinyin": "Zǎo yìdiǎn shuìjiào.",
-      "example_vn": "Ngủ sớm một chút."
+      "example_vn": "Ngủ sớm một chút.",
+      "meaning_hv": "Thuỵ Giáo"
     },
     {
       "order_num": 21,
@@ -212,7 +232,8 @@
       "meaning_vn": "Sớm một chút",
       "example_zh": "早一點睡覺。",
       "example_pinyin": "Zǎo yìdiǎn shuìjiào.",
-      "example_vn": "Ngủ sớm một chút."
+      "example_vn": "Ngủ sớm một chút.",
+      "meaning_hv": "Tảo Nhất Điểm"
     },
     {
       "order_num": 22,
@@ -222,7 +243,8 @@
       "meaning_vn": "Sắc mặt",
       "example_zh": "臉色這麼難看。",
       "example_pinyin": "Liǎnsè zhème nánkàn.",
-      "example_vn": "Sắc mặt khó coi thế này."
+      "example_vn": "Sắc mặt khó coi thế này.",
+      "meaning_hv": "Kiểm Sắc"
     },
     {
       "order_num": 23,
@@ -232,7 +254,8 @@
       "meaning_vn": "Khó coi, xấu (sắc mặt)",
       "example_zh": "臉色這麼難看。",
       "example_pinyin": "Liǎnsè zhème nánkàn.",
-      "example_vn": "Sắc mặt khó coi thế này."
+      "example_vn": "Sắc mặt khó coi thế này.",
+      "meaning_hv": "Nan Khán"
     },
     {
       "order_num": 24,
@@ -242,7 +265,8 @@
       "meaning_vn": "Bụng",
       "example_zh": "肚子很不舒服。",
       "example_pinyin": "Dùzi hěn bù shūfú.",
-      "example_vn": "Bụng rất khó chịu."
+      "example_vn": "Bụng rất khó chịu.",
+      "meaning_hv": "Đỗ Tử"
     },
     {
       "order_num": 25,
@@ -252,7 +276,8 @@
       "meaning_vn": "Nôn, mửa",
       "example_zh": "吃了東西就吐。",
       "example_pinyin": "Chī le dōngxi jiù tù.",
-      "example_vn": "Ăn xong là nôn."
+      "example_vn": "Ăn xong là nôn.",
+      "meaning_hv": "Thổ"
     },
     {
       "order_num": 26,
@@ -262,7 +287,8 @@
       "meaning_vn": "Vài, mấy",
       "example_zh": "吐了好幾次。",
       "example_pinyin": "Tù le hǎo jǐ cì.",
-      "example_vn": "Nôn mất mấy lần rồi."
+      "example_vn": "Nôn mất mấy lần rồi.",
+      "meaning_hv": "Cơ"
     },
     {
       "order_num": 27,
@@ -272,7 +298,8 @@
       "meaning_vn": "Lần",
       "example_zh": "好幾次。",
       "example_pinyin": "Hǎo jǐ cì.",
-      "example_vn": "Mấy lần."
+      "example_vn": "Mấy lần.",
+      "meaning_hv": "Thứ"
     },
     {
       "order_num": 28,
@@ -282,7 +309,8 @@
       "meaning_vn": "Đi cùng, bầu bạn",
       "example_zh": "我陪你去看病。",
       "example_pinyin": "Wǒ péi nǐ qù kànbìng.",
-      "example_vn": "Tôi đi khám bệnh cùng cậu."
+      "example_vn": "Tôi đi khám bệnh cùng cậu.",
+      "meaning_hv": "Bồi"
     },
     {
       "order_num": 29,
@@ -292,7 +320,8 @@
       "meaning_vn": "Khám bệnh",
       "example_zh": "我陪你去看病。",
       "example_pinyin": "Wǒ péi nǐ qù kànbìng.",
-      "example_vn": "Tôi đi cùng cậu đi khám bệnh."
+      "example_vn": "Tôi đi cùng cậu đi khám bệnh.",
+      "meaning_hv": "Khán Bệnh"
     },
     {
       "order_num": 30,
@@ -302,7 +331,8 @@
       "meaning_vn": "Sức khỏe",
       "example_zh": "健康保險。",
       "example_pinyin": "Jiànkāng bǎoxiǎn.",
-      "example_vn": "Bảo hiểm sức khỏe."
+      "example_vn": "Bảo hiểm sức khỏe.",
+      "meaning_hv": "Kiện Khang"
     },
     {
       "order_num": 31,
@@ -312,7 +342,8 @@
       "meaning_vn": "Bảo hiểm",
       "example_zh": "沒有健康保險。",
       "example_pinyin": "Méiyǒu jiànkāng bǎoxiǎn.",
-      "example_vn": "Không có bảo hiểm y tế."
+      "example_vn": "Không có bảo hiểm y tế.",
+      "meaning_hv": "Bảo Hiểm"
     },
     {
       "order_num": 32,
@@ -322,7 +353,8 @@
       "meaning_vn": "Với",
       "example_zh": "請妳跟老師說。",
       "example_pinyin": "Qǐng nǐ gēn lǎoshī shuō.",
-      "example_vn": "Phiền cậu nói với giáo viên."
+      "example_vn": "Phiền cậu nói với giáo viên.",
+      "meaning_hv": "Cân"
     },
     {
       "order_num": 33,
@@ -332,7 +364,8 @@
       "meaning_vn": "Dầu mỡ, nhiều dầu mỡ",
       "example_zh": "油的東西。",
       "example_pinyin": "Yóu de dōngxi.",
-      "example_vn": "Đồ ăn dầu mỡ."
+      "example_vn": "Đồ ăn dầu mỡ.",
+      "meaning_hv": "Dầu"
     },
     {
       "order_num": 34,
@@ -342,7 +375,8 @@
       "meaning_vn": "Lạnh, đá",
       "example_zh": "冰的東西。",
       "example_pinyin": "Bīng de dōngxi.",
-      "example_vn": "Đồ ăn lạnh."
+      "example_vn": "Đồ ăn lạnh.",
+      "meaning_hv": "Băng"
     },
     {
       "order_num": 35,
@@ -352,7 +386,8 @@
       "meaning_vn": "Đừng",
       "example_zh": "最好都別吃。",
       "example_pinyin": "Zuìhǎo dōu bié chī.",
-      "example_vn": "Tốt nhất đều đừng ăn."
+      "example_vn": "Tốt nhất đều đừng ăn.",
+      "meaning_hv": "Biệt"
     },
     {
       "order_num": 36,
@@ -362,7 +397,8 @@
       "meaning_vn": "Quan tâm",
       "example_zh": "謝謝妳的關心。",
       "example_pinyin": "Xièxie nǐ de guānxīn.",
-      "example_vn": "Cảm ơn sự quan tâm của cậu."
+      "example_vn": "Cảm ơn sự quan tâm của cậu.",
+      "meaning_hv": "Quan Tâm"
     },
     {
       "order_num": 37,
@@ -372,7 +408,8 @@
       "meaning_vn": "Gói, bao",
       "example_zh": "一包藥。",
       "example_pinyin": "Yī bāo yào.",
-      "example_vn": "Một gói thuốc."
+      "example_vn": "Một gói thuốc.",
+      "meaning_hv": "Bao"
     },
     {
       "order_num": 38,
@@ -382,7 +419,8 @@
       "meaning_vn": "Ngủ",
       "example_zh": "睡得比昨天好。",
       "example_pinyin": "Shuì de bǐ zuótiān hǎo.",
-      "example_vn": "Ngủ ngon hơn hôm qua."
+      "example_vn": "Ngủ ngon hơn hôm qua.",
+      "meaning_hv": "Thuỵ"
     },
     {
       "order_num": 39,
@@ -392,7 +430,8 @@
       "meaning_vn": "Giờ, tiếng đồng hồ",
       "example_zh": "幾個小時。",
       "example_pinyin": "Jǐ gè xiǎoshí.",
-      "example_vn": "Vài tiếng đồng hồ."
+      "example_vn": "Vài tiếng đồng hồ.",
+      "meaning_hv": "Tiểu Thời"
     },
     {
       "order_num": 40,
@@ -402,7 +441,8 @@
       "meaning_vn": "Sao thế? Bị làm sao vậy?",
       "example_zh": "你怎麼了？",
       "example_pinyin": "Nǐ zěnme le?",
-      "example_vn": "Cậu sao thế?"
+      "example_vn": "Cậu sao thế?",
+      "meaning_hv": "Chẩm Ma Liễu"
     },
     {
       "order_num": 41,
@@ -412,7 +452,8 @@
       "meaning_vn": "Không cần đâu",
       "example_zh": "不用了。",
       "example_pinyin": "Búyòng le.",
-      "example_vn": "Không cần đâu."
+      "example_vn": "Không cần đâu.",
+      "meaning_hv": "Bất Dụng Liễu"
     },
     {
       "order_num": 42,
@@ -422,7 +463,8 @@
       "meaning_vn": "Trung tâm y tế",
       "example_zh": "學校的健康中心。",
       "example_pinyin": "Xuéxiào de jiànkāng zhōngxīn.",
-      "example_vn": "Trung tâm y tế của trường."
+      "example_vn": "Trung tâm y tế của trường.",
+      "meaning_hv": "Kiện Khang Trung Tâm"
     },
     {
       "order_num": 43,
@@ -432,7 +474,8 @@
       "meaning_vn": "Về nhà",
       "example_zh": "我想回家。",
       "example_pinyin": "Wǒ xiǎng huí jiā.",
-      "example_vn": "Tôi muốn về nhà."
+      "example_vn": "Tôi muốn về nhà.",
+      "meaning_hv": "Hồi Gia"
     },
     {
       "order_num": 44,
@@ -442,7 +485,8 @@
       "meaning_vn": "Tốt nhất là",
       "example_zh": "最好都別吃。",
       "example_pinyin": "Zuìhǎo dōu bié chī.",
-      "example_vn": "Tốt nhất đều đừng ăn."
+      "example_vn": "Tốt nhất đều đừng ăn.",
+      "meaning_hv": "Tối Hảo"
     }
   ],
   "grammar": [

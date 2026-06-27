@@ -12,7 +12,8 @@
       "meaning_vn": "Cuối tuần",
       "example_zh": "明天是週末。",
       "example_pinyin": "Míngtiān shì zhōumò.",
-      "example_vn": "Ngày mai là cuối tuần."
+      "example_vn": "Ngày mai là cuối tuần.",
+      "meaning_hv": "Chu Mạt"
     },
     {
       "order_num": 2,
@@ -22,7 +23,8 @@
       "meaning_vn": "Nghe",
       "example_zh": "你喜歡聽音樂嗎？",
       "example_pinyin": "Nǐ xǐhuān tīng yīnyuè ma?",
-      "example_vn": "Bạn thích nghe nhạc không?"
+      "example_vn": "Bạn thích nghe nhạc không?",
+      "meaning_hv": "Thính"
     },
     {
       "order_num": 3,
@@ -32,7 +34,8 @@
       "meaning_vn": "Âm nhạc",
       "example_zh": "我不喜歡聽音樂。",
       "example_pinyin": "Wǒ bù xǐhuān tīng yīnyuè.",
-      "example_vn": "Tôi không thích nghe nhạc."
+      "example_vn": "Tôi không thích nghe nhạc.",
+      "meaning_hv": "Âm Lạc"
     },
     {
       "order_num": 4,
@@ -42,7 +45,8 @@
       "meaning_vn": "Vận động, tập thể dục",
       "example_zh": "我喜歡運動。",
       "example_pinyin": "Wǒ xǐhuān yùndòng.",
-      "example_vn": "Tôi thích thể dục."
+      "example_vn": "Tôi thích thể dục.",
+      "meaning_hv": "Vận Động"
     },
     {
       "order_num": 5,
@@ -52,7 +56,8 @@
       "meaning_vn": "Chơi, đánh (dùng tay)",
       "example_zh": "你喜歡打網球嗎？",
       "example_pinyin": "Nǐ xǐhuān dǎ wǎngqiú ma?",
-      "example_vn": "Bạn thích chơi tennis không?"
+      "example_vn": "Bạn thích chơi tennis không?",
+      "meaning_hv": "Tá"
     },
     {
       "order_num": 6,
@@ -62,7 +67,8 @@
       "meaning_vn": "Quần vợt, tennis",
       "example_zh": "我不喜歡打網球。",
       "example_pinyin": "Wǒ bù xǐhuān dǎ wǎngqiú.",
-      "example_vn": "Tôi không thích chơi tennis."
+      "example_vn": "Tôi không thích chơi tennis.",
+      "meaning_hv": "Võng Cầu"
     },
     {
       "order_num": 7,
@@ -72,7 +78,8 @@
       "meaning_vn": "Bóng chày",
       "example_zh": "打棒球和游泳。",
       "example_pinyin": "Dǎ bàngqiú hé yóuyǒng.",
-      "example_vn": "Chơi bóng chày và bơi lội."
+      "example_vn": "Chơi bóng chày và bơi lội.",
+      "meaning_hv": "Bổng Cầu"
     },
     {
       "order_num": 8,
@@ -82,7 +89,8 @@
       "meaning_vn": "Và, với (nối danh từ)",
       "example_zh": "棒球和游泳",
       "example_pinyin": "bàngqiú hé yóuyǒng",
-      "example_vn": "bóng chày và bơi lội"
+      "example_vn": "bóng chày và bơi lội",
+      "meaning_hv": "Hoà"
     },
     {
       "order_num": 9,
@@ -92,7 +100,8 @@
       "meaning_vn": "Bơi lội",
       "example_zh": "我喜歡游泳。",
       "example_pinyin": "Wǒ xǐhuān yóuyǒng.",
-      "example_vn": "Tôi thích bơi lội."
+      "example_vn": "Tôi thích bơi lội.",
+      "meaning_hv": "Du Vịnh"
     },
     {
       "order_num": 10,
@@ -102,7 +111,8 @@
       "meaning_vn": "Thường, hay",
       "example_zh": "我常打籃球。",
       "example_pinyin": "Wǒ cháng dǎ lánqiú.",
-      "example_vn": "Tôi thường chơi bóng rổ."
+      "example_vn": "Tôi thường chơi bóng rổ.",
+      "meaning_hv": "Thường"
     },
     {
       "order_num": 11,
@@ -112,7 +122,8 @@
       "meaning_vn": "Bóng rổ",
       "example_zh": "我常打籃球，也常踢足球。",
       "example_pinyin": "Wǒ cháng dǎ lánqiú, yě cháng tī zúqiú.",
-      "example_vn": "Tôi thường chơi bóng rổ, cũng hay đá bóng."
+      "example_vn": "Tôi thường chơi bóng rổ, cũng hay đá bóng.",
+      "meaning_hv": "Lam Cầu"
     },
     {
       "order_num": 12,
@@ -122,7 +133,8 @@
       "meaning_vn": "Cũng",
       "example_zh": "我也喜歡。",
       "example_pinyin": "Wǒ yě xǐhuān.",
-      "example_vn": "Tôi cũng thích."
+      "example_vn": "Tôi cũng thích.",
+      "meaning_hv": "Dã"
     },
     {
       "order_num": 13,
@@ -132,7 +144,8 @@
       "meaning_vn": "Đá (dùng chân)",
       "example_zh": "我喜歡踢足球。",
       "example_pinyin": "Wǒ xǐhuān tī zúqiú.",
-      "example_vn": "Tôi thích đá bóng."
+      "example_vn": "Tôi thích đá bóng.",
+      "meaning_hv": "Thích"
     },
     {
       "order_num": 14,
@@ -142,7 +155,8 @@
       "meaning_vn": "Bóng đá",
       "example_zh": "踢足球很好玩！",
       "example_pinyin": "Tī zúqiú hěn hǎowán!",
-      "example_vn": "Đá bóng rất vui!"
+      "example_vn": "Đá bóng rất vui!",
+      "meaning_hv": "Tú Cầu"
     },
     {
       "order_num": 15,
@@ -152,7 +166,8 @@
       "meaning_vn": "Cảm thấy, nghĩ, thấy",
       "example_zh": "我覺得踢足球很好玩。",
       "example_pinyin": "Wǒ juéde tī zúqiú hěn hǎowán.",
-      "example_vn": "Tôi thấy đá bóng rất vui."
+      "example_vn": "Tôi thấy đá bóng rất vui.",
+      "meaning_hv": "Giáo Đắc"
     },
     {
       "order_num": 16,
@@ -162,7 +177,8 @@
       "meaning_vn": "Vui, thú vị",
       "example_zh": "這個遊戲很好玩。",
       "example_pinyin": "Zhège yóuxì hěn hǎowán.",
-      "example_vn": "Trò chơi này rất vui."
+      "example_vn": "Trò chơi này rất vui.",
+      "meaning_hv": "Hảo Ngoạn"
     },
     {
       "order_num": 17,
@@ -172,7 +188,8 @@
       "meaning_vn": "Ngày mai",
       "example_zh": "明天是週末。",
       "example_pinyin": "Míngtiān shì zhōumò.",
-      "example_vn": "Ngày mai là cuối tuần."
+      "example_vn": "Ngày mai là cuối tuần.",
+      "meaning_hv": "Minh Thiên"
     },
     {
       "order_num": 18,
@@ -182,7 +199,8 @@
       "meaning_vn": "Buổi sáng",
       "example_zh": "我們早上去踢足球。",
       "example_pinyin": "Wǒmen zǎoshang qù tī zúqiú.",
-      "example_vn": "Chúng ta sáng đi đá bóng."
+      "example_vn": "Chúng ta sáng đi đá bóng.",
+      "meaning_hv": "Tảo Thướng"
     },
     {
       "order_num": 19,
@@ -192,7 +210,8 @@
       "meaning_vn": "Đi, đi đến",
       "example_zh": "我們去看電影吧！",
       "example_pinyin": "Wǒmen qù kàn diànyǐng ba!",
-      "example_vn": "Chúng ta đi xem phim đi!"
+      "example_vn": "Chúng ta đi xem phim đi!",
+      "meaning_hv": "Khứ"
     },
     {
       "order_num": 20,
@@ -202,7 +221,8 @@
       "meaning_vn": "Thế nào, như thế nào",
       "example_zh": "去踢足球，怎麼樣？",
       "example_pinyin": "Qù tī zúqiú, zěnmeyàng?",
-      "example_vn": "Đi đá bóng, thế nào?"
+      "example_vn": "Đi đá bóng, thế nào?",
+      "meaning_hv": "Chẩm Ma Dạng"
     },
     {
       "order_num": 21,
@@ -212,7 +232,8 @@
       "meaning_vn": "Nhỉ, nhá (trợ từ cuối câu)",
       "example_zh": "好啊！",
       "example_pinyin": "Hǎo a!",
-      "example_vn": "Được đó!"
+      "example_vn": "Được đó!",
+      "meaning_hv": "A"
     },
     {
       "order_num": 22,
@@ -222,7 +243,8 @@
       "meaning_vn": "Được đó, đồng ý",
       "example_zh": "好啊！",
       "example_pinyin": "Hǎo a!",
-      "example_vn": "Được đó!"
+      "example_vn": "Được đó!",
+      "meaning_hv": "Hảo A"
     },
     {
       "order_num": 23,
@@ -232,7 +254,8 @@
       "meaning_vn": "Hôm nay",
       "example_zh": "今天晚上去看電影。",
       "example_pinyin": "Jīntiān wǎnshàng qù kàn diànyǐng.",
-      "example_vn": "Tối nay đi xem phim."
+      "example_vn": "Tối nay đi xem phim.",
+      "meaning_hv": "Kim Thiên"
     },
     {
       "order_num": 24,
@@ -242,7 +265,8 @@
       "meaning_vn": "Buổi tối",
       "example_zh": "今天晚上去看電影。",
       "example_pinyin": "Jīntiān wǎnshàng qù kàn diànyǐng.",
-      "example_vn": "Tối nay đi xem phim."
+      "example_vn": "Tối nay đi xem phim.",
+      "meaning_hv": "Vãn Thướng"
     },
     {
       "order_num": 25,
@@ -252,7 +276,8 @@
       "meaning_vn": "Xem, nhìn",
       "example_zh": "你想看電影嗎？",
       "example_pinyin": "Nǐ xiǎng kàn diànyǐng ma?",
-      "example_vn": "Bạn muốn xem phim không?"
+      "example_vn": "Bạn muốn xem phim không?",
+      "meaning_hv": "Khán"
     },
     {
       "order_num": 26,
@@ -262,7 +287,8 @@
       "meaning_vn": "Phim điện ảnh",
       "example_zh": "臺灣電影，我都想看。",
       "example_pinyin": "Táiwān diànyǐng, wǒ dōu xiǎng kàn.",
-      "example_vn": "Phim Đài Loan, tôi đều muốn xem."
+      "example_vn": "Phim Đài Loan, tôi đều muốn xem.",
+      "meaning_hv": "Điện Ảnh"
     },
     {
       "order_num": 27,
@@ -272,7 +298,8 @@
       "meaning_vn": "Muốn, định, nghĩ",
       "example_zh": "你想看美國電影還是臺灣電影？",
       "example_pinyin": "Nǐ xiǎng kàn Měiguó diànyǐng háishì Táiwān diànyǐng?",
-      "example_vn": "Bạn muốn xem phim Mỹ hay phim Đài Loan?"
+      "example_vn": "Bạn muốn xem phim Mỹ hay phim Đài Loan?",
+      "meaning_hv": "Tưởng"
     },
     {
       "order_num": 28,
@@ -282,7 +309,8 @@
       "meaning_vn": "Hay, hay là (lựa chọn)",
       "example_zh": "喝茶還是喝咖啡？",
       "example_pinyin": "Hē chá háishì hē kāfēi?",
-      "example_vn": "Uống trà hay uống cà phê?"
+      "example_vn": "Uống trà hay uống cà phê?",
+      "meaning_hv": "Hoàn Thị"
     },
     {
       "order_num": 29,
@@ -292,7 +320,8 @@
       "meaning_vn": "Đi, nhé (gợi ý cuối câu)",
       "example_zh": "我們看臺灣電影吧！",
       "example_pinyin": "Wǒmen kàn Táiwān diànyǐng ba!",
-      "example_vn": "Chúng ta xem phim Đài Loan nhé!"
+      "example_vn": "Chúng ta xem phim Đài Loan nhé!",
+      "meaning_hv": "Ba"
     },
     {
       "order_num": 30,
@@ -302,7 +331,8 @@
       "meaning_vn": "Có thể (khả năng)",
       "example_zh": "看電影可以學中文。",
       "example_pinyin": "Kàn diànyǐng kěyǐ xué Zhōngwén.",
-      "example_vn": "Xem phim có thể học tiếng Trung."
+      "example_vn": "Xem phim có thể học tiếng Trung.",
+      "meaning_hv": "Khả Dĩ"
     },
     {
       "order_num": 31,
@@ -312,7 +342,8 @@
       "meaning_vn": "Học",
       "example_zh": "我在學中文。",
       "example_pinyin": "Wǒ zài xué Zhōngwén.",
-      "example_vn": "Tôi đang học tiếng Trung."
+      "example_vn": "Tôi đang học tiếng Trung.",
+      "meaning_hv": "Học"
     },
     {
       "order_num": 32,
@@ -322,7 +353,8 @@
       "meaning_vn": "Tiếng Trung",
       "example_zh": "看電影可以學中文。",
       "example_pinyin": "Kàn diànyǐng kěyǐ xué Zhōngwén.",
-      "example_vn": "Xem phim có thể học tiếng Trung."
+      "example_vn": "Xem phim có thể học tiếng Trung.",
+      "meaning_hv": "Trung Văn"
     },
     {
       "order_num": 33,
@@ -332,7 +364,8 @@
       "meaning_vn": "Cùng nhau",
       "example_zh": "我們一起去吃飯吧！",
       "example_pinyin": "Wǒmen yìqǐ qù chīfàn ba!",
-      "example_vn": "Chúng ta cùng đi ăn cơm nhé!"
+      "example_vn": "Chúng ta cùng đi ăn cơm nhé!",
+      "meaning_hv": "Nhất Khởi"
     },
     {
       "order_num": 34,
@@ -342,7 +375,8 @@
       "meaning_vn": "Ăn",
       "example_zh": "我們去吃越南菜。",
       "example_pinyin": "Wǒmen qù chī Yuènán cài.",
-      "example_vn": "Chúng ta đi ăn món Việt Nam."
+      "example_vn": "Chúng ta đi ăn món Việt Nam.",
+      "meaning_hv": "Cật"
     },
     {
       "order_num": 35,
@@ -352,7 +386,8 @@
       "meaning_vn": "Bữa tối, cơm tối",
       "example_zh": "晚上一起吃晚飯，好不好？",
       "example_pinyin": "Wǎnshàng yīqǐ chī wǎnfàn, hǎo bù hǎo?",
-      "example_vn": "Tối cùng ăn tối nhé, được không?"
+      "example_vn": "Tối cùng ăn tối nhé, được không?",
+      "meaning_hv": "Vãn Phạn"
     },
     {
       "order_num": 36,
@@ -362,7 +397,8 @@
       "meaning_vn": "Món ăn, rau",
       "example_zh": "我們去吃越南菜。",
       "example_pinyin": "Wǒmen qù chī Yuènán cài.",
-      "example_vn": "Chúng ta đi ăn món Việt Nam."
+      "example_vn": "Chúng ta đi ăn món Việt Nam.",
+      "meaning_hv": "Thái"
     },
     {
       "order_num": 37,
@@ -372,7 +408,8 @@
       "meaning_vn": "Việt Nam",
       "example_zh": "我們去吃越南菜。",
       "example_pinyin": "Wǒmen qù chī Yuènán cài.",
-      "example_vn": "Chúng ta đi ăn món Việt Nam."
+      "example_vn": "Chúng ta đi ăn món Việt Nam.",
+      "meaning_hv": "Việt Nam"
     },
     {
       "order_num": 38,
@@ -382,7 +419,8 @@
       "meaning_vn": "Được không, đồng ý không",
       "example_zh": "一起去吃飯，好不好？",
       "example_pinyin": "Yìqǐ qù chīfàn, hǎo bù hǎo?",
-      "example_vn": "Cùng đi ăn, được không?"
+      "example_vn": "Cùng đi ăn, được không?",
+      "meaning_hv": "Hảo Bất Hảo"
     },
     {
       "order_num": 39,
@@ -392,7 +430,8 @@
       "meaning_vn": "Làm gì",
       "example_zh": "你喜歡做什麼？",
       "example_pinyin": "Nǐ xǐhuān zuò shénme?",
-      "example_vn": "Bạn thích làm gì?"
+      "example_vn": "Bạn thích làm gì?",
+      "meaning_hv": "Tố Thậm Ma"
     },
     {
       "order_num": 40,
@@ -402,7 +441,8 @@
       "meaning_vn": "Bạch Như Ngọc (tên riêng)",
       "example_zh": "白如玉是美國人。",
       "example_pinyin": "Bái Rúyù shì Měiguó rén.",
-      "example_vn": "Bạch Như Ngọc là người Mỹ."
+      "example_vn": "Bạch Như Ngọc là người Mỹ.",
+      "meaning_hv": "Bạch Như Ngọc"
     }
   ],
   "grammar": [

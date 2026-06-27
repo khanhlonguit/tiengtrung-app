@@ -12,7 +12,8 @@
       "meaning_vn": "Giờ",
       "example_zh": "早上九點去 KTV。",
       "example_pinyin": "Zǎoshang jiǔ diǎn qù KTV.",
-      "example_vn": "Sáng 9 giờ đi KTV."
+      "example_vn": "Sáng 9 giờ đi KTV.",
+      "meaning_hv": "Điểm"
     },
     {
       "order_num": 2,
@@ -22,7 +23,8 @@
       "meaning_vn": "Karaoke",
       "example_zh": "他們去 KTV 唱歌。",
       "example_pinyin": "Tāmen qù KTV chànggē.",
-      "example_vn": "Họ đi KTV hát."
+      "example_vn": "Họ đi KTV hát.",
+      "meaning_hv": "K T V"
     },
     {
       "order_num": 3,
@@ -32,7 +34,8 @@
       "meaning_vn": "Hát",
       "example_zh": "我想聽你唱歌。",
       "example_pinyin": "Wǒ xiǎng tīng nǐ chànggē.",
-      "example_vn": "Tôi muốn nghe bạn hát."
+      "example_vn": "Tôi muốn nghe bạn hát.",
+      "meaning_hv": "Xướng Ca"
     },
     {
       "order_num": 4,
@@ -42,7 +45,8 @@
       "meaning_vn": "Phút",
       "example_zh": "九點二十分在大安 KTV 見面。",
       "example_pinyin": "Jiǔ diǎn èrshí fēn zài Dà'ān KTV jiànmiàn.",
-      "example_vn": "9 giờ 20 phút gặp mặt tại KTV Đại An."
+      "example_vn": "9 giờ 20 phút gặp mặt tại KTV Đại An.",
+      "meaning_hv": "Phân"
     },
     {
       "order_num": 5,
@@ -52,7 +56,8 @@
       "meaning_vn": "Gặp mặt",
       "example_zh": "我們明天見面。",
       "example_pinyin": "Wǒmen míngtiān jiànmiàn.",
-      "example_vn": "Ngày mai chúng ta gặp mặt."
+      "example_vn": "Ngày mai chúng ta gặp mặt.",
+      "meaning_hv": "Kiến Diện"
     },
     {
       "order_num": 6,
@@ -62,7 +67,8 @@
       "meaning_vn": "Từ",
       "example_zh": "從早上七點到中午十二點，最便宜。",
       "example_pinyin": "Cóng zǎoshang qī diǎn dào zhōngwǔ shí'èr diǎn, zuì piányí.",
-      "example_vn": "Từ 7 giờ sáng đến 12 giờ trưa là rẻ nhất."
+      "example_vn": "Từ 7 giờ sáng đến 12 giờ trưa là rẻ nhất.",
+      "meaning_hv": "Tòng"
     },
     {
       "order_num": 7,
@@ -72,7 +78,8 @@
       "meaning_vn": "Buổi trưa",
       "example_zh": "我中午有空。",
       "example_pinyin": "Wǒ zhōngwǔ yǒu kòng.",
-      "example_vn": "Buổi trưa tôi rảnh."
+      "example_vn": "Buổi trưa tôi rảnh.",
+      "meaning_hv": "Trung Ngọ"
     },
     {
       "order_num": 8,
@@ -82,7 +89,8 @@
       "meaning_vn": "Phải",
       "example_zh": "我想去，可是我得去銀行。",
       "example_pinyin": "Wǒ xiǎng qù, kěshì wǒ děi qù yínháng.",
-      "example_vn": "Tôi muốn đi, nhưng tôi phải đi ngân hàng."
+      "example_vn": "Tôi muốn đi, nhưng tôi phải đi ngân hàng.",
+      "meaning_hv": "Đắc"
     },
     {
       "order_num": 9,
@@ -92,7 +100,8 @@
       "meaning_vn": "Ngân hàng",
       "example_zh": "他去銀行買東西。",
       "example_pinyin": "Tā qù yínháng mǎi dōngxī.",
-      "example_vn": "Anh ấy đi ngân hàng mua đồ."
+      "example_vn": "Anh ấy đi ngân hàng mua đồ.",
+      "meaning_hv": "Ngân Hàng"
     },
     {
       "order_num": 10,
@@ -102,7 +111,8 @@
       "meaning_vn": "Lúc, khi",
       "example_zh": "你什麼時候有空？",
       "example_pinyin": "Nǐ shénme shíhòu yǒu kòng?",
-      "example_vn": "Khi nào bạn rảnh?"
+      "example_vn": "Khi nào bạn rảnh?",
+      "meaning_hv": "Thời Hậu"
     },
     {
       "order_num": 11,
@@ -112,7 +122,8 @@
       "meaning_vn": "Ngày kia",
       "example_zh": "後天我有空，你呢？",
       "example_pinyin": "Hòutiān wǒ yǒu kòng, nǐ ne?",
-      "example_vn": "Ngày kia tôi rảnh, còn bạn?"
+      "example_vn": "Ngày kia tôi rảnh, còn bạn?",
+      "meaning_hv": "Hậu Thiên"
     },
     {
       "order_num": 12,
@@ -122,7 +133,8 @@
       "meaning_vn": "Đại An (Tên khu vực ở Đài Bắc)",
       "example_zh": "我們在大安 KTV 見面。",
       "example_pinyin": "Wǒmen zài Dà'ān KTV jiànmiàn.",
-      "example_vn": "Chúng ta gặp nhau ở KTV Đại An."
+      "example_vn": "Chúng ta gặp nhau ở KTV Đại An.",
+      "meaning_hv": "Đại An"
     },
     {
       "order_num": 13,
@@ -132,7 +144,8 @@
       "meaning_vn": "Lần tới",
       "example_zh": "下次你一定要來。",
       "example_pinyin": "Xià cì nǐ yīdìng yào lái.",
-      "example_vn": "Lần tới bạn nhất định phải đến."
+      "example_vn": "Lần tới bạn nhất định phải đến.",
+      "meaning_hv": "Hạ Thứ"
     },
     {
       "order_num": 14,
@@ -142,7 +155,8 @@
       "meaning_vn": "Không vấn đề gì",
       "example_zh": "沒問題。我們後天見。",
       "example_pinyin": "Méi wèntí. Wǒmen hòutiān jiàn.",
-      "example_vn": "Không vấn đề gì. Ngày kia chúng ta gặp."
+      "example_vn": "Không vấn đề gì. Ngày kia chúng ta gặp.",
+      "meaning_hv": "Một Vấn Đề"
     },
     {
       "order_num": 15,
@@ -152,7 +166,8 @@
       "meaning_vn": "À đúng rồi",
       "example_zh": "對了，什麼時候一起吃飯？",
       "example_pinyin": "Duìle, shénme shíhòu yīqǐ chīfàn?",
-      "example_vn": "À đúng rồi, khi nào cùng đi ăn?"
+      "example_vn": "À đúng rồi, khi nào cùng đi ăn?",
+      "meaning_hv": "Đối Liễu"
     },
     {
       "order_num": 16,
@@ -162,7 +177,8 @@
       "meaning_vn": "Có thời gian rảnh",
       "example_zh": "後天我有空。",
       "example_pinyin": "Hòutiān wǒ yǒu kòng.",
-      "example_vn": "Ngày kia tôi rảnh."
+      "example_vn": "Ngày kia tôi rảnh.",
+      "meaning_hv": "Hữu Không"
     },
     {
       "order_num": 17,
@@ -172,7 +188,8 @@
       "meaning_vn": "Tạm biệt",
       "example_zh": "好啊！再見。",
       "example_pinyin": "Hǎo a! Zàijiàn.",
-      "example_vn": "Được! Tạm biệt."
+      "example_vn": "Được! Tạm biệt.",
+      "meaning_hv": "Tái Kiến"
     },
     {
       "order_num": 18,
@@ -182,7 +199,8 @@
       "meaning_vn": "Đang",
       "example_zh": "你在吃飯嗎？",
       "example_pinyin": "Nǐ zài chīfàn ma?",
-      "example_vn": "Bạn đang ăn cơm à?"
+      "example_vn": "Bạn đang ăn cơm à?",
+      "meaning_hv": "Tại"
     },
     {
       "order_num": 19,
@@ -192,7 +210,8 @@
       "meaning_vn": "Bữa trưa",
       "example_zh": "是，吃午餐，等一下要上課。",
       "example_pinyin": "Shì, chī wǔcān, děng yīxià yào shàngkè.",
-      "example_vn": "Đúng, ăn trưa, đợi một chút phải đi học."
+      "example_vn": "Đúng, ăn trưa, đợi một chút phải đi học.",
+      "meaning_hv": "Ngọ Xan"
     },
     {
       "order_num": 20,
@@ -202,7 +221,8 @@
       "meaning_vn": "Vừa mới",
       "example_zh": "我剛下課。",
       "example_pinyin": "Wǒ gāng xiàkè.",
-      "example_vn": "Tôi vừa tan học."
+      "example_vn": "Tôi vừa tan học.",
+      "meaning_hv": "Cương"
     },
     {
       "order_num": 21,
@@ -212,7 +232,8 @@
       "meaning_vn": "Tan học",
       "example_zh": "我剛下課。",
       "example_pinyin": "Wǒ gāng xiàkè.",
-      "example_vn": "Tôi vừa tan học."
+      "example_vn": "Tôi vừa tan học.",
+      "meaning_hv": "Hạ Khoá"
     },
     {
       "order_num": 22,
@@ -222,7 +243,8 @@
       "meaning_vn": "Buổi chiều",
       "example_zh": "下午四點半學校有籃球比賽。",
       "example_pinyin": "Xiàwǔ sì diǎn bàn xuéxiào yǒu lánqiú bǐsài.",
-      "example_vn": "4 rưỡi chiều trường có trận đấu bóng rổ."
+      "example_vn": "4 rưỡi chiều trường có trận đấu bóng rổ.",
+      "meaning_hv": "Hạ Ngọ"
     },
     {
       "order_num": 23,
@@ -232,7 +254,8 @@
       "meaning_vn": "Một nửa, rưỡi",
       "example_zh": "下午四點半。",
       "example_pinyin": "Xiàwǔ sì diǎn bàn.",
-      "example_vn": "4 giờ rưỡi chiều."
+      "example_vn": "4 giờ rưỡi chiều.",
+      "meaning_hv": "Bán"
     },
     {
       "order_num": 24,
@@ -242,7 +265,8 @@
       "meaning_vn": "Cuộc thi, trận đấu",
       "example_zh": "比賽幾點結束？",
       "example_pinyin": "Bǐsài jǐ diǎn jiéshù?",
-      "example_vn": "Trận đấu mấy giờ kết thúc?"
+      "example_vn": "Trận đấu mấy giờ kết thúc?",
+      "meaning_hv": "Tỷ Tái"
     },
     {
       "order_num": 25,
@@ -252,7 +276,8 @@
       "meaning_vn": "Kết thúc",
       "example_zh": "比賽幾點結束？",
       "example_pinyin": "Bǐsài jǐ diǎn jiéshù?",
-      "example_vn": "Trận đấu mấy giờ kết thúc?"
+      "example_vn": "Trận đấu mấy giờ kết thúc?",
+      "meaning_hv": "Kết Thúc"
     },
     {
       "order_num": 26,
@@ -262,7 +287,8 @@
       "meaning_vn": "Gần đây",
       "example_zh": "我最近很忙。",
       "example_pinyin": "Wǒ zuìjìn hěn máng.",
-      "example_vn": "Gần đây tôi rất bận."
+      "example_vn": "Gần đây tôi rất bận.",
+      "meaning_hv": "Tối Cận"
     },
     {
       "order_num": 27,
@@ -272,7 +298,8 @@
       "meaning_vn": "Bận",
       "example_zh": "我最近很忙。",
       "example_pinyin": "Wǒ zuìjìn hěn máng.",
-      "example_vn": "Gần đây tôi rất bận."
+      "example_vn": "Gần đây tôi rất bận.",
+      "meaning_hv": "Mang"
     },
     {
       "order_num": 28,
@@ -282,7 +309,8 @@
       "meaning_vn": "Mỗi",
       "example_zh": "每天晚上都上書法課。",
       "example_pinyin": "Měitiān wǎnshang dōu shàng shūfǎ kè.",
-      "example_vn": "Mỗi buổi tối đều đi học lớp thư pháp."
+      "example_vn": "Mỗi buổi tối đều đi học lớp thư pháp.",
+      "meaning_hv": "Mỗi"
     },
     {
       "order_num": 29,
@@ -292,7 +320,8 @@
       "meaning_vn": "Ngày",
       "example_zh": "每天。",
       "example_pinyin": "Měitiān.",
-      "example_vn": "Mỗi ngày."
+      "example_vn": "Mỗi ngày.",
+      "meaning_hv": "Thiên"
     },
     {
       "order_num": 30,
@@ -302,7 +331,8 @@
       "meaning_vn": "Thư pháp",
       "example_zh": "每天晚上都上書法課。",
       "example_pinyin": "Měitiān wǎnshang dōu shàng shūfǎ kè.",
-      "example_vn": "Mỗi buổi tối đều đi học lớp thư pháp."
+      "example_vn": "Mỗi buổi tối đều đi học lớp thư pháp.",
+      "meaning_hv": "Thư Pháp"
     },
     {
       "order_num": 31,
@@ -312,7 +342,8 @@
       "meaning_vn": "Lớp học, bài học",
       "example_zh": "書法課。",
       "example_pinyin": "Shūfǎ kè.",
-      "example_vn": "Lớp thư pháp."
+      "example_vn": "Lớp thư pháp.",
+      "meaning_hv": "Khoá"
     },
     {
       "order_num": 32,
@@ -322,7 +353,8 @@
       "meaning_vn": "Bắt đầu",
       "example_zh": "剛開始學。",
       "example_pinyin": "Gāng kāishǐ xué.",
-      "example_vn": "Vừa mới bắt đầu học."
+      "example_vn": "Vừa mới bắt đầu học.",
+      "meaning_hv": "Khai Thuỷ"
     },
     {
       "order_num": 33,
@@ -332,7 +364,8 @@
       "meaning_vn": "Chữ",
       "example_zh": "字寫得不好。",
       "example_pinyin": "Zì xiě dé bù hǎo.",
-      "example_vn": "Chữ viết không được đẹp."
+      "example_vn": "Chữ viết không được đẹp.",
+      "meaning_hv": "Tự"
     },
     {
       "order_num": 34,
@@ -342,7 +375,8 @@
       "meaning_vn": "Viết",
       "example_zh": "字寫得不好。",
       "example_pinyin": "Zì xiě dé bù hǎo.",
-      "example_vn": "Chữ viết không được đẹp."
+      "example_vn": "Chữ viết không được đẹp.",
+      "meaning_hv": "Tả"
     },
     {
       "order_num": 35,
@@ -352,7 +386,8 @@
       "meaning_vn": "Có thể (cho phép)",
       "example_zh": "我有空可以去看看嗎？",
       "example_pinyin": "Wǒ yǒu kòng kěyǐ qù kànkan ma?",
-      "example_vn": "Lúc rảnh tôi có thể đến xem thử không?"
+      "example_vn": "Lúc rảnh tôi có thể đến xem thử không?",
+      "meaning_hv": "Khả Dĩ"
     },
     {
       "order_num": 36,
@@ -362,7 +397,8 @@
       "meaning_vn": "Hỏi",
       "example_zh": "我得問問老師。",
       "example_pinyin": "Wǒ děi wènwen lǎoshī.",
-      "example_vn": "Tôi phải hỏi thầy giáo xem sao."
+      "example_vn": "Tôi phải hỏi thầy giáo xem sao.",
+      "meaning_hv": "Vấn"
     },
     {
       "order_num": 37,
@@ -372,7 +408,8 @@
       "meaning_vn": "Đợi một chút, lát nữa",
       "example_zh": "等一下要上課。",
       "example_pinyin": "Děng yīxià yào shàngkè.",
-      "example_vn": "Lát nữa phải đi học."
+      "example_vn": "Lát nữa phải đi học.",
+      "meaning_hv": "Đẳng Nhất Hạ"
     },
     {
       "order_num": 38,
@@ -382,7 +419,8 @@
       "meaning_vn": "Có việc, bận",
       "example_zh": "妳晚上有事嗎？",
       "example_pinyin": "Nǐ wǎnshang yǒu shì ma?",
-      "example_vn": "Tối nay bạn có việc gì không?"
+      "example_vn": "Tối nay bạn có việc gì không?",
+      "meaning_hv": "Hữu Sự"
     },
     {
       "order_num": 39,
@@ -392,7 +430,8 @@
       "meaning_vn": "Thú vị",
       "example_zh": "我覺得很有意思。",
       "example_pinyin": "Wǒ juéde hěn yǒu yìsi.",
-      "example_vn": "Tôi thấy rất thú vị."
+      "example_vn": "Tôi thấy rất thú vị.",
+      "meaning_hv": "Hữu Ý Tư"
     }
   ],
   "grammar": [

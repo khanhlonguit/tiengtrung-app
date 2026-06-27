@@ -12,7 +12,8 @@
       "meaning_vn": "Trái cây",
       "example_zh": "臺灣有很多好吃的水果。",
       "example_pinyin": "Táiwān yǒu hěn duō hǎochī de shuǐguǒ.",
-      "example_vn": "Đài Loan có rất nhiều loại trái cây ngon."
+      "example_vn": "Đài Loan có rất nhiều loại trái cây ngon.",
+      "meaning_hv": "Thuỷ Quả"
     },
     {
       "order_num": 2,
@@ -22,7 +23,8 @@
       "meaning_vn": "Màu vàng",
       "example_zh": "這個黃色的水果叫什麼？",
       "example_pinyin": "Zhège huángsè de shuǐguǒ jiào shénme?",
-      "example_vn": "Trái cây màu vàng này gọi là gì?"
+      "example_vn": "Trái cây màu vàng này gọi là gì?",
+      "meaning_hv": "Hoàng Sắc"
     },
     {
       "order_num": 3,
@@ -32,7 +34,8 @@
       "meaning_vn": "Xoài",
       "example_zh": "這是芒果。",
       "example_pinyin": "Zhè shì mángguǒ.",
-      "example_vn": "Đây là quả xoài."
+      "example_vn": "Đây là quả xoài.",
+      "meaning_hv": "Mang Quả"
     },
     {
       "order_num": 4,
@@ -42,7 +45,8 @@
       "meaning_vn": "Cho",
       "example_zh": "給妳一塊。",
       "example_pinyin": "Gěi nǐ yī kuài.",
-      "example_vn": "Cho cậu một miếng."
+      "example_vn": "Cho cậu một miếng.",
+      "meaning_hv": "Cấp"
     },
     {
       "order_num": 5,
@@ -52,7 +56,8 @@
       "meaning_vn": "Miếng, cục, khối",
       "example_zh": "給妳一塊。",
       "example_pinyin": "Gěi nǐ yī kuài.",
-      "example_vn": "Cho cậu một miếng."
+      "example_vn": "Cho cậu một miếng.",
+      "meaning_hv": "Khối"
     },
     {
       "order_num": 6,
@@ -62,7 +67,8 @@
       "meaning_vn": "Thơm",
       "example_zh": "香香的。",
       "example_pinyin": "Xiāngxiāng de.",
-      "example_vn": "Thơm thơm."
+      "example_vn": "Thơm thơm.",
+      "meaning_hv": "Hương"
     },
     {
       "order_num": 7,
@@ -72,7 +78,8 @@
       "meaning_vn": "Ngọt",
       "example_zh": "甜甜的，很好吃。",
       "example_pinyin": "Tiántián de, hěn hǎochī.",
-      "example_vn": "Ngọt ngọt, rất là ngon."
+      "example_vn": "Ngọt ngọt, rất là ngon.",
+      "meaning_hv": "Điềm"
     },
     {
       "order_num": 8,
@@ -82,7 +89,8 @@
       "meaning_vn": "Màu đỏ",
       "example_zh": "紅色的。",
       "example_pinyin": "Hóngsè de.",
-      "example_vn": "Màu đỏ."
+      "example_vn": "Màu đỏ.",
+      "meaning_hv": "Hồng Sắc"
     },
     {
       "order_num": 9,
@@ -92,7 +100,8 @@
       "meaning_vn": "Dưa hấu",
       "example_zh": "妳說的是西瓜吧？",
       "example_pinyin": "Nǐ shuō de shì xīguā ba?",
-      "example_vn": "Ý cậu là quả dưa hấu à?"
+      "example_vn": "Ý cậu là quả dưa hấu à?",
+      "meaning_hv": "Tây Qua"
     },
     {
       "order_num": 10,
@@ -102,7 +111,8 @@
       "meaning_vn": "Nhỉ, nhé, đi (trợ từ ngữ khí)",
       "example_zh": "妳說的是西瓜吧？",
       "example_pinyin": "Nǐ shuō de shì xīguā ba?",
-      "example_vn": "Ý cậu là quả dưa hấu nhỉ?"
+      "example_vn": "Ý cậu là quả dưa hấu nhỉ?",
+      "meaning_hv": "Ba"
     },
     {
       "order_num": 11,
@@ -112,7 +122,8 @@
       "meaning_vn": "Đúng",
       "example_zh": "對！對！",
       "example_pinyin": "Duì! Duì!",
-      "example_vn": "Đúng! Đúng!"
+      "example_vn": "Đúng! Đúng!",
+      "meaning_hv": "Đối"
     },
     {
       "order_num": 12,
@@ -122,7 +133,8 @@
       "meaning_vn": "Trước kia, trước đây",
       "example_zh": "我以前不喜歡吃水果。",
       "example_pinyin": "Wǒ yǐqián bù xǐhuan chī shuǐguǒ.",
-      "example_vn": "Trước kia tôi không thích ăn trái cây."
+      "example_vn": "Trước kia tôi không thích ăn trái cây.",
+      "meaning_hv": "Dĩ Tiền"
     },
     {
       "order_num": 13,
@@ -132,7 +144,8 @@
       "meaning_vn": "Cơ hội",
       "example_zh": "要是有機會。",
       "example_pinyin": "Yàoshì yǒu jīhuì.",
-      "example_vn": "Nếu có cơ hội."
+      "example_vn": "Nếu có cơ hội.",
+      "meaning_hv": "Cơ Hội"
     },
     {
       "order_num": 14,
@@ -142,7 +155,8 @@
       "meaning_vn": "Mời (khách)",
       "example_zh": "我一定請妳吃。",
       "example_pinyin": "Wǒ yīdìng qǐng nǐ chī.",
-      "example_vn": "Tôi nhất định sẽ mời cậu ăn."
+      "example_vn": "Tôi nhất định sẽ mời cậu ăn.",
+      "meaning_hv": "Thỉnh"
     },
     {
       "order_num": 15,
@@ -152,7 +166,8 @@
       "meaning_vn": "Ăn thử",
       "example_zh": "給妳一塊，吃吃看。",
       "example_pinyin": "Gěi nǐ yī kuài, chīchīkàn.",
-      "example_vn": "Cho cậu một miếng, ăn thử xem."
+      "example_vn": "Cho cậu một miếng, ăn thử xem.",
+      "meaning_hv": "Cật Cật Khán"
     },
     {
       "order_num": 16,
@@ -162,7 +177,8 @@
       "meaning_vn": "Chụp (ảnh)",
       "example_zh": "這是我拍的照片。",
       "example_pinyin": "Zhè shì wǒ pāi de zhàopiàn.",
-      "example_vn": "Đây là ảnh tôi chụp."
+      "example_vn": "Đây là ảnh tôi chụp.",
+      "meaning_hv": "Phách"
     },
     {
       "order_num": 17,
@@ -172,7 +188,8 @@
       "meaning_vn": "Cười",
       "example_zh": "你們笑得很開心！",
       "example_pinyin": "Nǐmen xiào de hěn kāixīn!",
-      "example_vn": "Các bạn cười rất vui vẻ!"
+      "example_vn": "Các bạn cười rất vui vẻ!",
+      "meaning_hv": "Tiếu"
     },
     {
       "order_num": 18,
@@ -182,7 +199,8 @@
       "meaning_vn": "Vui vẻ, hạnh phúc",
       "example_zh": "你們笑得很開心！",
       "example_pinyin": "Nǐmen xiào de hěn kāixīn!",
-      "example_vn": "Các bạn cười rất vui vẻ!"
+      "example_vn": "Các bạn cười rất vui vẻ!",
+      "meaning_hv": "Khai Tâm"
     },
     {
       "order_num": 19,
@@ -192,7 +210,8 @@
       "meaning_vn": "Mặc, mang",
       "example_zh": "穿紅衣服的這個。",
       "example_pinyin": "Chuān hóng yīfú de zhège.",
-      "example_vn": "Người mặc áo đỏ này."
+      "example_vn": "Người mặc áo đỏ này.",
+      "meaning_hv": "Xuyên"
     },
     {
       "order_num": 20,
@@ -202,7 +221,8 @@
       "meaning_vn": "Quần áo",
       "example_zh": "穿紅衣服的這個。",
       "example_pinyin": "Chuān hóng yīfú de zhège.",
-      "example_vn": "Người mặc áo đỏ này."
+      "example_vn": "Người mặc áo đỏ này.",
+      "meaning_hv": "Y Phục"
     },
     {
       "order_num": 21,
@@ -212,7 +232,8 @@
       "meaning_vn": "Khách sạn, nhà nghỉ",
       "example_zh": "旅館的老闆。",
       "example_pinyin": "Lǚguǎn de lǎobǎn.",
-      "example_vn": "Ông chủ khách sạn."
+      "example_vn": "Ông chủ khách sạn.",
+      "meaning_hv": "Lữ Quán"
     },
     {
       "order_num": 22,
@@ -222,7 +243,8 @@
       "meaning_vn": "Vợ, bà xã",
       "example_zh": "旅館老闆的太太。",
       "example_pinyin": "Lǚguǎn lǎobǎn de tàitài.",
-      "example_vn": "Vợ của ông chủ khách sạn."
+      "example_vn": "Vợ của ông chủ khách sạn.",
+      "meaning_hv": "Thái Thái"
     },
     {
       "order_num": 23,
@@ -232,7 +254,8 @@
       "meaning_vn": "Nam, con trai",
       "example_zh": "這兩個男的是誰？",
       "example_pinyin": "Zhè liǎng ge nán de shì shéi?",
-      "example_vn": "Hai người nam này là ai?"
+      "example_vn": "Hai người nam này là ai?",
+      "meaning_hv": "Nam"
     },
     {
       "order_num": 24,
@@ -242,7 +265,8 @@
       "meaning_vn": "Lùn, thấp",
       "example_zh": "矮的是旅館的老闆。",
       "example_pinyin": "Ǎi de shì lǚguǎn de lǎobǎn.",
-      "example_vn": "Người thấp là ông chủ khách sạn."
+      "example_vn": "Người thấp là ông chủ khách sạn.",
+      "meaning_hv": "Ải"
     },
     {
       "order_num": 25,
@@ -252,7 +276,8 @@
       "meaning_vn": "Cao",
       "example_zh": "高的是他弟弟。",
       "example_pinyin": "Gāo de shì tā dìdi.",
-      "example_vn": "Người cao là em trai ông ấy."
+      "example_vn": "Người cao là em trai ông ấy.",
+      "meaning_hv": "Cao"
     },
     {
       "order_num": 26,
@@ -262,7 +287,8 @@
       "meaning_vn": "Em trai",
       "example_zh": "高的是他弟弟。",
       "example_pinyin": "Gāo de shì tā dìdi.",
-      "example_vn": "Người cao là em trai ông ấy."
+      "example_vn": "Người cao là em trai ông ấy.",
+      "meaning_hv": "Đệ Đệ"
     },
     {
       "order_num": 27,
@@ -272,7 +298,8 @@
       "meaning_vn": "Sạch sẽ",
       "example_zh": "很乾淨。",
       "example_pinyin": "Hěn gānjìng.",
-      "example_vn": "Rất sạch sẽ."
+      "example_vn": "Rất sạch sẽ.",
+      "meaning_hv": "Càn Tịnh"
     },
     {
       "order_num": 28,
@@ -282,7 +309,8 @@
       "meaning_vn": "Cửa sổ",
       "example_zh": "從窗戶往外看。",
       "example_pinyin": "Cóng chuānghù wǎng wài kàn.",
-      "example_vn": "Từ cửa sổ nhìn ra ngoài."
+      "example_vn": "Từ cửa sổ nhìn ra ngoài.",
+      "meaning_hv": "Song Hộ"
     },
     {
       "order_num": 29,
@@ -292,7 +320,8 @@
       "meaning_vn": "Hướng về, về phía",
       "example_zh": "從窗戶往外看。",
       "example_pinyin": "Cóng chuānghù wǎng wài kàn.",
-      "example_vn": "Từ cửa sổ nhìn ra ngoài."
+      "example_vn": "Từ cửa sổ nhìn ra ngoài.",
+      "meaning_hv": "Vãng"
     },
     {
       "order_num": 30,
@@ -302,7 +331,8 @@
       "meaning_vn": "Màu xanh dương",
       "example_zh": "藍色的大海。",
       "example_pinyin": "Lánsè de dàhǎi.",
-      "example_vn": "Biển lớn màu xanh dương."
+      "example_vn": "Biển lớn màu xanh dương.",
+      "meaning_hv": "Lam Sắc"
     },
     {
       "order_num": 31,
@@ -312,7 +342,8 @@
       "meaning_vn": "Bởi vì",
       "example_zh": "因為現在去玩的人比較少。",
       "example_pinyin": "Yīnwèi xiànzài qù wán de rén bǐjiào shǎo.",
-      "example_vn": "Bởi vì bây giờ người đi chơi khá ít."
+      "example_vn": "Bởi vì bây giờ người đi chơi khá ít.",
+      "meaning_hv": "Nhân Vi"
     },
     {
       "order_num": 32,
@@ -322,7 +353,8 @@
       "meaning_vn": "Ở, trọ",
       "example_zh": "下次我也想去住。",
       "example_pinyin": "Xià cì wǒ yě xiǎng qù zhù.",
-      "example_vn": "Lần sau tôi cũng muốn đến ở."
+      "example_vn": "Lần sau tôi cũng muốn đến ở.",
+      "meaning_hv": "Trú"
     },
     {
       "order_num": 33,
@@ -332,7 +364,8 @@
       "meaning_vn": "Tháng trước",
       "example_zh": "上個月去花蓮玩。",
       "example_pinyin": "Shàng ge yuè qù Huālián wán.",
-      "example_vn": "Tháng trước đi Hoa Liên chơi."
+      "example_vn": "Tháng trước đi Hoa Liên chơi.",
+      "meaning_hv": "Thướng Cá Nguyệt"
     },
     {
       "order_num": 34,
@@ -342,7 +375,8 @@
       "meaning_vn": "Những cái này",
       "example_zh": "這些是我拍的照片。",
       "example_pinyin": "Zhèxiē shì wǒ pāi de zhàopiàn.",
-      "example_vn": "Đây là những bức ảnh tôi chụp."
+      "example_vn": "Đây là những bức ảnh tôi chụp.",
+      "meaning_hv": "Giá Ta"
     }
   ],
   "grammar": [

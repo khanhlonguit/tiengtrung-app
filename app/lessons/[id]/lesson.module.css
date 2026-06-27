@@ -400,7 +400,7 @@
 
 .vocabListHeader {
   display: grid;
-  grid-template-columns: 36px 120px 1fr 80px 1fr 32px;
+  grid-template-columns: 36px 110px 1fr 1fr 70px 1.5fr 32px;
   align-items: center;
   gap: 12px;
   padding: 10px 16px;
@@ -421,7 +421,7 @@
 
 .vocabRow {
   display: grid;
-  grid-template-columns: 36px 120px 1fr 80px 1fr 32px;
+  grid-template-columns: 36px 110px 1fr 1fr 70px 1.5fr 32px;
   align-items: center;
   gap: 12px;
   padding: 11px 16px;
@@ -475,6 +475,12 @@
   font-size: 13px;
   color: var(--text-muted);
   line-height: 1.4;
+}
+
+.colHv {
+  font-size: 13px;
+  color: var(--text-dim);
+  font-style: italic;
 }
 
 .colExpand {

@@ -12,7 +12,8 @@
       "meaning_vn": "Thuê",
       "example_zh": "我要租房子。",
       "example_pinyin": "Wǒ yào zū fángzi.",
-      "example_vn": "Tôi muốn thuê nhà."
+      "example_vn": "Tôi muốn thuê nhà.",
+      "meaning_hv": "Tô"
     },
     {
       "order_num": 2,
@@ -22,7 +23,8 @@
       "meaning_vn": "Chủ nhà",
       "example_zh": "房東先生，你好。",
       "example_pinyin": "Fángdōng xiānshēng, nǐ hǎo.",
-      "example_vn": "Chào ông chủ nhà."
+      "example_vn": "Chào ông chủ nhà.",
+      "meaning_hv": "Phòng Đông"
     },
     {
       "order_num": 3,
@@ -32,7 +34,8 @@
       "meaning_vn": "Phòng khách",
       "example_zh": "這裡是客廳。",
       "example_pinyin": "Zhèlǐ shì kètīng.",
-      "example_vn": "Đây là phòng khách."
+      "example_vn": "Đây là phòng khách.",
+      "meaning_hv": "Khách Sảnh"
     },
     {
       "order_num": 4,
@@ -42,7 +45,8 @@
       "meaning_vn": "Nhà bếp",
       "example_zh": "廚房在左邊。",
       "example_pinyin": "Chúfáng zài zuǒbiān.",
-      "example_vn": "Nhà bếp ở bên trái."
+      "example_vn": "Nhà bếp ở bên trái.",
+      "meaning_hv": "Trù Phòng"
     },
     {
       "order_num": 5,
@@ -52,7 +56,8 @@
       "meaning_vn": "Bên trái",
       "example_zh": "廚房在左邊。",
       "example_pinyin": "Chúfáng zài zuǒbiān.",
-      "example_vn": "Nhà bếp ở bên trái."
+      "example_vn": "Nhà bếp ở bên trái.",
+      "meaning_hv": "Tả Biên"
     },
     {
       "order_num": 6,
@@ -62,7 +67,8 @@
       "meaning_vn": "Bên phải",
       "example_zh": "右邊有浴室。",
       "example_pinyin": "Yòubiān yǒu yùshì.",
-      "example_vn": "Bên phải có phòng tắm."
+      "example_vn": "Bên phải có phòng tắm.",
+      "meaning_hv": "Hữu Biên"
     },
     {
       "order_num": 7,
@@ -72,7 +78,8 @@
       "meaning_vn": "Phòng tắm",
       "example_zh": "右邊有浴室。",
       "example_pinyin": "Yòubiān yǒu yùshì.",
-      "example_vn": "Bên phải có phòng tắm."
+      "example_vn": "Bên phải có phòng tắm.",
+      "meaning_hv": "Dục Thất"
     },
     {
       "order_num": 8,
@@ -82,7 +89,8 @@
       "meaning_vn": "Siêu thị",
       "example_zh": "附近有超市。",
       "example_pinyin": "Fùjìn yǒu chāoshì.",
-      "example_vn": "Gần đây có siêu thị."
+      "example_vn": "Gần đây có siêu thị.",
+      "meaning_hv": "Siêu Thị"
     },
     {
       "order_num": 9,
@@ -92,7 +100,8 @@
       "meaning_vn": "Đi bộ",
       "example_zh": "走路五分鐘就到了。",
       "example_pinyin": "Zǒulù wǔ fēnzhōng jiù dào le.",
-      "example_vn": "Đi bộ 5 phút là tới rồi."
+      "example_vn": "Đi bộ 5 phút là tới rồi.",
+      "meaning_hv": "Tẩu Lộ"
     },
     {
       "order_num": 10,
@@ -102,7 +111,8 @@
       "meaning_vn": "Phút",
       "example_zh": "五分鐘。",
       "example_pinyin": "Wǔ fēnzhōng.",
-      "example_vn": "5 phút."
+      "example_vn": "5 phút.",
+      "meaning_hv": "Phân Chung"
     },
     {
       "order_num": 11,
@@ -112,7 +122,8 @@
       "meaning_vn": "Liền, ngay",
       "example_zh": "五分鐘就到了。",
       "example_pinyin": "Wǔ fēnzhōng jiù dào le.",
-      "example_vn": "5 phút là tới ngay."
+      "example_vn": "5 phút là tới ngay.",
+      "meaning_hv": "Tựu"
     },
     {
       "order_num": 12,
@@ -122,7 +133,8 @@
       "meaning_vn": "Đến, tới",
       "example_zh": "五分鐘就到了。",
       "example_pinyin": "Wǔ fēnzhōng jiù dào le.",
-      "example_vn": "5 phút là tới ngay."
+      "example_vn": "5 phút là tới ngay.",
+      "meaning_hv": "Đáo"
     },
     {
       "order_num": 13,
@@ -132,7 +144,8 @@
       "meaning_vn": "Lượng từ cho phòng, nhà",
       "example_zh": "兩間空房間。",
       "example_pinyin": "Liǎng jiān kōng fángjiān.",
-      "example_vn": "Hai căn phòng trống."
+      "example_vn": "Hai căn phòng trống.",
+      "meaning_hv": "Gian"
     },
     {
       "order_num": 14,
@@ -142,7 +155,8 @@
       "meaning_vn": "Trống",
       "example_zh": "兩間空房間。",
       "example_pinyin": "Liǎng jiān kōng fángjiān.",
-      "example_vn": "Hai căn phòng trống."
+      "example_vn": "Hai căn phòng trống.",
+      "meaning_hv": "Không"
     },
     {
       "order_num": 15,
@@ -152,7 +166,8 @@
       "meaning_vn": "Phòng",
       "example_zh": "這間房間怎麼樣？",
       "example_pinyin": "Zhè jiān fángjiān zěnmeyàng?",
-      "example_vn": "Căn phòng này thế nào?"
+      "example_vn": "Căn phòng này thế nào?",
+      "meaning_hv": "Phòng Gian"
     },
     {
       "order_num": 16,
@@ -162,7 +177,8 @@
       "meaning_vn": "Phòng khép kín (có toilet)",
       "example_zh": "我想看套房。",
       "example_pinyin": "Wǒ xiǎng kàn tàofáng.",
-      "example_vn": "Tôi muốn xem phòng khép kín."
+      "example_vn": "Tôi muốn xem phòng khép kín.",
+      "meaning_hv": "Sáo Phòng"
     },
     {
       "order_num": 17,
@@ -172,7 +188,8 @@
       "meaning_vn": "Trở về",
       "example_zh": "我回去想想。",
       "example_pinyin": "Wǒ huíqù xiǎngxiang.",
-      "example_vn": "Tôi về suy nghĩ thêm."
+      "example_vn": "Tôi về suy nghĩ thêm.",
+      "meaning_hv": "Hồi Khứ"
     },
     {
       "order_num": 18,
@@ -182,7 +199,8 @@
       "meaning_vn": "Nghĩ",
       "example_zh": "我回去想想。",
       "example_pinyin": "Wǒ huíqù xiǎngxiang.",
-      "example_vn": "Tôi về suy nghĩ thêm."
+      "example_vn": "Tôi về suy nghĩ thêm.",
+      "meaning_hv": "Tưởng"
     },
     {
       "order_num": 19,
@@ -192,7 +210,8 @@
       "meaning_vn": "Rồi mới, sau đó",
       "example_zh": "再打電話給你。",
       "example_pinyin": "Zài dǎ diànhuà gěi nǐ.",
-      "example_vn": "Rồi sẽ gọi điện cho bạn."
+      "example_vn": "Rồi sẽ gọi điện cho bạn.",
+      "meaning_hv": "Tái"
     },
     {
       "order_num": 20,
@@ -202,7 +221,8 @@
       "meaning_vn": "Điện thoại",
       "example_zh": "打電話給你。",
       "example_pinyin": "Dǎ diànhuà gěi nǐ.",
-      "example_vn": "Gọi điện cho bạn."
+      "example_vn": "Gọi điện cho bạn.",
+      "meaning_hv": "Điện Thoại"
     },
     {
       "order_num": 21,
@@ -212,7 +232,8 @@
       "meaning_vn": "Cho",
       "example_zh": "打電話給你。",
       "example_pinyin": "Dǎ diànhuà gěi nǐ.",
-      "example_vn": "Gọi điện cho bạn."
+      "example_vn": "Gọi điện cho bạn.",
+      "meaning_hv": "Cấp"
     },
     {
       "order_num": 22,
@@ -222,7 +243,8 @@
       "meaning_vn": "Lâm (họ)",
       "example_zh": "林先生。",
       "example_pinyin": "Lín xiānshēng.",
-      "example_vn": "Ông Lâm."
+      "example_vn": "Ông Lâm.",
+      "meaning_hv": "Lâm"
     },
     {
       "order_num": 23,
@@ -232,7 +254,8 @@
       "meaning_vn": "Gọi điện thoại",
       "example_zh": "打電話給房東。",
       "example_pinyin": "Dǎ diànhuà gěi fángdōng.",
-      "example_vn": "Gọi điện cho chủ nhà."
+      "example_vn": "Gọi điện cho chủ nhà.",
+      "meaning_hv": "Tá Điện Thoại"
     },
     {
       "order_num": 24,
@@ -242,7 +265,8 @@
       "meaning_vn": "Alo",
       "example_zh": "喂，房東先生。",
       "example_pinyin": "Wéi, fángdōng xiānshēng.",
-      "example_vn": "Alo, ông chủ nhà."
+      "example_vn": "Alo, ông chủ nhà.",
+      "meaning_hv": "Uy"
     },
     {
       "order_num": 25,
@@ -252,7 +276,8 @@
       "meaning_vn": "Tiền thuê nhà",
       "example_zh": "你收到我的房租了嗎？",
       "example_pinyin": "Nǐ shōudào wǒ de fángzū le ma?",
-      "example_vn": "Ông đã nhận được tiền thuê nhà của tôi chưa?"
+      "example_vn": "Ông đã nhận được tiền thuê nhà của tôi chưa?",
+      "meaning_hv": "Phòng Tô"
     },
     {
       "order_num": 26,
@@ -262,7 +287,8 @@
       "meaning_vn": "Đã",
       "example_zh": "我已經收到了。",
       "example_pinyin": "Wǒ yǐjīng shōudào le.",
-      "example_vn": "Tôi đã nhận được rồi."
+      "example_vn": "Tôi đã nhận được rồi.",
+      "meaning_hv": "Dĩ Kinh"
     },
     {
       "order_num": 27,
@@ -272,7 +298,8 @@
       "meaning_vn": "Quen",
       "example_zh": "妳習慣了嗎？",
       "example_pinyin": "Nǐ xíguàn le ma?",
-      "example_vn": "Cháu đã quen chưa?"
+      "example_vn": "Cháu đã quen chưa?",
+      "meaning_hv": "Tập Quán"
     },
     {
       "order_num": 28,
@@ -282,7 +309,8 @@
       "meaning_vn": "Vấn đề, câu hỏi",
       "example_zh": "有一個問題。",
       "example_pinyin": "Yǒu yī gè wèntí.",
-      "example_vn": "Có một vấn đề."
+      "example_vn": "Có một vấn đề.",
+      "meaning_hv": "Vấn Đề"
     },
     {
       "order_num": 29,
@@ -292,7 +320,8 @@
       "meaning_vn": "Bình nóng lạnh",
       "example_zh": "熱水器的水不熱。",
       "example_pinyin": "Rèshuǐqì de shuǐ bù rè.",
-      "example_vn": "Nước của bình nóng lạnh không nóng."
+      "example_vn": "Nước của bình nóng lạnh không nóng.",
+      "meaning_hv": "Nhiệt Thuỷ Khí"
     },
     {
       "order_num": 30,
@@ -302,7 +331,8 @@
       "meaning_vn": "Hình như",
       "example_zh": "好像不熱。",
       "example_pinyin": "Hǎoxiàng bù rè.",
-      "example_vn": "Hình như không nóng."
+      "example_vn": "Hình như không nóng.",
+      "meaning_hv": "Hảo Tượng"
     },
     {
       "order_num": 31,
@@ -312,7 +342,8 @@
       "meaning_vn": "Sẽ",
       "example_zh": "今天我會去看看。",
       "example_pinyin": "Jīntiān wǒ huì qù kànkan.",
-      "example_vn": "Hôm nay tôi sẽ đến xem thử."
+      "example_vn": "Hôm nay tôi sẽ đến xem thử.",
+      "meaning_hv": "Hội"
     },
     {
       "order_num": 32,
@@ -322,7 +353,8 @@
       "meaning_vn": "Đợi",
       "example_zh": "我在家等你。",
       "example_pinyin": "Wǒ zài jiā děng nǐ.",
-      "example_vn": "Tôi ở nhà đợi ông."
+      "example_vn": "Tôi ở nhà đợi ông.",
+      "meaning_hv": "Đẳng"
     },
     {
       "order_num": 33,
@@ -332,7 +364,8 @@
       "meaning_vn": "Vậy, thế thì",
       "example_zh": "那我明天下午到。",
       "example_pinyin": "Nà wǒ míngtiān xiàwǔ dào.",
-      "example_vn": "Vậy chiều mai tôi đến."
+      "example_vn": "Vậy chiều mai tôi đến.",
+      "meaning_hv": "Na"
     },
     {
       "order_num": 34,
@@ -342,7 +375,8 @@
       "meaning_vn": "Lắp đặt",
       "example_zh": "可以幫我裝有線電視嗎？",
       "example_pinyin": "Kěyǐ bāng wǒ zhuāng yǒuxiàn diànshì ma?",
-      "example_vn": "Có thể giúp tôi lắp truyền hình cáp không?"
+      "example_vn": "Có thể giúp tôi lắp truyền hình cáp không?",
+      "meaning_hv": "Trang"
     },
     {
       "order_num": 35,
@@ -352,7 +386,8 @@
       "meaning_vn": "Nhưng mà",
       "example_zh": "可以，不過妳得自己付錢。",
       "example_pinyin": "Kěyǐ, bùguò nǐ děi zìjǐ fù qián.",
-      "example_vn": "Được, nhưng mà cháu phải tự trả tiền."
+      "example_vn": "Được, nhưng mà cháu phải tự trả tiền.",
+      "meaning_hv": "Bất Quá"
     },
     {
       "order_num": 36,
@@ -362,7 +397,8 @@
       "meaning_vn": "Trả (tiền)",
       "example_zh": "自己付錢。",
       "example_pinyin": "Zìjǐ fù qián.",
-      "example_vn": "Tự trả tiền."
+      "example_vn": "Tự trả tiền.",
+      "meaning_hv": "Phó"
     },
     {
       "order_num": 37,
@@ -372,7 +408,8 @@
       "meaning_vn": "Nhận được",
       "example_zh": "你收到我的房租了嗎？",
       "example_pinyin": "Nǐ shōudào wǒ de fángzū le ma?",
-      "example_vn": "Ông đã nhận được tiền thuê nhà của tôi chưa?"
+      "example_vn": "Ông đã nhận được tiền thuê nhà của tôi chưa?",
+      "meaning_hv": "Thu Đáo"
     },
     {
       "order_num": 38,
@@ -382,7 +419,8 @@
       "meaning_vn": "Xin lỗi, ngại quá",
       "example_zh": "不好意思，今天晚上我有事。",
       "example_pinyin": "Bù hǎoyìsi, jīntiān wǎnshang wǒ yǒu shì.",
-      "example_vn": "Ngại quá, tối nay cháu có việc rồi."
+      "example_vn": "Ngại quá, tối nay cháu có việc rồi.",
+      "meaning_hv": "Bất Hảo Ý Tư"
     },
     {
       "order_num": 39,
@@ -392,7 +430,8 @@
       "meaning_vn": "Không sao",
       "example_zh": "沒關係，明天下午呢？",
       "example_pinyin": "Méi guānxi, míngtiān xiàwǔ ne?",
-      "example_vn": "Không sao, chiều mai thì sao?"
+      "example_vn": "Không sao, chiều mai thì sao?",
+      "meaning_hv": "Một Quan Hệ"
     },
     {
       "order_num": 40,
@@ -402,7 +441,8 @@
       "meaning_vn": "Truyền hình cáp",
       "example_zh": "裝有線電視。",
       "example_pinyin": "Zhuāng yǒuxiàn diànshì.",
-      "example_vn": "Lắp truyền hình cáp."
+      "example_vn": "Lắp truyền hình cáp.",
+      "meaning_hv": "Hữu Tuyến Điện Thị"
     }
   ],
   "grammar": [

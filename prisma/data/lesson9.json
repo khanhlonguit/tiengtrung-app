@@ -12,7 +12,8 @@
       "meaning_vn": "Tuần",
       "example_zh": "下個星期我們放假。",
       "example_pinyin": "Xià ge xīngqí wǒmen fàngjià.",
-      "example_vn": "Tuần sau chúng tôi nghỉ lễ."
+      "example_vn": "Tuần sau chúng tôi nghỉ lễ.",
+      "meaning_hv": "Tinh Kỳ"
     },
     {
       "order_num": 2,
@@ -22,7 +23,8 @@
       "meaning_vn": "Về nước",
       "example_zh": "你要回國嗎？",
       "example_pinyin": "Nǐ yào huíguó ma?",
-      "example_vn": "Bạn có về nước không?"
+      "example_vn": "Bạn có về nước không?",
+      "meaning_hv": "Hồi Quốc"
     },
     {
       "order_num": 3,
@@ -32,7 +34,8 @@
       "meaning_vn": "Dự định",
       "example_zh": "我打算在家看電視。",
       "example_pinyin": "Wǒ dǎsuàn zài jiā kàn diànshì.",
-      "example_vn": "Tôi dự định ở nhà xem tivi."
+      "example_vn": "Tôi dự định ở nhà xem tivi.",
+      "meaning_hv": "Tá Toán"
     },
     {
       "order_num": 4,
@@ -42,7 +45,8 @@
       "meaning_vn": "Tivi",
       "example_zh": "我打算在家看電視。",
       "example_pinyin": "Wǒ dǎsuàn zài jiā kàn diànshì.",
-      "example_vn": "Tôi dự định ở nhà xem tivi."
+      "example_vn": "Tôi dự định ở nhà xem tivi.",
+      "meaning_hv": "Điện Thị"
     },
     {
       "order_num": 5,
@@ -52,7 +56,8 @@
       "meaning_vn": "Phim, video",
       "example_zh": "看影片學中文。",
       "example_pinyin": "Kàn yǐngpiàn xué Zhōngwén.",
-      "example_vn": "Xem phim học tiếng Trung."
+      "example_vn": "Xem phim học tiếng Trung.",
+      "meaning_hv": "Ảnh Phiến"
     },
     {
       "order_num": 6,
@@ -62,7 +67,8 @@
       "meaning_vn": "Du lịch",
       "example_zh": "你常去旅行嗎？",
       "example_pinyin": "Nǐ cháng qù lǚxíng ma?",
-      "example_vn": "Bạn có thường đi du lịch không?"
+      "example_vn": "Bạn có thường đi du lịch không?",
+      "meaning_hv": "Lữ Hàng"
     },
     {
       "order_num": 7,
@@ -72,7 +78,8 @@
       "meaning_vn": "Bài tập về nhà",
       "example_zh": "在家寫功課。",
       "example_pinyin": "Zài jiā xiě gōngkè.",
-      "example_vn": "Ở nhà làm bài tập."
+      "example_vn": "Ở nhà làm bài tập.",
+      "meaning_hv": "Công Khoá"
     },
     {
       "order_num": 8,
@@ -82,7 +89,8 @@
       "meaning_vn": "Ra ngoài",
       "example_zh": "有時候出去玩。",
       "example_pinyin": "Yǒu shíhòu chūqù wán.",
-      "example_vn": "Có lúc ra ngoài chơi."
+      "example_vn": "Có lúc ra ngoài chơi.",
+      "meaning_hv": "Xuất Khứ"
     },
     {
       "order_num": 9,
@@ -92,7 +100,8 @@
       "meaning_vn": "Khoảng, đại khái",
       "example_zh": "大概玩四、五天。",
       "example_pinyin": "Dàgài wán sì, wǔ tiān.",
-      "example_vn": "Chơi khoảng 4, 5 ngày."
+      "example_vn": "Chơi khoảng 4, 5 ngày.",
+      "meaning_hv": "Đại Khái"
     },
     {
       "order_num": 10,
@@ -102,7 +111,8 @@
       "meaning_vn": "Nghỉ lễ",
       "example_zh": "我們放五天的假。",
       "example_pinyin": "Wǒmen fàng wǔ tiān de jià.",
-      "example_vn": "Chúng tôi nghỉ lễ 5 ngày."
+      "example_vn": "Chúng tôi nghỉ lễ 5 ngày.",
+      "meaning_hv": "Phóng Giả"
     },
     {
       "order_num": 11,
@@ -112,7 +122,8 @@
       "meaning_vn": "Tuần sau",
       "example_zh": "下個星期我們放假。",
       "example_pinyin": "Xià ge xīngqí wǒmen fàngjià.",
-      "example_vn": "Tuần sau chúng tôi nghỉ lễ."
+      "example_vn": "Tuần sau chúng tôi nghỉ lễ.",
+      "meaning_hv": "Hạ Cá Tinh Kỳ"
     },
     {
       "order_num": 12,
@@ -122,7 +133,8 @@
       "meaning_vn": "Có lúc, thỉnh thoảng",
       "example_zh": "有時候在家寫功課。",
       "example_pinyin": "Yǒu shíhòu zài jiā xiě gōngkè.",
-      "example_vn": "Có lúc ở nhà làm bài tập."
+      "example_vn": "Có lúc ở nhà làm bài tập.",
+      "meaning_hv": "Hữu Thời Hậu"
     },
     {
       "order_num": 13,
@@ -132,7 +144,8 @@
       "meaning_vn": "Bao lâu",
       "example_zh": "去玩多久？",
       "example_pinyin": "Qù wán duō jiǔ?",
-      "example_vn": "Đi chơi bao lâu?"
+      "example_vn": "Đi chơi bao lâu?",
+      "meaning_hv": "Đa Cửu"
     },
     {
       "order_num": 14,
@@ -142,7 +155,8 @@
       "meaning_vn": "Đài Đông",
       "example_zh": "去臺東玩。",
       "example_pinyin": "Qù Táidōng wán.",
-      "example_vn": "Đi Đài Đông chơi."
+      "example_vn": "Đi Đài Đông chơi.",
+      "meaning_hv": "Đài Đông"
     },
     {
       "order_num": 15,
@@ -152,7 +166,8 @@
       "meaning_vn": "Nữ, con gái",
       "example_zh": "我女朋友要來臺灣看我。",
       "example_pinyin": "Wǒ nǚpéngyǒu yào lái Táiwān kàn wǒ.",
-      "example_vn": "Bạn gái tôi sẽ đến Đài Loan thăm tôi."
+      "example_vn": "Bạn gái tôi sẽ đến Đài Loan thăm tôi.",
+      "meaning_hv": "Nữ"
     },
     {
       "order_num": 16,
@@ -162,7 +177,8 @@
       "meaning_vn": "Tháng",
       "example_zh": "九月。",
       "example_pinyin": "Jiǔ yuè.",
-      "example_vn": "Tháng 9."
+      "example_vn": "Tháng 9.",
+      "meaning_hv": "Nguyệt"
     },
     {
       "order_num": 17,
@@ -172,7 +188,8 @@
       "meaning_vn": "Ngày (trong tháng)",
       "example_zh": "九月三十號。",
       "example_pinyin": "Jiǔ yuè sānshí hào.",
-      "example_vn": "Ngày 30 tháng 9."
+      "example_vn": "Ngày 30 tháng 9.",
+      "meaning_hv": "Gào"
     },
     {
       "order_num": 18,
@@ -182,7 +199,8 @@
       "meaning_vn": "Mang, dẫn",
       "example_zh": "你想帶她去哪裡玩？",
       "example_pinyin": "Nǐ xiǎng dài tā qù nǎlǐ wán?",
-      "example_vn": "Bạn muốn dẫn cô ấy đi đâu chơi?"
+      "example_vn": "Bạn muốn dẫn cô ấy đi đâu chơi?",
+      "meaning_hv": "Đới"
     },
     {
       "order_num": 19,
@@ -192,7 +210,8 @@
       "meaning_vn": "Cô ấy",
       "example_zh": "你想帶她去哪裡玩？",
       "example_pinyin": "Nǐ xiǎng dài tā qù nǎlǐ wán?",
-      "example_vn": "Bạn muốn dẫn cô ấy đi đâu chơi?"
+      "example_vn": "Bạn muốn dẫn cô ấy đi đâu chơi?",
+      "meaning_hv": "Tha"
     },
     {
       "order_num": 20,
@@ -202,7 +221,8 @@
       "meaning_vn": "Vẫn, còn",
       "example_zh": "還不知道。",
       "example_pinyin": "Hái bù zhīdào.",
-      "example_vn": "Vẫn chưa biết."
+      "example_vn": "Vẫn chưa biết.",
+      "meaning_hv": "Hoàn"
     },
     {
       "order_num": 21,
@@ -212,7 +232,8 @@
       "meaning_vn": "Kiến nghị, đề nghị",
       "example_zh": "你有什麼建議？",
       "example_pinyin": "Nǐ yǒu shénme jiànyì?",
-      "example_vn": "Bạn có đề nghị gì không?"
+      "example_vn": "Bạn có đề nghị gì không?",
+      "meaning_hv": "Kiến Nghị"
     },
     {
       "order_num": 22,
@@ -222,7 +243,8 @@
       "meaning_vn": "Chợ đêm",
       "example_zh": "臺灣的夜市很有名。",
       "example_pinyin": "Táiwān de yèshì hěn yǒumíng.",
-      "example_vn": "Chợ đêm của Đài Loan rất nổi tiếng."
+      "example_vn": "Chợ đêm của Đài Loan rất nổi tiếng.",
+      "meaning_hv": "Dạ Thị"
     },
     {
       "order_num": 23,
@@ -232,7 +254,8 @@
       "meaning_vn": "Nên",
       "example_zh": "你們應該去逛逛。",
       "example_pinyin": "Nǐmen yīnggāi qù guàngguang.",
-      "example_vn": "Các bạn nên đi dạo."
+      "example_vn": "Các bạn nên đi dạo.",
+      "meaning_hv": "Ưng Cai"
     },
     {
       "order_num": 24,
@@ -242,7 +265,8 @@
       "meaning_vn": "Dạo, đi dạo",
       "example_zh": "你們應該去逛逛。",
       "example_pinyin": "Nǐmen yīnggāi qù guàngguang.",
-      "example_vn": "Các bạn nên đi dạo."
+      "example_vn": "Các bạn nên đi dạo.",
+      "meaning_hv": "Cuống"
     },
     {
       "order_num": 25,
@@ -252,7 +276,8 @@
       "meaning_vn": "Đặc biệt",
       "example_zh": "臺灣的茶也很特別。",
       "example_pinyin": "Táiwān de chá yě hěn tèbié.",
-      "example_vn": "Trà của Đài Loan cũng rất đặc biệt."
+      "example_vn": "Trà của Đài Loan cũng rất đặc biệt.",
+      "meaning_hv": "Đặc Biệt"
     },
     {
       "order_num": 26,
@@ -262,7 +287,8 @@
       "meaning_vn": "Quán trà",
       "example_zh": "臺北有很多茶館。",
       "example_pinyin": "Táiběi yǒu hěn duō cháguǎn.",
-      "example_vn": "Đài Bắc có rất nhiều quán trà."
+      "example_vn": "Đài Bắc có rất nhiều quán trà.",
+      "meaning_hv": "Trà Quán"
     },
     {
       "order_num": 27,
@@ -272,7 +298,8 @@
       "meaning_vn": "Quyết định",
       "example_zh": "我決定帶她去貓空。",
       "example_pinyin": "Wǒ juédìng dài tā qù Māokōng.",
-      "example_vn": "Tôi quyết định dẫn cô ấy đi Miêu Không."
+      "example_vn": "Tôi quyết định dẫn cô ấy đi Miêu Không.",
+      "meaning_hv": "Quyết Định"
     },
     {
       "order_num": 28,
@@ -282,7 +309,8 @@
       "meaning_vn": "Nếu như",
       "example_zh": "要是那時候我有空。",
       "example_pinyin": "Yàoshì nà shíhòu wǒ yǒu kòng.",
-      "example_vn": "Nếu như lúc đó tôi rảnh."
+      "example_vn": "Nếu như lúc đó tôi rảnh.",
+      "meaning_hv": "Yêu Thị"
     },
     {
       "order_num": 29,
@@ -292,7 +320,8 @@
       "meaning_vn": "Thì",
       "example_zh": "要是那時候我有空，就跟你們一起去。",
       "example_pinyin": "Yàoshì nà shíhòu wǒ yǒu kòng, jiù gēn nǐmen yīqǐ qù.",
-      "example_vn": "Nếu như lúc đó tôi rảnh, thì sẽ cùng các bạn đi."
+      "example_vn": "Nếu như lúc đó tôi rảnh, thì sẽ cùng các bạn đi.",
+      "meaning_hv": "Tựu"
     },
     {
       "order_num": 30,
@@ -302,7 +331,8 @@
       "meaning_vn": "Miêu Không (Địa danh ở Đài Bắc)",
       "example_zh": "我決定帶她去貓空。",
       "example_pinyin": "Wǒ juédìng dài tā qù Māokōng.",
-      "example_vn": "Tôi quyết định dẫn cô ấy đi Miêu Không."
+      "example_vn": "Tôi quyết định dẫn cô ấy đi Miêu Không.",
+      "meaning_hv": "Miêu Không"
     }
   ],
   "grammar": [

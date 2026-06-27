@@ -12,7 +12,8 @@
       "meaning_vn": "Trần Nguyệt Mỹ (tên riêng)",
       "example_zh": "我是陳月美。",
       "example_pinyin": "Wǒ shì Chén Yuèměi.",
-      "example_vn": "Tôi là Trần Nguyệt Mỹ."
+      "example_vn": "Tôi là Trần Nguyệt Mỹ.",
+      "meaning_hv": "Trần Nguyệt Mỹ"
     },
     {
       "order_num": 2,
@@ -22,7 +23,8 @@
       "meaning_vn": "Lý Minh Hoa (tên riêng)",
       "example_zh": "我是李明華。",
       "example_pinyin": "Wǒ shì Lǐ Mínghuá.",
-      "example_vn": "Tôi là Lý Minh Hoa."
+      "example_vn": "Tôi là Lý Minh Hoa.",
+      "meaning_hv": "Lý Minh Hoa"
     },
     {
       "order_num": 3,
@@ -32,7 +34,8 @@
       "meaning_vn": "Vương Khai Văn (tên riêng)",
       "example_zh": "我叫王開文。",
       "example_pinyin": "Wǒ jiào Wáng Kāiwén.",
-      "example_vn": "Tôi tên là Vương Khai Văn."
+      "example_vn": "Tôi tên là Vương Khai Văn.",
+      "meaning_hv": "Vương Khai Văn"
     },
     {
       "order_num": 4,
@@ -42,7 +45,8 @@
       "meaning_vn": "Bạn, anh, chị (ngôi 2)",
       "example_zh": "你好！",
       "example_pinyin": "Nǐ hǎo!",
-      "example_vn": "Chào bạn!"
+      "example_vn": "Chào bạn!",
+      "meaning_hv": "Nễ"
     },
     {
       "order_num": 5,
@@ -52,7 +56,8 @@
       "meaning_vn": "Đến",
       "example_zh": "我來越南。",
       "example_pinyin": "Wǒ lái Yuènán.",
-      "example_vn": "Tôi đến Việt Nam."
+      "example_vn": "Tôi đến Việt Nam.",
+      "meaning_hv": "Lai"
     },
     {
       "order_num": 6,
@@ -62,7 +67,8 @@
       "meaning_vn": "Là",
       "example_zh": "我是陳月美。",
       "example_pinyin": "Wǒ shì Chén Yuèměi.",
-      "example_vn": "Tôi là Trần Nguyệt Mỹ."
+      "example_vn": "Tôi là Trần Nguyệt Mỹ.",
+      "meaning_hv": "Thị"
     },
     {
       "order_num": 7,
@@ -72,7 +78,8 @@
       "meaning_vn": "Cô, chị",
       "example_zh": "小姐好！",
       "example_pinyin": "Xiǎojiě hǎo!",
-      "example_vn": "Chào cô!"
+      "example_vn": "Chào cô!",
+      "meaning_hv": "Tiểu Tỷ"
     },
     {
       "order_num": 8,
@@ -82,7 +89,8 @@
       "meaning_vn": "Không? (từ để hỏi cuối câu)",
       "example_zh": "你來越南嗎？",
       "example_pinyin": "Nǐ lái Yuènán ma?",
-      "example_vn": "Bạn đến Việt Nam không?"
+      "example_vn": "Bạn đến Việt Nam không?",
+      "meaning_hv": "Ma"
     },
     {
       "order_num": 9,
@@ -92,7 +100,8 @@
       "meaning_vn": "Đón",
       "example_zh": "我來接你。",
       "example_pinyin": "Wǒ lái jiē nǐ.",
-      "example_vn": "Mình đến đón bạn."
+      "example_vn": "Mình đến đón bạn.",
+      "meaning_hv": "Tiếp"
     },
     {
       "order_num": 10,
@@ -102,7 +111,8 @@
       "meaning_vn": "Chúng tôi / chúng ta",
       "example_zh": "我們去台灣。",
       "example_pinyin": "Wǒmen qù Táiwān.",
-      "example_vn": "Chúng tôi đi Đài Loan."
+      "example_vn": "Chúng tôi đi Đài Loan.",
+      "meaning_hv": "Ngã Môn"
     },
     {
       "order_num": 11,
@@ -112,7 +122,8 @@
       "meaning_vn": "Tôi",
       "example_zh": "我去台灣。",
       "example_pinyin": "Wǒ qù Táiwān.",
-      "example_vn": "Tôi đi Đài Loan."
+      "example_vn": "Tôi đi Đài Loan.",
+      "meaning_hv": "Ngã"
     },
     {
       "order_num": 12,
@@ -122,7 +133,8 @@
       "meaning_vn": "Đây, này",
       "example_zh": "這是誰？",
       "example_pinyin": "Zhè shì shéi?",
-      "example_vn": "Đây là ai?"
+      "example_vn": "Đây là ai?",
+      "meaning_hv": "Giá"
     },
     {
       "order_num": 13,
@@ -132,7 +144,8 @@
       "meaning_vn": "Ông, ngài, anh",
       "example_zh": "這是王先生。",
       "example_pinyin": "Zhè shì Wáng xiānsheng.",
-      "example_vn": "Đây là ông Vương."
+      "example_vn": "Đây là ông Vương.",
+      "meaning_hv": "Tiên Sinh"
     },
     {
       "order_num": 14,
@@ -142,7 +155,8 @@
       "meaning_vn": "Tốt, khoẻ",
       "example_zh": "你們好！",
       "example_pinyin": "Nǐmen hǎo!",
-      "example_vn": "Chào các bạn!"
+      "example_vn": "Chào các bạn!",
+      "meaning_hv": "Hảo"
     },
     {
       "order_num": 15,
@@ -152,7 +166,8 @@
       "meaning_vn": "Họ, mang họ",
       "example_zh": "我姓阮。",
       "example_pinyin": "Wǒ xìng Ruǎn.",
-      "example_vn": "Tôi họ Nguyễn."
+      "example_vn": "Tôi họ Nguyễn.",
+      "meaning_hv": "Tính"
     },
     {
       "order_num": 16,
@@ -162,7 +177,8 @@
       "meaning_vn": "Gọi là, tên là",
       "example_zh": "我叫王開文。",
       "example_pinyin": "Wǒ jiào Wáng Kāiwén.",
-      "example_vn": "Tôi tên là Vương Khai Văn."
+      "example_vn": "Tôi tên là Vương Khai Văn.",
+      "meaning_hv": "Khiếu"
     },
     {
       "order_num": 17,
@@ -172,7 +188,8 @@
       "meaning_vn": "Các bạn",
       "example_zh": "你們好！",
       "example_pinyin": "Nǐmen hǎo!",
-      "example_vn": "Chào các bạn!"
+      "example_vn": "Chào các bạn!",
+      "meaning_hv": "Nễ Môn"
     },
     {
       "order_num": 18,
@@ -182,7 +199,8 @@
       "meaning_vn": "Đài Loan",
       "example_zh": "歡迎你來台灣！",
       "example_pinyin": "Huānyíng nǐ lái Táiwān!",
-      "example_vn": "Chào mừng đến Đài Loan!"
+      "example_vn": "Chào mừng đến Đài Loan!",
+      "meaning_hv": "Đài Loan"
     },
     {
       "order_num": 19,
@@ -192,7 +210,8 @@
       "meaning_vn": "Hoan nghênh, chào mừng",
       "example_zh": "歡迎你們來台灣！",
       "example_pinyin": "Huānyíng nǐmen lái Táiwān!",
-      "example_vn": "Chào mừng các bạn đến Đài Loan!"
+      "example_vn": "Chào mừng các bạn đến Đài Loan!",
+      "meaning_hv": "Hoan Nghênh"
     },
     {
       "order_num": 20,
@@ -202,7 +221,8 @@
       "meaning_vn": "Xin hỏi",
       "example_zh": "請問你是誰？",
       "example_pinyin": "Qǐngwèn nǐ shì shéi?",
-      "example_vn": "Xin hỏi bạn là ai?"
+      "example_vn": "Xin hỏi bạn là ai?",
+      "meaning_hv": "Thỉnh Vấn"
     },
     {
       "order_num": 21,
@@ -212,7 +232,8 @@
       "meaning_vn": "Phải, đúng vậy",
       "example_zh": "是的，我是。",
       "example_pinyin": "Shì de, wǒ shì.",
-      "example_vn": "Vâng, đúng vậy."
+      "example_vn": "Vâng, đúng vậy.",
+      "meaning_hv": "Thị Đích"
     },
     {
       "order_num": 22,
@@ -222,7 +243,8 @@
       "meaning_vn": "Cảm ơn",
       "example_zh": "謝謝你！",
       "example_pinyin": "Xièxie nǐ!",
-      "example_vn": "Cảm ơn bạn!"
+      "example_vn": "Cảm ơn bạn!",
+      "meaning_hv": "Tạ Tạ"
     },
     {
       "order_num": 23,
@@ -232,7 +254,8 @@
       "meaning_vn": "Không có gì, đừng khách sáo",
       "example_zh": "謝謝！不客氣！",
       "example_pinyin": "Xièxie! Bù kèqi!",
-      "example_vn": "Cảm ơn! Không có gì!"
+      "example_vn": "Cảm ơn! Không có gì!",
+      "meaning_hv": "Bất Khách Khí"
     },
     {
       "order_num": 24,
@@ -242,7 +265,8 @@
       "meaning_vn": "Chào bạn (xin chào)",
       "example_zh": "你好！",
       "example_pinyin": "Nǐ hǎo!",
-      "example_vn": "Xin chào!"
+      "example_vn": "Xin chào!",
+      "meaning_hv": "Nễ Hảo"
     },
     {
       "order_num": 25,
@@ -252,7 +276,8 @@
       "meaning_vn": "Mời, xin",
       "example_zh": "請喝茶。",
       "example_pinyin": "Qǐng hē chá.",
-      "example_vn": "Mời uống trà."
+      "example_vn": "Mời uống trà.",
+      "meaning_hv": "Thỉnh"
     },
     {
       "order_num": 26,
@@ -262,7 +287,8 @@
       "meaning_vn": "Uống",
       "example_zh": "請喝茶。",
       "example_pinyin": "Qǐng hē chá.",
-      "example_vn": "Mời uống trà."
+      "example_vn": "Mời uống trà.",
+      "meaning_hv": "Húp"
     },
     {
       "order_num": 27,
@@ -272,7 +298,8 @@
       "meaning_vn": "Trà",
       "example_zh": "這是烏龍茶。",
       "example_pinyin": "Zhè shì wūlóngchá.",
-      "example_vn": "Đây là trà ô long."
+      "example_vn": "Đây là trà ô long.",
+      "meaning_hv": "Trà"
     },
     {
       "order_num": 28,
@@ -282,7 +309,8 @@
       "meaning_vn": "Rất",
       "example_zh": "很好喝。",
       "example_pinyin": "Hěn hǎohē.",
-      "example_vn": "Rất ngon."
+      "example_vn": "Rất ngon.",
+      "meaning_hv": "Ngận"
     },
     {
       "order_num": 29,
@@ -292,7 +320,8 @@
       "meaning_vn": "Ngon (thức uống)",
       "example_zh": "茶很好喝。",
       "example_pinyin": "Chá hěn hǎohē.",
-      "example_vn": "Trà uống rất ngon."
+      "example_vn": "Trà uống rất ngon.",
+      "meaning_hv": "Hảo Húp"
     },
     {
       "order_num": 30,
@@ -302,7 +331,8 @@
       "meaning_vn": "Cái gì, gì",
       "example_zh": "這是什麼茶？",
       "example_pinyin": "Zhè shì shénme chá?",
-      "example_vn": "Đây là loại trà gì?"
+      "example_vn": "Đây là loại trà gì?",
+      "meaning_hv": "Thậm Ma"
     },
     {
       "order_num": 31,
@@ -312,7 +342,8 @@
       "meaning_vn": "Người",
       "example_zh": "我是越南人。",
       "example_pinyin": "Wǒ shì Yuènán rén.",
-      "example_vn": "Tôi là người Việt Nam."
+      "example_vn": "Tôi là người Việt Nam.",
+      "meaning_hv": "Nhân"
     },
     {
       "order_num": 32,
@@ -322,7 +353,8 @@
       "meaning_vn": "Thích",
       "example_zh": "臺灣人喜歡喝茶。",
       "example_pinyin": "Táiwān rén xǐhuān hē chá.",
-      "example_vn": "Người Đài Loan thích uống trà."
+      "example_vn": "Người Đài Loan thích uống trà.",
+      "meaning_hv": "Hỷ Hoan"
     },
     {
       "order_num": 33,
@@ -332,7 +364,8 @@
       "meaning_vn": "Còn... thì sao? (trợ từ)",
       "example_zh": "你呢？",
       "example_pinyin": "Nǐ ne?",
-      "example_vn": "Còn bạn thì sao?"
+      "example_vn": "Còn bạn thì sao?",
+      "meaning_hv": "Ni"
     },
     {
       "order_num": 34,
@@ -342,7 +375,8 @@
       "meaning_vn": "Anh ấy, ông ấy (ngôi 3 nam)",
       "example_zh": "他是我的朋友。",
       "example_pinyin": "Tā shì wǒ de péngyou.",
-      "example_vn": "Anh ấy là bạn của tôi."
+      "example_vn": "Anh ấy là bạn của tôi.",
+      "meaning_hv": "Tha"
     },
     {
       "order_num": 35,
@@ -352,7 +386,8 @@
       "meaning_vn": "Không (phủ định)",
       "example_zh": "我不喝咖啡。",
       "example_pinyin": "Wǒ bù hē kāfēi.",
-      "example_vn": "Tôi không uống cà phê."
+      "example_vn": "Tôi không uống cà phê.",
+      "meaning_hv": "Bất"
     },
     {
       "order_num": 36,
@@ -362,7 +397,8 @@
       "meaning_vn": "Đâu, nào",
       "example_zh": "你是哪國人？",
       "example_pinyin": "Nǐ shì nǎ guó rén?",
-      "example_vn": "Bạn là người nước nào?"
+      "example_vn": "Bạn là người nước nào?",
+      "meaning_hv": "Nả"
     },
     {
       "order_num": 37,
@@ -372,7 +408,8 @@
       "meaning_vn": "Muốn, cần",
       "example_zh": "你要不要喝咖啡？",
       "example_pinyin": "Nǐ yào bú yào hē kāfēi?",
-      "example_vn": "Bạn có muốn uống cà phê không?"
+      "example_vn": "Bạn có muốn uống cà phê không?",
+      "meaning_hv": "Yêu"
     },
     {
       "order_num": 38,
@@ -382,7 +419,8 @@
       "meaning_vn": "Cà phê",
       "example_zh": "我喜歡喝咖啡。",
       "example_pinyin": "Wǒ xǐhuān hē kāfēi.",
-      "example_vn": "Tôi thích uống cà phê."
+      "example_vn": "Tôi thích uống cà phê.",
+      "meaning_hv": "Ca Phê"
     },
     {
       "order_num": 39,
@@ -392,7 +430,8 @@
       "meaning_vn": "Trà ô long",
       "example_zh": "這是烏龍茶。",
       "example_pinyin": "Zhè shì wūlóngchá.",
-      "example_vn": "Đây là trà ô long."
+      "example_vn": "Đây là trà ô long.",
+      "meaning_hv": "Ô Long Trà"
     },
     {
       "order_num": 40,
@@ -402,7 +441,8 @@
       "meaning_vn": "Nhật Bản",
       "example_zh": "他是日本人。",
       "example_pinyin": "Tā shì Rìběn rén.",
-      "example_vn": "Anh ấy là người Nhật."
+      "example_vn": "Anh ấy là người Nhật.",
+      "meaning_hv": "Nhật Bản"
     },
     {
       "order_num": 41,
@@ -412,7 +452,8 @@
       "meaning_vn": "Nước Mỹ",
       "example_zh": "我是美國人。",
       "example_pinyin": "Wǒ shì Měiguó rén.",
-      "example_vn": "Tôi là người Mỹ."
+      "example_vn": "Tôi là người Mỹ.",
+      "meaning_hv": "Mỹ Quốc"
     },
     {
       "order_num": 42,
@@ -422,7 +463,8 @@
       "meaning_vn": "Xin lỗi",
       "example_zh": "對不起，你是哪國人？",
       "example_pinyin": "Duìbuqǐ, nǐ shì nǎ guó rén?",
-      "example_vn": "Xin lỗi, bạn là người nước nào?"
+      "example_vn": "Xin lỗi, bạn là người nước nào?",
+      "meaning_hv": "Đối Bất Khởi"
     },
     {
       "order_num": 43,
@@ -432,7 +474,8 @@
       "meaning_vn": "Nước nào",
       "example_zh": "你是哪國人？",
       "example_pinyin": "Nǐ shì nǎ guó rén?",
-      "example_vn": "Bạn là người nước nào?"
+      "example_vn": "Bạn là người nước nào?",
+      "meaning_hv": "Nả Quốc"
     }
   ],
   "grammar": [

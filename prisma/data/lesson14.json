@@ -12,7 +12,8 @@
       "meaning_vn": "Thời tiết",
       "example_zh": "天氣很舒服。",
       "example_pinyin": "Tiānqì hěn shūfú.",
-      "example_vn": "Thời tiết rất dễ chịu."
+      "example_vn": "Thời tiết rất dễ chịu.",
+      "meaning_hv": "Thiên Khí"
     },
     {
       "order_num": 2,
@@ -22,7 +23,8 @@
       "meaning_vn": "Lạnh",
       "example_zh": "天氣這麼冷！",
       "example_pinyin": "Tiānqì zhème lěng!",
-      "example_vn": "Thời tiết lạnh thế này!"
+      "example_vn": "Thời tiết lạnh thế này!",
+      "meaning_hv": "Lạnh"
     },
     {
       "order_num": 3,
@@ -32,7 +34,8 @@
       "meaning_vn": "Gió",
       "example_zh": "外面風那麼大。",
       "example_pinyin": "Wàimiàn fēng nàme dà.",
-      "example_vn": "Bên ngoài gió to như vậy."
+      "example_vn": "Bên ngoài gió to như vậy.",
+      "meaning_hv": "Phong"
     },
     {
       "order_num": 4,
@@ -42,7 +45,8 @@
       "meaning_vn": "Trượt tuyết",
       "example_zh": "我常去山上滑雪。",
       "example_pinyin": "Wǒ cháng qù shānshàng huáxuě.",
-      "example_vn": "Tôi thường lên núi trượt tuyết."
+      "example_vn": "Tôi thường lên núi trượt tuyết.",
+      "meaning_hv": "Hoạt Tuyết"
     },
     {
       "order_num": 5,
@@ -52,7 +56,8 @@
       "meaning_vn": "Mùa xuân",
       "example_zh": "我比較喜歡春天。",
       "example_pinyin": "Wǒ bǐjiào xǐhuan chūntiān.",
-      "example_vn": "Tôi thích mùa xuân hơn."
+      "example_vn": "Tôi thích mùa xuân hơn.",
+      "meaning_hv": "Xuân Thiên"
     },
     {
       "order_num": 6,
@@ -62,7 +67,8 @@
       "meaning_vn": "Nhớ",
       "example_zh": "有一點想家。",
       "example_pinyin": "Yǒu yìdiǎn xiǎng jiā.",
-      "example_vn": "Có một chút nhớ nhà."
+      "example_vn": "Có một chút nhớ nhà.",
+      "meaning_hv": "Tưởng"
     },
     {
       "order_num": 7,
@@ -72,7 +78,8 @@
       "meaning_vn": "Năm mới",
       "example_zh": "新年快到了。",
       "example_pinyin": "Xīnnián kuài dào le.",
-      "example_vn": "Năm mới sắp đến rồi."
+      "example_vn": "Năm mới sắp đến rồi.",
+      "meaning_hv": "Tân Niên"
     },
     {
       "order_num": 8,
@@ -82,7 +89,8 @@
       "meaning_vn": "Sắp, nhanh",
       "example_zh": "新年快到了。",
       "example_pinyin": "Xīnnián kuài dào le.",
-      "example_vn": "Năm mới sắp đến rồi."
+      "example_vn": "Năm mới sắp đến rồi.",
+      "meaning_hv": "Khoái"
     },
     {
       "order_num": 9,
@@ -92,7 +100,8 @@
       "meaning_vn": "Bố mẹ",
       "example_zh": "回去看父母嗎？",
       "example_pinyin": "Huíqù kàn fùmǔ ma?",
-      "example_vn": "Về nhà thăm bố mẹ hả?"
+      "example_vn": "Về nhà thăm bố mẹ hả?",
+      "meaning_hv": "Phụ Mẫu"
     },
     {
       "order_num": 10,
@@ -102,7 +111,8 @@
       "meaning_vn": "Mùa đông",
       "example_zh": "冬天太冷了。",
       "example_pinyin": "Dōngtiān tài lěng le.",
-      "example_vn": "Mùa đông lạnh quá."
+      "example_vn": "Mùa đông lạnh quá.",
+      "meaning_hv": "Đông Thiên"
     },
     {
       "order_num": 11,
@@ -112,7 +122,8 @@
       "meaning_vn": "Năm sau",
       "example_zh": "我想明年秋天去看紅葉。",
       "example_pinyin": "Wǒ xiǎng míngnián qiūtiān qù kàn hóngyè.",
-      "example_vn": "Tôi muốn mùa thu năm sau đi xem lá phong."
+      "example_vn": "Tôi muốn mùa thu năm sau đi xem lá phong.",
+      "meaning_hv": "Minh Niên"
     },
     {
       "order_num": 12,
@@ -122,7 +133,8 @@
       "meaning_vn": "Mùa thu",
       "example_zh": "我想明年秋天去看紅葉。",
       "example_pinyin": "Wǒ xiǎng míngnián qiūtiān qù kàn hóngyè.",
-      "example_vn": "Tôi muốn mùa thu năm sau đi xem lá phong."
+      "example_vn": "Tôi muốn mùa thu năm sau đi xem lá phong.",
+      "meaning_hv": "Thu Thiên"
     },
     {
       "order_num": 13,
@@ -132,7 +144,8 @@
       "meaning_vn": "Lá phong đỏ",
       "example_zh": "我想明年秋天去看紅葉。",
       "example_pinyin": "Wǒ xiǎng míngnián qiūtiān qù kàn hóngyè.",
-      "example_vn": "Tôi muốn mùa thu năm sau đi xem lá phong đỏ."
+      "example_vn": "Tôi muốn mùa thu năm sau đi xem lá phong đỏ.",
+      "meaning_hv": "Hồng Diệp"
     },
     {
       "order_num": 14,
@@ -142,7 +155,8 @@
       "meaning_vn": "Chỉ",
       "example_zh": "因為我們只放十天的假。",
       "example_pinyin": "Yīnwèi wǒmen zhǐ fàng shí tiān de jiǎ.",
-      "example_vn": "Bởi vì chúng tôi chỉ nghỉ lễ 10 ngày."
+      "example_vn": "Bởi vì chúng tôi chỉ nghỉ lễ 10 ngày.",
+      "meaning_hv": "Chỉ"
     },
     {
       "order_num": 15,
@@ -152,7 +166,8 @@
       "meaning_vn": "Núi Ngọc (Ngọc Sơn)",
       "example_zh": "玉山常下雪。",
       "example_pinyin": "Yù shān cháng xiàxuě.",
-      "example_vn": "Núi Ngọc Sơn thường có tuyết rơi."
+      "example_vn": "Núi Ngọc Sơn thường có tuyết rơi.",
+      "meaning_hv": "Ngọc Sơn"
     },
     {
       "order_num": 16,
@@ -162,7 +177,8 @@
       "meaning_vn": "New York",
       "example_zh": "我去紐約玩。",
       "example_pinyin": "Wǒ qù Niǔyuē wán.",
-      "example_vn": "Tôi đi New York chơi."
+      "example_vn": "Tôi đi New York chơi.",
+      "meaning_hv": "Nữu Yêu"
     },
     {
       "order_num": 17,
@@ -172,7 +188,8 @@
       "meaning_vn": "Tuyết rơi",
       "example_zh": "臺灣會不會下雪？",
       "example_pinyin": "Táiwān huì bù huì xiàxuě?",
-      "example_vn": "Đài Loan có tuyết rơi không?"
+      "example_vn": "Đài Loan có tuyết rơi không?",
+      "meaning_hv": "Hạ Tuyết"
     },
     {
       "order_num": 18,
@@ -182,7 +199,8 @@
       "meaning_vn": "Cuối tháng 12",
       "example_zh": "我打算十二月底回去。",
       "example_pinyin": "Wǒ dǎsuàn shí'èryuè dǐ huíqù.",
-      "example_vn": "Tôi dự định cuối tháng 12 trở về."
+      "example_vn": "Tôi dự định cuối tháng 12 trở về.",
+      "meaning_hv": "Thập Nhị Nguyệt Để"
     },
     {
       "order_num": 19,
@@ -192,7 +210,8 @@
       "meaning_vn": "Mưa",
       "example_zh": "雨下得這麼大。",
       "example_pinyin": "Yǔ xià de zhème dà.",
-      "example_vn": "Mưa rơi lớn thế này."
+      "example_vn": "Mưa rơi lớn thế này.",
+      "meaning_hv": "Vũ"
     },
     {
       "order_num": 20,
@@ -202,7 +221,8 @@
       "meaning_vn": "Ô, dù",
       "example_zh": "妳怎麼沒帶傘呢？",
       "example_pinyin": "Nǐ zěnme méi dài sǎn ne?",
-      "example_vn": "Sao cậu không mang ô thế?"
+      "example_vn": "Sao cậu không mang ô thế?",
+      "meaning_hv": "Tản"
     },
     {
       "order_num": 21,
@@ -212,7 +232,8 @@
       "meaning_vn": "Bão",
       "example_zh": "颱風快要來了。",
       "example_pinyin": "Táifēng kuài yào lái le.",
-      "example_vn": "Bão sắp đến rồi."
+      "example_vn": "Bão sắp đến rồi.",
+      "meaning_hv": "Đài Phong"
     },
     {
       "order_num": 22,
@@ -222,7 +243,8 @@
       "meaning_vn": "Sắp, sẽ",
       "example_zh": "颱風快要來了。",
       "example_pinyin": "Táifēng kuài yào lái le.",
-      "example_vn": "Bão sắp đến rồi."
+      "example_vn": "Bão sắp đến rồi.",
+      "meaning_hv": "Yêu"
     },
     {
       "order_num": 23,
@@ -232,7 +254,8 @@
       "meaning_vn": "Mùa hè",
       "example_zh": "這裡每年夏天都有颱風。",
       "example_pinyin": "Zhèlǐ měi nián xiàtiān dōu yǒu táifēng.",
-      "example_vn": "Ở đây mỗi năm vào mùa hè đều có bão."
+      "example_vn": "Ở đây mỗi năm vào mùa hè đều có bão.",
+      "meaning_hv": "Hạ Thiên"
     },
     {
       "order_num": 24,
@@ -242,7 +265,8 @@
       "meaning_vn": "Ướt",
       "example_zh": "哪裡都濕濕的。",
       "example_pinyin": "Nǎlǐ dōu shīshī de.",
-      "example_vn": "Đâu đâu cũng ướt nhẹp."
+      "example_vn": "Đâu đâu cũng ướt nhẹp.",
+      "meaning_hv": "Thấp"
     },
     {
       "order_num": 25,
@@ -252,7 +276,8 @@
       "meaning_vn": "Đáng ghét, phiền phức",
       "example_zh": "真討厭。",
       "example_pinyin": "Zhēn tǎoyàn.",
-      "example_vn": "Thật đáng ghét."
+      "example_vn": "Thật đáng ghét.",
+      "meaning_hv": "Thảo Yếm"
     },
     {
       "order_num": 26,
@@ -262,7 +287,8 @@
       "meaning_vn": "Tin tức",
       "example_zh": "電視新聞說。",
       "example_pinyin": "Diànshì xīnwén shuō.",
-      "example_vn": "Tin tức truyền hình nói rằng."
+      "example_vn": "Tin tức truyền hình nói rằng.",
+      "meaning_hv": "Tân Văn"
     },
     {
       "order_num": 27,
@@ -272,7 +298,8 @@
       "meaning_vn": "Càng, hơn nữa",
       "example_zh": "這次的颱風會比上次的更大。",
       "example_pinyin": "Zhè cì de táifēng huì bǐ shàng cì de gèng dà.",
-      "example_vn": "Cơn bão lần này sẽ còn lớn hơn cơn bão lần trước."
+      "example_vn": "Cơn bão lần này sẽ còn lớn hơn cơn bão lần trước.",
+      "meaning_hv": "Canh"
     },
     {
       "order_num": 28,
@@ -282,7 +309,8 @@
       "meaning_vn": "Mọi người",
       "example_zh": "請大家多小心。",
       "example_pinyin": "Qǐng dàjiā duō xiǎoxīn.",
-      "example_vn": "Mong mọi người cẩn thận hơn."
+      "example_vn": "Mong mọi người cẩn thận hơn.",
+      "meaning_hv": "Đại Gia"
     },
     {
       "order_num": 29,
@@ -292,7 +320,8 @@
       "meaning_vn": "Cẩn thận",
       "example_zh": "請大家多小心。",
       "example_pinyin": "Qǐng dàjiā duō xiǎoxīn.",
-      "example_vn": "Mong mọi người cẩn thận hơn."
+      "example_vn": "Mong mọi người cẩn thận hơn.",
+      "meaning_hv": "Tiểu Tâm"
     },
     {
       "order_num": 30,
@@ -302,7 +331,8 @@
       "meaning_vn": "Đáng sợ",
       "example_zh": "希望這次的沒有上次的那麼可怕。",
       "example_pinyin": "Xīwàng zhè cì de méiyǒu shàng cì de nàme kěpà.",
-      "example_vn": "Hi vọng lần này không đáng sợ như lần trước."
+      "example_vn": "Hi vọng lần này không đáng sợ như lần trước.",
+      "meaning_hv": "Khả Phạ"
     },
     {
       "order_num": 31,
@@ -312,7 +342,8 @@
       "meaning_vn": "Tạm dừng, ngừng",
       "example_zh": "妳看！雨停了。",
       "example_pinyin": "Nǐ kàn! Yǔ tíng le.",
-      "example_vn": "Cậu nhìn kìa! Mưa tạnh rồi."
+      "example_vn": "Cậu nhìn kìa! Mưa tạnh rồi.",
+      "meaning_hv": "Đình"
     },
     {
       "order_num": 32,
@@ -322,7 +353,8 @@
       "meaning_vn": "Trời mưa",
       "example_zh": "下雨了。",
       "example_pinyin": "Xiàyǔ le.",
-      "example_vn": "Trời mưa rồi."
+      "example_vn": "Trời mưa rồi.",
+      "meaning_hv": "Hạ Vũ"
     },
     {
       "order_num": 33,
@@ -332,7 +364,8 @@
       "meaning_vn": "Lần này",
       "example_zh": "這次的颱風。",
       "example_pinyin": "Zhè cì de táifēng.",
-      "example_vn": "Cơn bão lần này."
+      "example_vn": "Cơn bão lần này.",
+      "meaning_hv": "Giá Thứ"
     },
     {
       "order_num": 34,
@@ -342,7 +375,8 @@
       "meaning_vn": "Lần trước",
       "example_zh": "上次的颱風。",
       "example_pinyin": "Shàng cì de táifēng.",
-      "example_vn": "Cơn bão lần trước."
+      "example_vn": "Cơn bão lần trước.",
+      "meaning_hv": "Thướng Thứ"
     },
     {
       "order_num": 35,
@@ -352,7 +386,8 @@
       "meaning_vn": "Đi thong thả nhé",
       "example_zh": "小心慢走。",
       "example_pinyin": "Xiǎoxīn màn zǒu.",
-      "example_vn": "Cẩn thận nhé, đi thong thả."
+      "example_vn": "Cẩn thận nhé, đi thong thả.",
+      "meaning_hv": "Mạn Tẩu"
     }
   ],
   "grammar": [

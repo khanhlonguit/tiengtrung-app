@@ -266,7 +266,15 @@
   font-weight: 700;
   color: var(--text-primary);
   text-align: center;
+  margin-bottom: 8px;
+}
+
+.cardHv {
+  font-size: 18px;
+  color: var(--accent-label);
   margin-bottom: 24px;
+  text-align: center;
+  font-weight: 500;
 }
 
 .cardExample {

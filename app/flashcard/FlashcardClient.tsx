@@ -9,7 +9,11 @@ import { useTheme } from '@/app/ThemeProvider';
 type Vocab = {
   id: number; lesson_id: number; order_num: number;
   word_zh: string; pinyin: string; word_type: string;
-  meaning_vn: string; example_zh: string; example_pinyin: string; example_vn: string;
+  meaning_vn: string;
+  meaning_hv: string;
+  example_zh: string;
+  example_pinyin: string;
+  example_vn: string;
 };
 
 type LessonItem = {
@@ -218,6 +222,9 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
                 {/* Back */}
                 <div className={styles.cardBack}>
                   <div className={styles.cardMeaning}>{current.meaning_vn}</div>
+                  {current.meaning_hv && (
+                    <div className={styles.cardHv}>({current.meaning_hv})</div>
+                  )}
                   {current.example_zh && (
                     <div className={styles.cardExample}>
                       <div className={styles.cardExampleZhRow}>

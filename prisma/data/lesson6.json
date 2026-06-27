@@ -12,7 +12,8 @@
       "meaning_vn": "Họ",
       "example_zh": "他們學校在哪裡？",
       "example_pinyin": "Tāmen xuéxiào zài nǎlǐ?",
-      "example_vn": "Trường của họ ở đâu?"
+      "example_vn": "Trường của họ ở đâu?",
+      "meaning_hv": "Tha Môn"
     },
     {
       "order_num": 2,
@@ -22,7 +23,8 @@
       "meaning_vn": "Trường học",
       "example_zh": "他們學校很漂亮。",
       "example_pinyin": "Tāmen xuéxiào hěn piàoliang.",
-      "example_vn": "Trường của họ rất đẹp."
+      "example_vn": "Trường của họ rất đẹp.",
+      "meaning_hv": "Học Hiệu"
     },
     {
       "order_num": 3,
@@ -32,7 +34,8 @@
       "meaning_vn": "Ở, tại",
       "example_zh": "他們學校在山上。",
       "example_pinyin": "Tāmen xuéxiào zài shānshàng.",
-      "example_vn": "Trường họ ở trên núi."
+      "example_vn": "Trường họ ở trên núi.",
+      "meaning_hv": "Tại"
     },
     {
       "order_num": 4,
@@ -42,7 +45,8 @@
       "meaning_vn": "Trên núi",
       "example_zh": "在花蓮的山上。",
       "example_pinyin": "Zài Huālián de shānshàng.",
-      "example_vn": "Ở trên núi Hoa Liên."
+      "example_vn": "Ở trên núi Hoa Liên.",
+      "meaning_hv": "Sơn Thướng"
     },
     {
       "order_num": 5,
@@ -52,7 +56,8 @@
       "meaning_vn": "Ở đâu",
       "example_zh": "在哪裡買東西？",
       "example_pinyin": "Zài nǎlǐ mǎi dōngxī?",
-      "example_vn": "Mua đồ ở đâu?"
+      "example_vn": "Mua đồ ở đâu?",
+      "meaning_hv": "Nả Lý"
     },
     {
       "order_num": 6,
@@ -62,7 +67,8 @@
       "meaning_vn": "Xa",
       "example_zh": "你們學校真遠！",
       "example_pinyin": "Nǐmen xuéxiào zhēn yuǎn!",
-      "example_vn": "Trường các bạn xa thật!"
+      "example_vn": "Trường các bạn xa thật!",
+      "meaning_hv": "Viễn"
     },
     {
       "order_num": 7,
@@ -72,7 +78,8 @@
       "meaning_vn": "Nơi đó, ở đó",
       "example_zh": "那裡的風景很美。",
       "example_pinyin": "Nàlǐ de fēngjǐng hěn měi.",
-      "example_vn": "Phong cảnh ở đó rất đẹp."
+      "example_vn": "Phong cảnh ở đó rất đẹp.",
+      "meaning_hv": "Na Lý"
     },
     {
       "order_num": 8,
@@ -82,7 +89,8 @@
       "meaning_vn": "Phong cảnh",
       "example_zh": "那裡的風景很美。",
       "example_pinyin": "Nàlǐ de fēngjǐng hěn měi.",
-      "example_vn": "Phong cảnh ở đó rất đẹp."
+      "example_vn": "Phong cảnh ở đó rất đẹp.",
+      "meaning_hv": "Phong Cảnh"
     },
     {
       "order_num": 9,
@@ -92,7 +100,8 @@
       "meaning_vn": "Đẹp",
       "example_zh": "那裡的風景很美。",
       "example_pinyin": "Nàlǐ de fēngjǐng hěn měi.",
-      "example_vn": "Phong cảnh ở đó rất đẹp."
+      "example_vn": "Phong cảnh ở đó rất đẹp.",
+      "meaning_hv": "Mỹ"
     },
     {
       "order_num": 10,
@@ -102,7 +111,8 @@
       "meaning_vn": "Phía trước",
       "example_zh": "學校前面有海。",
       "example_pinyin": "Xuéxiào qiánmiàn yǒu hǎi.",
-      "example_vn": "Phía trước trường có biển."
+      "example_vn": "Phía trước trường có biển.",
+      "meaning_hv": "Tiền Diện"
     },
     {
       "order_num": 11,
@@ -112,7 +122,8 @@
       "meaning_vn": "Biển",
       "example_zh": "學校前面有海。",
       "example_pinyin": "Xuéxiào qiánmiàn yǒu hǎi.",
-      "example_vn": "Phía trước trường có biển."
+      "example_vn": "Phía trước trường có biển.",
+      "meaning_hv": "Hải"
     },
     {
       "order_num": 12,
@@ -122,7 +133,8 @@
       "meaning_vn": "Phía sau",
       "example_zh": "學校後面有山。",
       "example_pinyin": "Xuéxiào hòumiàn yǒu shān.",
-      "example_vn": "Phía sau trường có núi."
+      "example_vn": "Phía sau trường có núi.",
+      "meaning_hv": "Hậu Diện"
     },
     {
       "order_num": 13,
@@ -132,7 +144,8 @@
       "meaning_vn": "Núi",
       "example_zh": "學校後面有山。",
       "example_pinyin": "Xuéxiào hòumiàn yǒu shān.",
-      "example_vn": "Phía sau trường có núi."
+      "example_vn": "Phía sau trường có núi.",
+      "meaning_hv": "Sơn"
     },
     {
       "order_num": 14,
@@ -142,7 +155,8 @@
       "meaning_vn": "Thật sự",
       "example_zh": "那裡真的是一個很漂亮的地方。",
       "example_pinyin": "Nàlǐ zhēnde shì yí ge hěn piàoliang de dìfāng.",
-      "example_vn": "Nơi đó thật sự là một nơi rất đẹp."
+      "example_vn": "Nơi đó thật sự là một nơi rất đẹp.",
+      "meaning_hv": "Chân Đích"
     },
     {
       "order_num": 15,
@@ -152,7 +166,8 @@
       "meaning_vn": "Nơi, chỗ",
       "example_zh": "一個很漂亮的地方。",
       "example_pinyin": "Yí ge hěn piàoliang de dìfāng.",
-      "example_vn": "Một nơi rất đẹp."
+      "example_vn": "Một nơi rất đẹp.",
+      "meaning_hv": "Địa Phương"
     },
     {
       "order_num": 16,
@@ -162,7 +177,8 @@
       "meaning_vn": "Bây giờ",
       "example_zh": "我現在要去買咖啡。",
       "example_pinyin": "Wǒ xiànzài yào qù mǎi kāfēi.",
-      "example_vn": "Bây giờ tôi phải đi mua cà phê."
+      "example_vn": "Bây giờ tôi phải đi mua cà phê.",
+      "meaning_hv": "Hiện Tại"
     },
     {
       "order_num": 17,
@@ -172,7 +188,8 @@
       "meaning_vn": "Gần đây, lân cận",
       "example_zh": "學校附近的咖啡店。",
       "example_pinyin": "Xuéxiào fùjìn de kāfēidiàn.",
-      "example_vn": "Quán cà phê gần trường."
+      "example_vn": "Quán cà phê gần trường.",
+      "meaning_hv": "Phụ Cận"
     },
     {
       "order_num": 18,
@@ -182,7 +199,8 @@
       "meaning_vn": "Dưới lầu",
       "example_zh": "我去樓下找朋友。",
       "example_pinyin": "Wǒ qù lóuxià zhǎo péngyou.",
-      "example_vn": "Tôi xuống lầu tìm bạn."
+      "example_vn": "Tôi xuống lầu tìm bạn.",
+      "meaning_hv": "Lâu Hạ"
     },
     {
       "order_num": 19,
@@ -192,7 +210,8 @@
       "meaning_vn": "Tìm",
       "example_zh": "找朋友。",
       "example_pinyin": "Zhǎo péngyou.",
-      "example_vn": "Tìm bạn."
+      "example_vn": "Tìm bạn.",
+      "meaning_hv": "Trảo"
     },
     {
       "order_num": 20,
@@ -202,7 +221,8 @@
       "meaning_vn": "Bạn bè",
       "example_zh": "找朋友。",
       "example_pinyin": "Zhǎo péngyou.",
-      "example_vn": "Tìm bạn."
+      "example_vn": "Tìm bạn.",
+      "meaning_hv": "Bằng Hữu"
     },
     {
       "order_num": 21,
@@ -212,7 +232,8 @@
       "meaning_vn": "Đi học, lên lớp",
       "example_zh": "我們要一起去上課。",
       "example_pinyin": "Wǒmen yào yìqǐ qù shàngkè.",
-      "example_vn": "Chúng tôi phải cùng đi học."
+      "example_vn": "Chúng tôi phải cùng đi học.",
+      "meaning_hv": "Thướng Khoá"
     },
     {
       "order_num": 22,
@@ -222,7 +243,8 @@
       "meaning_vn": "Hoa Liên (địa danh)",
       "example_zh": "他們學校在花蓮。",
       "example_pinyin": "Tāmen xuéxiào zài Huālián.",
-      "example_vn": "Trường họ ở Hoa Liên."
+      "example_vn": "Trường họ ở Hoa Liên.",
+      "meaning_hv": "Hoa Liên"
     },
     {
       "order_num": 23,
@@ -232,7 +254,8 @@
       "meaning_vn": "Nghe nói",
       "example_zh": "聽說學校很漂亮。",
       "example_pinyin": "Tīngshuō xuéxiào hěn piàoliang.",
-      "example_vn": "Nghe nói trường rất đẹp."
+      "example_vn": "Nghe nói trường rất đẹp.",
+      "meaning_hv": "Thính Thuyết"
     },
     {
       "order_num": 24,
@@ -242,7 +265,8 @@
       "meaning_vn": "Gần",
       "example_zh": "不是很近。",
       "example_pinyin": "Bú shì hěn jìn.",
-      "example_vn": "Không gần lắm."
+      "example_vn": "Không gần lắm.",
+      "meaning_hv": "Cận"
     },
     {
       "order_num": 25,
@@ -252,7 +276,8 @@
       "meaning_vn": "Thuận tiện",
       "example_zh": "有一點不方便。",
       "example_pinyin": "Yǒu yìdiǎn bù fāngbiàn.",
-      "example_vn": "Hơi bất tiện một chút."
+      "example_vn": "Hơi bất tiện một chút.",
+      "meaning_hv": "Phương Tiện"
     },
     {
       "order_num": 26,
@@ -262,7 +287,8 @@
       "meaning_vn": "Ở đây",
       "example_zh": "這裡的學生。",
       "example_pinyin": "Zhèlǐ de xuéshēng.",
-      "example_vn": "Học sinh ở đây."
+      "example_vn": "Học sinh ở đây.",
+      "meaning_hv": "Giá Lý"
     },
     {
       "order_num": 27,
@@ -272,7 +298,8 @@
       "meaning_vn": "Học sinh, sinh viên",
       "example_zh": "這裡的學生。",
       "example_pinyin": "Zhèlǐ de xuéshēng.",
-      "example_vn": "Học sinh ở đây."
+      "example_vn": "Học sinh ở đây.",
+      "meaning_hv": "Học Sinh"
     },
     {
       "order_num": 28,
@@ -282,7 +309,8 @@
       "meaning_vn": "Đồ đạc, thứ",
       "example_zh": "在哪裡買東西？",
       "example_pinyin": "Zài nǎlǐ mǎi dōngxī?",
-      "example_vn": "Mua đồ ở đâu?"
+      "example_vn": "Mua đồ ở đâu?",
+      "meaning_hv": "Đông Tây"
     },
     {
       "order_num": 29,
@@ -292,7 +320,8 @@
       "meaning_vn": "Bên ngoài",
       "example_zh": "在學校外面。",
       "example_pinyin": "Zài xuéxiào wàimiàn.",
-      "example_vn": "Ở bên ngoài trường."
+      "example_vn": "Ở bên ngoài trường.",
+      "meaning_hv": "Ngoại Diện"
     },
     {
       "order_num": 30,
@@ -302,7 +331,8 @@
       "meaning_vn": "Bên trong",
       "example_zh": "學校裡面。",
       "example_pinyin": "Xuéxiào lǐmiàn.",
-      "example_vn": "Bên trong trường."
+      "example_vn": "Bên trong trường.",
+      "meaning_hv": "Lý Diện"
     },
     {
       "order_num": 31,
@@ -312,7 +342,8 @@
       "meaning_vn": "Cửa hàng",
       "example_zh": "學校裡面沒有商店。",
       "example_pinyin": "Xuéxiào lǐmiàn méi yǒu shāngdiàn.",
-      "example_vn": "Trong trường không có cửa hàng."
+      "example_vn": "Trong trường không có cửa hàng.",
+      "meaning_hv": "Thương Điếm"
     },
     {
       "order_num": 32,
@@ -322,7 +353,8 @@
       "meaning_vn": "Ăn cơm",
       "example_zh": "吃飯呢？",
       "example_pinyin": "Chīfàn ne?",
-      "example_vn": "Thế ăn cơm thì sao?"
+      "example_vn": "Thế ăn cơm thì sao?",
+      "meaning_hv": "Cật Phạn"
     },
     {
       "order_num": 33,
@@ -332,7 +364,8 @@
       "meaning_vn": "Ký túc xá",
       "example_zh": "學生宿舍。",
       "example_pinyin": "Xuéshēng sùshè.",
-      "example_vn": "Ký túc xá học sinh."
+      "example_vn": "Ký túc xá học sinh.",
+      "meaning_hv": "Túc Xá"
     },
     {
       "order_num": 34,
@@ -342,7 +375,8 @@
       "meaning_vn": "Tầng, lầu",
       "example_zh": "一樓。",
       "example_pinyin": "Yì lóu.",
-      "example_vn": "Tầng một."
+      "example_vn": "Tầng một.",
+      "meaning_hv": "Lâu"
     },
     {
       "order_num": 35,
@@ -352,7 +386,8 @@
       "meaning_vn": "Tòa (nhà)",
       "example_zh": "前面這棟大樓。",
       "example_pinyin": "Qiánmiàn zhè dòng dàlóu.",
-      "example_vn": "Tòa nhà lớn phía trước này."
+      "example_vn": "Tòa nhà lớn phía trước này.",
+      "meaning_hv": "Đống"
     },
     {
       "order_num": 36,
@@ -362,7 +397,8 @@
       "meaning_vn": "Tòa nhà lớn",
       "example_zh": "這棟大樓很漂亮。",
       "example_pinyin": "Zhè dòng dàlóu hěn piàoliang.",
-      "example_vn": "Tòa nhà lớn này rất đẹp."
+      "example_vn": "Tòa nhà lớn này rất đẹp.",
+      "meaning_hv": "Đại Lâu"
     },
     {
       "order_num": 37,
@@ -372,7 +408,8 @@
       "meaning_vn": "Thư viện",
       "example_zh": "這是圖書館。",
       "example_pinyin": "Zhè shì túshūguǎn.",
-      "example_vn": "Đây là thư viện."
+      "example_vn": "Đây là thư viện.",
+      "meaning_hv": "Đồ Thư Quán"
     },
     {
       "order_num": 38,
@@ -382,7 +419,8 @@
       "meaning_vn": "Bên cạnh",
       "example_zh": "旁邊的那棟大樓。",
       "example_pinyin": "Pángbiān de nà dòng dàlóu.",
-      "example_vn": "Tòa nhà bên cạnh kia."
+      "example_vn": "Tòa nhà bên cạnh kia.",
+      "meaning_hv": "Bàng Biên"
     },
     {
       "order_num": 39,
@@ -392,7 +430,8 @@
       "meaning_vn": "Phòng học",
       "example_zh": "那是教室。",
       "example_pinyin": "Nà shì jiàoshì.",
-      "example_vn": "Đó là phòng học."
+      "example_vn": "Đó là phòng học.",
+      "meaning_hv": "Giáo Thất"
     },
     {
       "order_num": 40,
@@ -402,7 +441,8 @@
       "meaning_vn": "Hồ bơi",
       "example_zh": "後面有游泳池。",
       "example_pinyin": "Hòumiàn yǒu yóuyǒngchí.",
-      "example_vn": "Phía sau có hồ bơi."
+      "example_vn": "Phía sau có hồ bơi.",
+      "meaning_hv": "Du Vịnh Trì"
     }
   ],
   "grammar": [

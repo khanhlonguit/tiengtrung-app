@@ -12,7 +12,8 @@
       "meaning_vn": "Kế hoạch, dự định",
       "example_zh": "你計畫在臺灣學多久的中文？",
       "example_pinyin": "Nǐ jìhuà zài Táiwān xué duō jiǔ de Zhōngwén?",
-      "example_vn": "Bạn dự định học tiếng Trung ở Đài Loan bao lâu?"
+      "example_vn": "Bạn dự định học tiếng Trung ở Đài Loan bao lâu?",
+      "meaning_hv": "Kế Hoạ"
     },
     {
       "order_num": 2,
@@ -22,7 +23,8 @@
       "meaning_vn": "Năm (lượng từ)",
       "example_zh": "五年。",
       "example_pinyin": "Wǔ nián.",
-      "example_vn": "Năm năm."
+      "example_vn": "Năm năm.",
+      "meaning_hv": "Niên"
     },
     {
       "order_num": 3,
@@ -32,7 +34,8 @@
       "meaning_vn": "Lâu",
       "example_zh": "為什麼要這麼久的時間？",
       "example_pinyin": "Wèishénme yào zhème jiǔ de shíjiān?",
-      "example_vn": "Tại sao lại cần thời gian lâu như vậy?"
+      "example_vn": "Tại sao lại cần thời gian lâu như vậy?",
+      "meaning_hv": "Cửu"
     },
     {
       "order_num": 4,
@@ -42,7 +45,8 @@
       "meaning_vn": "Thời gian",
       "example_zh": "這麼久的時間。",
       "example_pinyin": "Zhème jiǔ de shíjiān.",
-      "example_vn": "Thời gian lâu như vậy."
+      "example_vn": "Thời gian lâu như vậy.",
+      "meaning_hv": "Thời Gian"
     },
     {
       "order_num": 5,
@@ -52,7 +56,8 @@
       "meaning_vn": "Trước tiên",
       "example_zh": "我先在語言中心念一年。",
       "example_pinyin": "Wǒ xiān zài yǔyán zhōngxīn niàn yī nián.",
-      "example_vn": "Tôi học ở trung tâm ngoại ngữ một năm trước."
+      "example_vn": "Tôi học ở trung tâm ngoại ngữ một năm trước.",
+      "meaning_hv": "Tiên"
     },
     {
       "order_num": 6,
@@ -62,7 +67,8 @@
       "meaning_vn": "Học, đọc",
       "example_zh": "念四年大學。",
       "example_pinyin": "Niàn sì nián dàxué.",
-      "example_vn": "Học đại học 4 năm."
+      "example_vn": "Học đại học 4 năm.",
+      "meaning_hv": "Niệm"
     },
     {
       "order_num": 7,
@@ -72,7 +78,8 @@
       "meaning_vn": "Đại học",
       "example_zh": "念四年大學。",
       "example_pinyin": "Niàn sì nián dàxué.",
-      "example_vn": "Học đại học 4 năm."
+      "example_vn": "Học đại học 4 năm.",
+      "meaning_hv": "Đại Học"
     },
     {
       "order_num": 8,
@@ -82,7 +89,8 @@
       "meaning_vn": "Cần thiết",
       "example_zh": "需要五年。",
       "example_pinyin": "Xūyào wǔ nián.",
-      "example_vn": "Cần 5 năm."
+      "example_vn": "Cần 5 năm.",
+      "meaning_hv": "Nhu Yêu"
     },
     {
       "order_num": 9,
@@ -92,7 +100,8 @@
       "meaning_vn": "Tiêu (thời gian, tiền bạc)",
       "example_zh": "這得花不少錢！",
       "example_pinyin": "Zhè děi huā bù shǎo qián!",
-      "example_vn": "Việc này tốn không ít tiền đâu!"
+      "example_vn": "Việc này tốn không ít tiền đâu!",
+      "meaning_hv": "Hoa"
     },
     {
       "order_num": 10,
@@ -102,7 +111,8 @@
       "meaning_vn": "Học bổng",
       "example_zh": "我有獎學金。",
       "example_pinyin": "Wǒ yǒu jiǎngxuéjīn.",
-      "example_vn": "Tôi có học bổng."
+      "example_vn": "Tôi có học bổng.",
+      "meaning_hv": "Thưởng Học Kim"
     },
     {
       "order_num": 11,
@@ -112,7 +122,8 @@
       "meaning_vn": "Thành tích, điểm số",
       "example_zh": "要是成績不好，就沒獎學金了。",
       "example_pinyin": "Yàoshì chéngjī bù hǎo, jiù méi jiǎngxuéjīn le.",
-      "example_vn": "Nếu thành tích không tốt, thì không có học bổng nữa."
+      "example_vn": "Nếu thành tích không tốt, thì không có học bổng nữa.",
+      "meaning_hv": "Thành Tích"
     },
     {
       "order_num": 12,
@@ -122,7 +133,8 @@
       "meaning_vn": "Học phí",
       "example_zh": "我的學費是公司替我付的。",
       "example_pinyin": "Wǒ de xuéfèi shì gōngsī tì wǒ fù de.",
-      "example_vn": "Học phí của tôi là do công ty trả thay."
+      "example_vn": "Học phí của tôi là do công ty trả thay.",
+      "meaning_hv": "Học Phí"
     },
     {
       "order_num": 13,
@@ -132,7 +144,8 @@
       "meaning_vn": "Công ty",
       "example_zh": "公司替我付學費。",
       "example_pinyin": "Gōngsī tì wǒ fù xuéfèi.",
-      "example_vn": "Công ty trả học phí giúp tôi."
+      "example_vn": "Công ty trả học phí giúp tôi.",
+      "meaning_hv": "Công Ti"
     },
     {
       "order_num": 14,
@@ -142,7 +155,8 @@
       "meaning_vn": "Thay cho",
       "example_zh": "公司替我付學費。",
       "example_pinyin": "Gōngsī tì wǒ fù xuéfèi.",
-      "example_vn": "Công ty trả học phí giúp tôi."
+      "example_vn": "Công ty trả học phí giúp tôi.",
+      "meaning_hv": "Thế"
     },
     {
       "order_num": 15,
@@ -152,7 +166,8 @@
       "meaning_vn": "Hy vọng",
       "example_zh": "希望我以後可以到這家公司上班。",
       "example_pinyin": "Xīwàng wǒ yǐhòu kěyǐ dào zhè jiā gōngsī shàngbān.",
-      "example_vn": "Hy vọng sau này tôi có thể đến công ty này làm việc."
+      "example_vn": "Hy vọng sau này tôi có thể đến công ty này làm việc.",
+      "meaning_hv": "Hy Vọng"
     },
     {
       "order_num": 16,
@@ -162,7 +177,8 @@
       "meaning_vn": "Sau này",
       "example_zh": "以後可以到這家公司上班。",
       "example_pinyin": "Yǐhòu kěyǐ dào zhè jiā gōngsī shàngbān.",
-      "example_vn": "Sau này có thể đến công ty này làm việc."
+      "example_vn": "Sau này có thể đến công ty này làm việc.",
+      "meaning_hv": "Dĩ Hậu"
     },
     {
       "order_num": 17,
@@ -172,7 +188,8 @@
       "meaning_vn": "Đến",
       "example_zh": "到公司上班。",
       "example_pinyin": "Dào gōngsī shàngbān.",
-      "example_vn": "Đến công ty làm việc."
+      "example_vn": "Đến công ty làm việc.",
+      "meaning_hv": "Đáo"
     },
     {
       "order_num": 18,
@@ -182,7 +199,8 @@
       "meaning_vn": "Đi làm",
       "example_zh": "到公司上班。",
       "example_pinyin": "Dào gōngsī shàngbān.",
-      "example_vn": "Đến công ty làm việc."
+      "example_vn": "Đến công ty làm việc.",
+      "meaning_hv": "Thướng Ban"
     },
     {
       "order_num": 19,
@@ -192,7 +210,8 @@
       "meaning_vn": "Đi học, học hành",
       "example_zh": "又要上班，又要念書。",
       "example_pinyin": "Yòu yào shàngbān, yòu yào niànshū.",
-      "example_vn": "Vừa phải đi làm, vừa phải đi học."
+      "example_vn": "Vừa phải đi làm, vừa phải đi học.",
+      "meaning_hv": "Niệm Thư"
     },
     {
       "order_num": 20,
@@ -202,7 +221,8 @@
       "meaning_vn": "Mệt",
       "example_zh": "真的很累。",
       "example_pinyin": "Zhēnde hěn lèi.",
-      "example_vn": "Thật sự rất mệt."
+      "example_vn": "Thật sự rất mệt.",
+      "meaning_hv": "Luỵ"
     },
     {
       "order_num": 21,
@@ -212,7 +232,8 @@
       "meaning_vn": "Trung tâm ngoại ngữ",
       "example_zh": "我先在語言中心念一年。",
       "example_pinyin": "Wǒ xiān zài yǔyán zhōngxīn niàn yī nián.",
-      "example_vn": "Tôi học ở trung tâm ngoại ngữ một năm trước."
+      "example_vn": "Tôi học ở trung tâm ngoại ngữ một năm trước.",
+      "meaning_hv": "Ngữ Ngôn Trung Tâm"
     },
     {
       "order_num": 22,
@@ -222,7 +243,8 @@
       "meaning_vn": "Cố lên",
       "example_zh": "我們一起加油吧！",
       "example_pinyin": "Wǒmen yīqǐ jiāyóu ba!",
-      "example_vn": "Chúng ta cùng cố lên nhé!"
+      "example_vn": "Chúng ta cùng cố lên nhé!",
+      "meaning_hv": "Gia Dầu"
     },
     {
       "order_num": 23,
@@ -232,7 +254,8 @@
       "meaning_vn": "Làm việc",
       "example_zh": "來臺灣工作的。",
       "example_pinyin": "Lái Táiwān gōngzuò de.",
-      "example_vn": "Đến Đài Loan làm việc."
+      "example_vn": "Đến Đài Loan làm việc.",
+      "meaning_hv": "Công Tác"
     },
     {
       "order_num": 24,
@@ -242,7 +265,8 @@
       "meaning_vn": "Năm ngoái",
       "example_zh": "去年，我已經在臺灣工作一年了。",
       "example_pinyin": "Qùnián, wǒ yǐjīng zài Táiwān gōngzuò yī nián le.",
-      "example_vn": "Từ năm ngoái, tôi đã làm việc ở Đài Loan được một năm rồi."
+      "example_vn": "Từ năm ngoái, tôi đã làm việc ở Đài Loan được một năm rồi.",
+      "meaning_hv": "Khứ Niên"
     },
     {
       "order_num": 25,
@@ -252,7 +276,8 @@
       "meaning_vn": "Làm",
       "example_zh": "做生意。",
       "example_pinyin": "Zuò shēngyì.",
-      "example_vn": "Làm ăn, kinh doanh."
+      "example_vn": "Làm ăn, kinh doanh.",
+      "meaning_hv": "Tố"
     },
     {
       "order_num": 26,
@@ -262,7 +287,8 @@
       "meaning_vn": "Làm ăn, kinh doanh",
       "example_zh": "因為我們公司跟臺灣人做生意。",
       "example_pinyin": "Yīnwèi wǒmen gōngsī gēn Táiwān rén zuò shēngyì.",
-      "example_vn": "Bởi vì công ty chúng tôi làm ăn với người Đài Loan."
+      "example_vn": "Bởi vì công ty chúng tôi làm ăn với người Đài Loan.",
+      "meaning_hv": "Sinh Ý"
     },
     {
       "order_num": 27,
@@ -272,7 +298,8 @@
       "meaning_vn": "Sau khi",
       "example_zh": "妳回國以後，打算做什麼？",
       "example_pinyin": "Nǐ huíguó yǐhòu, dǎsuàn zuò shénme?",
-      "example_vn": "Sau khi cô về nước, dự định làm gì?"
+      "example_vn": "Sau khi cô về nước, dự định làm gì?",
+      "meaning_hv": "Dĩ Hậu"
     },
     {
       "order_num": 28,
@@ -282,7 +309,8 @@
       "meaning_vn": "Dễ dàng",
       "example_zh": "好找嗎？",
       "example_pinyin": "Hǎo zhǎo ma?",
-      "example_vn": "Có dễ tìm không?"
+      "example_vn": "Có dễ tìm không?",
+      "meaning_hv": "Hảo"
     },
     {
       "order_num": 29,
@@ -292,7 +320,8 @@
       "meaning_vn": "Tìm kiếm",
       "example_zh": "想找個工作。",
       "example_pinyin": "Xiǎng zhǎo gè gōngzuò.",
-      "example_vn": "Muốn tìm một công việc."
+      "example_vn": "Muốn tìm một công việc.",
+      "meaning_hv": "Trảo"
     },
     {
       "order_num": 30,
@@ -302,7 +331,8 @@
       "meaning_vn": "Công việc",
       "example_zh": "找個有機會說中文的工作。",
       "example_pinyin": "Zhǎo gè yǒu jīhuì shuō Zhōngwén de gōngzuò.",
-      "example_vn": "Tìm một công việc có cơ hội nói tiếng Trung."
+      "example_vn": "Tìm một công việc có cơ hội nói tiếng Trung.",
+      "meaning_hv": "Công Tác"
     },
     {
       "order_num": 31,
@@ -312,7 +342,8 @@
       "meaning_vn": "Như vậy",
       "example_zh": "這樣的工作。",
       "example_pinyin": "Zhèyàng de gōngzuò.",
-      "example_vn": "Công việc như vậy."
+      "example_vn": "Công việc như vậy.",
+      "meaning_hv": "Giá Dạng"
     },
     {
       "order_num": 32,
@@ -322,7 +353,8 @@
       "meaning_vn": "Quốc gia",
       "example_zh": "在你們國家好找嗎？",
       "example_pinyin": "Zài nǐmen guójiā hǎo zhǎo ma?",
-      "example_vn": "Ở quốc gia của các bạn có dễ tìm không?"
+      "example_vn": "Ở quốc gia của các bạn có dễ tìm không?",
+      "meaning_hv": "Quốc Gia"
     },
     {
       "order_num": 33,
@@ -332,7 +364,8 @@
       "meaning_vn": "Thử",
       "example_zh": "我試試看。",
       "example_pinyin": "Wǒ shìshikàn.",
-      "example_vn": "Tôi thử xem sao."
+      "example_vn": "Tôi thử xem sao.",
+      "meaning_hv": "Thí"
     },
     {
       "order_num": 34,
@@ -342,7 +375,8 @@
       "meaning_vn": "Khó",
       "example_zh": "要是難找呢？",
       "example_pinyin": "Yàoshì nán zhǎo ne?",
-      "example_vn": "Nếu như khó tìm thì sao?"
+      "example_vn": "Nếu như khó tìm thì sao?",
+      "meaning_hv": "Nan"
     },
     {
       "order_num": 35,
@@ -352,7 +386,8 @@
       "meaning_vn": "Vậy thì",
       "example_zh": "那麼我再來臺灣。",
       "example_pinyin": "Nàme wǒ zài lái Táiwān.",
-      "example_vn": "Vậy thì tôi sẽ lại đến Đài Loan."
+      "example_vn": "Vậy thì tôi sẽ lại đến Đài Loan.",
+      "meaning_hv": "Na Ma"
     },
     {
       "order_num": 36,
@@ -362,7 +397,8 @@
       "meaning_vn": "Lại (nữa)",
       "example_zh": "再來臺灣。",
       "example_pinyin": "Zài lái Táiwān.",
-      "example_vn": "Lại đến Đài Loan."
+      "example_vn": "Lại đến Đài Loan.",
+      "meaning_hv": "Tái"
     },
     {
       "order_num": 37,
@@ -372,7 +408,8 @@
       "meaning_vn": "Thử xem sao",
       "example_zh": "我試試看。",
       "example_pinyin": "Wǒ shìshikàn.",
-      "example_vn": "Tôi thử xem sao."
+      "example_vn": "Tôi thử xem sao.",
+      "meaning_hv": "Thí Thí Khán"
     }
   ],
   "grammar": [

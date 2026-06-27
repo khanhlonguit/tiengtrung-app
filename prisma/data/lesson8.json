@@ -12,7 +12,8 @@
       "meaning_vn": "Ngồi, đi (xe)",
       "example_zh": "我想坐火車去。",
       "example_pinyin": "Wǒ xiǎng zuò huǒchē qù.",
-      "example_vn": "Tôi muốn đi bằng tàu hỏa."
+      "example_vn": "Tôi muốn đi bằng tàu hỏa.",
+      "meaning_hv": "Toạ"
     },
     {
       "order_num": 2,
@@ -22,7 +23,8 @@
       "meaning_vn": "Tàu hỏa",
       "example_zh": "火車太慢了。",
       "example_pinyin": "Huǒchē tài màn le.",
-      "example_vn": "Tàu hỏa quá chậm."
+      "example_vn": "Tàu hỏa quá chậm.",
+      "meaning_hv": "Hoả Xa"
     },
     {
       "order_num": 3,
@@ -32,7 +34,8 @@
       "meaning_vn": "Với, cùng",
       "example_zh": "我想跟朋友去。",
       "example_pinyin": "Wǒ xiǎng gēn péngyǒu qù.",
-      "example_vn": "Tôi muốn đi cùng bạn."
+      "example_vn": "Tôi muốn đi cùng bạn.",
+      "meaning_hv": "Cân"
     },
     {
       "order_num": 4,
@@ -42,7 +45,8 @@
       "meaning_vn": "Chơi",
       "example_zh": "去臺南玩。",
       "example_pinyin": "Qù Táinán wán.",
-      "example_vn": "Đi Đài Nam chơi."
+      "example_vn": "Đi Đài Nam chơi.",
+      "meaning_hv": "Ngoạn"
     },
     {
       "order_num": 5,
@@ -52,7 +56,8 @@
       "meaning_vn": "Thế nào, làm sao",
       "example_zh": "怎麼去？",
       "example_pinyin": "Zěnme qù?",
-      "example_vn": "Đi thế nào?"
+      "example_vn": "Đi thế nào?",
+      "meaning_hv": "Chẩm Ma"
     },
     {
       "order_num": 6,
@@ -62,7 +67,8 @@
       "meaning_vn": "Chậm",
       "example_zh": "火車太慢了。",
       "example_pinyin": "Huǒchē tài màn le.",
-      "example_vn": "Tàu hỏa chậm quá."
+      "example_vn": "Tàu hỏa chậm quá.",
+      "meaning_hv": "Mạn"
     },
     {
       "order_num": 7,
@@ -72,7 +78,8 @@
       "meaning_vn": "Giờ, tiếng đồng hồ",
       "example_zh": "要四個多鐘頭。",
       "example_pinyin": "Yào sì gè duō zhōngtóu.",
-      "example_vn": "Cần hơn 4 tiếng đồng hồ."
+      "example_vn": "Cần hơn 4 tiếng đồng hồ.",
+      "meaning_hv": "Chung Đầu"
     },
     {
       "order_num": 8,
@@ -82,7 +89,8 @@
       "meaning_vn": "Hơn, tương đối",
       "example_zh": "坐高鐵比較快。",
       "example_pinyin": "Zuò gāotiě bǐjiào kuài.",
-      "example_vn": "Đi tàu cao tốc nhanh hơn."
+      "example_vn": "Đi tàu cao tốc nhanh hơn.",
+      "meaning_hv": "Tỷ Giảo"
     },
     {
       "order_num": 9,
@@ -92,7 +100,8 @@
       "meaning_vn": "Nhanh",
       "example_zh": "坐高鐵比較快。",
       "example_pinyin": "Zuò gāotiě bǐjiào kuài.",
-      "example_vn": "Đi tàu cao tốc nhanh hơn."
+      "example_vn": "Đi tàu cao tốc nhanh hơn.",
+      "meaning_hv": "Khoái"
     },
     {
       "order_num": 10,
@@ -102,7 +111,8 @@
       "meaning_vn": "Vé xe, vé tàu",
       "example_zh": "高鐵車票非常貴。",
       "example_pinyin": "Gāotiě chēpiào fēicháng guì.",
-      "example_vn": "Vé tàu cao tốc vô cùng đắt."
+      "example_vn": "Vé tàu cao tốc vô cùng đắt.",
+      "meaning_hv": "Xa Phiếu"
     },
     {
       "order_num": 11,
@@ -112,7 +122,8 @@
       "meaning_vn": "Rất, vô cùng",
       "example_zh": "高鐵車票非常貴。",
       "example_pinyin": "Gāotiě chēpiào fēicháng guì.",
-      "example_vn": "Vé tàu cao tốc vô cùng đắt."
+      "example_vn": "Vé tàu cao tốc vô cùng đắt.",
+      "meaning_hv": "Phi Thường"
     },
     {
       "order_num": 12,
@@ -122,7 +133,8 @@
       "meaning_vn": "Nhưng mà",
       "example_zh": "但是坐高鐵又快又舒服。",
       "example_pinyin": "Dànshì zuò gāotiě yòu kuài yòu shūfú.",
-      "example_vn": "Nhưng đi tàu cao tốc vừa nhanh vừa thoải mái."
+      "example_vn": "Nhưng đi tàu cao tốc vừa nhanh vừa thoải mái.",
+      "meaning_hv": "Đãn Thị"
     },
     {
       "order_num": 13,
@@ -132,7 +144,8 @@
       "meaning_vn": "Vừa... vừa...",
       "example_zh": "又快又舒服。",
       "example_pinyin": "Yòu kuài yòu shūfú.",
-      "example_vn": "Vừa nhanh vừa thoải mái."
+      "example_vn": "Vừa nhanh vừa thoải mái.",
+      "meaning_hv": "Hựu"
     },
     {
       "order_num": 14,
@@ -142,7 +155,8 @@
       "meaning_vn": "Thoải mái",
       "example_zh": "又快又舒服。",
       "example_pinyin": "Yòu kuài yòu shūfú.",
-      "example_vn": "Vừa nhanh vừa thoải mái."
+      "example_vn": "Vừa nhanh vừa thoải mái.",
+      "meaning_hv": "Thư Phục"
     },
     {
       "order_num": 15,
@@ -152,7 +166,8 @@
       "meaning_vn": "Trạm, ga",
       "example_zh": "在高鐵站買票。",
       "example_pinyin": "Zài gāotiě zhàn mǎi piào.",
-      "example_vn": "Mua vé ở ga tàu cao tốc."
+      "example_vn": "Mua vé ở ga tàu cao tốc.",
+      "meaning_hv": "Trạm"
     },
     {
       "order_num": 16,
@@ -162,7 +177,8 @@
       "meaning_vn": "Hoặc là",
       "example_zh": "網路上或是便利商店都可以。",
       "example_pinyin": "Wǎngzhù shàng huòshì biànlì shāngdiàn dōu kěyǐ.",
-      "example_vn": "Trên mạng hoặc là cửa hàng tiện lợi đều được."
+      "example_vn": "Trên mạng hoặc là cửa hàng tiện lợi đều được.",
+      "meaning_hv": "Hoặc Thị"
     },
     {
       "order_num": 17,
@@ -172,7 +188,8 @@
       "meaning_vn": "Đài Nam",
       "example_zh": "坐火車去臺南。",
       "example_pinyin": "Zuò huǒchē qù Táinán.",
-      "example_vn": "Đi tàu hỏa đến Đài Nam."
+      "example_vn": "Đi tàu hỏa đến Đài Nam.",
+      "meaning_hv": "Đài Nam"
     },
     {
       "order_num": 18,
@@ -182,7 +199,8 @@
       "meaning_vn": "Tàu cao tốc (HSR)",
       "example_zh": "坐高鐵比較快。",
       "example_pinyin": "Zuò gāotiě bǐjiào kuài.",
-      "example_vn": "Đi tàu cao tốc nhanh hơn."
+      "example_vn": "Đi tàu cao tốc nhanh hơn.",
+      "meaning_hv": "Cao Thiết"
     },
     {
       "order_num": 19,
@@ -192,7 +210,8 @@
       "meaning_vn": "Trên mạng",
       "example_zh": "在網路上買。",
       "example_pinyin": "Zài wǎngzhù shàng mǎi.",
-      "example_vn": "Mua ở trên mạng."
+      "example_vn": "Mua ở trên mạng.",
+      "meaning_hv": "Võng Lộ Thướng"
     },
     {
       "order_num": 20,
@@ -202,7 +221,8 @@
       "meaning_vn": "Cửa hàng tiện lợi",
       "example_zh": "便利商店都可以。",
       "example_pinyin": "Biànlì shāngdiàn dōu kěyǐ.",
-      "example_vn": "Cửa hàng tiện lợi đều được."
+      "example_vn": "Cửa hàng tiện lợi đều được.",
+      "meaning_hv": "Tiện Lợi Thương Điếm"
     },
     {
       "order_num": 21,
@@ -212,7 +232,8 @@
       "meaning_vn": "Bạn học",
       "example_zh": "我要跟同學去。",
       "example_pinyin": "Wǒ yào gēn tóngxué qù.",
-      "example_vn": "Tôi muốn đi cùng bạn học."
+      "example_vn": "Tôi muốn đi cùng bạn học.",
+      "meaning_hv": "Đồng Học"
     },
     {
       "order_num": 22,
@@ -222,7 +243,8 @@
       "meaning_vn": "Tham quan",
       "example_zh": "去參觀故宮博物院。",
       "example_pinyin": "Qù cānguān Gùgōng Bówùyuàn.",
-      "example_vn": "Đi tham quan Bảo tàng Cố cung."
+      "example_vn": "Đi tham quan Bảo tàng Cố cung.",
+      "meaning_hv": "Tam Quán"
     },
     {
       "order_num": 23,
@@ -232,7 +254,8 @@
       "meaning_vn": "Thời cổ đại",
       "example_zh": "有很多中國古代的東西。",
       "example_pinyin": "Yǒu hěn duō Zhōngguó gǔdài de dōngxī.",
-      "example_vn": "Có rất nhiều đồ vật thời cổ đại của Trung Quốc."
+      "example_vn": "Có rất nhiều đồ vật thời cổ đại của Trung Quốc.",
+      "meaning_hv": "Cổ Đại"
     },
     {
       "order_num": 24,
@@ -242,7 +265,8 @@
       "meaning_vn": "Cưỡi, đi (xe đạp, xe máy)",
       "example_zh": "我同學騎機車載我。",
       "example_pinyin": "Wǒ tóngxué qí jīchē zài wǒ.",
-      "example_vn": "Bạn học của tôi đi xe máy chở tôi."
+      "example_vn": "Bạn học của tôi đi xe máy chở tôi.",
+      "meaning_hv": "Kỵ"
     },
     {
       "order_num": 25,
@@ -252,7 +276,8 @@
       "meaning_vn": "Xe máy, xe tay ga",
       "example_zh": "我同學騎機車載我。",
       "example_pinyin": "Wǒ tóngxué qí jīchē zài wǒ.",
-      "example_vn": "Bạn học của tôi đi xe máy chở tôi."
+      "example_vn": "Bạn học của tôi đi xe máy chở tôi.",
+      "meaning_hv": "Cơ Xa"
     },
     {
       "order_num": 26,
@@ -262,7 +287,8 @@
       "meaning_vn": "Chở",
       "example_zh": "我同學騎機車載我。",
       "example_pinyin": "Wǒ tóngxué qí jīchē zài wǒ.",
-      "example_vn": "Bạn học của tôi đi xe máy chở tôi."
+      "example_vn": "Bạn học của tôi đi xe máy chở tôi.",
+      "meaning_hv": "Tải"
     },
     {
       "order_num": 27,
@@ -272,7 +298,8 @@
       "meaning_vn": "Tàu điện ngầm (MRT)",
       "example_zh": "我想坐捷運去。",
       "example_pinyin": "Wǒ xiǎng zuò jiéyùn qù.",
-      "example_vn": "Tôi muốn đi bằng tàu điện ngầm."
+      "example_vn": "Tôi muốn đi bằng tàu điện ngầm.",
+      "meaning_hv": "Tiệp Vận"
     },
     {
       "order_num": 28,
@@ -282,7 +309,8 @@
       "meaning_vn": "So với, hơn",
       "example_zh": "騎機車比坐公車快嗎？",
       "example_pinyin": "Qí jīchē bǐ zuò gōngchē kuài ma?",
-      "example_vn": "Đi xe máy có nhanh hơn đi xe buýt không?"
+      "example_vn": "Đi xe máy có nhanh hơn đi xe buýt không?",
+      "meaning_hv": "Tỷ"
     },
     {
       "order_num": 29,
@@ -292,7 +320,8 @@
       "meaning_vn": "Bảo tàng Cố cung",
       "example_zh": "去參觀故宮博物院。",
       "example_pinyin": "Qù cānguān Gùgōng Bówùyuàn.",
-      "example_vn": "Đi tham quan Bảo tàng Cố cung."
+      "example_vn": "Đi tham quan Bảo tàng Cố cung.",
+      "meaning_hv": "Cố Cung Bác Vật Viện"
     },
     {
       "order_num": 30,
@@ -302,7 +331,8 @@
       "meaning_vn": "Trung Quốc",
       "example_zh": "中國古代的東西。",
       "example_pinyin": "Zhōngguó gǔdài de dōngxī.",
-      "example_vn": "Đồ vật thời cổ đại của Trung Quốc."
+      "example_vn": "Đồ vật thời cổ đại của Trung Quốc.",
+      "meaning_hv": "Trung Quốc"
     },
     {
       "order_num": 31,
@@ -312,7 +342,8 @@
       "meaning_vn": "Xe buýt",
       "example_zh": "妳可以坐公共汽車去。",
       "example_pinyin": "Nǐ kěyǐ zuò gōnggòng qìchē qù.",
-      "example_vn": "Bạn có thể đi xe buýt."
+      "example_vn": "Bạn có thể đi xe buýt.",
+      "meaning_hv": "Công Cộng Khí Xa"
     },
     {
       "order_num": 32,
@@ -322,7 +353,8 @@
       "meaning_vn": "Không được",
       "example_zh": "不行，到故宮沒有捷運。",
       "example_pinyin": "Bù xíng, dào Gùgōng méi yǒu jiéyùn.",
-      "example_vn": "Không được, đến Cố cung không có tàu điện ngầm."
+      "example_vn": "Không được, đến Cố cung không có tàu điện ngầm.",
+      "meaning_hv": "Bất Hàng"
     },
     {
       "order_num": 33,
@@ -332,7 +364,8 @@
       "meaning_vn": "Xe taxi",
       "example_zh": "妳要不要坐計程車去？",
       "example_pinyin": "Nǐ yào bù yào zuò jìchéngchē qù?",
-      "example_vn": "Bạn có muốn đi taxi không?"
+      "example_vn": "Bạn có muốn đi taxi không?",
+      "meaning_hv": "Kế Trình Xa"
     },
     {
       "order_num": 34,
@@ -342,7 +375,8 @@
       "meaning_vn": "Gần giống nhau, xấp xỉ",
       "example_zh": "差不多。",
       "example_pinyin": "Chàbùduō.",
-      "example_vn": "Gần bằng nhau."
+      "example_vn": "Gần bằng nhau.",
+      "meaning_hv": "Sai Bất Đa"
     }
   ],
   "grammar": [
