@@ -29,10 +29,12 @@ model Vocabulary {
   pinyin         String
   word_type      String @default("")
   meaning_vn     String
+  meaning_en     String @default("")
   meaning_hv     String @default("")
   example_zh     String @default("")
   example_pinyin String @default("")
   example_vn     String @default("")
+  example_en     String @default("")
   lesson         Lesson @relation(fields: [lesson_id], references: [id])
 }
 

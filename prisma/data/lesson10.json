@@ -13,7 +13,9 @@
       "example_zh": "臺灣有很多好吃的水果。",
       "example_pinyin": "Táiwān yǒu hěn duō hǎochī de shuǐguǒ.",
       "example_vn": "Đài Loan có rất nhiều loại trái cây ngon.",
-      "meaning_hv": "Thuỷ Quả"
+      "meaning_hv": "Thuỷ Quả",
+      "example_en": "Taiwan has many delicious fruits.",
+      "meaning_en": "Fruit"
     },
     {
       "order_num": 2,
@@ -24,7 +26,9 @@
       "example_zh": "這個黃色的水果叫什麼？",
       "example_pinyin": "Zhège huángsè de shuǐguǒ jiào shénme?",
       "example_vn": "Trái cây màu vàng này gọi là gì?",
-      "meaning_hv": "Hoàng Sắc"
+      "meaning_hv": "Hoàng Sắc",
+      "example_en": "What is this yellow fruit called?",
+      "meaning_en": "Yellow"
     },
     {
       "order_num": 3,
@@ -35,7 +39,9 @@
       "example_zh": "這是芒果。",
       "example_pinyin": "Zhè shì mángguǒ.",
       "example_vn": "Đây là quả xoài.",
-      "meaning_hv": "Mang Quả"
+      "meaning_hv": "Mang Quả",
+      "example_en": "This is a mango.",
+      "meaning_en": "Mango"
     },
     {
       "order_num": 4,
@@ -46,7 +52,9 @@
       "example_zh": "給妳一塊。",
       "example_pinyin": "Gěi nǐ yī kuài.",
       "example_vn": "Cho cậu một miếng.",
-      "meaning_hv": "Cấp"
+      "meaning_hv": "Cấp",
+      "example_en": "Give me a piece.",
+      "meaning_en": "Give"
     },
     {
       "order_num": 5,
@@ -57,7 +65,9 @@
       "example_zh": "給妳一塊。",
       "example_pinyin": "Gěi nǐ yī kuài.",
       "example_vn": "Cho cậu một miếng.",
-      "meaning_hv": "Khối"
+      "meaning_hv": "Khối",
+      "example_en": "Give me a piece.",
+      "meaning_en": "Pieces, lumps, blocks"
     },
     {
       "order_num": 6,
@@ -68,7 +78,9 @@
       "example_zh": "香香的。",
       "example_pinyin": "Xiāngxiāng de.",
       "example_vn": "Thơm thơm.",
-      "meaning_hv": "Hương"
+      "meaning_hv": "Hương",
+      "example_en": "Fragrant.",
+      "meaning_en": "Fragrant"
     },
     {
       "order_num": 7,
@@ -79,7 +91,9 @@
       "example_zh": "甜甜的，很好吃。",
       "example_pinyin": "Tiántián de, hěn hǎochī.",
       "example_vn": "Ngọt ngọt, rất là ngon.",
-      "meaning_hv": "Điềm"
+      "meaning_hv": "Điềm",
+      "example_en": "Sweet, very delicious.",
+      "meaning_en": "Sweet"
     },
     {
       "order_num": 8,
@@ -90,7 +104,9 @@
       "example_zh": "紅色的。",
       "example_pinyin": "Hóngsè de.",
       "example_vn": "Màu đỏ.",
-      "meaning_hv": "Hồng Sắc"
+      "meaning_hv": "Hồng Sắc",
+      "example_en": "Red.",
+      "meaning_en": "Red"
     },
     {
       "order_num": 9,
@@ -101,7 +117,9 @@
       "example_zh": "妳說的是西瓜吧？",
       "example_pinyin": "Nǐ shuō de shì xīguā ba?",
       "example_vn": "Ý cậu là quả dưa hấu à?",
-      "meaning_hv": "Tây Qua"
+      "meaning_hv": "Tây Qua",
+      "example_en": "Do you mean watermelon?",
+      "meaning_en": "Watermelon"
     },
     {
       "order_num": 10,
@@ -112,7 +130,9 @@
       "example_zh": "妳說的是西瓜吧？",
       "example_pinyin": "Nǐ shuō de shì xīguā ba?",
       "example_vn": "Ý cậu là quả dưa hấu nhỉ?",
-      "meaning_hv": "Ba"
+      "meaning_hv": "Ba",
+      "example_en": "You mean watermelon?",
+      "meaning_en": "Hey, okay, let's go (imperative particle)"
     },
     {
       "order_num": 11,
@@ -123,7 +143,9 @@
       "example_zh": "對！對！",
       "example_pinyin": "Duì! Duì!",
       "example_vn": "Đúng! Đúng!",
-      "meaning_hv": "Đối"
+      "meaning_hv": "Đối",
+      "example_en": "Correct! Correct!",
+      "meaning_en": "Correct"
     },
     {
       "order_num": 12,
@@ -134,7 +156,9 @@
       "example_zh": "我以前不喜歡吃水果。",
       "example_pinyin": "Wǒ yǐqián bù xǐhuan chī shuǐguǒ.",
       "example_vn": "Trước kia tôi không thích ăn trái cây.",
-      "meaning_hv": "Dĩ Tiền"
+      "meaning_hv": "Dĩ Tiền",
+      "example_en": "Before, I didn't like eating fruit.",
+      "meaning_en": "Before, before"
     },
     {
       "order_num": 13,
@@ -145,7 +169,9 @@
       "example_zh": "要是有機會。",
       "example_pinyin": "Yàoshì yǒu jīhuì.",
       "example_vn": "Nếu có cơ hội.",
-      "meaning_hv": "Cơ Hội"
+      "meaning_hv": "Cơ Hội",
+      "example_en": "If there is a chance.",
+      "meaning_en": "Opportunity"
     },
     {
       "order_num": 14,
@@ -156,7 +182,9 @@
       "example_zh": "我一定請妳吃。",
       "example_pinyin": "Wǒ yīdìng qǐng nǐ chī.",
       "example_vn": "Tôi nhất định sẽ mời cậu ăn.",
-      "meaning_hv": "Thỉnh"
+      "meaning_hv": "Thỉnh",
+      "example_en": "I will definitely invite you to eat.",
+      "meaning_en": "Invite (guest)"
     },
     {
       "order_num": 15,
@@ -167,7 +195,9 @@
       "example_zh": "給妳一塊，吃吃看。",
       "example_pinyin": "Gěi nǐ yī kuài, chīchīkàn.",
       "example_vn": "Cho cậu một miếng, ăn thử xem.",
-      "meaning_hv": "Cật Cật Khán"
+      "meaning_hv": "Cật Cật Khán",
+      "example_en": "Give me a piece, try it.",
+      "meaning_en": "Try it"
     },
     {
       "order_num": 16,
@@ -178,7 +208,9 @@
       "example_zh": "這是我拍的照片。",
       "example_pinyin": "Zhè shì wǒ pāi de zhàopiàn.",
       "example_vn": "Đây là ảnh tôi chụp.",
-      "meaning_hv": "Phách"
+      "meaning_hv": "Phách",
+      "example_en": "This is the photo I took.",
+      "meaning_en": "Take a photo)"
     },
     {
       "order_num": 17,
@@ -189,7 +221,9 @@
       "example_zh": "你們笑得很開心！",
       "example_pinyin": "Nǐmen xiào de hěn kāixīn!",
       "example_vn": "Các bạn cười rất vui vẻ!",
-      "meaning_hv": "Tiếu"
+      "meaning_hv": "Tiếu",
+      "example_en": "You guys laugh so happily!",
+      "meaning_en": "Laugh"
     },
     {
       "order_num": 18,
@@ -200,7 +234,9 @@
       "example_zh": "你們笑得很開心！",
       "example_pinyin": "Nǐmen xiào de hěn kāixīn!",
       "example_vn": "Các bạn cười rất vui vẻ!",
-      "meaning_hv": "Khai Tâm"
+      "meaning_hv": "Khai Tâm",
+      "example_en": "You guys laugh so happily!",
+      "meaning_en": "Cheerful, happy"
     },
     {
       "order_num": 19,
@@ -211,7 +247,9 @@
       "example_zh": "穿紅衣服的這個。",
       "example_pinyin": "Chuān hóng yīfú de zhège.",
       "example_vn": "Người mặc áo đỏ này.",
-      "meaning_hv": "Xuyên"
+      "meaning_hv": "Xuyên",
+      "example_en": "This person wearing a red shirt.",
+      "meaning_en": "Wear, wear"
     },
     {
       "order_num": 20,
@@ -222,7 +260,9 @@
       "example_zh": "穿紅衣服的這個。",
       "example_pinyin": "Chuān hóng yīfú de zhège.",
       "example_vn": "Người mặc áo đỏ này.",
-      "meaning_hv": "Y Phục"
+      "meaning_hv": "Y Phục",
+      "example_en": "This person wearing a red shirt.",
+      "meaning_en": "Clothes"
     },
     {
       "order_num": 21,
@@ -233,7 +273,9 @@
       "example_zh": "旅館的老闆。",
       "example_pinyin": "Lǚguǎn de lǎobǎn.",
       "example_vn": "Ông chủ khách sạn.",
-      "meaning_hv": "Lữ Quán"
+      "meaning_hv": "Lữ Quán",
+      "example_en": "Hotel owner.",
+      "meaning_en": "Hotels, motels"
     },
     {
       "order_num": 22,
@@ -244,7 +286,9 @@
       "example_zh": "旅館老闆的太太。",
       "example_pinyin": "Lǚguǎn lǎobǎn de tàitài.",
       "example_vn": "Vợ của ông chủ khách sạn.",
-      "meaning_hv": "Thái Thái"
+      "meaning_hv": "Thái Thái",
+      "example_en": "The hotel owner's wife.",
+      "meaning_en": "Wife, wife"
     },
     {
       "order_num": 23,
@@ -255,7 +299,9 @@
       "example_zh": "這兩個男的是誰？",
       "example_pinyin": "Zhè liǎng ge nán de shì shéi?",
       "example_vn": "Hai người nam này là ai?",
-      "meaning_hv": "Nam"
+      "meaning_hv": "Nam",
+      "example_en": "Who are these two men?",
+      "meaning_en": "Nam, son"
     },
     {
       "order_num": 24,
@@ -266,7 +312,9 @@
       "example_zh": "矮的是旅館的老闆。",
       "example_pinyin": "Ǎi de shì lǚguǎn de lǎobǎn.",
       "example_vn": "Người thấp là ông chủ khách sạn.",
-      "meaning_hv": "Ải"
+      "meaning_hv": "Ải",
+      "example_en": "The short one is the hotel owner.",
+      "meaning_en": "Short, short"
     },
     {
       "order_num": 25,
@@ -277,7 +325,9 @@
       "example_zh": "高的是他弟弟。",
       "example_pinyin": "Gāo de shì tā dìdi.",
       "example_vn": "Người cao là em trai ông ấy.",
-      "meaning_hv": "Cao"
+      "meaning_hv": "Cao",
+      "example_en": "The tall one is his younger brother.",
+      "meaning_en": "High"
     },
     {
       "order_num": 26,
@@ -288,7 +338,9 @@
       "example_zh": "高的是他弟弟。",
       "example_pinyin": "Gāo de shì tā dìdi.",
       "example_vn": "Người cao là em trai ông ấy.",
-      "meaning_hv": "Đệ Đệ"
+      "meaning_hv": "Đệ Đệ",
+      "example_en": "The tall one is his younger brother.",
+      "meaning_en": "Younger brother"
     },
     {
       "order_num": 27,
@@ -299,7 +351,9 @@
       "example_zh": "很乾淨。",
       "example_pinyin": "Hěn gānjìng.",
       "example_vn": "Rất sạch sẽ.",
-      "meaning_hv": "Càn Tịnh"
+      "meaning_hv": "Càn Tịnh",
+      "example_en": "Very clean.",
+      "meaning_en": "Clean"
     },
     {
       "order_num": 28,
@@ -310,7 +364,9 @@
       "example_zh": "從窗戶往外看。",
       "example_pinyin": "Cóng chuānghù wǎng wài kàn.",
       "example_vn": "Từ cửa sổ nhìn ra ngoài.",
-      "meaning_hv": "Song Hộ"
+      "meaning_hv": "Song Hộ",
+      "example_en": "Looking out from the window.",
+      "meaning_en": "Window"
     },
     {
       "order_num": 29,
@@ -321,7 +377,9 @@
       "example_zh": "從窗戶往外看。",
       "example_pinyin": "Cóng chuānghù wǎng wài kàn.",
       "example_vn": "Từ cửa sổ nhìn ra ngoài.",
-      "meaning_hv": "Vãng"
+      "meaning_hv": "Vãng",
+      "example_en": "Looking out from the window.",
+      "meaning_en": "Towards, towards"
     },
     {
       "order_num": 30,
@@ -332,7 +390,9 @@
       "example_zh": "藍色的大海。",
       "example_pinyin": "Lánsè de dàhǎi.",
       "example_vn": "Biển lớn màu xanh dương.",
-      "meaning_hv": "Lam Sắc"
+      "meaning_hv": "Lam Sắc",
+      "example_en": "Big blue sea.",
+      "meaning_en": "Blue"
     },
     {
       "order_num": 31,
@@ -343,7 +403,9 @@
       "example_zh": "因為現在去玩的人比較少。",
       "example_pinyin": "Yīnwèi xiànzài qù wán de rén bǐjiào shǎo.",
       "example_vn": "Bởi vì bây giờ người đi chơi khá ít.",
-      "meaning_hv": "Nhân Vi"
+      "meaning_hv": "Nhân Vi",
+      "example_en": "Because now there are quite a few people going out.",
+      "meaning_en": "Because"
     },
     {
       "order_num": 32,
@@ -354,7 +416,9 @@
       "example_zh": "下次我也想去住。",
       "example_pinyin": "Xià cì wǒ yě xiǎng qù zhù.",
       "example_vn": "Lần sau tôi cũng muốn đến ở.",
-      "meaning_hv": "Trú"
+      "meaning_hv": "Trú",
+      "example_en": "Next time I also want to come stay.",
+      "meaning_en": "Stay, stay"
     },
     {
       "order_num": 33,
@@ -365,7 +429,9 @@
       "example_zh": "上個月去花蓮玩。",
       "example_pinyin": "Shàng ge yuè qù Huālián wán.",
       "example_vn": "Tháng trước đi Hoa Liên chơi.",
-      "meaning_hv": "Thướng Cá Nguyệt"
+      "meaning_hv": "Thướng Cá Nguyệt",
+      "example_en": "Last month I went to Hualien to visit.",
+      "meaning_en": "Last month"
     },
     {
       "order_num": 34,
@@ -376,7 +442,9 @@
       "example_zh": "這些是我拍的照片。",
       "example_pinyin": "Zhèxiē shì wǒ pāi de zhàopiàn.",
       "example_vn": "Đây là những bức ảnh tôi chụp.",
-      "meaning_hv": "Giá Ta"
+      "meaning_hv": "Giá Ta",
+      "example_en": "These are the photos I took.",
+      "meaning_en": "These"
     }
   ],
   "grammar": [

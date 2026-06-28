@@ -12,10 +12,12 @@ type Vocab = {
   id: number; lesson_id: number; order_num: number;
   word_zh: string; pinyin: string; word_type: string;
   meaning_vn: string;
+  meaning_en: string;
   meaning_hv: string;
   example_zh: string;
   example_pinyin: string;
   example_vn: string;
+  example_en: string;
 };
 type Grammar = {
   id: number; lesson_id: number; order_num: number;
@@ -292,7 +294,8 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                       <span className={styles.colPinyin}>Pinyin</span>
                       <span className={styles.colHv}>Hán Việt</span>
                       <span className={styles.colType}>Loại</span>
-                      <span className={styles.colMeaning}>Nghĩa</span>
+                      <span className={styles.colMeaning}>Nghĩa (VN)</span>
+                      <span className={styles.colMeaningEn}>Nghĩa (EN)</span>
                       <span className={styles.colExpand}></span>
                     </div>
                     {data.vocabulary.map(v => (
@@ -319,6 +322,7 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                             {v.word_type && <span className={styles.vocabType}>{v.word_type}</span>}
                           </span>
                           <span className={styles.colMeaning}>{v.meaning_vn}</span>
+                          <span className={styles.colMeaningEn}>{v.meaning_en}</span>
                           <span className={styles.colExpand}>
                             <svg
                               className={`${styles.vocabChevron} ${expandedVocab.has(v.id) ? styles.chevronOpen : ''}`}
@@ -342,6 +346,7 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                             </div>
                             <p className={styles.exPinyin}>{v.example_pinyin}</p>
                             <p className={styles.exVn}>{v.example_vn}</p>
+                            {v.example_en && <p className={styles.exEn}>{v.example_en}</p>}
                           </div>
                         )}
                       </div>

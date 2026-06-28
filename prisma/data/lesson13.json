@@ -13,7 +13,9 @@
       "example_zh": "明天是你的生日。",
       "example_pinyin": "Míngtiān shì nǐ de shēngrì.",
       "example_vn": "Ngày mai là sinh nhật của bạn.",
-      "meaning_hv": "Sinh Nhật"
+      "meaning_hv": "Sinh Nhật",
+      "example_en": "Tomorrow is your birthday.",
+      "meaning_en": "Birthday"
     },
     {
       "order_num": 2,
@@ -24,7 +26,9 @@
       "example_zh": "祝你生日快樂。",
       "example_pinyin": "Zhù nǐ shēngrì kuàilè.",
       "example_vn": "Chúc bạn sinh nhật vui vẻ.",
-      "meaning_hv": "Khoái Lạc"
+      "meaning_hv": "Khoái Lạc",
+      "example_en": "Wishing you a happy birthday.",
+      "meaning_en": "Cheerful, happy"
     },
     {
       "order_num": 3,
@@ -35,7 +39,9 @@
       "example_zh": "我剛從臺東回來。",
       "example_pinyin": "Wǒ gāng cóng Táidōng huílái.",
       "example_vn": "Tôi vừa từ Đài Đông trở về.",
-      "meaning_hv": "Hồi Lai"
+      "meaning_hv": "Hồi Lai",
+      "example_en": "I just returned from Taitung.",
+      "meaning_en": "Return"
     },
     {
       "order_num": 4,
@@ -46,7 +52,9 @@
       "example_zh": "啊，我怎麼忘了！",
       "example_pinyin": "A, wǒ zěnme wàng le!",
       "example_vn": "A, sao tôi lại quên mất thế này!",
-      "meaning_hv": "A"
+      "meaning_hv": "A",
+      "example_en": "Ah, how could I have forgotten this!",
+      "meaning_en": "Ah, ah (exclamation)"
     },
     {
       "order_num": 5,
@@ -57,7 +65,9 @@
       "example_zh": "我怎麼忘了！",
       "example_pinyin": "Wǒ zěnme wàng le!",
       "example_vn": "Sao tôi lại quên mất!",
-      "meaning_hv": "Chẩm Ma"
+      "meaning_hv": "Chẩm Ma",
+      "example_en": "Why did I forget!",
+      "meaning_en": "Why, why again?"
     },
     {
       "order_num": 6,
@@ -68,7 +78,9 @@
       "example_zh": "我怎麼忘了！",
       "example_pinyin": "Wǒ zěnme wàng le!",
       "example_vn": "Sao tôi lại quên mất!",
-      "meaning_hv": "Vong Liễu"
+      "meaning_hv": "Vong Liễu",
+      "example_en": "Why did I forget!",
+      "meaning_en": "Forgot (already)"
     },
     {
       "order_num": 7,
@@ -79,7 +91,9 @@
       "example_zh": "當然記得！",
       "example_pinyin": "Dāngrán jìde!",
       "example_vn": "Đương nhiên là nhớ!",
-      "meaning_hv": "Ký Đắc"
+      "meaning_hv": "Ký Đắc",
+      "example_en": "Of course I remember!",
+      "meaning_en": "Miss"
     },
     {
       "order_num": 8,
@@ -90,7 +104,9 @@
       "example_zh": "當然記得！",
       "example_pinyin": "Dāngrán jìde!",
       "example_vn": "Đương nhiên là nhớ!",
-      "meaning_hv": "Đương Nhiên"
+      "meaning_hv": "Đương Nhiên",
+      "example_en": "Of course I remember!",
+      "meaning_en": "Of course, of course"
     },
     {
       "order_num": 9,
@@ -101,7 +117,9 @@
       "example_zh": "語言交換。",
       "example_pinyin": "Yǔyán jiāohuàn.",
       "example_vn": "Trao đổi ngôn ngữ.",
-      "meaning_hv": "Ngữ Ngôn"
+      "meaning_hv": "Ngữ Ngôn",
+      "example_en": "Language exchange.",
+      "meaning_en": "Language"
     },
     {
       "order_num": 10,
@@ -112,7 +130,9 @@
       "example_zh": "語言交換。",
       "example_pinyin": "Yǔyán jiāohuàn.",
       "example_vn": "Trao đổi ngôn ngữ.",
-      "meaning_hv": "Giao Hoán"
+      "meaning_hv": "Giao Hoán",
+      "example_en": "Language exchange.",
+      "meaning_en": "Exchange"
     },
     {
       "order_num": 11,
@@ -123,7 +143,9 @@
       "example_zh": "你那麼熱心。",
       "example_pinyin": "Nǐ nàme rèxīn.",
       "example_vn": "Bạn nhiệt tình như vậy.",
-      "meaning_hv": "Na Ma"
+      "meaning_hv": "Na Ma",
+      "example_en": "You are so enthusiastic.",
+      "meaning_en": "So"
     },
     {
       "order_num": 12,
@@ -134,7 +156,9 @@
       "example_zh": "你那麼熱心。",
       "example_pinyin": "Nǐ nàme rèxīn.",
       "example_vn": "Bạn nhiệt tình như vậy.",
-      "meaning_hv": "Nhiệt Tâm"
+      "meaning_hv": "Nhiệt Tâm",
+      "example_en": "You are so enthusiastic.",
+      "meaning_en": "Enthusiasm"
     },
     {
       "order_num": 13,
@@ -145,7 +169,9 @@
       "example_zh": "教我西班牙文。",
       "example_pinyin": "Jiāo wǒ Xībānyá wén.",
       "example_vn": "Dạy tôi tiếng Tây Ban Nha.",
-      "meaning_hv": "Tây Ban Nha Văn"
+      "meaning_hv": "Tây Ban Nha Văn",
+      "example_en": "Teach me Spanish.",
+      "meaning_en": "Spanish"
     },
     {
       "order_num": 14,
@@ -156,7 +182,9 @@
       "example_zh": "妳也一樣。",
       "example_pinyin": "Nǐ yě yíyàng.",
       "example_vn": "Bạn cũng vậy (giống vậy).",
-      "meaning_hv": "Nhất Dạng"
+      "meaning_hv": "Nhất Dạng",
+      "example_en": "You are the same (same).",
+      "meaning_en": "Alike"
     },
     {
       "order_num": 15,
@@ -167,7 +195,9 @@
       "example_zh": "給你過生日。",
       "example_pinyin": "Gěi nǐ guò shēngrì.",
       "example_vn": "Tổ chức sinh nhật cho bạn.",
-      "meaning_hv": "Quá"
+      "meaning_hv": "Quá",
+      "example_en": "Celebrate your birthday.",
+      "meaning_en": "Welcome (birthday, holiday), pass"
     },
     {
       "order_num": 16,
@@ -178,7 +208,9 @@
       "example_zh": "五點左右。",
       "example_pinyin": "Wǔ diǎn zuǒyòu.",
       "example_vn": "Khoảng 5 giờ.",
-      "meaning_hv": "Tả Hữu"
+      "meaning_hv": "Tả Hữu",
+      "example_en": "About 5 o'clock.",
+      "meaning_en": "About, about"
     },
     {
       "order_num": 17,
@@ -189,7 +221,9 @@
       "example_zh": "學校門口。",
       "example_pinyin": "Xuéxiào ménkǒu.",
       "example_vn": "Cổng trường.",
-      "meaning_hv": "Môn Khẩu"
+      "meaning_hv": "Môn Khẩu",
+      "example_en": "School gate.",
+      "meaning_en": "Gates, doors"
     },
     {
       "order_num": 18,
@@ -200,7 +234,9 @@
       "example_zh": "西班牙。",
       "example_pinyin": "Xībānyá.",
       "example_vn": "Tây Ban Nha.",
-      "meaning_hv": "Tây Ban Nha"
+      "meaning_hv": "Tây Ban Nha",
+      "example_en": "Spain.",
+      "meaning_en": "Spain"
     },
     {
       "order_num": 19,
@@ -211,7 +247,9 @@
       "example_zh": "祝你生日快樂。",
       "example_pinyin": "Zhù nǐ shēngrì kuàilè.",
       "example_vn": "Chúc bạn sinh nhật vui vẻ.",
-      "meaning_hv": "Sinh Nhật Khoái Lạc"
+      "meaning_hv": "Sinh Nhật Khoái Lạc",
+      "example_en": "Wishing you a happy birthday.",
+      "meaning_en": "Happy birthday"
     },
     {
       "order_num": 20,
@@ -222,7 +260,9 @@
       "example_zh": "是，我就是。",
       "example_pinyin": "Shì, wǒ jiù shì.",
       "example_vn": "Đúng, là tôi đây.",
-      "meaning_hv": "Ngã Tựu Thị"
+      "meaning_hv": "Ngã Tựu Thị",
+      "example_en": "Yes, it's me.",
+      "meaning_en": "It's me"
     },
     {
       "order_num": 21,
@@ -233,7 +273,9 @@
       "example_zh": "好久不見！",
       "example_pinyin": "Hǎojiǔbújiàn!",
       "example_vn": "Lâu rồi không gặp!",
-      "meaning_hv": "Hảo Cửu Bất Kiến"
+      "meaning_hv": "Hảo Cửu Bất Kiến",
+      "example_en": "Long time no see!",
+      "meaning_en": "Long time no see"
     },
     {
       "order_num": 22,
@@ -244,7 +286,9 @@
       "example_zh": "不必客氣。",
       "example_pinyin": "Búbì kèqì.",
       "example_vn": "Không cần khách sáo.",
-      "meaning_hv": "Bất Tất Khách Khí"
+      "meaning_hv": "Bất Tất Khách Khí",
+      "example_en": "No need to be polite.",
+      "meaning_en": "Don't be polite"
     },
     {
       "order_num": 23,
@@ -255,7 +299,9 @@
       "example_zh": "妳太客氣了！",
       "example_pinyin": "Nǐ tài kèqì le!",
       "example_vn": "Bạn khách sáo quá rồi!",
-      "meaning_hv": "Thái Khách Khí"
+      "meaning_hv": "Thái Khách Khí",
+      "example_en": "You are too polite!",
+      "meaning_en": "Too polite"
     },
     {
       "order_num": 24,
@@ -266,7 +312,9 @@
       "example_zh": "這是我給你的禮物。",
       "example_pinyin": "Zhè shì wǒ gěi nǐ de lǐwù.",
       "example_vn": "Đây là món quà tôi tặng bạn.",
-      "meaning_hv": "Lễ Vật"
+      "meaning_hv": "Lễ Vật",
+      "example_en": "This is my gift to you.",
+      "meaning_en": "Present"
     },
     {
       "order_num": 25,
@@ -277,7 +325,9 @@
       "example_zh": "今年有臺灣朋友給我過生日。",
       "example_pinyin": "Jīnnián yǒu Táiwān péngyǒu gěi wǒ guò shēngrì.",
       "example_vn": "Năm nay có người bạn Đài Loan tổ chức sinh nhật cho tôi.",
-      "meaning_hv": "Kim Niên"
+      "meaning_hv": "Kim Niên",
+      "example_en": "This year a Taiwanese friend celebrated my birthday.",
+      "meaning_en": "This year"
     },
     {
       "order_num": 26,
@@ -288,7 +338,9 @@
       "example_zh": "我已經訂了豬腳麵線。",
       "example_pinyin": "Wǒ yǐjīng dìng le zhūjiǎo miànxiàn.",
       "example_vn": "Tôi đã đặt mì chân giò rồi.",
-      "meaning_hv": "Đính"
+      "meaning_hv": "Đính",
+      "example_en": "I've already ordered pork leg noodles.",
+      "meaning_en": "Order (line, place)"
     },
     {
       "order_num": 27,
@@ -299,7 +351,9 @@
       "example_zh": "我已經訂了。",
       "example_pinyin": "Wǒ yǐjīng dìng le.",
       "example_vn": "Tôi đã đặt rồi.",
-      "meaning_hv": "Liễu"
+      "meaning_hv": "Liễu",
+      "example_en": "I already booked it.",
+      "meaning_en": "Then (perfect particle)"
     },
     {
       "order_num": 28,
@@ -310,7 +364,9 @@
       "example_zh": "豬腳麵線。",
       "example_pinyin": "Zhūjiǎo miànxiàn.",
       "example_vn": "Mì chân giò.",
-      "meaning_hv": "Trư Cước"
+      "meaning_hv": "Trư Cước",
+      "example_en": "Pork leg noodles.",
+      "meaning_en": "Pig's feet"
     },
     {
       "order_num": 29,
@@ -321,7 +377,9 @@
       "example_zh": "豬腳麵線。",
       "example_pinyin": "Zhūjiǎo miànxiàn.",
       "example_vn": "Mì chân giò.",
-      "meaning_hv": "Miến Tuyến"
+      "meaning_hv": "Miến Tuyến",
+      "example_en": "Pork leg noodles.",
+      "meaning_en": "Small noodles (gland noodles)"
     },
     {
       "order_num": 30,
@@ -332,7 +390,9 @@
       "example_zh": "和蛋。",
       "example_pinyin": "Hé dàn.",
       "example_vn": "Và trứng.",
-      "meaning_hv": "Đản"
+      "meaning_hv": "Đản",
+      "example_en": "And eggs.",
+      "meaning_en": "Egg"
     },
     {
       "order_num": 31,
@@ -343,7 +403,9 @@
       "example_zh": "多吃一點。",
       "example_pinyin": "Duō chī yìdiǎn.",
       "example_vn": "Ăn nhiều một chút.",
-      "meaning_hv": "Nhất Điểm"
+      "meaning_hv": "Nhất Điểm",
+      "example_en": "Eat a little more.",
+      "meaning_en": "A little, a little"
     },
     {
       "order_num": 32,
@@ -354,7 +416,9 @@
       "example_zh": "這是傳統。",
       "example_pinyin": "Zhè shì chuántǒng.",
       "example_vn": "Đây là truyền thống.",
-      "meaning_hv": "Truyền Thống"
+      "meaning_hv": "Truyền Thống",
+      "example_en": "This is tradition.",
+      "meaning_en": "Traditional"
     },
     {
       "order_num": 33,
@@ -365,7 +429,9 @@
       "example_zh": "年輕人。",
       "example_pinyin": "Niánqīng rén.",
       "example_vn": "Người trẻ.",
-      "meaning_hv": "Niên Khinh"
+      "meaning_hv": "Niên Khinh",
+      "example_en": "Young people.",
+      "meaning_en": "Young"
     },
     {
       "order_num": 34,
@@ -376,7 +442,9 @@
       "example_zh": "吃蛋糕。",
       "example_pinyin": "Chī dàngāo.",
       "example_vn": "Ăn bánh kem.",
-      "meaning_hv": "Đản Cao"
+      "meaning_hv": "Đản Cao",
+      "example_en": "Eat cake.",
+      "meaning_en": "Cakes, cakes"
     },
     {
       "order_num": 35,
@@ -387,7 +455,9 @@
       "example_zh": "妳對我真好。",
       "example_pinyin": "Nǐ duì wǒ zhēn hǎo.",
       "example_vn": "Cậu đối với tớ thật tốt.",
-      "meaning_hv": "Đối"
+      "meaning_hv": "Đối",
+      "example_en": "You are so good to me.",
+      "meaning_en": "For"
     },
     {
       "order_num": 36,
@@ -398,7 +468,9 @@
       "example_zh": "祝你生日快樂。",
       "example_pinyin": "Zhù nǐ shēngrì kuàilè.",
       "example_vn": "Chúc cậu sinh nhật vui vẻ.",
-      "meaning_hv": "Chúc"
+      "meaning_hv": "Chúc",
+      "example_en": "Wish you a happy birthday.",
+      "meaning_en": "Wish"
     },
     {
       "order_num": 37,
@@ -409,7 +481,9 @@
       "example_zh": "哪裡，哪裡！",
       "example_pinyin": "Nǎlǐ, nǎlǐ!",
       "example_vn": "Đâu có đâu có!",
-      "meaning_hv": "Nả Lý ， Nả Lý"
+      "meaning_hv": "Nả Lý ， Nả Lý",
+      "example_en": "Nowhere!",
+      "meaning_en": "No, no (humble words)"
     },
     {
       "order_num": 38,
@@ -420,7 +494,9 @@
       "example_zh": "大部分年輕人。",
       "example_pinyin": "Dà bùfèn niánqīng rén.",
       "example_vn": "Phần lớn người trẻ.",
-      "meaning_hv": "Đại Bộ Phân"
+      "meaning_hv": "Đại Bộ Phân",
+      "example_en": "Mostly young people.",
+      "meaning_en": "The vast majority, the majority"
     },
     {
       "order_num": 39,
@@ -431,7 +507,9 @@
       "example_zh": "祝你萬事如意。",
       "example_pinyin": "Zhù nǐ wànshì rúyì.",
       "example_vn": "Chúc bạn vạn sự như ý.",
-      "meaning_hv": "Vạn Sự Như Ý"
+      "meaning_hv": "Vạn Sự Như Ý",
+      "example_en": "Wishing you all the best.",
+      "meaning_en": "Everything is as desired"
     },
     {
       "order_num": 40,
@@ -442,7 +520,9 @@
       "example_zh": "祝你心想事成。",
       "example_pinyin": "Zhù nǐ xīnxiǎng shìchéng.",
       "example_vn": "Chúc bạn muốn gì được nấy.",
-      "meaning_hv": "Tâm Tưởng Sự Thành"
+      "meaning_hv": "Tâm Tưởng Sự Thành",
+      "example_en": "Wishing you whatever you want.",
+      "meaning_en": "The mind thinks of success (you get whatever you want)"
     }
   ],
   "grammar": [

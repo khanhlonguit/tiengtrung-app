@@ -21,7 +21,20 @@ async function main() {
     
     console.log(`Processing ${file}...`);
     
-    const lessonId = data.id;
+    let lessonId = data.id;
+    if (!lessonId) {
+      const match = file.match(/\d+/);
+      if (match) {
+        lessonId = parseInt(match[0]);
+      }
+    }
+
+    if (!lessonId) {
+      console.log(`❌ Skipping ${file}: No lesson ID found.`);
+      continue;
+    }
+
+    console.log(`Processing ${file} (Lesson ID: ${lessonId})...`);
 
     // Delete if exists to avoid dupes
     const existingExercises = await prisma.exercise.findMany({ where: { lesson_id: lessonId } });
@@ -38,9 +51,9 @@ async function main() {
     await prisma.lesson.create({
       data: {
         id: lessonId,
-        title_vn: data.title_vn,
-        title_zh: data.title_zh,
-        subtitle: data.subtitle,
+        title_vn: data.title_vn || `Bài ${lessonId}`,
+        title_zh: data.title_zh || `第 ${lessonId} 課`,
+        subtitle: data.subtitle || "",
       },
     });
 

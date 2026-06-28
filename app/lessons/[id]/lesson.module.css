@@ -400,7 +400,7 @@
 
 .vocabListHeader {
   display: grid;
-  grid-template-columns: 36px 110px 1fr 1fr 70px 1.5fr 32px;
+  grid-template-columns: 36px 110px 1fr 1fr 70px 1.5fr 1.5fr 32px;
   align-items: center;
   gap: 12px;
   padding: 10px 16px;
@@ -421,7 +421,7 @@
 
 .vocabRow {
   display: grid;
-  grid-template-columns: 36px 110px 1fr 1fr 70px 1.5fr 32px;
+  grid-template-columns: 36px 110px 1fr 1fr 70px 1.5fr 1.5fr 32px;
   align-items: center;
   gap: 12px;
   padding: 11px 16px;
@@ -477,6 +477,13 @@
   line-height: 1.4;
 }
 
+.colMeaningEn {
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.4;
+  font-style: italic;
+}
+
 .colHv {
   font-size: 13px;
   color: var(--text-dim);
@@ -523,7 +530,8 @@
   font-style: italic;
 }
 
-.exVn { font-size: 13px; color: var(--text-faint); margin: 0; }
+.exVn { font-size: 13px; color: var(--text-faint); margin: 0 0 2px; }
+.exEn { font-size: 13px; color: var(--text-faint); margin: 0; font-style: italic; }
 
 /* ── GRAMMAR ── */
 .grammarList { display: flex; flex-direction: column; gap: 10px; }

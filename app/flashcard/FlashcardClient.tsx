@@ -10,10 +10,12 @@ type Vocab = {
   id: number; lesson_id: number; order_num: number;
   word_zh: string; pinyin: string; word_type: string;
   meaning_vn: string;
+  meaning_en?: string;
   meaning_hv: string;
   example_zh: string;
   example_pinyin: string;
   example_vn: string;
+  example_en?: string;
 };
 
 type LessonItem = {
@@ -22,7 +24,19 @@ type LessonItem = {
   title_zh: string;
 };
 
-type Phase = 'select' | 'study';
+type Phase = 'select' | 'study' | 'quiz' | 'quiz_result';
+
+type QuizOption = {
+  text: string;
+  isCorrect: boolean;
+};
+
+type QuizQuestion = {
+  questionText: string;
+  questionType?: string;
+  options: QuizOption[];
+  originalWord: Vocab;
+};
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -40,6 +54,12 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const [loading, setLoading] = useState(false);
+  
+  // Quiz states
+  const [quizCount, setQuizCount] = useState<number>(10);
+  const [quizQuestions, setQuizQuestions] = useState<QuizQuestion[]>([]);
+  const [score, setScore] = useState(0);
+  const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const { theme, toggleTheme } = useTheme();
 
   const toggleLesson = (id: number) => {
@@ -68,6 +88,104 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
       setPhase('study');
     } finally {
       setLoading(false);
+    }
+  };
+
+
+  const generateQuiz = (data: Vocab[], count: number) => {
+    if (data.length === 0) return [];
+    const shuffledData = shuffle(data);
+    const selectedVocabs = shuffledData.slice(0, count);
+    
+    return selectedVocabs.map(vocab => {
+      const type = Math.floor(Math.random() * 4);
+      let qText = '';
+      let correctAnsText = '';
+      let questionType = '';
+      
+      if (type === 0) {
+        questionType = 'Việt → Trung (có Pinyin)';
+        qText = vocab.meaning_vn;
+        correctAnsText = `${vocab.word_zh} (${vocab.pinyin})`;
+      } else if (type === 1) {
+        questionType = 'Việt → Trung';
+        qText = vocab.meaning_vn;
+        correctAnsText = vocab.word_zh;
+      } else if (type === 2) {
+        questionType = 'Trung → Việt (có Pinyin)';
+        qText = vocab.word_zh;
+        correctAnsText = `${vocab.meaning_vn} (${vocab.pinyin})`;
+      } else {
+        questionType = 'Trung → Việt';
+        qText = vocab.word_zh;
+        correctAnsText = vocab.meaning_vn;
+      }
+
+      const distractors = shuffle(data.filter(v => v.id !== vocab.id)).slice(0, 3);
+      const wrongOptions = distractors.map(d => {
+        if (type === 0) return `${d.word_zh} (${d.pinyin})`;
+        if (type === 1) return d.word_zh;
+        if (type === 2) return `${d.meaning_vn} (${d.pinyin})`;
+        return d.meaning_vn;
+      });
+
+      while (wrongOptions.length < 3) {
+        wrongOptions.push(`N/A ${wrongOptions.length}`);
+      }
+
+      const options = shuffle([
+        { text: correctAnsText, isCorrect: true },
+        ...wrongOptions.map(t => ({ text: t, isCorrect: false }))
+      ]);
+
+      return { questionText: qText, questionType, options, originalWord: vocab };
+    });
+  };
+
+  const startQuiz = async () => {
+    if (selectedLessons.size === 0) return;
+    setLoading(true);
+    try {
+      const ids = Array.from(selectedLessons).join(',');
+      const res = await fetch(`/api/flashcard?lessons=${ids}`);
+      const data: Vocab[] = await res.json();
+      setCards(data);
+      
+      const questions = generateQuiz(data, quizCount);
+      setQuizQuestions(questions);
+      setCurrentIndex(0);
+      setScore(0);
+      setSelectedOption(null);
+      setPhase('quiz');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleQuizAnswer = (idx: number) => {
+    if (selectedOption !== null) return;
+    setSelectedOption(idx);
+    const isCorrect = quizQuestions[currentIndex].options[idx].isCorrect;
+    if (isCorrect) {
+      setScore(s => s + 1);
+    }
+    
+    // Nếu câu hỏi không phải tiếng Trung, ta đọc từ Tiếng Trung lên cho người dùng nghe
+    const currentQ = quizQuestions[currentIndex];
+    if (currentQ.questionText === currentQ.originalWord.meaning_vn) {
+      speak(currentQ.originalWord.word_zh);
+    } else {
+       // Nếu câu hỏi là tiếng Trung, đọc luôn
+       speak(currentQ.originalWord.word_zh);
+    }
+  };
+
+  const nextQuizQuestion = () => {
+    if (currentIndex < quizQuestions.length - 1) {
+      setCurrentIndex(i => i + 1);
+      setSelectedOption(null);
+    } else {
+      setPhase('quiz_result');
     }
   };
 
@@ -144,7 +262,9 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
         </button>
       </div>
 
-      {phase === 'select' ? (
+
+      {phase === 'select' && (
+
         /* ── SELECT PHASE ── */
         <div className={styles.selectWrap}>
           <div className={styles.selectBox}>
@@ -179,17 +299,36 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
               ))}
             </div>
 
-            <button
-              className={styles.startBtn}
-              onClick={startStudy}
-              disabled={selectedLessons.size === 0 || loading}
-            >
-              {loading ? 'Đang tải...' : `▶ Bắt đầu ôn tập`}
-            </button>
+                        <div className={styles.quizSettings}>
+              <label htmlFor='quizCount'>Số câu trắc nghiệm:</label>
+              <select id='quizCount' value={quizCount} onChange={e => setQuizCount(Number(e.target.value))} className={styles.quizSelect}>
+                <option value={5}>5 câu</option>
+                <option value={10}>10 câu</option>
+                <option value={15}>15 câu</option>
+                <option value={20}>20 câu</option>
+                <option value={9999}>Tất cả</option>
+              </select>
+            </div>
+            <div className={styles.actionButtons}>
+              <button
+                className={styles.startBtn}
+                onClick={startStudy}
+                disabled={selectedLessons.size === 0 || loading}
+              >
+                {loading ? 'Đang tải...' : '▶ Bắt đầu ôn tập'}
+              </button>
+              <button
+                className={`${styles.startBtn} ${styles.quizBtn}`}
+                onClick={startQuiz}
+                disabled={selectedLessons.size === 0 || loading}
+              >
+                {loading ? 'Đang tải...' : '📝 Làm Trắc Nghiệm'}
+              </button>
+            </div>
             <p className={styles.hint}>Phím tắt: ← → điều hướng · Enter lật thẻ</p>
           </div>
         </div>
-      ) : (
+      )} {phase === 'study' && (
         /* ── STUDY PHASE ── */
         <div className={styles.studyWrap}>
           {/* Progress bar */}
@@ -229,6 +368,11 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
                 {/* Back */}
                 <div className={styles.cardBack}>
                   <div className={styles.cardMeaning}>{current.meaning_vn}</div>
+                  {current.meaning_en && (
+                    <div className={styles.cardHv} style={{ fontSize: '15px', color: 'var(--text-faint)' }}>
+                      {current.meaning_en}
+                    </div>
+                  )}
                   {current.meaning_hv && (
                     <div className={styles.cardHv}>({current.meaning_hv})</div>
                   )}
@@ -245,6 +389,9 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
                       </div>
                       <p className={styles.exPinyin}>{current.example_pinyin}</p>
                       <p className={styles.exVn}>{current.example_vn}</p>
+                      {current.example_en && (
+                        <p className={styles.exEn}>{current.example_en}</p>
+                      )}
                     </div>
                   )}
                 </div>
@@ -286,6 +433,70 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
             <button className={styles.extraBtn} onClick={doRestart}>↺ Làm lại</button>
             <button className={styles.extraBtn} onClick={() => setPhase('select')}>⚙ Chọn bài</button>
           </div>
+        </div>
+      )}
+
+      {phase === 'quiz' && quizQuestions.length > 0 && (
+        <div className={styles.quizWrap}>
+          <div className={styles.progressBar}>
+            <div className={styles.progressFill} style={{ width: `${((currentIndex + 1) / quizQuestions.length) * 100}%` }}/>
+          </div>
+          <div className={styles.progressText}>
+            <span>Câu {currentIndex + 1} / {quizQuestions.length}</span>
+            <span className={styles.lessonTag}>Điểm: {score}</span>
+          </div>
+
+          <div className={styles.quizQuestionArea}>
+            <div className={styles.quizQuestionText}>{quizQuestions[currentIndex].questionText}</div>
+            <div className={styles.quizQuestionType}>{quizQuestions[currentIndex].questionType}</div>
+          </div>
+
+          <div className={styles.quizOptions}>
+            {quizQuestions[currentIndex].options.map((opt, idx) => {
+              let btnClass = styles.quizOptionBtn;
+              if (selectedOption !== null) {
+                if (opt.isCorrect) {
+                  btnClass += ` ${styles.quizOptionCorrect}`;
+                } else if (idx === selectedOption) {
+                  btnClass += ` ${styles.quizOptionWrong}`;
+                } else {
+                  btnClass += ` ${styles.quizOptionFaded}`;
+                }
+              }
+              return (
+                <button
+                  key={idx}
+                  className={btnClass}
+                  onClick={() => handleQuizAnswer(idx)}
+                  disabled={selectedOption !== null}
+                >
+                  {opt.text}
+                </button>
+              );
+            })}
+          </div>
+
+          {selectedOption !== null && (
+            <button className={styles.quizNextBtn} onClick={nextQuizQuestion}>
+              {currentIndex < quizQuestions.length - 1 ? 'Tiếp tục →' : 'Xem kết quả'}
+            </button>
+          )}
+        </div>
+      )}
+
+      {phase === 'quiz_result' && (
+        <div className={styles.quizResultBox}>
+          <div className={styles.quizResultIcon}>🏆</div>
+          <h2 className={styles.selectTitle}>Hoàn thành!</h2>
+          <div className={styles.quizScoreText}>Điểm của bạn</div>
+          <div className={styles.quizScoreNumber}>{score} / {quizQuestions.length}</div>
+          
+          <button className={`${styles.quizActionBtn} ${styles.quizActionPrimary}`} onClick={startQuiz}>
+            ↺ Làm lại trắc nghiệm
+          </button>
+          <button className={styles.quizActionBtn} onClick={() => setPhase('select')}>
+            ⚙ Chọn bài khác
+          </button>
         </div>
       )}
     </div>
