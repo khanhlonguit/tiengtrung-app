@@ -30,7 +30,11 @@
   border-radius: 8px;
   transition: all 0.2s;
 }
-.backLink:hover { background: var(--bg-hover-med); color: var(--text-body); }
+
+.backLink:hover {
+  background: var(--bg-hover-med);
+  color: var(--text-body);
+}
 
 /* ── SELECT ── */
 .selectWrap {
@@ -53,13 +57,27 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  box-shadow: 0 24px 60px rgba(0,0,0,0.2);
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.2);
   transition: background 0.25s ease, border-color 0.25s ease;
 }
 
-.selectIcon { font-size: 56px; margin-bottom: 16px; }
-.selectTitle { font-size: 28px; font-weight: 700; color: var(--text-primary); margin: 0 0 8px; }
-.selectDesc { font-size: 15px; color: var(--text-faint); margin: 0 0 32px; }
+.selectIcon {
+  font-size: 56px;
+  margin-bottom: 16px;
+}
+
+.selectTitle {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0 0 8px;
+}
+
+.selectDesc {
+  font-size: 15px;
+  color: var(--text-faint);
+  margin: 0 0 32px;
+}
 
 .lessonChecks {
   width: 100%;
@@ -73,9 +91,19 @@
   scrollbar-width: thin;
   scrollbar-color: var(--scrollbar-thumb) transparent;
 }
-.lessonChecks::-webkit-scrollbar { width: 5px; }
-.lessonChecks::-webkit-scrollbar-track { background: transparent; }
-.lessonChecks::-webkit-scrollbar-thumb { background: var(--scrollbar-thumb); border-radius: 3px; }
+
+.lessonChecks::-webkit-scrollbar {
+  width: 5px;
+}
+
+.lessonChecks::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.lessonChecks::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 3px;
+}
 
 .lessonCheck {
   display: flex;
@@ -90,18 +118,39 @@
   user-select: none;
 }
 
-.lessonCheck:hover { border-color: rgba(108,99,255,0.3); background: var(--bg-elevated); }
+.lessonCheck:hover {
+  border-color: rgba(108, 99, 255, 0.3);
+  background: var(--bg-elevated);
+}
 
 .lessonCheckActive {
-  border-color: rgba(108,99,255,0.4);
+  border-color: rgba(108, 99, 255, 0.4);
   background: var(--bg-active);
 }
 
-.checkInput { display: none; }
+.checkInput {
+  display: none;
+}
 
-.checkContent { display: flex; flex-direction: column; text-align: left; flex: 1; }
-.checkNum { font-size: 12px; font-weight: 700; color: var(--accent); }
-.checkTitle { font-size: 14px; font-weight: 500; color: var(--text-secondary); font-family: 'Noto Sans SC', sans-serif; }
+.checkContent {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  flex: 1;
+}
+
+.checkNum {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.checkTitle {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  font-family: 'Noto Sans SC', sans-serif;
+}
 
 .checkMark {
   width: 22px;
@@ -132,14 +181,27 @@
   font-weight: 700;
   cursor: pointer;
   transition: all 0.2s;
-  box-shadow: 0 6px 20px rgba(108,99,255,0.4);
+  box-shadow: 0 6px 20px rgba(108, 99, 255, 0.4);
   margin-bottom: 16px;
   font-family: inherit;
 }
-.startBtn:hover { transform: translateY(-2px); box-shadow: 0 10px 28px rgba(108,99,255,0.5); }
-.startBtn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
 
-.hint { font-size: 12px; color: var(--text-dim); margin: 0; }
+.startBtn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 28px rgba(108, 99, 255, 0.5);
+}
+
+.startBtn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.hint {
+  font-size: 12px;
+  color: var(--text-dim);
+  margin: 0;
+}
 
 /* ── STUDY ── */
 .studyWrap {
@@ -202,9 +264,12 @@
   transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.cardFlipped .cardInner { transform: rotateY(180deg); }
+.cardFlipped .cardInner {
+  transform: rotateY(180deg);
+}
 
-.cardFront, .cardBack {
+.cardFront,
+.cardBack {
   position: absolute;
   inset: 0;
   backface-visibility: hidden;
@@ -219,14 +284,14 @@
 
 .cardFront {
   background: var(--bg-elevated);
-  box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
   transition: background 0.25s ease;
 }
 
 .cardBack {
   background: var(--bg-surface);
   transform: rotateY(180deg);
-  box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
   border-color: var(--border-accent);
   transition: background 0.25s ease;
 }
@@ -238,7 +303,7 @@
   color: var(--text-primary);
   line-height: 1;
   margin-bottom: 12px;
-  text-shadow: 0 2px 20px rgba(108,99,255,0.2);
+  text-shadow: 0 2px 20px rgba(108, 99, 255, 0.2);
 }
 
 .cardPinyin {
@@ -252,14 +317,18 @@
   font-size: 11px;
   font-weight: 700;
   color: #f59e0b;
-  background: rgba(245,158,11,0.12);
+  background: rgba(245, 158, 11, 0.12);
   padding: 3px 10px;
   border-radius: 6px;
-  border: 1px solid rgba(245,158,11,0.2);
+  border: 1px solid rgba(245, 158, 11, 0.2);
   margin-bottom: 24px;
 }
 
-.cardHint { font-size: 12px; color: var(--text-dim); margin-top: auto; }
+.cardHint {
+  font-size: 12px;
+  color: var(--text-dim);
+  margin-top: auto;
+}
 
 .cardMeaning {
   font-size: 28px;
@@ -293,8 +362,18 @@
   font-weight: 500;
 }
 
-.exPinyin { font-size: 12px; color: var(--accent-label); margin: 0 0 4px; font-style: italic; }
-.exVn { font-size: 12px; color: var(--text-faint); margin: 0; }
+.exPinyin {
+  font-size: 12px;
+  color: var(--accent-label);
+  margin: 0 0 4px;
+  font-style: italic;
+}
+
+.exVn {
+  font-size: 12px;
+  color: var(--text-faint);
+  margin: 0;
+}
 
 /* Controls */
 .controls {
@@ -317,20 +396,30 @@
   font-family: inherit;
 }
 
-.ctrlBtn:hover:not(:disabled) { background: var(--bg-hover-med); color: var(--text-body); border-color: var(--border-accent); }
-.ctrlBtn:disabled { opacity: 0.3; cursor: not-allowed; }
-
-.ctrlFlip {
-  background: linear-gradient(135deg, rgba(108,99,255,0.15), rgba(79,142,247,0.1));
-  color: var(--accent-label);
-  border-color: rgba(108,99,255,0.3);
+.ctrlBtn:hover:not(:disabled) {
+  background: var(--bg-hover-med);
+  color: var(--text-body);
+  border-color: var(--border-accent);
 }
 
-.ctrlFlip:hover { background: linear-gradient(135deg, rgba(108,99,255,0.25), rgba(79,142,247,0.18)) !important; }
+.ctrlBtn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.ctrlFlip {
+  background: linear-gradient(135deg, rgba(108, 99, 255, 0.15), rgba(79, 142, 247, 0.1));
+  color: var(--accent-label);
+  border-color: rgba(108, 99, 255, 0.3);
+}
+
+.ctrlFlip:hover {
+  background: linear-gradient(135deg, rgba(108, 99, 255, 0.25), rgba(79, 142, 247, 0.18)) !important;
+}
 
 .doneBanner {
-  background: linear-gradient(135deg, rgba(16,185,129,0.1), rgba(5,150,105,0.08));
-  border: 1px solid rgba(16,185,129,0.25);
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.1), rgba(5, 150, 105, 0.08));
+  border: 1px solid rgba(16, 185, 129, 0.25);
   border-radius: 12px;
   padding: 14px 20px;
   text-align: center;
@@ -340,7 +429,17 @@
   animation: fadeIn 0.3s ease;
 }
 
-@keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
 
 .extras {
   display: flex;
@@ -360,7 +459,11 @@
   font-family: inherit;
 }
 
-.extraBtn:hover { background: var(--bg-hover-med); color: var(--text-muted); border-color: var(--border-subtle); }
+.extraBtn:hover {
+  background: var(--bg-hover-med);
+  color: var(--text-muted);
+  border-color: var(--border-subtle);
+}
 
 /* ── TTS SPEAK BUTTONS (Flashcard) ── */
 .cardSpeakBtn {
@@ -378,6 +481,7 @@
   gap: 6px;
   font-family: inherit;
 }
+
 .cardSpeakBtn:hover {
   background: rgba(108, 99, 255, 0.3);
   border-color: rgba(108, 99, 255, 0.6);
@@ -397,18 +501,37 @@
   flex-shrink: 0;
   margin-left: 6px;
 }
-.cardSpeakBtnSm:hover { opacity: 1; transform: scale(1.2); }
+
+.cardSpeakBtnSm:hover {
+  opacity: 1;
+  transform: scale(1.2);
+}
 
 .cardExampleZhRow {
   display: flex;
   align-items: center;
   gap: 4px;
 }
-.cardExampleZhRow .exZh { flex: 1; margin: 0; }
+
+.cardExampleZhRow .exZh {
+  flex: 1;
+  margin: 0;
+}
 
 @media (max-width: 480px) {
-  .page { padding: 16px; }
-  .selectBox { padding: 32px 20px; }
-  .cardZh { font-size: 52px; }
-  .cardOuter { height: 260px; }
+  .page {
+    padding: 16px;
+  }
+
+  .selectBox {
+    padding: 32px 20px;
+  }
+
+  .cardZh {
+    font-size: 52px;
+  }
+
+  .cardOuter {
+    height: 260px;
+  }
 }

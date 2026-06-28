@@ -591,5 +591,97 @@
       "pinyin": "Xièxie! Wǒ bù hē kāfēi, wǒ xǐhuān hē chá.",
       "translation_vn": "Cảm ơn! Tôi không uống cà phê, tôi thích uống trà."
     }
+  ],
+  "exercises": [
+    {
+      "title": "Hoàn thành câu hỏi dùng cấu trúc A-không-A (A-not-A)",
+      "questions": [
+        {
+          "question": "李明華 ___ 不 ___ 美國人？",
+          "answer": "[\"是\", \"是\"]",
+          "hint": "李明華是美國人。"
+        },
+        {
+          "question": "陳月美 ___ 不 ___ 臺灣？",
+          "answer": "[\"來\", \"來\"]",
+          "hint": "陳月美來臺灣。"
+        },
+        {
+          "question": "王先生 ___ 不 ___ 喝咖啡？",
+          "answer": "[\"喜歡\", \"喜歡\"]",
+          "hint": "王先生喜歡喝咖啡。"
+        },
+        {
+          "question": "他 ___ 不 ___ 喝茶？",
+          "answer": "[\"要\", \"要\"]",
+          "hint": "他不要喝茶。"
+        },
+        {
+          "question": "他 ___ 不 ___ 來臺北？",
+          "answer": "[\"來\", \"來\"]",
+          "hint": "他要來臺北。"
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành câu hỏi dùng từ để hỏi 嗎 (ma) dựa vào câu trả lời",
+      "questions": [
+        {
+          "question": "___ ？",
+          "answer": "[\"他叫明華嗎\"]",
+          "hint": "他叫明華。"
+        },
+        {
+          "question": "___ ？",
+          "answer": "[\"陳小姐是臺灣人嗎\"]",
+          "hint": "陳小姐是臺灣人。"
+        },
+        {
+          "question": "___ ？",
+          "answer": "[\"他喜歡喝咖啡嗎\"]",
+          "hint": "他喜歡喝咖啡。"
+        },
+        {
+          "question": "___ ？",
+          "answer": "[\"王先生叫開文嗎\"]",
+          "hint": "王先生叫開文。"
+        },
+        {
+          "question": "___ ？",
+          "answer": "[\"他不是日本人嗎\"]",
+          "hint": "他不是日本人。"
+        }
+      ]
+    },
+    {
+      "title": "Viết câu trả lời khẳng định",
+      "questions": [
+        {
+          "question": "臺灣人喜歡不喜歡喝茶？",
+          "answer": "[\"喜歡，臺灣人喜歡喝茶\",\"喜歡\"]",
+          "hint": ""
+        },
+        {
+          "question": "你要不要喝咖啡？",
+          "answer": "[\"要，我要喝咖啡\",\"要\"]",
+          "hint": ""
+        },
+        {
+          "question": "你喜歡他嗎？",
+          "answer": "[\"喜歡，我喜歡他\",\"喜歡\"]",
+          "hint": ""
+        },
+        {
+          "question": "他是不是日本人？",
+          "answer": "[\"是，他是日本人\",\"是\"]",
+          "hint": ""
+        },
+        {
+          "question": "你要喝烏龍茶嗎？",
+          "answer": "[\"要，我要喝烏龍茶\",\"要\"]",
+          "hint": ""
+        }
+      ]
+    }
   ]
 }

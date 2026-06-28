@@ -852,3 +852,158 @@
   .heroVn { font-size: 14px; }
 }
 
+/* ── EXERCISES ── */
+.exerciseList { display: flex; flex-direction: column; gap: 16px; }
+
+.exerciseCard {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: 14px;
+  overflow: hidden;
+  padding: 16px 20px;
+}
+
+.exerciseTitle {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 16px 0;
+}
+
+.exerciseNum {
+  color: var(--accent);
+  margin-right: 6px;
+}
+
+.exerciseQuestions {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.exerciseQuestionItem {
+  padding: 12px 16px;
+  background: var(--bg-base);
+  border: 1px solid var(--border-faint);
+  border-radius: 10px;
+}
+
+.questionText {
+  font-size: 15px;
+  color: var(--text-body);
+  margin-bottom: 6px;
+  font-family: 'Noto Sans SC', sans-serif;
+  font-weight: 500;
+}
+
+.qNum {
+  font-weight: 700;
+  color: var(--text-dim);
+  margin-right: 8px;
+}
+
+.questionHint {
+  font-size: 13px;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-bottom: 12px;
+}
+
+.questionAction {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.exerciseInput {
+  flex: 1;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface);
+  color: var(--text-body);
+  font-size: 14px;
+  font-family: 'Noto Sans SC', sans-serif;
+  transition: all 0.2s;
+}
+
+.exerciseInput:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px var(--accent-soft);
+}
+
+.inputCorrect {
+  border-color: #10b981;
+  background: rgba(16, 185, 129, 0.05);
+}
+.inputCorrect:focus {
+  box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2);
+}
+
+.inputWrong {
+  border-color: #ef4444;
+  background: rgba(239, 68, 68, 0.05);
+}
+.inputWrong:focus {
+  box-shadow: 0 0 0 2px rgba(239, 68, 68, 0.2);
+}
+
+.showAnsBtn {
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-hover);
+  color: var(--text-muted);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+
+.showAnsBtn:hover {
+  color: var(--text-body);
+  border-color: var(--text-dim);
+}
+
+.answerText {
+  font-size: 14px;
+  color: var(--text-secondary);
+  background: rgba(108, 99, 255, 0.05);
+  padding: 8px 12px;
+  border-radius: 6px;
+  border-left: 3px solid var(--accent);
+  margin-top: 8px;
+}
+
+.exerciseFooter {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px dashed var(--border-subtle);
+}
+
+.gradeBtn {
+  padding: 10px 20px;
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.gradeBtn:hover { opacity: 0.9; }
+
+.scoreText {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-body);
+}
+
+.scorePerfect { color: #10b981; }

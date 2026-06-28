@@ -8,7 +8,7 @@ export async function GET(
   const { id } = await params;
   const lessonId = parseInt(id);
 
-  const [lesson, vocabulary, grammar, dialogues] = await Promise.all([
+  const [lesson, vocabulary, grammar, dialogues, exercises] = await Promise.all([
     prisma.lesson.findUnique({ where: { id: lessonId } }),
     prisma.vocabulary.findMany({
       where: { lesson_id: lessonId },
@@ -22,9 +22,14 @@ export async function GET(
       where: { lesson_id: lessonId },
       orderBy: [{ dialogue_num: 'asc' }, { line_order: 'asc' }],
     }),
+    prisma.exercise.findMany({
+      where: { lesson_id: lessonId },
+      include: { questions: true },
+      orderBy: { id: 'asc' },
+    })
   ]);
 
   if (!lesson) return NextResponse.json({ error: 'Not found' }, { status: 404 });
 
-  return NextResponse.json({ lesson, vocabulary, grammar, dialogues });
+  return NextResponse.json({ lesson, vocabulary, grammar, dialogues, exercises });
 }

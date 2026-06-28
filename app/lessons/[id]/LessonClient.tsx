@@ -25,11 +25,17 @@ type Dialogue = {
   id: number; lesson_id: number; dialogue_num: number; line_order: number;
   speaker: string; text_zh: string; pinyin: string; translation_vn: string;
 };
-type LessonData = { lesson: Lesson; vocabulary: Vocab[]; grammar: Grammar[]; dialogues: Dialogue[] };
+type ExerciseQuestion = {
+  id: number; exercise_id: number; question: string; answer: string; hint: string;
+};
+type Exercise = {
+  id: number; lesson_id: number; title: string; questions: ExerciseQuestion[];
+};
+type LessonData = { lesson: Lesson; vocabulary: Vocab[]; grammar: Grammar[]; dialogues: Dialogue[]; exercises: Exercise[] };
 
 type LessonItem = { id: number; title_vn: string; title_zh: string };
 
-type Tab = 'vocab' | 'grammar' | 'dialogue';
+type Tab = 'vocab' | 'grammar' | 'dialogue' | 'exercise';
 
 export default function LessonClient({ allLessons }: { allLessons: LessonItem[] }) {
   const params = useParams();
@@ -44,6 +50,9 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
   const [isDragging, setIsDragging] = useState(false);
   const [expandedVocab, setExpandedVocab] = useState<Set<number>>(new Set());
   const [expandedGrammar, setExpandedGrammar] = useState<Set<number>>(new Set());
+  const [exerciseAnswers, setExerciseAnswers] = useState<Record<number, string>>({});
+  const [showExerciseAnswers, setShowExerciseAnswers] = useState<Record<number, boolean>>({});
+  const [exerciseGraded, setExerciseGraded] = useState<Record<number, boolean>>({});
   const [showPinyin, setShowPinyin] = useState(true);
   const [showVn, setShowVn] = useState(true);
   const { theme, toggleTheme } = useTheme();
@@ -203,20 +212,20 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                 <span className={styles.breadLesson}>Bài {lessonId}</span>
                 <span className={styles.breadSep}>›</span>
                 <span className={styles.breadTab}>
-                  {tab === 'vocab' ? 'Từ Vựng' : tab === 'grammar' ? 'Ngữ Pháp' : 'Hội Thoại'}
+                  {tab === 'vocab' ? 'Từ Vựng' : tab === 'grammar' ? 'Ngữ Pháp' : tab === 'dialogue' ? 'Hội Thoại' : 'Bài Tập'}
                 </span>
               </div>
             )}
           </div>
           <div className={styles.topbarRight}>
             <div className={styles.tabs}>
-              {(['vocab', 'grammar', 'dialogue'] as Tab[]).map(t => (
+              {(['vocab', 'grammar', 'dialogue', 'exercise'] as Tab[]).map(t => (
                 <button
                   key={t}
                   className={`${styles.tab} ${tab === t ? styles.tabActive : ''}`}
                   onClick={() => setTab(t)}
                 >
-                  {t === 'vocab' ? '📖 Từ Vựng' : t === 'grammar' ? '📝 Ngữ Pháp' : '💬 Hội Thoại'}
+                  {t === 'vocab' ? '📖 Từ Vựng' : t === 'grammar' ? '📝 Ngữ Pháp' : t === 'dialogue' ? '💬 Hội Thoại' : '✍️ Bài Tập'}
                 </button>
               ))}
               <Link href="/flashcard" className={`${styles.tab} ${styles.tabFlash}`}>
@@ -237,13 +246,13 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
 
         {/* Mobile tab strip — visible only on small screens */}
         <div className={styles.mobileTabStrip}>
-          {(['vocab', 'grammar', 'dialogue'] as Tab[]).map(t => (
+          {(['vocab', 'grammar', 'dialogue', 'exercise'] as Tab[]).map(t => (
             <button
               key={t}
               className={`${styles.tab} ${tab === t ? styles.tabActive : ''}`}
               onClick={() => setTab(t)}
             >
-              {t === 'vocab' ? '📖 Từ Vựng' : t === 'grammar' ? '📝 Ngữ Pháp' : '💬 Hội Thoại'}
+              {t === 'vocab' ? '📖 Từ Vựng' : t === 'grammar' ? '📝 Ngữ Pháp' : t === 'dialogue' ? '💬 Hội Thoại' : '✍️ Bài Tập'}
             </button>
           ))}
           <Link href="/flashcard" className={`${styles.tab} ${styles.tabFlash}`}>
@@ -449,6 +458,114 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                       </div>
                     </div>
                   ))}
+                </section>
+              )}
+
+              {/* EXERCISE TAB */}
+              {tab === 'exercise' && (
+                <section className={styles.section}>
+                  <div className={styles.sectionHeader}>
+                    <h2>Bài Tập</h2>
+                    <span className={styles.badge}>{data.exercises?.length || 0} bài tập</span>
+                  </div>
+                  <div className={styles.exerciseList}>
+                    {data.exercises?.map((ex, idx) => {
+                      const isGraded = exerciseGraded[ex.id];
+                      
+                      let correctCount = 0;
+                      if (isGraded) {
+                         ex.questions.forEach((q) => {
+                            let answerArr: string[] = [];
+                            try { answerArr = JSON.parse(q.answer); } catch(e) { answerArr = [q.answer]; }
+                            const userAns = exerciseAnswers[q.id] || '';
+                            if (userAns) {
+                                const cleanUserAns = userAns.replace(/\s+/g, '');
+                                const cleanExpectedAns = answerArr.map(a => a.replace(/\s+/g, ''));
+                                if (cleanExpectedAns.includes(cleanUserAns)) correctCount++;
+                                else if (answerArr.length > 1) {
+                                   const combined = answerArr.join('');
+                                   if (cleanUserAns === combined || cleanUserAns === answerArr.join(',')) correctCount++;
+                                }
+                            }
+                         });
+                      }
+
+                      return (
+                      <div key={ex.id} className={styles.exerciseCard}>
+                        <h3 className={styles.exerciseTitle}>
+                          <span className={styles.exerciseNum}>Bài {idx + 1}:</span> {ex.title}
+                        </h3>
+                        <div className={styles.exerciseQuestions}>
+                          {ex.questions.map((q, qIdx) => {
+                            let answerArr: string[] = [];
+                            try {
+                              answerArr = JSON.parse(q.answer);
+                            } catch(e) { answerArr = [q.answer]; }
+                            
+                            const isShowAns = showExerciseAnswers[q.id];
+                            const userAns = exerciseAnswers[q.id] || '';
+                            
+                            let isCorrect = false;
+                            if (userAns) {
+                                const cleanUserAns = userAns.replace(/\s+/g, '');
+                                const cleanExpectedAns = answerArr.map(a => a.replace(/\s+/g, ''));
+                                isCorrect = cleanExpectedAns.includes(cleanUserAns);
+                                if (!isCorrect && answerArr.length > 1) {
+                                   const combined = answerArr.join('');
+                                   if (cleanUserAns === combined || cleanUserAns === answerArr.join(',')) isCorrect = true;
+                                }
+                            }
+
+                            return (
+                              <div key={q.id} className={styles.exerciseQuestionItem}>
+                                <div className={styles.questionText}>
+                                  <span className={styles.qNum}>{qIdx + 1}.</span> {q.question}
+                                </div>
+                                {q.hint && <div className={styles.questionHint}>Gợi ý: {q.hint}</div>}
+                                
+                                <div className={styles.questionAction}>
+                                  <input
+                                    type="text"
+                                    className={`${styles.exerciseInput} ${isGraded && userAns && isCorrect ? styles.inputCorrect : (isGraded && userAns && !isCorrect ? styles.inputWrong : '')}`}
+                                    value={userAns}
+                                    onChange={(e) => {
+                                      setExerciseAnswers(prev => ({...prev, [q.id]: e.target.value}));
+                                      if (isGraded) setExerciseGraded(prev => ({...prev, [ex.id]: false}));
+                                    }}
+                                    placeholder="Nhập đáp án..."
+                                  />
+                                  <button
+                                    className={styles.showAnsBtn}
+                                    onClick={() => setShowExerciseAnswers(prev => ({...prev, [q.id]: !prev[q.id]}))}
+                                  >
+                                    {isShowAns ? 'Ẩn' : 'Xem đáp án'}
+                                  </button>
+                                </div>
+                                {isShowAns && (
+                                  <div className={styles.answerText}>
+                                    Đáp án: <strong>{answerArr.join(', ')}</strong>
+                                  </div>
+                                )}
+                              </div>
+                            );
+                          })}
+                        </div>
+                        <div className={styles.exerciseFooter}>
+                           <button
+                             className={styles.gradeBtn}
+                             onClick={() => setExerciseGraded(prev => ({...prev, [ex.id]: true}))}
+                           >
+                             Chấm điểm
+                           </button>
+                           {isGraded && (
+                             <span className={`${styles.scoreText} ${correctCount === ex.questions.length ? styles.scorePerfect : ''}`}>
+                               Đúng {correctCount} / {ex.questions.length} câu
+                             </span>
+                           )}
+                        </div>
+                      </div>
+                    )})}
+                  </div>
                 </section>
               )}
             </>

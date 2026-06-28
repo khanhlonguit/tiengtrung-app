@@ -627,5 +627,77 @@
       "pinyin": "Wǒ děi wènwen lǎoshī.",
       "translation_vn": "Tớ phải hỏi thầy giáo xem sao đã."
     }
+  ],
+  "exercises": [
+    {
+      "title": "Miêu tả hình ảnh (Thời gian và Địa điểm)",
+      "questions": [
+        {
+          "question": "（中午 / 圖書館 / 上網）-> 他和他妹妹 _________。",
+          "hint": "buổi trưa ở thư viện lên mạng",
+          "answer": "[\"中午在圖書館上網\"]"
+        },
+        {
+          "question": "（下午 / 九樓的教室 / 寫書法）-> 這三個學生 _________。",
+          "hint": "buổi chiều ở phòng học tầng 9 viết thư pháp",
+          "answer": "[\"下午在九樓的教室寫書法\"]"
+        },
+        {
+          "question": "（早上 / 學校 / 打籃球）-> 很多學生 _________。",
+          "hint": "buổi sáng ở trường đánh bóng rổ",
+          "answer": "[\"早上在學校打籃球\"]"
+        }
+      ]
+    },
+    {
+      "title": "Sử dụng 從... 到... (Từ... đến...)",
+      "questions": [
+        {
+          "question": "姐姐 _________ 在學校看電影。",
+          "hint": "từ 9 giờ đến 12 giờ (九點, 十二點)",
+          "answer": "[\"從九點到十二點\"]"
+        },
+        {
+          "question": "明天的游泳比賽 _________，歡迎你們來。",
+          "hint": "từ 9 giờ đến 12 giờ",
+          "answer": "[\"從九點到十二點\"]"
+        },
+        {
+          "question": "Q: 從他家去那個商店遠不遠？\nA: _________。",
+          "hint": "Rất xa (3km)",
+          "answer": "[\"很遠\"]"
+        }
+      ]
+    },
+    {
+      "title": "Dùng 可以 / 不可以 / 可不可以 / 可以嗎 để điền vào chỗ trống",
+      "questions": [
+        {
+          "question": "A: 請問咖啡可以外帶嗎？\nB: 外帶、內用都 _________。",
+          "hint": "Có thể",
+          "answer": "[\"可以\"]"
+        },
+        {
+          "question": "A: 這杯烏龍茶是誰的？我 _________ 喝嗎？\nB: _________。請喝！",
+          "hint": "Có thể / Có thể",
+          "answer": "[\"可以, 可以\", \"可以,可以\"]"
+        },
+        {
+          "question": "A: 請問我們可不可以在這裡打網球？\nB: 早上可以，可是晚上 _________。",
+          "hint": "Không thể",
+          "answer": "[\"不可以\"]"
+        },
+        {
+          "question": "A: 這個週末我們 _________ 去你家看看？\nB: _________，我這個週末沒事。",
+          "hint": "Có thể... không (dùng dạng câu hỏi A-not-A) / Có thể",
+          "answer": "[\"可不可以, 可以\", \"可不可以,可以\"]"
+        },
+        {
+          "question": "A: 我們 _________ 在大教室裡面吃東西嗎？\nB: _________，可是小教室可以。",
+          "hint": "Có thể / Không thể",
+          "answer": "[\"可以, 不可以\", \"可以,不可以\"]"
+        }
+      ]
+    }
   ]
 }

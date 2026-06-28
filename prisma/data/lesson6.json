@@ -614,5 +614,102 @@
       "pinyin": "Zhè shì túshūguǎn, pángbiān de nà dòng dàlóu shì jiàoshì, túshūguǎn hòumiàn yǒu yóuyǒngchí.",
       "translation_vn": "Đây là thư viện, tòa nhà bên cạnh là phòng học, phía sau thư viện có hồ bơi."
     }
+  ],
+  "exercises": [
+    {
+      "title": "Nối hai câu thành một (Dùng định ngữ + 的)",
+      "questions": [
+        {
+          "question": "他在圖書館，那個圖書館在他家附近。 -> 他在 _________。",
+          "hint": "Thư viện ở gần nhà anh ấy",
+          "answer": "[\"他家附近的圖書館\", \"他家附近的那個圖書館\"]"
+        },
+        {
+          "question": "他姐姐在那棟大樓裡面，那棟大樓在學校後面。 -> 他姐姐在 _________。",
+          "hint": "Tòa nhà ở phía sau trường",
+          "answer": "[\"學校後面的大樓裡面\", \"學校後面的那棟大樓裡面\"]"
+        },
+        {
+          "question": "我和我朋友在一家咖啡店，那家咖啡店在學校餐廳樓上。 -> 我和我朋友在 _________。",
+          "hint": "Quán cà phê ở trên tầng của nhà ăn trường",
+          "answer": "[\"學校餐廳樓上的咖啡店\", \"學校餐廳樓上的那家咖啡店\"]"
+        }
+      ]
+    },
+    {
+      "title": "Sắp xếp từ thành câu hoàn chỉnh",
+      "questions": [
+        {
+          "question": "有 / 很多漂亮的房子 / 山上",
+          "hint": "Trên núi có...",
+          "answer": "[\"山上有很多漂亮的房子\"]"
+        },
+        {
+          "question": "樓下 / 咖啡店 / 嗎 / 有",
+          "hint": "Dưới lầu có...?",
+          "answer": "[\"樓下有咖啡店嗎\"]"
+        },
+        {
+          "question": "裡面 / 沒有 / 他們學校 / 游泳池",
+          "hint": "Bên trong trường họ...",
+          "answer": "[\"他們學校裡面沒有游泳池\"]"
+        },
+        {
+          "question": "的 / 教室 / 外面 / 兩個美國人 / 有",
+          "hint": "Bên ngoài của phòng học...",
+          "answer": "[\"教室的外面有兩個美國人\"]"
+        }
+      ]
+    },
+    {
+      "title": "Lặp lại động từ (Reduplication)",
+      "questions": [
+        {
+          "question": "做飯 -> _______",
+          "hint": "Làm cơm",
+          "answer": "[\"做做飯\"]"
+        },
+        {
+          "question": "喝茶 -> _______",
+          "hint": "Uống trà",
+          "answer": "[\"喝喝茶\"]"
+        },
+        {
+          "question": "打網球 -> _______",
+          "hint": "Đánh tennis",
+          "answer": "[\"打打網球\"]"
+        },
+        {
+          "question": "游泳 -> _______",
+          "hint": "Bơi",
+          "answer": "[\"游游泳\"]"
+        }
+      ]
+    },
+    {
+      "title": "Dùng 不是 để hoàn thành câu",
+      "questions": [
+        {
+          "question": "A: 你朋友的家在三樓，對嗎？\nB: _______，他家在四樓。",
+          "hint": "Không phải",
+          "answer": "[\"不是\"]"
+        },
+        {
+          "question": "A: 你們覺得這家店的甜點好吃嗎？\nB: 我妹妹覺得很好吃，可是我覺得 _______。",
+          "hint": "Không phải rất ngon",
+          "answer": "[\"不是很好吃\"]"
+        },
+        {
+          "question": "A: 你的照片不多，你不喜歡照相嗎？\nB: _______，我不常照相，所以我的照片不多。",
+          "hint": "Không phải không thích",
+          "answer": "[\"不是不喜歡\"]"
+        },
+        {
+          "question": "A: 你晚上不想去他家聽音樂嗎？\nB: _______，我晚上要和老闆吃飯。",
+          "hint": "Không phải không muốn đi",
+          "answer": "[\"不是不想去\"]"
+        }
+      ]
+    }
   ]
 }

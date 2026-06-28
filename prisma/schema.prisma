@@ -18,6 +18,7 @@ model Lesson {
   vocabulary Vocabulary[]
   grammar    Grammar[]
   dialogues  Dialogue[]
+  exercises  Exercise[]
 }
 
 model Vocabulary {
@@ -55,4 +56,21 @@ model Dialogue {
   pinyin         String
   translation_vn String
   lesson         Lesson @relation(fields: [lesson_id], references: [id])
+}
+
+model Exercise {
+  id        Int                @id @default(autoincrement())
+  lesson_id Int
+  title     String
+  lesson    Lesson             @relation(fields: [lesson_id], references: [id])
+  questions ExerciseQuestion[]
+}
+
+model ExerciseQuestion {
+  id          Int      @id @default(autoincrement())
+  exercise_id Int
+  question    String
+  answer      String
+  hint        String   @default("")
+  exercise    Exercise @relation(fields: [exercise_id], references: [id])
 }

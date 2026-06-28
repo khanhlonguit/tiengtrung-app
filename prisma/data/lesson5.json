@@ -556,5 +556,102 @@
       "pinyin": "Hǎo a! Xièxie nǐ.",
       "translation_vn": "Được thôi! Cảm ơn bạn."
     }
+  ],
+  "exercises": [
+    {
+      "title": "Hoàn thành câu đánh giá (Dùng 有一點 - Hơi...)",
+      "questions": [
+        {
+          "question": "A: 你覺得臭豆腐怎麼樣？\nB: 我覺得臭豆腐 _________。",
+          "hint": "hơi thối / hơi nồng (臭)",
+          "answer": "[\"有一點臭\"]"
+        },
+        {
+          "question": "A: 你覺得那家餐廳的菜怎麼樣？\nB: 那家餐廳的菜 _________。",
+          "hint": "hơi cay (辣)",
+          "answer": "[\"有一點辣\"]"
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành câu dùng bổ ngữ trạng thái 得",
+      "questions": [
+        {
+          "question": "你弟弟踢足球踢得怎麼樣？ -> 他踢得 _________。",
+          "hint": "Rất tốt (很好)",
+          "answer": "[\"很好\"]"
+        },
+        {
+          "question": "他姐姐做甜點，做得好吃不好吃？ -> 做得 _________。",
+          "hint": "Rất ngon (很好吃)",
+          "answer": "[\"很好吃\"]"
+        },
+        {
+          "question": "日本菜，你妹妹做得好不好？ -> 我妹妹做 _________。",
+          "hint": "Được rất tốt (得很好)",
+          "answer": "[\"得很好\"]"
+        },
+        {
+          "question": "這種手機賣得怎麼樣？ -> 賣得 _________。",
+          "hint": "Rất tốt / đắt hàng (很好)",
+          "answer": "[\"很好\"]"
+        },
+        {
+          "question": "他打網球打得好嗎？ -> 打 _________。",
+          "hint": "Được rất tốt (得很好)",
+          "answer": "[\"得很好\"]"
+        }
+      ]
+    },
+    {
+      "title": "Dùng 會 / 不會 (Biết / Không biết) để hoàn thành câu",
+      "questions": [
+        {
+          "question": "A: 他會不會做牛肉麵？\nB: _______，他弟弟也會做。",
+          "hint": "Biết",
+          "answer": "[\"會\"]"
+        },
+        {
+          "question": "A: 你哥哥會不會打網球？\nB: _______，你可以教他嗎？",
+          "hint": "Không biết",
+          "answer": "[\"不會\"]"
+        },
+        {
+          "question": "A: 我們都會打棒球，你呢？\nB: 我_______，可是我很想學。",
+          "hint": "Không biết",
+          "answer": "[\"不會\"]"
+        },
+        {
+          "question": "A: 小籠包和包子，我都會做，你呢？\nB: 我也_______。",
+          "hint": "Biết",
+          "answer": "[\"會\"]"
+        }
+      ]
+    },
+    {
+      "title": "Sắp xếp từ hoặc điền vào chỗ trống",
+      "questions": [
+        {
+          "question": "臺北 / 陳小姐 / 到 / 來",
+          "hint": "Cô Trần...",
+          "answer": "[\"陳小姐到臺北來\"]"
+        },
+        {
+          "question": "不到 / 來 / 臺灣 / 李先生",
+          "hint": "Ông Lý...",
+          "answer": "[\"李先生不到臺灣來\"]"
+        },
+        {
+          "question": "到不到 / 週末 / 老師 / 臺北 / 來",
+          "hint": "Giáo viên cuối tuần...",
+          "answer": "[\"老師週末到不到臺北來\"]"
+        },
+        {
+          "question": "那兩個日本人 ____ 臺灣 ____。",
+          "hint": "Đi đến ... (đến / đến đây)",
+          "answer": "[\"到臺灣來\", \"到,來\", \"到, 來\"]"
+        }
+      ]
+    }
   ]
 }

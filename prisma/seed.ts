@@ -24,6 +24,11 @@ async function main() {
     const lessonId = data.id;
 
     // Delete if exists to avoid dupes
+    const existingExercises = await prisma.exercise.findMany({ where: { lesson_id: lessonId } });
+    for (const ex of existingExercises) {
+      await prisma.exerciseQuestion.deleteMany({ where: { exercise_id: ex.id } });
+    }
+    await prisma.exercise.deleteMany({ where: { lesson_id: lessonId } });
     await prisma.dialogue.deleteMany({ where: { lesson_id: lessonId } });
     await prisma.grammar.deleteMany({ where: { lesson_id: lessonId } });
     await prisma.vocabulary.deleteMany({ where: { lesson_id: lessonId } });
@@ -52,6 +57,26 @@ async function main() {
     // Create Dialogues
     for (const d of data.dialogues || []) {
       await prisma.dialogue.create({ data: { lesson_id: lessonId, ...d } });
+    }
+
+    // Create Exercises
+    for (const ex of data.exercises || []) {
+      const createdEx = await prisma.exercise.create({ 
+        data: { 
+          lesson_id: lessonId, 
+          title: ex.title 
+        } 
+      });
+      for (const q of ex.questions || []) {
+        await prisma.exerciseQuestion.create({
+          data: {
+            exercise_id: createdEx.id,
+            question: q.question,
+            answer: q.answer,
+            hint: q.hint
+          }
+        });
+      }
     }
     
     console.log(`✅ Seeded Lesson ${lessonId} successfully!`);
