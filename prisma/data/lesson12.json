@@ -519,7 +519,8 @@
       "speaker": "田中",
       "text_zh": "安同，你計畫在臺灣學多久的中文？",
       "pinyin": "Āntóng, nǐ jìhuà zài Táiwān xué duō jiǔ de Zhōngwén?",
-      "translation_vn": "An Đồng, cậu dự định học tiếng Trung ở Đài Loan bao lâu?"
+      "translation_vn": "An Đồng, cậu dự định học tiếng Trung ở Đài Loan bao lâu?",
+      "translation_en": "Antong, how long do you plan to study Chinese in Taiwan?"
     },
     {
       "dialogue_num": 1,
@@ -527,7 +528,8 @@
       "speaker": "安同",
       "text_zh": "五年。",
       "pinyin": "Wǔ nián.",
-      "translation_vn": "Năm năm."
+      "translation_vn": "Năm năm.",
+      "translation_en": "Five years."
     },
     {
       "dialogue_num": 1,
@@ -535,7 +537,8 @@
       "speaker": "田中",
       "text_zh": "為什麼要這麼久的時間？",
       "pinyin": "Wèishénme yào zhème jiǔ de shíjiān?",
-      "translation_vn": "Tại sao lại cần thời gian lâu như vậy?"
+      "translation_vn": "Tại sao lại cần thời gian lâu như vậy?",
+      "translation_en": "Why do you need such a long time?"
     },
     {
       "dialogue_num": 1,
@@ -543,7 +546,8 @@
       "speaker": "安同",
       "text_zh": "我先在語言中心念一年，再念四年大學，所以需要五年。",
       "pinyin": "Wǒ xiān zài yǔyán zhōngxīn niàn yī nián, zài niàn sì nián dàxué, suǒyǐ xūyào wǔ nián.",
-      "translation_vn": "Tớ học ở trung tâm ngoại ngữ một năm trước, rồi mới học đại học bốn năm, cho nên cần năm năm."
+      "translation_vn": "Tớ học ở trung tâm ngoại ngữ một năm trước, rồi mới học đại học bốn năm, cho nên cần năm năm.",
+      "translation_en": "I will study at the language center for a year first, then study in a university for four years, so I need five years."
     },
     {
       "dialogue_num": 1,
@@ -551,7 +555,8 @@
       "speaker": "田中",
       "text_zh": "這得花不少錢！",
       "pinyin": "Zhè děi huā bù shǎo qián!",
-      "translation_vn": "Việc này tốn không ít tiền đâu!"
+      "translation_vn": "Việc này tốn không ít tiền đâu!",
+      "translation_en": "This will cost quite a lot of money!"
     },
     {
       "dialogue_num": 1,
@@ -559,7 +564,8 @@
       "speaker": "安同",
       "text_zh": "對，不過我有獎學金。要是成績不好，就沒獎學金了。你呢？",
       "pinyin": "Duì, bùguò wǒ yǒu jiǎngxuéjīn. Yàoshì chéngjī bù hǎo, jiù méi jiǎngxuéjīn le. Nǐ ne?",
-      "translation_vn": "Đúng vậy, nhưng mà tớ có học bổng. Nếu thành tích không tốt, thì sẽ không có học bổng nữa. Còn cậu thì sao?"
+      "translation_vn": "Đúng vậy, nhưng mà tớ có học bổng. Nếu thành tích không tốt, thì sẽ không có học bổng nữa. Còn cậu thì sao?",
+      "translation_en": "Yes, but I have a scholarship. If my grades aren't good, I won't have the scholarship anymore. What about you?"
     },
     {
       "dialogue_num": 1,
@@ -567,7 +573,8 @@
       "speaker": "田中",
       "text_zh": "我的學費是公司替我付的。",
       "pinyin": "Wǒ de xuéfèi shì gōngsī tì wǒ fù de.",
-      "translation_vn": "Học phí của tớ là do công ty trả thay."
+      "translation_vn": "Học phí của tớ là do công ty trả thay.",
+      "translation_en": "My tuition is paid by my company."
     },
     {
       "dialogue_num": 1,
@@ -575,7 +582,8 @@
       "speaker": "安同",
       "text_zh": "你打算學多久呢？",
       "pinyin": "Nǐ dǎsuàn xué duō jiǔ ne?",
-      "translation_vn": "Cậu định học bao lâu?"
+      "translation_vn": "Cậu định học bao lâu?",
+      "translation_en": "How long do you plan to study?"
     },
     {
       "dialogue_num": 1,
@@ -583,7 +591,8 @@
       "speaker": "田中",
       "text_zh": "大概兩年，是公司決定的。希望我以後也可以到這麼好的公司上班。",
       "pinyin": "Dàgài liǎng nián, shì gōngsī juédìng de. Xīwàng wǒ yǐhòu yě kěyǐ dào zhème hǎo de gōngsī shàngbān.",
-      "translation_vn": "Chắc khoảng hai năm, là do công ty quyết định. Hy vọng sau này tớ cũng có thể đến công ty tốt như vậy làm việc."
+      "translation_vn": "Chắc khoảng hai năm, là do công ty quyết định. Hy vọng sau này tớ cũng có thể đến công ty tốt như vậy làm việc.",
+      "translation_en": "Probably about two years, it's decided by the company. I hope I can also work at such a good company in the future."
     },
     {
       "dialogue_num": 1,
@@ -591,7 +600,8 @@
       "speaker": "安同",
       "text_zh": "我又要上班，又要念書，真的很累。",
       "pinyin": "Wǒ yòu yào shàngbān, yòu yào niànshū, zhēnde hěn lèi.",
-      "translation_vn": "Tớ vừa phải đi làm, vừa phải đi học, thật sự rất mệt."
+      "translation_vn": "Tớ vừa phải đi làm, vừa phải đi học, thật sự rất mệt.",
+      "translation_en": "I have to work and study at the same time, it's really tiring."
     },
     {
       "dialogue_num": 1,
@@ -599,7 +609,8 @@
       "speaker": "田中",
       "text_zh": "我們一起加油吧！",
       "pinyin": "Wǒmen yīqǐ jiāyóu ba!",
-      "translation_vn": "Chúng ta cùng cố lên nhé!"
+      "translation_vn": "Chúng ta cùng cố lên nhé!",
+      "translation_en": "Let's work hard together!"
     },
     {
       "dialogue_num": 2,
@@ -607,7 +618,8 @@
       "speaker": "月美",
       "text_zh": "田中，你是什麼時候來臺灣工作的？",
       "pinyin": "Tiánzhōng, nǐ shì shénme shíhòu lái Táiwān gōngzuò de?",
-      "translation_vn": "Điền Trung, cậu đến Đài Loan làm việc từ bao giờ vậy?"
+      "translation_vn": "Điền Trung, cậu đến Đài Loan làm việc từ bao giờ vậy?",
+      "translation_en": "Tanaka, when did you come to work in Taiwan?"
     },
     {
       "dialogue_num": 2,
@@ -615,7 +627,8 @@
       "speaker": "田中",
       "text_zh": "去年，我已經在臺灣工作一年了。",
       "pinyin": "Qùnián, wǒ yǐjīng zài Táiwān gōngzuò yī nián le.",
-      "translation_vn": "Năm ngoái, tớ đã làm việc ở Đài Loan được một năm rồi."
+      "translation_vn": "Năm ngoái, tớ đã làm việc ở Đài Loan được một năm rồi.",
+      "translation_en": "Last year, I have already worked in Taiwan for a year."
     },
     {
       "dialogue_num": 2,
@@ -623,7 +636,8 @@
       "speaker": "月美",
       "text_zh": "為什麼你們公司要替你付學費？",
       "pinyin": "Wèishénme nǐmen gōngsī yào tì nǐ fù xuéfèi?",
-      "translation_vn": "Tại sao công ty các cậu lại trả học phí thay cho cậu?"
+      "translation_vn": "Tại sao công ty các cậu lại trả học phí thay cho cậu?",
+      "translation_en": "Why does your company pay your tuition for you?"
     },
     {
       "dialogue_num": 2,
@@ -631,7 +645,8 @@
       "speaker": "田中",
       "text_zh": "因為我們公司跟臺灣人做生意。老闆希望我們都會說中文。",
       "pinyin": "Yīnwèi wǒmen gōngsī gēn Táiwān rén zuò shēngyì. Lǎobǎn xīwàng wǒmen dōu huì shuō Zhōngwén.",
-      "translation_vn": "Bởi vì công ty chúng tớ làm ăn với người Đài Loan. Ông chủ hy vọng chúng tớ đều biết nói tiếng Trung."
+      "translation_vn": "Bởi vì công ty chúng tớ làm ăn với người Đài Loan. Ông chủ hy vọng chúng tớ đều biết nói tiếng Trung.",
+      "translation_en": "Because our company does business with Taiwanese people. The boss hopes we can all speak Chinese."
     },
     {
       "dialogue_num": 2,
@@ -639,7 +654,8 @@
       "speaker": "月美",
       "text_zh": "我覺得你們公司真好。",
       "pinyin": "Wǒ juéde nǐmen gōngsī zhēn hǎo.",
-      "translation_vn": "Tớ cảm thấy công ty các cậu thật tốt."
+      "translation_vn": "Tớ cảm thấy công ty các cậu thật tốt.",
+      "translation_en": "I think your company is really good."
     },
     {
       "dialogue_num": 2,
@@ -647,7 +663,8 @@
       "speaker": "田中",
       "text_zh": "對了，妳回國以後，打算做什麼？",
       "pinyin": "Duìle, nǐ huíguó yǐhòu, dǎsuàn zuò shénme?",
-      "translation_vn": "À đúng rồi, sau khi cậu về nước, dự định làm gì?"
+      "translation_vn": "À đúng rồi, sau khi cậu về nước, dự định làm gì?",
+      "translation_en": "By the way, what do you plan to do after you return to your country?"
     },
     {
       "dialogue_num": 2,
@@ -655,7 +672,8 @@
       "speaker": "月美",
       "text_zh": "我回國以後，也想找個有機會說中文的工作。",
       "pinyin": "Wǒ huíguó yǐhòu, yě xiǎng zhǎo gè yǒu jīhuì shuō Zhōngwén de gōngzuò.",
-      "translation_vn": "Sau khi tớ về nước, cũng muốn tìm một công việc có cơ hội nói tiếng Trung."
+      "translation_vn": "Sau khi tớ về nước, cũng muốn tìm một công việc có cơ hội nói tiếng Trung.",
+      "translation_en": "After I return to my country, I also want to find a job with opportunities to speak Chinese."
     },
     {
       "dialogue_num": 2,
@@ -663,7 +681,8 @@
       "speaker": "田中",
       "text_zh": "不錯，這樣的工作在你們國家好找嗎？",
       "pinyin": "Bùcuò, zhèyàng de gōngzuò zài nǐmen guójiā hǎo zhǎo ma?",
-      "translation_vn": "Không tồi, công việc như vậy ở đất nước cậu có dễ tìm không?"
+      "translation_vn": "Không tồi, công việc như vậy ở đất nước cậu có dễ tìm không?",
+      "translation_en": "Not bad, is a job like this easy to find in your country?"
     },
     {
       "dialogue_num": 2,
@@ -671,7 +690,8 @@
       "speaker": "月美",
       "text_zh": "不知道好不好找，我試試看。",
       "pinyin": "Bù zhīdào hǎo bù hǎo zhǎo, wǒ shìshikàn.",
-      "translation_vn": "Không biết là có dễ tìm không, tớ thử tìm xem sao."
+      "translation_vn": "Không biết là có dễ tìm không, tớ thử tìm xem sao.",
+      "translation_en": "I don't know if it's easy to find, I'll try to find one."
     },
     {
       "dialogue_num": 2,
@@ -679,7 +699,8 @@
       "speaker": "田中",
       "text_zh": "要是難找呢？",
       "pinyin": "Yàoshì nán zhǎo ne?",
-      "translation_vn": "Nếu như khó tìm thì sao?"
+      "translation_vn": "Nếu như khó tìm thì sao?",
+      "translation_en": "What if it's hard to find?"
     },
     {
       "dialogue_num": 2,
@@ -687,7 +708,8 @@
       "speaker": "月美",
       "text_zh": "那麼我再來臺灣學中文。",
       "pinyin": "Nàme wǒ zài lái Táiwān xué Zhōngwén.",
-      "translation_vn": "Vậy thì tớ sẽ lại đến Đài Loan học tiếng Trung."
+      "translation_vn": "Vậy thì tớ sẽ lại đến Đài Loan học tiếng Trung.",
+      "translation_en": "Then I will come to Taiwan to study Chinese again."
     },
     {
       "dialogue_num": 2,
@@ -695,7 +717,8 @@
       "speaker": "田中",
       "text_zh": "太好了！那我們就可以再見面了。",
       "pinyin": "Tài hǎo le! Nà wǒmen jiù kěyǐ zài jiànmiàn le.",
-      "translation_vn": "Tốt quá rồi! Vậy chúng ta có thể gặp lại nhau nữa rồi."
+      "translation_vn": "Tốt quá rồi! Vậy chúng ta có thể gặp lại nhau nữa rồi.",
+      "translation_en": "That's great! Then we can meet again."
     }
   ]
 }

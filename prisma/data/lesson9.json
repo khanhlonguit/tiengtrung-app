@@ -434,7 +434,8 @@
       "speaker": "安同",
       "text_zh": "田中，下個星期我們放五天的假，你要回國嗎？",
       "pinyin": "Tiánzhōng, xià ge xīngqí wǒmen fàng wǔ tiān de jià, nǐ yào huíguó ma?",
-      "translation_vn": "Điền Trung, tuần sau chúng ta nghỉ lễ 5 ngày, cậu có về nước không?"
+      "translation_vn": "Điền Trung, tuần sau chúng ta nghỉ lễ 5 ngày, cậu có về nước không?",
+      "translation_en": "Tanaka, next week we have a 5-day holiday, are you going back to your country?"
     },
     {
       "dialogue_num": 1,
@@ -442,7 +443,8 @@
       "speaker": "田中",
       "text_zh": "不，我打算在家看電視、影片學中文，你呢？",
       "pinyin": "Bù, wǒ dǎsuàn zài jiā kàn diànshì, yǐngpiàn xué Zhōngwén, nǐ ne?",
-      "translation_vn": "Không, tớ định ở nhà xem tivi, xem phim để học tiếng Trung, còn cậu?"
+      "translation_vn": "Không, tớ định ở nhà xem tivi, xem phim để học tiếng Trung, còn cậu?",
+      "translation_en": "No, I plan to stay home and watch TV and movies to learn Chinese, how about you?"
     },
     {
       "dialogue_num": 1,
@@ -450,7 +452,8 @@
       "speaker": "安同",
       "text_zh": "我想跟朋友去玩。",
       "pinyin": "Wǒ xiǎng gēn péngyǒu qù wán.",
-      "translation_vn": "Tớ muốn cùng bạn bè đi chơi."
+      "translation_vn": "Tớ muốn cùng bạn bè đi chơi.",
+      "translation_en": "I want to go hang out with friends."
     },
     {
       "dialogue_num": 1,
@@ -458,7 +461,8 @@
       "speaker": "田中",
       "text_zh": "不錯啊。去什麼地方？",
       "pinyin": "Bùcuò a. Qù shénme dìfāng?",
-      "translation_vn": "Được đấy. Đi chỗ nào?"
+      "translation_vn": "Được đấy. Đi chỗ nào?",
+      "translation_en": "That sounds good. Where to?"
     },
     {
       "dialogue_num": 1,
@@ -466,7 +470,8 @@
       "speaker": "安同",
       "text_zh": "臺東。聽說那裡的風景非常漂亮。",
       "pinyin": "Táidōng. Tīngshuō nàlǐ de fēngjǐng fēicháng piàoliang.",
-      "translation_vn": "Đài Đông. Nghe nói phong cảnh ở đó vô cùng đẹp."
+      "translation_vn": "Đài Đông. Nghe nói phong cảnh ở đó vô cùng đẹp.",
+      "translation_en": "Taitung. I heard the scenery there is very beautiful."
     },
     {
       "dialogue_num": 1,
@@ -474,7 +479,8 @@
       "speaker": "田中",
       "text_zh": "我也聽說。放假的時候，你常去旅行嗎？",
       "pinyin": "Wǒ yě tīngshuō. Fàngjià de shíhòu, nǐ cháng qù lǚxíng ma?",
-      "translation_vn": "Tớ cũng nghe nói vậy. Lúc nghỉ lễ, cậu có thường đi du lịch không?"
+      "translation_vn": "Tớ cũng nghe nói vậy. Lúc nghỉ lễ, cậu có thường đi du lịch không?",
+      "translation_en": "I heard that too. Do you often travel during holidays?"
     },
     {
       "dialogue_num": 1,
@@ -482,7 +488,8 @@
       "speaker": "安同",
       "text_zh": "不一定。有時候在家寫功課，有時候出去玩。",
       "pinyin": "Bù yīdìng. Yǒu shíhòu zài jiā xiě gōngkè, yǒu shíhòu chūqù wán.",
-      "translation_vn": "Cũng không chắc. Có lúc ở nhà làm bài tập, có lúc ra ngoài chơi."
+      "translation_vn": "Cũng không chắc. Có lúc ở nhà làm bài tập, có lúc ra ngoài chơi.",
+      "translation_en": "Not necessarily. Sometimes I do homework at home, sometimes I go out to play."
     },
     {
       "dialogue_num": 1,
@@ -490,7 +497,8 @@
       "speaker": "田中",
       "text_zh": "你們什麼時候去臺東？",
       "pinyin": "Nǐmen shénme shíhòu qù Táidōng?",
-      "translation_vn": "Khi nào các cậu đi Đài Đông?"
+      "translation_vn": "Khi nào các cậu đi Đài Đông?",
+      "translation_en": "When are you going to Taitung?"
     },
     {
       "dialogue_num": 1,
@@ -498,7 +506,8 @@
       "speaker": "安同",
       "text_zh": "這個星期六下午去。",
       "pinyin": "Zhège xīngqíliù xiàwǔ qù.",
-      "translation_vn": "Chiều thứ bảy tuần này đi."
+      "translation_vn": "Chiều thứ bảy tuần này đi.",
+      "translation_en": "Going this Saturday afternoon."
     },
     {
       "dialogue_num": 1,
@@ -506,7 +515,8 @@
       "speaker": "田中",
       "text_zh": "去玩多久？",
       "pinyin": "Qù wán duō jiǔ?",
-      "translation_vn": "Đi chơi bao lâu?"
+      "translation_vn": "Đi chơi bao lâu?",
+      "translation_en": "How long will you be playing there?"
     },
     {
       "dialogue_num": 1,
@@ -514,7 +524,8 @@
       "speaker": "安同",
       "text_zh": "大概玩四、五天。",
       "pinyin": "Dàgài wán sì, wǔ tiān.",
-      "translation_vn": "Chơi khoảng 4, 5 ngày."
+      "translation_vn": "Chơi khoảng 4, 5 ngày.",
+      "translation_en": "Probably around 4 or 5 days."
     },
     {
       "dialogue_num": 2,
@@ -522,7 +533,8 @@
       "speaker": "田中",
       "text_zh": "我女朋友九月三十號要來臺灣看我。",
       "pinyin": "Wǒ nǚpéngyǒu jiǔ yuè sānshí hào yào lái Táiwān kàn wǒ.",
-      "translation_vn": "Bạn gái tớ ngày 30 tháng 9 sẽ đến Đài Loan thăm tớ."
+      "translation_vn": "Bạn gái tớ ngày 30 tháng 9 sẽ đến Đài Loan thăm tớ.",
+      "translation_en": "My girlfriend is coming to Taiwan to visit me on September 30th."
     },
     {
       "dialogue_num": 2,
@@ -530,7 +542,8 @@
       "speaker": "明華",
       "text_zh": "你想帶她去哪裡玩？",
       "pinyin": "Nǐ xiǎng dài tā qù nǎlǐ wán?",
-      "translation_vn": "Cậu muốn dẫn cô ấy đi đâu chơi?"
+      "translation_vn": "Cậu muốn dẫn cô ấy đi đâu chơi?",
+      "translation_en": "Where do you want to take her to play?"
     },
     {
       "dialogue_num": 2,
@@ -538,7 +551,8 @@
       "speaker": "田中",
       "text_zh": "還不知道。你有什麼建議？",
       "pinyin": "Hái bù zhīdào. Nǐ yǒu shénme jiànyì?",
-      "translation_vn": "Vẫn chưa biết. Cậu có đề nghị gì không?"
+      "translation_vn": "Vẫn chưa biết. Cậu có đề nghị gì không?",
+      "translation_en": "I don't know yet. Do you have any suggestions?"
     },
     {
       "dialogue_num": 2,
@@ -546,7 +560,8 @@
       "speaker": "明華",
       "text_zh": "臺灣的夜市很有名。你們應該去逛逛。",
       "pinyin": "Táiwān de yèshì hěn yǒumíng. Nǐmen yīnggāi qù guàngguang.",
-      "translation_vn": "Chợ đêm của Đài Loan rất nổi tiếng. Các cậu nên đi dạo thử."
+      "translation_vn": "Chợ đêm của Đài Loan rất nổi tiếng. Các cậu nên đi dạo thử.",
+      "translation_en": "Taiwan's night markets are very famous. You guys should go check them out."
     },
     {
       "dialogue_num": 2,
@@ -554,7 +569,8 @@
       "speaker": "田中",
       "text_zh": "謝謝，還有什麼好玩的地方？",
       "pinyin": "Xièxie, hái yǒu shénme hǎowán de dìfāng?",
-      "translation_vn": "Cảm ơn, còn chỗ nào chơi vui nữa không?"
+      "translation_vn": "Cảm ơn, còn chỗ nào chơi vui nữa không?",
+      "translation_en": "Thanks, are there any other fun places?"
     },
     {
       "dialogue_num": 2,
@@ -562,7 +578,8 @@
       "speaker": "明華",
       "text_zh": "臺灣的茶也很特別。臺北有很多茶館。",
       "pinyin": "Táiwān de chá yě hěn tèbié. Táiběi yǒu hěn duō cháguǎn.",
-      "translation_vn": "Trà của Đài Loan cũng rất đặc biệt. Đài Bắc có rất nhiều quán trà."
+      "translation_vn": "Trà của Đài Loan cũng rất đặc biệt. Đài Bắc có rất nhiều quán trà.",
+      "translation_en": "Taiwan's tea is also very special. Taipei has a lot of teahouses."
     },
     {
       "dialogue_num": 2,
@@ -570,7 +587,8 @@
       "speaker": "田中",
       "text_zh": "到哪裡喝茶比較好？",
       "pinyin": "Dào nǎlǐ hē chá bǐjiào hǎo?",
-      "translation_vn": "Đến đâu uống trà thì tốt hơn?"
+      "translation_vn": "Đến đâu uống trà thì tốt hơn?",
+      "translation_en": "Where is a better place to drink tea?"
     },
     {
       "dialogue_num": 2,
@@ -578,7 +596,8 @@
       "speaker": "明華",
       "text_zh": "你們可以去貓空。那裡的風景很美。",
       "pinyin": "Nǐmen kěyǐ qù Māokōng. Nàlǐ de fēngjǐng hěn měi.",
-      "translation_vn": "Các cậu có thể đi Miêu Không. Phong cảnh ở đó rất đẹp."
+      "translation_vn": "Các cậu có thể đi Miêu Không. Phong cảnh ở đó rất đẹp.",
+      "translation_en": "You can go to Maokong. The scenery there is beautiful."
     },
     {
       "dialogue_num": 2,
@@ -586,7 +605,8 @@
       "speaker": "田中",
       "text_zh": "謝謝你。我決定帶她去貓空。你也一起去，好不好？",
       "pinyin": "Xièxie nǐ. Wǒ juédìng dài tā qù Māokōng. Nǐ yě yīqǐ qù, hǎo bù hǎo?",
-      "translation_vn": "Cảm ơn cậu. Tớ quyết định dẫn cô ấy đi Miêu Không. Cậu cũng đi cùng nhé, được không?"
+      "translation_vn": "Cảm ơn cậu. Tớ quyết định dẫn cô ấy đi Miêu Không. Cậu cũng đi cùng nhé, được không?",
+      "translation_en": "Thank you. I've decided to take her to Maokong. Would you like to come with us?"
     },
     {
       "dialogue_num": 2,
@@ -594,7 +614,8 @@
       "speaker": "明華",
       "text_zh": "要是那時候我有空，就跟你們一起去。",
       "pinyin": "Yàoshì nà shíhòu wǒ yǒu kòng, jiù gēn nǐmen yīqǐ qù.",
-      "translation_vn": "Nếu như lúc đó tớ rảnh, tớ sẽ đi cùng các cậu."
+      "translation_vn": "Nếu như lúc đó tớ rảnh, tớ sẽ đi cùng các cậu.",
+      "translation_en": "If I am free then, I will go with you guys."
     },
     {
       "dialogue_num": 2,
@@ -602,7 +623,8 @@
       "speaker": "田中",
       "text_zh": "太好了！謝謝！",
       "pinyin": "Tài hǎo le! Xièxie!",
-      "translation_vn": "Tốt quá rồi! Cảm ơn nha!"
+      "translation_vn": "Tốt quá rồi! Cảm ơn nha!",
+      "translation_en": "That's great! Thank you!"
     }
   ]
 }

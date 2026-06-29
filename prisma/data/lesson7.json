@@ -551,7 +551,8 @@
       "speaker": "安同",
       "text_zh": "月美，妳要去哪裡？",
       "pinyin": "Yuèměi, nǐ yào qù nǎlǐ?",
-      "translation_vn": "Nguyệt Mỹ, cậu muốn đi đâu vậy?"
+      "translation_vn": "Nguyệt Mỹ, cậu muốn đi đâu vậy?",
+      "translation_en": "Nguyet My, where do you want to go?"
     },
     {
       "dialogue_num": 1,
@@ -559,7 +560,8 @@
       "speaker": "月美",
       "text_zh": "去 KTV 唱歌。我和朋友九點二十分在大安 KTV 見面。",
       "pinyin": "Qù KTV chànggē. Wǒ hé péngyǒu jiǔ diǎn èrshí fēn zài Dà'ān KTV jiànmiàn.",
-      "translation_vn": "Đi KTV hát. Tớ và bạn hẹn gặp mặt ở KTV Đại An lúc 9 giờ 20 phút."
+      "translation_vn": "Đi KTV hát. Tớ và bạn hẹn gặp mặt ở KTV Đại An lúc 9 giờ 20 phút.",
+      "translation_en": "Go to KTV to sing. My friend and I arranged to meet at Dai An KTV at 9:20 a.m."
     },
     {
       "dialogue_num": 1,
@@ -567,7 +569,8 @@
       "speaker": "安同",
       "text_zh": "早上九點去 KTV？為什麼？",
       "pinyin": "Zǎoshang jiǔ diǎn qù KTV? Wèishénme?",
-      "translation_vn": "Sáng 9 giờ đi KTV sao? Vì sao vậy?"
+      "translation_vn": "Sáng 9 giờ đi KTV sao? Vì sao vậy?",
+      "translation_en": "Going to KTV at 9 o'clock in the morning? Why is that?"
     },
     {
       "dialogue_num": 1,
@@ -575,7 +578,8 @@
       "speaker": "月美",
       "text_zh": "從早上七點到中午十二點，最便宜。要不要一起去？",
       "pinyin": "Cóng zǎoshang qī diǎn dào zhōngwǔ shí'èr diǎn, zuì piányí. Yào bù yào yīqǐ qù?",
-      "translation_vn": "Từ 7 giờ sáng đến 12 giờ trưa là rẻ nhất. Cậu có muốn đi cùng không?"
+      "translation_vn": "Từ 7 giờ sáng đến 12 giờ trưa là rẻ nhất. Cậu có muốn đi cùng không?",
+      "translation_en": "From 7am to 12pm is cheapest. Do you want to come along?"
     },
     {
       "dialogue_num": 1,
@@ -583,7 +587,8 @@
       "speaker": "安同",
       "text_zh": "我想去，可是我得去銀行。下次吧！",
       "pinyin": "Wǒ xiǎng qù, kěshì wǒ děi qù yínháng. Xià cì ba!",
-      "translation_vn": "Tớ muốn đi, nhưng tớ phải đi ngân hàng. Để lần tới vậy!"
+      "translation_vn": "Tớ muốn đi, nhưng tớ phải đi ngân hàng. Để lần tới vậy!",
+      "translation_en": "I want to go, but I have to go to the bank. Until next time!"
     },
     {
       "dialogue_num": 1,
@@ -591,7 +596,8 @@
       "speaker": "月美",
       "text_zh": "好啊，下次你一定要來，我想聽你唱歌。",
       "pinyin": "Hǎo a, xià cì nǐ yīdìng yào lái, wǒ xiǎng tīng nǐ chànggē.",
-      "translation_vn": "Được, lần tới cậu nhất định phải đến nhé, tớ muốn nghe cậu hát."
+      "translation_vn": "Được, lần tới cậu nhất định phải đến nhé, tớ muốn nghe cậu hát.",
+      "translation_en": "Okay, next time you must come, I want to hear you sing."
     },
     {
       "dialogue_num": 1,
@@ -599,7 +605,8 @@
       "speaker": "安同",
       "text_zh": "沒問題。對了，什麼時候有空一起吃飯？",
       "pinyin": "Méi wèntí. Duìle, shénme shíhòu yǒu kòng yīqǐ chīfàn?",
-      "translation_vn": "Không vấn đề gì. À đúng rồi, khi nào cậu rảnh thì cùng đi ăn nhé?"
+      "translation_vn": "Không vấn đề gì. À đúng rồi, khi nào cậu rảnh thì cùng đi ăn nhé?",
+      "translation_en": "No problem. Oh right, when you're free, let's go eat together, okay?"
     },
     {
       "dialogue_num": 1,
@@ -607,7 +614,8 @@
       "speaker": "月美",
       "text_zh": "後天我有空，你呢？",
       "pinyin": "Hòutiān wǒ yǒu kòng, nǐ ne?",
-      "translation_vn": "Ngày kia tớ rảnh, còn cậu?"
+      "translation_vn": "Ngày kia tớ rảnh, còn cậu?",
+      "translation_en": "I'm free the day after tomorrow, what about you?"
     },
     {
       "dialogue_num": 1,
@@ -615,7 +623,8 @@
       "speaker": "安同",
       "text_zh": "我也有空，後天晚上七點怎麼樣？",
       "pinyin": "Wǒ yě yǒu kòng, hòutiān wǎnshang qī diǎn zěnmeyàng?",
-      "translation_vn": "Tớ cũng rảnh, 7 giờ tối ngày kia được không?"
+      "translation_vn": "Tớ cũng rảnh, 7 giờ tối ngày kia được không?",
+      "translation_en": "I'm also free, is it 7pm the day after tomorrow?"
     },
     {
       "dialogue_num": 1,
@@ -623,7 +632,8 @@
       "speaker": "月美",
       "text_zh": "好啊！再見。",
       "pinyin": "Hǎo a! Zàijiàn.",
-      "translation_vn": "Được nha! Tạm biệt."
+      "translation_vn": "Được nha! Tạm biệt.",
+      "translation_en": "Okay! Goodbye."
     },
     {
       "dialogue_num": 2,
@@ -631,7 +641,8 @@
       "speaker": "安同",
       "text_zh": "如玉，妳在吃飯嗎？",
       "pinyin": "Rúyù, nǐ zài chīfàn ma?",
-      "translation_vn": "Như Ngọc, cậu đang ăn cơm à?"
+      "translation_vn": "Như Ngọc, cậu đang ăn cơm à?",
+      "translation_en": "Nhu Ngoc, are you eating?"
     },
     {
       "dialogue_num": 2,
@@ -639,7 +650,8 @@
       "speaker": "如玉",
       "text_zh": "是，吃午餐，等一下要上課。你呢？",
       "pinyin": "Shì, chī wǔcān, děng yīxià yào shàngkè. Nǐ ne?",
-      "translation_vn": "Đúng, ăn trưa, lát nữa phải lên lớp. Còn cậu thì sao?"
+      "translation_vn": "Đúng, ăn trưa, lát nữa phải lên lớp. Còn cậu thì sao?",
+      "translation_en": "Yes, have lunch, have to go to class later. What about you?"
     },
     {
       "dialogue_num": 2,
@@ -647,7 +659,8 @@
       "speaker": "安同",
       "text_zh": "我剛下課。對了，下午四點半學校有籃球比賽。妳想去看嗎？",
       "pinyin": "Wǒ gāng xiàkè. Duìle, xiàwǔ sì diǎn bàn xuéxiào yǒu lánqiú bǐsài. Nǐ xiǎng qù kàn ma?",
-      "translation_vn": "Tớ vừa tan học. À đúng rồi, 4 rưỡi chiều nay trường có thi đấu bóng rổ. Cậu có muốn đi xem không?"
+      "translation_vn": "Tớ vừa tan học. À đúng rồi, 4 rưỡi chiều nay trường có thi đấu bóng rổ. Cậu có muốn đi xem không?",
+      "translation_en": "I just finished school. Oh that's right, the school has a basketball match at 4:30 this afternoon. Do you want to go see?"
     },
     {
       "dialogue_num": 2,
@@ -655,7 +668,8 @@
       "speaker": "如玉",
       "text_zh": "想啊。比賽幾點結束？",
       "pinyin": "Xiǎng a. Bǐsài jǐ diǎn jiéshù?",
-      "translation_vn": "Muốn chứ. Trận đấu mấy giờ kết thúc?"
+      "translation_vn": "Muốn chứ. Trận đấu mấy giờ kết thúc?",
+      "translation_en": "Want it? What time does the match end?"
     },
     {
       "dialogue_num": 2,
@@ -663,7 +677,8 @@
       "speaker": "安同",
       "text_zh": "六點半。妳晚上有事嗎？",
       "pinyin": "Liù diǎn bàn. Nǐ wǎnshang yǒu shì ma?",
-      "translation_vn": "6 giờ rưỡi. Buổi tối cậu có việc gì không?"
+      "translation_vn": "6 giờ rưỡi. Buổi tối cậu có việc gì không?",
+      "translation_en": "Half past six. Do you have anything to do tonight?"
     },
     {
       "dialogue_num": 2,
@@ -671,7 +686,8 @@
       "speaker": "如玉",
       "text_zh": "我最近很忙，每天晚上都上書法課。",
       "pinyin": "Wǒ zuìjìn hěn máng, měitiān wǎnshang dōu shàng shūfǎ kè.",
-      "translation_vn": "Gần đây tớ rất bận, mỗi buổi tối đều học lớp thư pháp."
+      "translation_vn": "Gần đây tớ rất bận, mỗi buổi tối đều học lớp thư pháp.",
+      "translation_en": "I've been very busy lately, taking calligraphy classes every evening."
     },
     {
       "dialogue_num": 2,
@@ -679,7 +695,8 @@
       "speaker": "安同",
       "text_zh": "學得怎麼樣？",
       "pinyin": "Xué de zěnmeyàng?",
-      "translation_vn": "Cậu học thế nào rồi?"
+      "translation_vn": "Cậu học thế nào rồi?",
+      "translation_en": "How are you studying?"
     },
     {
       "dialogue_num": 2,
@@ -687,7 +704,8 @@
       "speaker": "如玉",
       "text_zh": "剛開始學，字寫得不好，可是我覺得很有意思。",
       "pinyin": "Gāng kāishǐ xué, zì xiě dé bù hǎo, kěshì wǒ juéde hěn yǒu yìsi.",
-      "translation_vn": "Vừa mới bắt đầu học thôi, chữ viết không được đẹp, nhưng tớ thấy rất thú vị."
+      "translation_vn": "Vừa mới bắt đầu học thôi, chữ viết không được đẹp, nhưng tớ thấy rất thú vị.",
+      "translation_en": "Just started learning, the handwriting isn't good, but I find it very interesting."
     },
     {
       "dialogue_num": 2,
@@ -695,7 +713,8 @@
       "speaker": "安同",
       "text_zh": "我有空可以去看看嗎？",
       "pinyin": "Wǒ yǒu kòng kěyǐ qù kànkan ma?",
-      "translation_vn": "Khi nào tớ rảnh tớ có thể đến xem thử không?"
+      "translation_vn": "Khi nào tớ rảnh tớ có thể đến xem thử không?",
+      "translation_en": "When I'm free, can I come take a look?"
     },
     {
       "dialogue_num": 2,
@@ -703,7 +722,8 @@
       "speaker": "如玉",
       "text_zh": "我得問問老師。",
       "pinyin": "Wǒ děi wènwen lǎoshī.",
-      "translation_vn": "Tớ phải hỏi thầy giáo xem sao đã."
+      "translation_vn": "Tớ phải hỏi thầy giáo xem sao đã.",
+      "translation_en": "I have to ask the teacher first."
     }
   ],
   "exercises": [

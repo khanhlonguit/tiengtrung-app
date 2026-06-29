@@ -640,30 +640,57 @@
   border-bottom: 1px solid var(--border-subtle);
 }
 
-.dialogueLines { padding: 8px 0; }
+.dialogueLines { 
+  padding: 16px 20px; 
+  display: flex; 
+  flex-direction: column; 
+  gap: 16px;
+  background: var(--bg-base);
+}
 
 .dialogueLine {
   display: flex;
-  gap: 16px;
-  padding: 12px 20px;
-  transition: background 0.15s;
+  flex-direction: column;
+  max-width: 85%;
+  transition: opacity 0.15s;
 }
 
-.dialogueLine:hover { background: var(--bg-hover); }
+.dialogueLineLeft { align-self: flex-start; }
+.dialogueLineRight { align-self: flex-end; }
 
 .dialogueSpeaker {
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 700;
-  color: var(--accent);
-  min-width: 90px;
-  max-width: 90px;
-  padding-top: 2px;
-  text-align: right;
-  flex-shrink: 0;
+  color: var(--text-dim);
+  margin-bottom: 6px;
   font-family: 'Noto Sans SC', sans-serif;
+  margin-left: 14px;
 }
 
-.dialogueContent { flex: 1; border-left: 2px solid rgba(108,99,255,0.2); padding-left: 16px; }
+.dialogueLineRight .dialogueSpeaker {
+  text-align: right;
+  margin-right: 14px;
+  margin-left: 0;
+}
+
+.dialogueContent { 
+  padding: 14px 18px; 
+  border-radius: 20px;
+  position: relative;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.dialogueLineLeft .dialogueContent {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-subtle);
+  border-bottom-left-radius: 4px;
+}
+
+.dialogueLineRight .dialogueContent {
+  background: var(--accent-soft);
+  border: 1px solid rgba(108,99,255,0.2);
+  border-bottom-right-radius: 4px;
+}
 
 .dialogueZh {
   font-family: 'Noto Sans SC', sans-serif;
@@ -682,7 +709,7 @@
 }
 
 .dialogueVn { font-size: 13px; color: var(--text-faint); margin: 0; }
-
+.dialogueEn { font-size: 13px; color: var(--text-faint); margin: 0; font-style: italic; }
 .error { text-align: center; padding: 60px; color: var(--text-faint); }
 
 /* ── TTS SPEAK BUTTONS ── */

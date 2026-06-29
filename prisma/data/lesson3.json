@@ -577,7 +577,8 @@
       "speaker": "安同",
       "text_zh": "田中, 你喜歡聽音樂嗎？",
       "pinyin": "Tiánzhōng, nǐ xǐhuān tīng yīnyuè ma?",
-      "translation_vn": "Tanaka, cậu có thích nghe nhạc không?"
+      "translation_vn": "Tanaka, cậu có thích nghe nhạc không?",
+      "translation_en": "Tanaka, do you like listening to music?"
     },
     {
       "dialogue_num": 1,
@@ -585,7 +586,8 @@
       "speaker": "田中",
       "text_zh": "我不喜歡聽音樂。我喜歡運動。",
       "pinyin": "Wǒ bù xǐhuān tīng yīnyuè. Wǒ xǐhuān yùndòng.",
-      "translation_vn": "Tớ không thích nghe nhạc. Tớ thích tập thể thao."
+      "translation_vn": "Tớ không thích nghe nhạc. Tớ thích tập thể thao.",
+      "translation_en": "I don't like listening to music. I like to exercise."
     },
     {
       "dialogue_num": 1,
@@ -593,7 +595,8 @@
       "speaker": "安同",
       "text_zh": "你喜歡打網球嗎？",
       "pinyin": "Nǐ xǐhuān dǎ wǎngqiú ma?",
-      "translation_vn": "Cậu có thích chơi tennis không?"
+      "translation_vn": "Cậu có thích chơi tennis không?",
+      "translation_en": "Do you like playing tennis?"
     },
     {
       "dialogue_num": 1,
@@ -601,7 +604,8 @@
       "speaker": "田中",
       "text_zh": "我不喜歡打網球。",
       "pinyin": "Wǒ bù xǐhuān dǎ wǎngqiú.",
-      "translation_vn": "Tớ không thích chơi tennis."
+      "translation_vn": "Tớ không thích chơi tennis.",
+      "translation_en": "I don't like playing tennis."
     },
     {
       "dialogue_num": 1,
@@ -609,7 +613,8 @@
       "speaker": "安同",
       "text_zh": "你喜歡做什麼？",
       "pinyin": "Nǐ xǐhuān zuò shénme?",
-      "translation_vn": "Cậu thích làm gì?"
+      "translation_vn": "Cậu thích làm gì?",
+      "translation_en": "What do you like to do?"
     },
     {
       "dialogue_num": 1,
@@ -617,7 +622,8 @@
       "speaker": "田中",
       "text_zh": "打棒球和游泳, 你呢？",
       "pinyin": "Dǎ bàngqiú hàn yóuyǒng, nǐ ne?",
-      "translation_vn": "Chơi bóng chày và bơi lội, còn cậu?"
+      "translation_vn": "Chơi bóng chày và bơi lội, còn cậu?",
+      "translation_en": "Play baseball and swim, what about you?"
     },
     {
       "dialogue_num": 1,
@@ -625,7 +631,8 @@
       "speaker": "安同",
       "text_zh": "我常打籃球, 也常踢足球。",
       "pinyin": "Wǒ cháng dǎ lánqiú, yě cháng tī zúqiú.",
-      "translation_vn": "Tớ thường chơi bóng rổ, và cũng thường chơi đá bóng."
+      "translation_vn": "Tớ thường chơi bóng rổ, và cũng thường chơi đá bóng.",
+      "translation_en": "I often play basketball, and also often play soccer."
     },
     {
       "dialogue_num": 1,
@@ -633,7 +640,8 @@
       "speaker": "田中",
       "text_zh": "我覺得踢足球很好玩。",
       "pinyin": "Wǒ juéde tī zúqiú hěn hǎowán.",
-      "translation_vn": "Tớ thấy đá bóng rất là vui."
+      "translation_vn": "Tớ thấy đá bóng rất là vui.",
+      "translation_en": "I find playing soccer very fun."
     },
     {
       "dialogue_num": 1,
@@ -641,7 +649,8 @@
       "speaker": "安同",
       "text_zh": "明天是週末, 我們早上去踢足球, 怎麼樣？",
       "pinyin": "Míngtiān shì zhōumò. Wǒmen zǎoshàng qù tī zúqiú, zěnmeyàng?",
-      "translation_vn": "Mai là cuối tuần đó, chúng ta sáng mai đi đá bóng đi, thấy sao?"
+      "translation_vn": "Mai là cuối tuần đó, chúng ta sáng mai đi đá bóng đi, thấy sao?",
+      "translation_en": "Tomorrow is the weekend, let's go play football tomorrow morning, what do you think?"
     },
     {
       "dialogue_num": 1,
@@ -649,7 +658,8 @@
       "speaker": "田中",
       "text_zh": "好啊！",
       "pinyin": "Hǎo a!",
-      "translation_vn": "Được nha!"
+      "translation_vn": "Được nha!",
+      "translation_en": "Okay!"
     },
     {
       "dialogue_num": 2,
@@ -657,7 +667,8 @@
       "speaker": "如玉",
       "text_zh": "今天晚上我們去看電影, 好不好？",
       "pinyin": "Jīntiān wǎnshàng wǒmen qù kàn diànyǐng, hǎo bù hǎo?",
-      "translation_vn": "Tối nay tụi mình đi xem phim nhé, được không?"
+      "translation_vn": "Tối nay tụi mình đi xem phim nhé, được không?",
+      "translation_en": "Let's go see a movie tonight, okay?"
     },
     {
       "dialogue_num": 2,
@@ -665,7 +676,8 @@
       "speaker": "月美",
       "text_zh": "好啊！",
       "pinyin": "Hǎo a!",
-      "translation_vn": "Được chứ!"
+      "translation_vn": "Được chứ!",
+      "translation_en": "Okay!"
     },
     {
       "dialogue_num": 2,
@@ -673,7 +685,8 @@
       "speaker": "如玉",
       "text_zh": "妳想看美國電影還是台灣電影？",
       "pinyin": "Nǐ xiǎng kàn Měiguó diànyǐng háishì Táiwān diànyǐng?",
-      "translation_vn": "Cậu muốn xem phim Mỹ hay là phim Đài Loan?"
+      "translation_vn": "Cậu muốn xem phim Mỹ hay là phim Đài Loan?",
+      "translation_en": "Do you want to watch American movies or Taiwanese movies?"
     },
     {
       "dialogue_num": 2,
@@ -681,7 +694,8 @@
       "speaker": "月美",
       "text_zh": "美國電影、台灣電影, 我都想看。",
       "pinyin": "Měiguó diànyǐng, Táiwān diànyǐng, wǒ dōu xiǎng kàn.",
-      "translation_vn": "Phim Mỹ hay phim Đài Loan tớ đều muốn xem hết á."
+      "translation_vn": "Phim Mỹ hay phim Đài Loan tớ đều muốn xem hết á.",
+      "translation_en": "I want to watch all American movies or Taiwanese movies."
     },
     {
       "dialogue_num": 2,
@@ -689,7 +703,8 @@
       "speaker": "如玉",
       "text_zh": "我們看台灣電影吧！",
       "pinyin": "Wǒmen kàn Táiwān diànyǐng ba!",
-      "translation_vn": "Vậy tụi mình xem phim Đài Loan đi!"
+      "translation_vn": "Vậy tụi mình xem phim Đài Loan đi!",
+      "translation_en": "So let's watch Taiwanese movies!"
     },
     {
       "dialogue_num": 2,
@@ -697,7 +712,8 @@
       "speaker": "月美",
       "text_zh": "好啊！看電影可以學中文。",
       "pinyin": "Hǎo a! Kàn diànyǐng kěyǐ xué Zhōngwén.",
-      "translation_vn": "Được đó! Xem phim có thể học thêm tiếng Trung."
+      "translation_vn": "Được đó! Xem phim có thể học thêm tiếng Trung.",
+      "translation_en": "Okay! Watching movies can help you learn more Chinese."
     },
     {
       "dialogue_num": 2,
@@ -705,7 +721,8 @@
       "speaker": "如玉",
       "text_zh": "晚上要不要一起吃晚飯？",
       "pinyin": "Wǎnshàng yào bú yào yìqǐ chī wǎnfàn?",
-      "translation_vn": "Tối nay có muốn cùng đi ăn tối không?"
+      "translation_vn": "Tối nay có muốn cùng đi ăn tối không?",
+      "translation_en": "Do you want to go to dinner together tonight?"
     },
     {
       "dialogue_num": 2,
@@ -713,7 +730,8 @@
       "speaker": "月美",
       "text_zh": "好, 我們去吃越南菜。",
       "pinyin": "Hǎo, wǒmen qù chī Yuènán cài.",
-      "translation_vn": "Được, tụi mình đi ăn món Việt Nam đi."
+      "translation_vn": "Được, tụi mình đi ăn món Việt Nam đi.",
+      "translation_en": "Okay, let's go eat Vietnamese food."
     }
   ],
   "exercises": [

@@ -486,7 +486,8 @@
       "speaker": "如玉",
       "text_zh": "這個黃色的水果叫什麼？",
       "pinyin": "Zhège huángsè de shuǐguǒ jiào shénme?",
-      "translation_vn": "Loại trái cây màu vàng này gọi là gì?"
+      "translation_vn": "Loại trái cây màu vàng này gọi là gì?",
+      "translation_en": "What is this yellow fruit called?"
     },
     {
       "dialogue_num": 1,
@@ -494,7 +495,8 @@
       "speaker": "月美",
       "text_zh": "芒果。給妳一塊，吃吃看。",
       "pinyin": "Mángguǒ. Gěi nǐ yī kuài, chīchīkàn.",
-      "translation_vn": "Xoài. Cho cậu một miếng, ăn thử xem."
+      "translation_vn": "Xoài. Cho cậu một miếng, ăn thử xem.",
+      "translation_en": "Mango. Here is a piece for you, try it."
     },
     {
       "dialogue_num": 1,
@@ -502,7 +504,8 @@
       "speaker": "如玉",
       "text_zh": "好，謝謝。香香的、甜甜的，很好吃。",
       "pinyin": "Hǎo, xièxie. Xiāngxiāng de, tiántián de, hěn hǎochī.",
-      "translation_vn": "Được, cảm ơn cậu. Thơm thơm, ngọt ngọt, rất ngon."
+      "translation_vn": "Được, cảm ơn cậu. Thơm thơm, ngọt ngọt, rất ngon.",
+      "translation_en": "Okay, thank you. Fragrant and sweet, very delicious."
     },
     {
       "dialogue_num": 1,
@@ -510,7 +513,8 @@
       "speaker": "月美",
       "text_zh": "昨天明華給我們的那種水果，紅色的，叫什麼？",
       "pinyin": "Zuótiān Mínghuá gěi wǒmen de nà zhǒng shuǐguǒ, hóngsè de, jiào shénme?",
-      "translation_vn": "Loại trái cây màu đỏ hôm qua Minh Hoa cho chúng ta gọi là gì?"
+      "translation_vn": "Loại trái cây màu đỏ hôm qua Minh Hoa cho chúng ta gọi là gì?",
+      "translation_en": "What was that red fruit Minghua gave us yesterday called?"
     },
     {
       "dialogue_num": 1,
@@ -518,7 +522,8 @@
       "speaker": "如玉",
       "text_zh": "妳說的是西瓜吧？",
       "pinyin": "Nǐ shuō de shì xīguā ba?",
-      "translation_vn": "Ý cậu là quả dưa hấu đúng không?"
+      "translation_vn": "Ý cậu là quả dưa hấu đúng không?",
+      "translation_en": "You mean the watermelon, right?"
     },
     {
       "dialogue_num": 1,
@@ -526,7 +531,8 @@
       "speaker": "月美",
       "text_zh": "對！對！對！臺灣有很多好吃的水果。",
       "pinyin": "Duì! Duì! Duì! Táiwān yǒu hěn duō hǎochī de shuǐguǒ.",
-      "translation_vn": "Đúng! Đúng! Đúng! Đài Loan có rất nhiều loại trái cây ngon."
+      "translation_vn": "Đúng! Đúng! Đúng! Đài Loan có rất nhiều loại trái cây ngon.",
+      "translation_en": "Right! Right! Right! Taiwan has many delicious fruits."
     },
     {
       "dialogue_num": 1,
@@ -534,7 +540,8 @@
       "speaker": "如玉",
       "text_zh": "我以前不喜歡吃水果，現在很喜歡了。",
       "pinyin": "Wǒ yǐqián bù xǐhuan chī shuǐguǒ, xiànzài hěn xǐhuan le.",
-      "translation_vn": "Trước kia tớ không thích ăn trái cây, nhưng bây giờ thì rất thích rồi."
+      "translation_vn": "Trước kia tớ không thích ăn trái cây, nhưng bây giờ thì rất thích rồi.",
+      "translation_en": "I didn't like eating fruit before, but now I like it very much."
     },
     {
       "dialogue_num": 1,
@@ -542,7 +549,8 @@
       "speaker": "月美",
       "text_zh": "越南的水果也很好吃。",
       "pinyin": "Yuènán de shuǐguǒ yě hěn hǎochī.",
-      "translation_vn": "Trái cây ở Việt Nam cũng rất ngon."
+      "translation_vn": "Trái cây ở Việt Nam cũng rất ngon.",
+      "translation_en": "Fruit in Vietnam is also very delicious."
     },
     {
       "dialogue_num": 1,
@@ -550,7 +558,8 @@
       "speaker": "如玉",
       "text_zh": "要是有機會，我想吃吃看。",
       "pinyin": "Yàoshì yǒu jīhuì, wǒ xiǎng chīchīkàn.",
-      "translation_vn": "Nếu có cơ hội, tớ muốn ăn thử xem sao."
+      "translation_vn": "Nếu có cơ hội, tớ muốn ăn thử xem sao.",
+      "translation_en": "If I have the chance, I'd like to try it."
     },
     {
       "dialogue_num": 1,
@@ -558,7 +567,8 @@
       "speaker": "月美",
       "text_zh": "妳來越南，我一定請妳吃。",
       "pinyin": "Nǐ lái Yuènán, wǒ yīdìng qǐng nǐ chī.",
-      "translation_vn": "Cậu đến Việt Nam, tớ nhất định sẽ mời cậu ăn."
+      "translation_vn": "Cậu đến Việt Nam, tớ nhất định sẽ mời cậu ăn.",
+      "translation_en": "When you come to Vietnam, I will definitely treat you to some."
     },
     {
       "dialogue_num": 2,
@@ -566,7 +576,8 @@
       "speaker": "明華",
       "text_zh": "你跟你女朋友上個月去花蓮玩，好玩嗎？",
       "pinyin": "Nǐ gēn nǐ nǚpéngyǒu shàng ge yuè qù Huālián wán, hǎowán ma?",
-      "translation_vn": "Cậu và bạn gái tháng trước đi Hoa Liên chơi, có vui không?"
+      "translation_vn": "Cậu và bạn gái tháng trước đi Hoa Liên chơi, có vui không?",
+      "translation_en": "Did you and your girlfriend have fun in Hualien last month?"
     },
     {
       "dialogue_num": 2,
@@ -574,7 +585,8 @@
       "speaker": "田中",
       "text_zh": "很好玩。你看，這些是我拍的照片。",
       "pinyin": "Hěn hǎowán. Nǐ kàn, zhèxiē shì wǒ pāi de zhàopiàn.",
-      "translation_vn": "Rất vui. Cậu xem, đây là những bức ảnh tớ chụp."
+      "translation_vn": "Rất vui. Cậu xem, đây là những bức ảnh tớ chụp.",
+      "translation_en": "It was very fun. Look, these are the photos I took."
     },
     {
       "dialogue_num": 2,
@@ -582,7 +594,8 @@
       "speaker": "明華",
       "text_zh": "你們笑得很開心！哪一個是你女朋友？",
       "pinyin": "Nǐmen xiào de hěn kāixīn! Nǎ yīgè shì nǐ nǚpéngyǒu?",
-      "translation_vn": "Các cậu cười rất hạnh phúc! Ai là bạn gái của cậu vậy?"
+      "translation_vn": "Các cậu cười rất hạnh phúc! Ai là bạn gái của cậu vậy?",
+      "translation_en": "You guys look very happy! Which one is your girlfriend?"
     },
     {
       "dialogue_num": 2,
@@ -590,7 +603,8 @@
       "speaker": "田中",
       "text_zh": "穿紅衣服的這個。穿黃衣服的是旅館老闆的太太。",
       "pinyin": "Chuān hóng yīfú de zhège. Chuān huáng yīfú de shì lǚguǎn lǎobǎn de tàitài.",
-      "translation_vn": "Người mặc áo đỏ này. Còn người mặc áo vàng là vợ của ông chủ khách sạn."
+      "translation_vn": "Người mặc áo đỏ này. Còn người mặc áo vàng là vợ của ông chủ khách sạn.",
+      "translation_en": "The one in red. The one in yellow is the hotel owner's wife."
     },
     {
       "dialogue_num": 2,
@@ -598,7 +612,8 @@
       "speaker": "明華",
       "text_zh": "她們兩個都很漂亮。這兩個男的是誰？",
       "pinyin": "Tāmen liǎng ge dōu hěn piàoliang. Zhè liǎng ge nán de shì shéi?",
-      "translation_vn": "Hai người họ đều rất xinh đẹp. Hai người nam này là ai?"
+      "translation_vn": "Hai người họ đều rất xinh đẹp. Hai người nam này là ai?",
+      "translation_en": "They are both very beautiful. Who are these two men?"
     },
     {
       "dialogue_num": 2,
@@ -606,7 +621,8 @@
       "speaker": "田中",
       "text_zh": "矮的是旅館的老闆，高的是他弟弟。",
       "pinyin": "Ǎi de shì lǚguǎn de lǎobǎn, gāo de shì tā dìdi.",
-      "translation_vn": "Người thấp là ông chủ khách sạn, người cao là em trai của ông ấy."
+      "translation_vn": "Người thấp là ông chủ khách sạn, người cao là em trai của ông ấy.",
+      "translation_en": "The shorter one is the hotel owner, the taller one is his younger brother."
     },
     {
       "dialogue_num": 2,
@@ -614,7 +630,8 @@
       "speaker": "明華",
       "text_zh": "那家旅館怎麼樣？",
       "pinyin": "Nà jiā lǚguǎn zěnmeyàng?",
-      "translation_vn": "Khách sạn đó như thế nào?"
+      "translation_vn": "Khách sạn đó như thế nào?",
+      "translation_en": "How was that hotel?"
     },
     {
       "dialogue_num": 2,
@@ -622,7 +639,8 @@
       "speaker": "田中",
       "text_zh": "很乾淨。從窗戶往外看，是藍色的大海。",
       "pinyin": "Hěn gānjìng. Cóng chuānghù wǎng wài kàn, shì lánsè de dàhǎi.",
-      "translation_vn": "Rất sạch sẽ. Từ cửa sổ nhìn ra ngoài là biển lớn màu xanh dương."
+      "translation_vn": "Rất sạch sẽ. Từ cửa sổ nhìn ra ngoài là biển lớn màu xanh dương.",
+      "translation_en": "Very clean. Looking out from the window is the big blue ocean."
     },
     {
       "dialogue_num": 2,
@@ -630,7 +648,8 @@
       "speaker": "明華",
       "text_zh": "真不錯！那家旅館貴嗎？",
       "pinyin": "Zhēn bùcuò! Nà jiā lǚguǎn guì ma?",
-      "translation_vn": "Thật tuyệt vời! Khách sạn đó có đắt không?"
+      "translation_vn": "Thật tuyệt vời! Khách sạn đó có đắt không?",
+      "translation_en": "That's great! Was that hotel expensive?"
     },
     {
       "dialogue_num": 2,
@@ -638,7 +657,8 @@
       "speaker": "田中",
       "text_zh": "因為現在去玩的人比較少，所以旅館不太貴。",
       "pinyin": "Yīnwèi xiànzài qù wán de rén bǐjiào shǎo, suǒyǐ lǚguǎn bù tài guì.",
-      "translation_vn": "Bởi vì bây giờ số người đi chơi khá ít, nên khách sạn không đắt lắm."
+      "translation_vn": "Bởi vì bây giờ số người đi chơi khá ít, nên khách sạn không đắt lắm.",
+      "translation_en": "Because there are fewer people traveling right now, the hotel isn't too expensive."
     },
     {
       "dialogue_num": 2,
@@ -646,7 +666,8 @@
       "speaker": "明華",
       "text_zh": "下次我也想去住。",
       "pinyin": "Xià cì wǒ yě xiǎng qù zhù.",
-      "translation_vn": "Lần sau tớ cũng muốn đến ở thử."
+      "translation_vn": "Lần sau tớ cũng muốn đến ở thử.",
+      "translation_en": "I want to stay there next time too."
     }
   ]
 }

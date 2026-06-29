@@ -57,6 +57,7 @@ model Dialogue {
   text_zh        String
   pinyin         String
   translation_vn String
+  translation_en String @default("")
   lesson         Lesson @relation(fields: [lesson_id], references: [id])
 }
 

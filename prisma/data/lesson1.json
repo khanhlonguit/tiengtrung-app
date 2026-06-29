@@ -579,7 +579,8 @@
       "speaker": "明華",
       "text_zh": "請問你是陳月美小姐嗎？",
       "pinyin": "Qǐngwèn nǐ shì Chén Yuèměi xiǎojiě ma?",
-      "translation_vn": "Xin hỏi, bạn có phải là cô Trần Nguyệt Mỹ không?"
+      "translation_vn": "Xin hỏi, bạn có phải là cô Trần Nguyệt Mỹ không?",
+      "translation_en": "Excuse me, are you Miss Chen Yuemei?"
     },
     {
       "dialogue_num": 1,
@@ -587,7 +588,8 @@
       "speaker": "月美",
       "text_zh": "是的。謝謝你來接我們。",
       "pinyin": "Shì de. Xièxie nǐ lái jiē wǒmen.",
-      "translation_vn": "Vâng. Cảm ơn bạn đến đón chúng tôi."
+      "translation_vn": "Vâng. Cảm ơn bạn đến đón chúng tôi.",
+      "translation_en": "Yes. Thank you for coming to pick us up."
     },
     {
       "dialogue_num": 1,
@@ -595,7 +597,8 @@
       "speaker": "明華",
       "text_zh": "不客氣。我是李明華。",
       "pinyin": "Bù kèqi. Wǒ shì Lǐ Mínghuá.",
-      "translation_vn": "Không có gì. Tôi là Lý Minh Hoa."
+      "translation_vn": "Không có gì. Tôi là Lý Minh Hoa.",
+      "translation_en": "You're welcome. I am Li Minghua."
     },
     {
       "dialogue_num": 1,
@@ -603,7 +606,8 @@
       "speaker": "月美",
       "text_zh": "這是王先生。",
       "pinyin": "Zhè shì Wáng xiānsheng.",
-      "translation_vn": "Đây là ông Vương."
+      "translation_vn": "Đây là ông Vương.",
+      "translation_en": "This is Mr. Wang."
     },
     {
       "dialogue_num": 1,
@@ -611,7 +615,8 @@
       "speaker": "開文",
       "text_zh": "你好。我姓王，叫開文。",
       "pinyin": "Nǐ hǎo. Wǒ xìng Wáng, jiào Kāiwén.",
-      "translation_vn": "Xin chào. Tôi họ Vương, tên là Khai Văn."
+      "translation_vn": "Xin chào. Tôi họ Vương, tên là Khai Văn.",
+      "translation_en": "Hello. My surname is Wang, and my name is Kaiwen."
     },
     {
       "dialogue_num": 1,
@@ -619,7 +624,8 @@
       "speaker": "明華",
       "text_zh": "你們好。歡迎你們來台灣。",
       "pinyin": "Nǐmen hǎo. Huānyíng nǐmen lái Táiwān.",
-      "translation_vn": "Xin chào các bạn. Chào mừng đến Đài Loan."
+      "translation_vn": "Xin chào các bạn. Chào mừng đến Đài Loan.",
+      "translation_en": "Hello everyone. Welcome to Taiwan."
     },
     {
       "dialogue_num": 2,
@@ -627,7 +633,8 @@
       "speaker": "明華",
       "text_zh": "請喝茶。",
       "pinyin": "Qǐng hē chá.",
-      "translation_vn": "Mời uống trà."
+      "translation_vn": "Mời uống trà.",
+      "translation_en": "Please have some tea."
     },
     {
       "dialogue_num": 2,
@@ -635,7 +642,8 @@
       "speaker": "開文",
       "text_zh": "謝謝。很好喝。請問這是什麼茶？",
       "pinyin": "Xièxie. Hěn hǎohē. Qǐngwèn zhè shì shénme chá?",
-      "translation_vn": "Cảm ơn. Rất ngon. Xin hỏi đây là loại trà gì?"
+      "translation_vn": "Cảm ơn. Rất ngon. Xin hỏi đây là loại trà gì?",
+      "translation_en": "Thank you. It's very good. May I ask what kind of tea this is?"
     },
     {
       "dialogue_num": 2,
@@ -643,7 +651,8 @@
       "speaker": "明華",
       "text_zh": "這是烏龍茶。臺灣人喜歡喝茶。",
       "pinyin": "Zhè shì wūlóngchá. Táiwān rén xǐhuān hē chá.",
-      "translation_vn": "Đây là trà ô long. Người Đài Loan thích uống trà."
+      "translation_vn": "Đây là trà ô long. Người Đài Loan thích uống trà.",
+      "translation_en": "This is oolong tea. Taiwanese people like to drink tea."
     },
     {
       "dialogue_num": 2,
@@ -651,7 +660,8 @@
       "speaker": "月美",
       "text_zh": "他不是日本人。對不起，你是哪國人？",
       "pinyin": "Tā bú shì Rìběn rén. Duìbuqǐ, nǐ shì nǎ guó rén?",
-      "translation_vn": "Anh ấy không phải người Nhật. Xin lỗi, bạn là người nước nào?"
+      "translation_vn": "Anh ấy không phải người Nhật. Xin lỗi, bạn là người nước nào?",
+      "translation_en": "He is not Japanese. Excuse me, what country are you from?"
     },
     {
       "dialogue_num": 2,
@@ -659,7 +669,8 @@
       "speaker": "開文",
       "text_zh": "我是美國人。",
       "pinyin": "Wǒ shì Měiguó rén.",
-      "translation_vn": "Tôi là người Mỹ."
+      "translation_vn": "Tôi là người Mỹ.",
+      "translation_en": "I am American."
     },
     {
       "dialogue_num": 2,
@@ -667,7 +678,8 @@
       "speaker": "明華",
       "text_zh": "開文，你要不要喝咖啡？",
       "pinyin": "Kāiwén, nǐ yào bú yào hē kāfēi?",
-      "translation_vn": "Khai Văn, bạn có muốn uống cà phê không?"
+      "translation_vn": "Khai Văn, bạn có muốn uống cà phê không?",
+      "translation_en": "Kaiwen, would you like to drink some coffee?"
     },
     {
       "dialogue_num": 2,
@@ -675,7 +687,8 @@
       "speaker": "開文",
       "text_zh": "謝謝！我不喝咖啡，我喜歡喝茶。",
       "pinyin": "Xièxie! Wǒ bù hē kāfēi, wǒ xǐhuān hē chá.",
-      "translation_vn": "Cảm ơn! Tôi không uống cà phê, tôi thích uống trà."
+      "translation_vn": "Cảm ơn! Tôi không uống cà phê, tôi thích uống trà.",
+      "translation_en": "Thank you! I don't drink coffee, I like drinking tea."
     }
   ],
   "exercises": [

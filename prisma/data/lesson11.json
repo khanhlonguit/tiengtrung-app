@@ -564,7 +564,8 @@
       "speaker": "如玉",
       "text_zh": "林先生，你好，我是白如玉，來看房子。",
       "pinyin": "Lín xiānshēng, nǐ hǎo, wǒ shì Bái Rúyù, lái kàn fángzi.",
-      "translation_vn": "Chào anh Lâm, tôi là Bạch Như Ngọc, đến để xem nhà."
+      "translation_vn": "Chào anh Lâm, tôi là Bạch Như Ngọc, đến để xem nhà.",
+      "translation_en": "Hello Mr. Lin, I am Bai Ruyu, coming to look at the apartment."
     },
     {
       "dialogue_num": 1,
@@ -572,7 +573,8 @@
       "speaker": "房東",
       "text_zh": "白小姐，妳好，請進。",
       "pinyin": "Bái xiǎojiě, nǐ hǎo, qǐng jìn.",
-      "translation_vn": "Chào cô Bạch, mời vào."
+      "translation_vn": "Chào cô Bạch, mời vào.",
+      "translation_en": "Hello Miss Bai, please come in."
     },
     {
       "dialogue_num": 1,
@@ -580,7 +582,8 @@
       "speaker": "房東",
       "text_zh": "這裡是客廳，廚房在左邊，右邊有浴室。",
       "pinyin": "Zhèlǐ shì kètīng, chúfáng zài zuǒbiān, yòubiān yǒu yùshì.",
-      "translation_vn": "Đây là phòng khách, nhà bếp ở bên trái, bên phải có phòng tắm."
+      "translation_vn": "Đây là phòng khách, nhà bếp ở bên trái, bên phải có phòng tắm.",
+      "translation_en": "This is the living room, the kitchen is on the left, and the bathroom is on the right."
     },
     {
       "dialogue_num": 1,
@@ -588,7 +591,8 @@
       "speaker": "如玉",
       "text_zh": "房子很不錯。",
       "pinyin": "Fángzi hěn bùcuò.",
-      "translation_vn": "Nhà rất đẹp."
+      "translation_vn": "Nhà rất đẹp.",
+      "translation_en": "The apartment is very nice."
     },
     {
       "dialogue_num": 1,
@@ -596,7 +600,8 @@
       "speaker": "房東",
       "text_zh": "這裡很方便，附近有超市和捷運站，走路五分鐘就到了。",
       "pinyin": "Zhèlǐ hěn fāngbiàn, fùjìn yǒu chāoshì hé jiéyùn zhàn, zǒulù wǔ fēnzhōng jiù dào le.",
-      "translation_vn": "Ở đây rất tiện, gần đây có siêu thị và ga tàu điện ngầm, đi bộ 5 phút là tới rồi."
+      "translation_vn": "Ở đây rất tiện, gần đây có siêu thị và ga tàu điện ngầm, đi bộ 5 phút là tới rồi.",
+      "translation_en": "It's very convenient here, there's a supermarket and an MRT station nearby, just a 5-minute walk."
     },
     {
       "dialogue_num": 1,
@@ -604,7 +609,8 @@
       "speaker": "如玉",
       "text_zh": "現在有人住嗎？",
       "pinyin": "Xiànzài yǒu rén zhù ma?",
-      "translation_vn": "Bây giờ có người đang ở không?"
+      "translation_vn": "Bây giờ có người đang ở không?",
+      "translation_en": "Is anyone living here right now?"
     },
     {
       "dialogue_num": 1,
@@ -612,7 +618,8 @@
       "speaker": "房東",
       "text_zh": "有。還有兩間空房間，一間是套房，一間不是。",
       "pinyin": "Yǒu. Hái yǒu liǎng jiān kōng fángjiān, yī jiān shì tàofáng, yī jiān bù shì.",
-      "translation_vn": "Có. Vẫn còn hai phòng trống, một phòng khép kín, một phòng thì không."
+      "translation_vn": "Có. Vẫn còn hai phòng trống, một phòng khép kín, một phòng thì không.",
+      "translation_en": "Yes. There are still two empty rooms, one is an en-suite room, and the other is not."
     },
     {
       "dialogue_num": 1,
@@ -620,7 +627,8 @@
       "speaker": "如玉",
       "text_zh": "我想看套房。房間裡面可以上網嗎？",
       "pinyin": "Wǒ xiǎng kàn tàofáng. Fángjiān lǐmiàn kěyǐ shàngwǎng ma?",
-      "translation_vn": "Tôi muốn xem phòng khép kín. Trong phòng có thể lên mạng không?"
+      "translation_vn": "Tôi muốn xem phòng khép kín. Trong phòng có thể lên mạng không?",
+      "translation_en": "I want to see the en-suite room. Can I access the internet in the room?"
     },
     {
       "dialogue_num": 1,
@@ -628,7 +636,8 @@
       "speaker": "房東",
       "text_zh": "可以。妳覺得這間房間怎麼樣？妳想租嗎？",
       "pinyin": "Kěyǐ. Nǐ juéde zhè jiān fángjiān zěnmeyàng? Nǐ xiǎng zū ma?",
-      "translation_vn": "Có thể. Cô thấy phòng này thế nào? Cô muốn thuê không?"
+      "translation_vn": "Có thể. Cô thấy phòng này thế nào? Cô muốn thuê không?",
+      "translation_en": "Yes, you can. How do you feel about this room? Do you want to rent it?"
     },
     {
       "dialogue_num": 1,
@@ -636,7 +645,8 @@
       "speaker": "如玉",
       "text_zh": "我回去想想，再打電話給你。",
       "pinyin": "Wǒ huíqù xiǎngxiang, zài dǎ diànhuà gěi nǐ.",
-      "translation_vn": "Để tôi về nghĩ lại, rồi sẽ gọi điện cho anh."
+      "translation_vn": "Để tôi về nghĩ lại, rồi sẽ gọi điện cho anh.",
+      "translation_en": "Let me go back and think about it, then I'll call you."
     },
     {
       "dialogue_num": 2,
@@ -644,7 +654,8 @@
       "speaker": "如玉",
       "text_zh": "喂，房東先生，你好，我是白如玉，你收到我的房租了嗎？",
       "pinyin": "Wéi, fángdōng xiānshēng, nǐ hǎo, wǒ shì Bái Rúyù, nǐ shōudào wǒ de fángzū le ma?",
-      "translation_vn": "Alo, chào ông chủ nhà, cháu là Bạch Như Ngọc, chú đã nhận được tiền thuê nhà của cháu chưa?"
+      "translation_vn": "Alo, chào ông chủ nhà, cháu là Bạch Như Ngọc, chú đã nhận được tiền thuê nhà của cháu chưa?",
+      "translation_en": "Hello, landlord, this is Bai Ruyu, have you received my rent?"
     },
     {
       "dialogue_num": 2,
@@ -652,7 +663,8 @@
       "speaker": "房東",
       "text_zh": "我已經收到了，謝謝。妳習慣了嗎？",
       "pinyin": "Wǒ yǐjīng shōudào le, xièxie. Nǐ xíguàn le ma?",
-      "translation_vn": "Tôi đã nhận được rồi, cảm ơn. Cháu đã quen ở đó chưa?"
+      "translation_vn": "Tôi đã nhận được rồi, cảm ơn. Cháu đã quen ở đó chưa?",
+      "translation_en": "I have received it, thank you. Are you used to living there yet?"
     },
     {
       "dialogue_num": 2,
@@ -660,7 +672,8 @@
       "speaker": "如玉",
       "text_zh": "習慣了。可是，有一個問題，熱水器的水好像不熱。",
       "pinyin": "Xíguàn le. Kěshì, yǒu yī gè wèntí, rèshuǐqì de shuǐ hǎoxiàng bù rè.",
-      "translation_vn": "Cháu quen rồi. Nhưng mà có một vấn đề, bình nóng lạnh hình như không nóng."
+      "translation_vn": "Cháu quen rồi. Nhưng mà có một vấn đề, bình nóng lạnh hình như không nóng.",
+      "translation_en": "I am used to it. But there is a problem, the water heater doesn't seem to be hot."
     },
     {
       "dialogue_num": 2,
@@ -668,7 +681,8 @@
       "speaker": "房東",
       "text_zh": "今天我會去看看。妳什麼時候有空？晚上可以嗎？",
       "pinyin": "Jīntiān wǒ huì qù kànkan. Nǐ shénme shíhòu yǒu kòng? Wǎnshang kěyǐ ma?",
-      "translation_vn": "Hôm nay tôi sẽ đến xem thử. Khi nào cháu rảnh? Buổi tối được không?"
+      "translation_vn": "Hôm nay tôi sẽ đến xem thử. Khi nào cháu rảnh? Buổi tối được không?",
+      "translation_en": "I will go check it out today. When are you free? Is tonight okay?"
     },
     {
       "dialogue_num": 2,
@@ -676,7 +690,8 @@
       "speaker": "如玉",
       "text_zh": "不好意思，今天晚上我有事。",
       "pinyin": "Bù hǎoyìsi, jīntiān wǎnshang wǒ yǒu shì.",
-      "translation_vn": "Ngại quá, tối nay cháu bận rồi."
+      "translation_vn": "Ngại quá, tối nay cháu bận rồi.",
+      "translation_en": "I'm sorry, I'm busy tonight."
     },
     {
       "dialogue_num": 2,
@@ -684,7 +699,8 @@
       "speaker": "房東",
       "text_zh": "沒關係，明天下午呢？",
       "pinyin": "Méi guānxi, míngtiān xiàwǔ ne?",
-      "translation_vn": "Không sao, thế còn chiều mai?"
+      "translation_vn": "Không sao, thế còn chiều mai?",
+      "translation_en": "That's okay, what about tomorrow afternoon?"
     },
     {
       "dialogue_num": 2,
@@ -692,7 +708,8 @@
       "speaker": "如玉",
       "text_zh": "好，我在家等你。",
       "pinyin": "Hǎo, wǒ zài jiā děng nǐ.",
-      "translation_vn": "Dạ được, cháu ở nhà đợi chú."
+      "translation_vn": "Dạ được, cháu ở nhà đợi chú.",
+      "translation_en": "Okay, I will wait for you at home."
     },
     {
       "dialogue_num": 2,
@@ -700,7 +717,8 @@
       "speaker": "房東",
       "text_zh": "那我明天下午兩點到。還有問題嗎？",
       "pinyin": "Nà wǒ míngtiān xiàwǔ liǎng diǎn dào. Hái yǒu wèntí ma?",
-      "translation_vn": "Vậy 2 giờ chiều mai tôi đến. Còn vấn đề gì nữa không?"
+      "translation_vn": "Vậy 2 giờ chiều mai tôi đến. Còn vấn đề gì nữa không?",
+      "translation_en": "Then I will arrive at 2 PM tomorrow. Is there any other problem?"
     },
     {
       "dialogue_num": 2,
@@ -708,7 +726,8 @@
       "speaker": "如玉",
       "text_zh": "我想買電視。請問可以幫我裝有線電視嗎？",
       "pinyin": "Wǒ xiǎng mǎi diànshì. Qǐngwèn kěyǐ bāng wǒ zhuāng yǒuxiàn diànshì ma?",
-      "translation_vn": "Cháu muốn mua tivi. Xin hỏi có thể giúp cháu lắp truyền hình cáp không?"
+      "translation_vn": "Cháu muốn mua tivi. Xin hỏi có thể giúp cháu lắp truyền hình cáp không?",
+      "translation_en": "I want to buy a TV. Can you help me install cable TV?"
     },
     {
       "dialogue_num": 2,
@@ -716,7 +735,8 @@
       "speaker": "房東",
       "text_zh": "可以，不過妳得自己付錢。",
       "pinyin": "Kěyǐ, bùguò nǐ děi zìjǐ fù qián.",
-      "translation_vn": "Được, nhưng mà cháu phải tự trả tiền."
+      "translation_vn": "Được, nhưng mà cháu phải tự trả tiền.",
+      "translation_en": "Sure, but you have to pay for it yourself."
     },
     {
       "dialogue_num": 2,
@@ -724,7 +744,8 @@
       "speaker": "如玉",
       "text_zh": "好的，謝謝你。",
       "pinyin": "Hǎo de, xièxie nǐ.",
-      "translation_vn": "Vâng ạ, cảm ơn chú."
+      "translation_vn": "Vâng ạ, cảm ơn chú.",
+      "translation_en": "Okay, thank you sir."
     }
   ]
 }

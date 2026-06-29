@@ -25,7 +25,7 @@ type Grammar = {
 };
 type Dialogue = {
   id: number; lesson_id: number; dialogue_num: number; line_order: number;
-  speaker: string; text_zh: string; pinyin: string; translation_vn: string;
+  speaker: string; text_zh: string; pinyin: string; translation_vn: string; translation_en: string;
 };
 type ExerciseQuestion = {
   id: number; exercise_id: number; question: string; answer: string; hint: string;
@@ -57,6 +57,7 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
   const [exerciseGraded, setExerciseGraded] = useState<Record<number, boolean>>({});
   const [showPinyin, setShowPinyin] = useState(true);
   const [showVn, setShowVn] = useState(true);
+  const [showEn, setShowEn] = useState(true);
   const { theme, toggleTheme } = useTheme();
 
   // Handle Sidebar Resize
@@ -436,33 +437,48 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                         <span className={styles.toggleDot}/>
                         Tiếng Việt
                       </button>
+                      <button
+                        className={`${styles.toggleBtn} ${showEn ? styles.toggleBtnOn : ''}`}
+                        onClick={() => setShowEn(e => !e)}
+                      >
+                        <span className={styles.toggleDot}/>
+                        Tiếng Anh
+                      </button>
                     </div>
                   </div>
-                  {Object.entries(groupedDialogues).map(([num, lines]) => (
-                    <div key={num} className={styles.dialogueBlock}>
-                      <div className={styles.dialogueBlockTitle}>Hội thoại {num}</div>
-                      <div className={styles.dialogueLines}>
-                        {lines.map(line => (
-                          <div key={line.id} className={styles.dialogueLine}>
-                            <div className={styles.dialogueSpeaker}>{line.speaker}</div>
-                            <div className={styles.dialogueContent}>
-                              <div className={styles.dialogueZhRow}>
-                                <p className={styles.dialogueZh}>{line.text_zh}</p>
-                                <button
-                                  className={styles.speakBtnSm}
-                                  onClick={() => speak(line.text_zh)}
-                                  title="Phát âm"
-                                  aria-label={`Phát âm dòng thoại của ${line.speaker}`}
-                                >🔊</button>
+                  {Object.entries(groupedDialogues).map(([num, lines]) => {
+                    const uniqueSpeakers = Array.from(new Set(lines.map((l: any) => l.speaker)));
+                    return (
+                      <div key={num} className={styles.dialogueBlock}>
+                        <div className={styles.dialogueBlockTitle}>Hội thoại {num}</div>
+                        <div className={styles.dialogueLines}>
+                          {lines.map(line => {
+                            const speakerIdx = uniqueSpeakers.indexOf(line.speaker);
+                            const alignment = speakerIdx % 2 === 0 ? 'Left' : 'Right';
+                            return (
+                              <div key={line.id} className={`${styles.dialogueLine} ${styles['dialogueLine' + alignment]}`}>
+                                <div className={styles.dialogueSpeaker}>{line.speaker}</div>
+                                <div className={styles.dialogueContent}>
+                                  <div className={styles.dialogueZhRow}>
+                                    <p className={styles.dialogueZh}>{line.text_zh}</p>
+                                    <button
+                                      className={styles.speakBtnSm}
+                                      onClick={() => speak(line.text_zh)}
+                                      title="Phát âm"
+                                      aria-label={`Phát âm dòng thoại của ${line.speaker}`}
+                                    >🔊</button>
+                                  </div>
+                                  {showPinyin && <p className={styles.dialoguePinyin}>{line.pinyin}</p>}
+                                  {showVn && <p className={styles.dialogueVn}>{line.translation_vn}</p>}
+                                  {showEn && <p className={styles.dialogueEn}>{line.translation_en}</p>}
+                                </div>
                               </div>
-                              {showPinyin && <p className={styles.dialoguePinyin}>{line.pinyin}</p>}
-                              {showVn && <p className={styles.dialogueVn}>{line.translation_vn}</p>}
-                            </div>
-                          </div>
-                        ))}
+                            );
+                          })}
+                        </div>
                       </div>
-                    </div>
-                  ))}
+                    );
+                  })}
                 </section>
               )}
 

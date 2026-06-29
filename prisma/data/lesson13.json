@@ -576,7 +576,8 @@
       "speaker": "怡君",
       "text_zh": "喂，安同嗎？",
       "pinyin": "Wéi, Āntóng ma?",
-      "translation_vn": "Alo, An Đồng đấy à?"
+      "translation_vn": "Alo, An Đồng đấy à?",
+      "translation_en": "Hello, is this Antong?"
     },
     {
       "dialogue_num": 1,
@@ -584,7 +585,8 @@
       "speaker": "安同",
       "text_zh": "是，我就是。怡君，好久不見，聽說妳去花蓮？",
       "pinyin": "Shì, wǒ jiù shì. Yíjūn, hǎojiǔbújiàn, tīngshuō nǐ qù Huālián?",
-      "translation_vn": "Đúng, là tớ đây. Di Quân, lâu rồi không gặp, nghe nói cậu đi Hoa Liên hả?"
+      "translation_vn": "Đúng, là tớ đây. Di Quân, lâu rồi không gặp, nghe nói cậu đi Hoa Liên hả?",
+      "translation_en": "Yes, it is me. Yijun, long time no see, I heard you went to Hualien?"
     },
     {
       "dialogue_num": 1,
@@ -592,7 +594,8 @@
       "speaker": "怡君",
       "text_zh": "我沒去花蓮，我剛從臺東回來。",
       "pinyin": "Wǒ méi qù Huālián, wǒ gāng cóng Táidōng huílái.",
-      "translation_vn": "Tớ không đi Hoa Liên, tớ vừa từ Đài Đông về."
+      "translation_vn": "Tớ không đi Hoa Liên, tớ vừa từ Đài Đông về.",
+      "translation_en": "I didn't go to Hualien, I just came back from Taitung."
     },
     {
       "dialogue_num": 1,
@@ -600,7 +603,8 @@
       "speaker": "安同",
       "text_zh": "找我有什麼事？",
       "pinyin": "Zhǎo wǒ yǒu shénme shì?",
-      "translation_vn": "Tìm tớ có việc gì không?"
+      "translation_vn": "Tìm tớ có việc gì không?",
+      "translation_en": "What's up?"
     },
     {
       "dialogue_num": 1,
@@ -608,7 +612,8 @@
       "speaker": "怡君",
       "text_zh": "明天是你的生日，對不對？",
       "pinyin": "Míngtiān shì nǐ de shēngrì, duì bù duì?",
-      "translation_vn": "Ngày mai là sinh nhật cậu, đúng không?"
+      "translation_vn": "Ngày mai là sinh nhật cậu, đúng không?",
+      "translation_en": "Tomorrow is your birthday, right?"
     },
     {
       "dialogue_num": 1,
@@ -616,7 +621,8 @@
       "speaker": "安同",
       "text_zh": "啊，我怎麼忘了！最近太忙了，謝謝妳還記得。",
       "pinyin": "A, wǒ zěnme wàng le! Zuìjìn tài máng le, xièxie nǐ hái jìde.",
-      "translation_vn": "A, sao tớ lại quên mất thế này! Dạo này bận quá, cảm ơn cậu vẫn còn nhớ."
+      "translation_vn": "A, sao tớ lại quên mất thế này! Dạo này bận quá, cảm ơn cậu vẫn còn nhớ.",
+      "translation_en": "Ah, how could I forget! I've been too busy recently, thanks for remembering."
     },
     {
       "dialogue_num": 1,
@@ -624,7 +630,8 @@
       "speaker": "怡君",
       "text_zh": "當然記得！語言交換的時候，你那麼熱心教我西班牙文。",
       "pinyin": "Dāngrán jìde! Yǔyán jiāohuàn de shíhòu, nǐ nàme rèxīn jiāo wǒ Xībānyá wén.",
-      "translation_vn": "Đương nhiên là nhớ rồi! Lúc trao đổi ngôn ngữ, cậu đã nhiệt tình dạy tớ tiếng Tây Ban Nha như vậy mà."
+      "translation_vn": "Đương nhiên là nhớ rồi! Lúc trao đổi ngôn ngữ, cậu đã nhiệt tình dạy tớ tiếng Tây Ban Nha như vậy mà.",
+      "translation_en": "Of course I remember! You were so enthusiastic in teaching me Spanish during our language exchange."
     },
     {
       "dialogue_num": 1,
@@ -632,7 +639,8 @@
       "speaker": "安同",
       "text_zh": "不必客氣，妳也一樣。",
       "pinyin": "Búbì kèqì, nǐ yě yíyàng.",
-      "translation_vn": "Đừng khách sáo, cậu cũng vậy mà."
+      "translation_vn": "Đừng khách sáo, cậu cũng vậy mà.",
+      "translation_en": "You're welcome, you too."
     },
     {
       "dialogue_num": 1,
@@ -640,7 +648,8 @@
       "speaker": "怡君",
       "text_zh": "明天我想請你吃晚飯，給你過生日。",
       "pinyin": "Míngtiān wǒ xiǎng qǐng nǐ chī wǎnfàn, gěi nǐ guò shēngrì.",
-      "translation_vn": "Ngày mai tớ muốn mời cậu ăn tối, tổ chức sinh nhật cho cậu."
+      "translation_vn": "Ngày mai tớ muốn mời cậu ăn tối, tổ chức sinh nhật cho cậu.",
+      "translation_en": "Tomorrow I want to invite you to dinner and celebrate your birthday."
     },
     {
       "dialogue_num": 1,
@@ -648,7 +657,8 @@
       "speaker": "安同",
       "text_zh": "妳太客氣了！我們在哪裡見面呢？",
       "pinyin": "Nǐ tài kèqì le! Wǒmen zài nǎlǐ jiànmiàn ne?",
-      "translation_vn": "Cậu khách sáo quá rồi! Chúng ta gặp nhau ở đâu nhỉ?"
+      "translation_vn": "Cậu khách sáo quá rồi! Chúng ta gặp nhau ở đâu nhỉ?",
+      "translation_en": "You're too polite! Where should we meet?"
     },
     {
       "dialogue_num": 1,
@@ -656,7 +666,8 @@
       "speaker": "怡君",
       "text_zh": "明天我一下課，就去你們學校找你。",
       "pinyin": "Míngtiān wǒ yí xiàkè, jiù qù nǐmen xuéxiào zhǎo nǐ.",
-      "translation_vn": "Ngày mai tớ vừa tan học là sẽ qua trường tìm cậu ngay."
+      "translation_vn": "Ngày mai tớ vừa tan học là sẽ qua trường tìm cậu ngay.",
+      "translation_en": "Tomorrow as soon as I finish class, I'll go to your school to find you."
     },
     {
       "dialogue_num": 1,
@@ -664,7 +675,8 @@
       "speaker": "安同",
       "text_zh": "大概幾點？",
       "pinyin": "Dàgài jǐ diǎn?",
-      "translation_vn": "Khoảng mấy giờ?"
+      "translation_vn": "Khoảng mấy giờ?",
+      "translation_en": "Around what time?"
     },
     {
       "dialogue_num": 1,
@@ -672,7 +684,8 @@
       "speaker": "怡君",
       "text_zh": "五點左右。",
       "pinyin": "Wǔ diǎn zuǒyòu.",
-      "translation_vn": "Khoảng chừng 5 giờ."
+      "translation_vn": "Khoảng chừng 5 giờ.",
+      "translation_en": "Around 5 o'clock."
     },
     {
       "dialogue_num": 1,
@@ -680,7 +693,8 @@
       "speaker": "安同",
       "text_zh": "好，我會在學校門口等妳。",
       "pinyin": "Hǎo, wǒ huì zài xuéxiào ménkǒu děng nǐ.",
-      "translation_vn": "Được, tớ sẽ đợi cậu ở cổng trường."
+      "translation_vn": "Được, tớ sẽ đợi cậu ở cổng trường.",
+      "translation_en": "Okay, I'll wait for you at the school gate."
     },
     {
       "dialogue_num": 2,
@@ -688,7 +702,8 @@
       "speaker": "安同",
       "text_zh": "怡君，謝謝妳請我到這麼有名的餐廳吃飯。",
       "pinyin": "Yíjūn, xièxie nǐ qǐng wǒ dào zhème yǒumíng de cāntīng chīfàn.",
-      "translation_vn": "Di Quân, cảm ơn cậu đã mời tớ đến nhà hàng nổi tiếng như vậy để ăn."
+      "translation_vn": "Di Quân, cảm ơn cậu đã mời tớ đến nhà hàng nổi tiếng như vậy để ăn.",
+      "translation_en": "Yijun, thank you for inviting me to eat at such a famous restaurant."
     },
     {
       "dialogue_num": 2,
@@ -696,7 +711,8 @@
       "speaker": "怡君",
       "text_zh": "哪裡，哪裡！這是我給你的禮物。",
       "pinyin": "Nǎlǐ, nǎlǐ! Zhè shì wǒ gěi nǐ de lǐwù.",
-      "translation_vn": "Đâu có, đâu có! Đây là món quà tớ tặng cậu."
+      "translation_vn": "Đâu có, đâu có! Đây là món quà tớ tặng cậu.",
+      "translation_en": "Not at all! This is my gift for you."
     },
     {
       "dialogue_num": 2,
@@ -704,7 +720,8 @@
       "speaker": "安同",
       "text_zh": "謝謝！真開心，今年有臺灣朋友給我過生日。",
       "pinyin": "Xièxie! Zhēn kāixīn, jīnnián yǒu Táiwān péngyǒu gěi wǒ guò shēngrì.",
-      "translation_vn": "Cảm ơn nhé! Thật là vui, năm nay có người bạn Đài Loan tổ chức sinh nhật cho tớ."
+      "translation_vn": "Cảm ơn nhé! Thật là vui, năm nay có người bạn Đài Loan tổ chức sinh nhật cho tớ.",
+      "translation_en": "Thank you! I'm really happy, this year I have a Taiwanese friend celebrating my birthday with me."
     },
     {
       "dialogue_num": 2,
@@ -712,7 +729,8 @@
       "speaker": "怡君",
       "text_zh": "你想吃什麼？有沒有不吃的東西？",
       "pinyin": "Nǐ xiǎng chī shénme? Yǒu méiyǒu bù chī de dōngxi?",
-      "translation_vn": "Cậu muốn ăn gì? Có món gì không ăn được không?"
+      "translation_vn": "Cậu muốn ăn gì? Có món gì không ăn được không?",
+      "translation_en": "What do you want to eat? Is there anything you don't eat?"
     },
     {
       "dialogue_num": 2,
@@ -720,7 +738,8 @@
       "speaker": "安同",
       "text_zh": "我什麼都吃。",
       "pinyin": "Wǒ shénme dōu chī.",
-      "translation_vn": "Tớ ăn được hết mọi thứ."
+      "translation_vn": "Tớ ăn được hết mọi thứ.",
+      "translation_en": "I eat everything."
     },
     {
       "dialogue_num": 2,
@@ -728,7 +747,8 @@
       "speaker": "怡君",
       "text_zh": "我已經訂了豬腳麵線和蛋。等一下你多吃一點。",
       "pinyin": "Wǒ yǐjīng dìng le zhūjiǎo miànxiàn hé dàn. Děng yīxià nǐ duō chī yìdiǎn.",
-      "translation_vn": "Tớ đã đặt mì chân giò và trứng rồi. Lát nữa cậu ăn nhiều một chút nhé."
+      "translation_vn": "Tớ đã đặt mì chân giò và trứng rồi. Lát nữa cậu ăn nhiều một chút nhé.",
+      "translation_en": "I've already ordered pork knuckle noodles and eggs. Eat a bit more later."
     },
     {
       "dialogue_num": 2,
@@ -736,7 +756,8 @@
       "speaker": "安同",
       "text_zh": "臺灣人過生日是不是都吃這些東西？",
       "pinyin": "Táiwān rén guò shēngrì shìbushì dōu chī zhèxiē dōngxi?",
-      "translation_vn": "Có phải người Đài Loan khi đón sinh nhật đều ăn những thứ này không?"
+      "translation_vn": "Có phải người Đài Loan khi đón sinh nhật đều ăn những thứ này không?",
+      "translation_en": "Do Taiwanese people all eat these things for their birthdays?"
     },
     {
       "dialogue_num": 2,
@@ -744,7 +765,8 @@
       "speaker": "怡君",
       "text_zh": "對啊！這是傳統，不過，現在大部分年輕人過生日不吃這些東西了。",
       "pinyin": "Duì a! Zhè shì chuántǒng, bùguò, xiànzài dà bùfèn niánqīng rén guò shēngrì bù chī zhèxiē dōngxi le.",
-      "translation_vn": "Đúng rồi! Đây là truyền thống, nhưng mà, bây giờ phần lớn người trẻ đón sinh nhật không ăn những thứ này nữa."
+      "translation_vn": "Đúng rồi! Đây là truyền thống, nhưng mà, bây giờ phần lớn người trẻ đón sinh nhật không ăn những thứ này nữa.",
+      "translation_en": "Yes! This is tradition, but nowadays most young people don't eat these things for birthdays anymore."
     },
     {
       "dialogue_num": 2,
@@ -752,7 +774,8 @@
       "speaker": "安同",
       "text_zh": "那麼，你們過生日吃什麼呢？",
       "pinyin": "Nàme, nǐmen guò shēngrì chī shénme ne?",
-      "translation_vn": "Vậy thì, các cậu đón sinh nhật ăn gì?"
+      "translation_vn": "Vậy thì, các cậu đón sinh nhật ăn gì?",
+      "translation_en": "Then what do you guys eat for your birthdays?"
     },
     {
       "dialogue_num": 2,
@@ -760,7 +783,8 @@
       "speaker": "怡君",
       "text_zh": "跟你一樣，吃蛋糕。今天我也訂了一個生日蛋糕。",
       "pinyin": "Gēn nǐ yíyàng, chī dàngāo. Jīntiān wǒ yě dìng le yī gè shēngrì dàngāo.",
-      "translation_vn": "Giống như cậu, ăn bánh kem. Hôm nay tớ cũng đặt một chiếc bánh kem sinh nhật."
+      "translation_vn": "Giống như cậu, ăn bánh kem. Hôm nay tớ cũng đặt một chiếc bánh kem sinh nhật.",
+      "translation_en": "Like you, we eat cake. I also ordered a birthday cake today."
     },
     {
       "dialogue_num": 2,
@@ -768,7 +792,8 @@
       "speaker": "安同",
       "text_zh": "妳對我真好。",
       "pinyin": "Nǐ duì wǒ zhēn hǎo.",
-      "translation_vn": "Cậu đối với tớ thật tốt."
+      "translation_vn": "Cậu đối với tớ thật tốt.",
+      "translation_en": "You are so good to me."
     },
     {
       "dialogue_num": 2,
@@ -776,7 +801,8 @@
       "speaker": "怡君",
       "text_zh": "安同，祝你生日快樂、萬事如意、心想事成。",
       "pinyin": "Āntóng, zhù nǐ shēngrì kuàilè, wànshì rúyì, xīnxiǎng shìchéng.",
-      "translation_vn": "An Đồng, chúc cậu sinh nhật vui vẻ, vạn sự như ý, muốn gì được nấy."
+      "translation_vn": "An Đồng, chúc cậu sinh nhật vui vẻ, vạn sự như ý, muốn gì được nấy.",
+      "translation_en": "Antong, happy birthday to you, may everything go as you wish, and may your dreams come true."
     },
     {
       "dialogue_num": 2,
@@ -784,7 +810,8 @@
       "speaker": "安同",
       "text_zh": "謝謝！謝謝！",
       "pinyin": "Xièxie! Xièxie!",
-      "translation_vn": "Cảm ơn! Cảm ơn nhé!"
+      "translation_vn": "Cảm ơn! Cảm ơn nhé!",
+      "translation_en": "Thank you! Thanks!"
     }
   ]
 }

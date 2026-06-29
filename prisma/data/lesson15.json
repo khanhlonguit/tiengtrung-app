@@ -628,7 +628,8 @@
       "speaker": "醫生",
       "text_zh": "白小姐，妳哪裡不舒服？",
       "pinyin": "Bái xiǎojiě, nǐ nǎlǐ bù shūfú?",
-      "translation_vn": "Cô Bạch, cô thấy khó chịu ở đâu?"
+      "translation_vn": "Cô Bạch, cô thấy khó chịu ở đâu?",
+      "translation_en": "Miss Bai, where do you feel unwell?"
     },
     {
       "dialogue_num": 1,
@@ -636,7 +637,8 @@
       "speaker": "如玉",
       "text_zh": "我一直流鼻水，頭很痛，胃口很差。什麼東西都不想吃。",
       "pinyin": "Wǒ yìzhí liú bíshuǐ, tóu hěn tòng, wèikǒu hěn chā. Shénme dōngxi dōu bù xiǎng chī.",
-      "translation_vn": "Tôi liên tục bị chảy nước mũi, đầu rất đau, khẩu vị rất kém. Không muốn ăn bất cứ thứ gì cả."
+      "translation_vn": "Tôi liên tục bị chảy nước mũi, đầu rất đau, khẩu vị rất kém. Không muốn ăn bất cứ thứ gì cả.",
+      "translation_en": "I keep having a runny nose, my head hurts a lot, and my appetite is very poor. I don't want to eat anything at all."
     },
     {
       "dialogue_num": 1,
@@ -644,7 +646,8 @@
       "speaker": "醫生",
       "text_zh": "大概多久了？",
       "pinyin": "Dàgài duō jiǔ le?",
-      "translation_vn": "Tình trạng này khoảng bao lâu rồi?"
+      "translation_vn": "Tình trạng này khoảng bao lâu rồi?",
+      "translation_en": "How long has this been going on?"
     },
     {
       "dialogue_num": 1,
@@ -652,7 +655,8 @@
       "speaker": "如玉",
       "text_zh": "已經四、五天了。",
       "pinyin": "Yǐjīng sì, wǔ tiān le.",
-      "translation_vn": "Đã 4, 5 ngày nay rồi."
+      "translation_vn": "Đã 4, 5 ngày nay rồi.",
+      "translation_en": "It's been 4 or 5 days already."
     },
     {
       "dialogue_num": 1,
@@ -660,7 +664,8 @@
       "speaker": "醫生",
       "text_zh": "我看看妳的喉嚨。喉嚨有一點發炎。",
       "pinyin": "Wǒ kànkan nǐ de hóulóng. Hóulóng yǒu yìdiǎn fāyán.",
-      "translation_vn": "Để tôi xem cổ họng của cô nào. Cổ họng có hơi sưng viêm."
+      "translation_vn": "Để tôi xem cổ họng của cô nào. Cổ họng có hơi sưng viêm.",
+      "translation_en": "Let me check your throat. Your throat is a little inflamed."
     },
     {
       "dialogue_num": 1,
@@ -668,7 +673,8 @@
       "speaker": "如玉",
       "text_zh": "請問我生的是什麼病？",
       "pinyin": "Qǐngwèn wǒ shēng de shì shénme bìng?",
-      "translation_vn": "Xin hỏi bệnh của tôi là bệnh gì ạ?"
+      "translation_vn": "Xin hỏi bệnh của tôi là bệnh gì ạ?",
+      "translation_en": "May I ask what illness I have?"
     },
     {
       "dialogue_num": 1,
@@ -676,7 +682,8 @@
       "speaker": "醫生",
       "text_zh": "妳有一點發燒，是感冒，不過沒有什麼關係。",
       "pinyin": "Nǐ yǒu yìdiǎn fāshāo, shì gǎnmào, bùguò méiyǒu shénme guānxi.",
-      "translation_vn": "Cô hơi sốt một chút, là bị cảm cúm thôi, nhưng không có vấn đề gì đáng ngại đâu."
+      "translation_vn": "Cô hơi sốt một chút, là bị cảm cúm thôi, nhưng không có vấn đề gì đáng ngại đâu.",
+      "translation_en": "You have a slight fever, it's a cold, but it's nothing to worry about."
     },
     {
       "dialogue_num": 1,
@@ -684,7 +691,8 @@
       "speaker": "如玉",
       "text_zh": "請問我得吃藥嗎？",
       "pinyin": "Qǐngwèn wǒ děi chī yào ma?",
-      "translation_vn": "Xin hỏi tôi có cần uống thuốc không?"
+      "translation_vn": "Xin hỏi tôi có cần uống thuốc không?",
+      "translation_en": "May I ask if I need to take medicine?"
     },
     {
       "dialogue_num": 1,
@@ -692,7 +700,8 @@
       "speaker": "醫生",
       "text_zh": "要，妳到藥局去拿藥。",
       "pinyin": "Yào, nǐ dào yàojú qù ná yào.",
-      "translation_vn": "Có, cô qua hiệu thuốc lấy thuốc nhé."
+      "translation_vn": "Có, cô qua hiệu thuốc lấy thuốc nhé.",
+      "translation_en": "Yes, please go to the pharmacy to get the medicine."
     },
     {
       "dialogue_num": 1,
@@ -700,7 +709,8 @@
       "speaker": "如玉",
       "text_zh": "好的。請問我的病什麼時候會好？",
       "pinyin": "Hǎo de. Qǐngwèn wǒ de bìng shénme shíhòu huì hǎo?",
-      "translation_vn": "Vâng. Xin hỏi bệnh của tôi bao giờ thì khỏi ạ?"
+      "translation_vn": "Vâng. Xin hỏi bệnh của tôi bao giờ thì khỏi ạ?",
+      "translation_en": "Okay. May I ask when I will get better?"
     },
     {
       "dialogue_num": 1,
@@ -708,7 +718,8 @@
       "speaker": "醫生",
       "text_zh": "回去把藥吃了，多喝水，多休息，早一點睡覺，很快就會好。",
       "pinyin": "Huíqù bǎ yào chī le, duō hē shuǐ, duō xiūxí, zǎo yìdiǎn shuìjiào, hěn kuài jiù huì hǎo.",
-      "translation_vn": "Về nhà uống thuốc, uống nhiều nước, nghỉ ngơi nhiều, ngủ sớm một chút, thì sẽ rất nhanh khỏi thôi."
+      "translation_vn": "Về nhà uống thuốc, uống nhiều nước, nghỉ ngơi nhiều, ngủ sớm một chút, thì sẽ rất nhanh khỏi thôi.",
+      "translation_en": "Go home and take your medicine, drink plenty of water, rest a lot, and go to bed a bit earlier, and you will get better very quickly."
     },
     {
       "dialogue_num": 1,
@@ -716,7 +727,8 @@
       "speaker": "如玉",
       "text_zh": "好的，謝謝您。",
       "pinyin": "Hǎo de, xièxie nín.",
-      "translation_vn": "Vâng, cảm ơn bác sĩ."
+      "translation_vn": "Vâng, cảm ơn bác sĩ.",
+      "translation_en": "Okay, thank you doctor."
     },
     {
       "dialogue_num": 2,
@@ -724,7 +736,8 @@
       "speaker": "如玉",
       "text_zh": "你怎麼了？臉色這麼難看。",
       "pinyin": "Nǐ zěnme le? Liǎnsè zhème nánkàn.",
-      "translation_vn": "Cậu sao thế? Sắc mặt khó coi thế này."
+      "translation_vn": "Cậu sao thế? Sắc mặt khó coi thế này.",
+      "translation_en": "What's wrong with you? Your complexion looks terrible."
     },
     {
       "dialogue_num": 2,
@@ -732,7 +745,8 @@
       "speaker": "安同",
       "text_zh": "昨天晚上肚子很不舒服，吃了東西就吐，還吐了好幾次。",
       "pinyin": "Zuótiān wǎnshang dùzi hěn bù shūfú, chī le dōngxi jiù tù, hái tù le hǎo jǐ cì.",
-      "translation_vn": "Tối qua bụng rất khó chịu, ăn đồ ăn vào là nôn ra, còn nôn mất mấy lần lận."
+      "translation_vn": "Tối qua bụng rất khó chịu, ăn đồ ăn vào là nôn ra, còn nôn mất mấy lần lận.",
+      "translation_en": "My stomach felt very uncomfortable last night, I threw up as soon as I ate, and I threw up several times."
     },
     {
       "dialogue_num": 2,
@@ -740,7 +754,8 @@
       "speaker": "如玉",
       "text_zh": "你這麼不舒服，我陪你去看病，好不好？",
       "pinyin": "Nǐ zhème bù shūfú, wǒ péi nǐ qù kànbìng, hǎo bù hǎo?",
-      "translation_vn": "Cậu khó chịu như vậy, tớ đi cùng cậu đi khám bệnh nhé, được không?"
+      "translation_vn": "Cậu khó chịu như vậy, tớ đi cùng cậu đi khám bệnh nhé, được không?",
+      "translation_en": "You're so uncomfortable, let me go with you to see a doctor, okay?"
     },
     {
       "dialogue_num": 2,
@@ -748,7 +763,8 @@
       "speaker": "安同",
       "text_zh": "不用了。我在臺灣沒有健康保險。",
       "pinyin": "Búyòng le. Wǒ zài Táiwān méiyǒu jiànkāng bǎoxiǎn.",
-      "translation_vn": "Không cần đâu. Tớ ở Đài Loan không có bảo hiểm y tế."
+      "translation_vn": "Không cần đâu. Tớ ở Đài Loan không có bảo hiểm y tế.",
+      "translation_en": "No need. I don't have health insurance in Taiwan."
     },
     {
       "dialogue_num": 2,
@@ -756,7 +772,8 @@
       "speaker": "如玉",
       "text_zh": "那麼，我陪你去學校的健康中心。那裡的醫生很好，對學生也很客氣。",
       "pinyin": "Nàme, wǒ péi nǐ qù xuéxiào de jiànkāng zhōngxīn. Nàlǐ de yīshēng hěn hǎo, duì xuéshēng yě hěn kèqì.",
-      "translation_vn": "Vậy thì, tớ đưa cậu đến trung tâm y tế của trường. Bác sĩ ở đó rất tốt, đối với học sinh cũng rất lịch sự."
+      "translation_vn": "Vậy thì, tớ đưa cậu đến trung tâm y tế của trường. Bác sĩ ở đó rất tốt, đối với học sinh cũng rất lịch sự.",
+      "translation_en": "Then, I'll take you to the school's health center. The doctors there are very good and polite to students."
     },
     {
       "dialogue_num": 2,
@@ -764,7 +781,8 @@
       "speaker": "安同",
       "text_zh": "謝謝妳。我想去藥局買藥就好了。",
       "pinyin": "Xièxie nǐ. Wǒ xiǎng qù yàojú mǎi yào jiù hǎo le.",
-      "translation_vn": "Cảm ơn cậu. Tớ nghĩ ra hiệu thuốc mua thuốc là được rồi."
+      "translation_vn": "Cảm ơn cậu. Tớ nghĩ ra hiệu thuốc mua thuốc là được rồi.",
+      "translation_en": "Thank you. I think going to the pharmacy to buy medicine is fine."
     },
     {
       "dialogue_num": 2,
@@ -772,7 +790,8 @@
       "speaker": "如玉",
       "text_zh": "你真的不去看病嗎？",
       "pinyin": "Nǐ zhēnde bú qù kànbìng ma?",
-      "translation_vn": "Cậu thật sự không đi khám bệnh sao?"
+      "translation_vn": "Cậu thật sự không đi khám bệnh sao?",
+      "translation_en": "Are you really not going to see a doctor?"
     },
     {
       "dialogue_num": 2,
@@ -780,7 +799,8 @@
       "speaker": "安同",
       "text_zh": "我想回家休息。請妳跟老師說，我生病了，不能上課。",
       "pinyin": "Wǒ xiǎng huí jiā xiūxí. Qǐng nǐ gēn lǎoshī shuō, wǒ shēngbìng le, bù néng shàngkè.",
-      "translation_vn": "Tớ muốn về nhà nghỉ ngơi. Phiền cậu nói với giáo viên giúp, tớ bị bệnh rồi, không thể đi học được."
+      "translation_vn": "Tớ muốn về nhà nghỉ ngơi. Phiền cậu nói với giáo viên giúp, tớ bị bệnh rồi, không thể đi học được.",
+      "translation_en": "I want to go home and rest. Please tell the teacher that I'm sick and can't go to class."
     },
     {
       "dialogue_num": 2,
@@ -788,7 +808,8 @@
       "speaker": "如玉",
       "text_zh": "好。你自己要多小心。油的、冰的東西最好都別吃。",
       "pinyin": "Hǎo. Nǐ zìjǐ yào duō xiǎoxīn. Yóu de, bīng de dōngxi zuìhǎo dōu bié chī.",
-      "translation_vn": "Được. Bản thân cậu phải cẩn thận đấy. Đồ ăn dầu mỡ, đồ ăn lạnh tốt nhất là đều đừng ăn."
+      "translation_vn": "Được. Bản thân cậu phải cẩn thận đấy. Đồ ăn dầu mỡ, đồ ăn lạnh tốt nhất là đều đừng ăn.",
+      "translation_en": "Okay. You have to be careful yourself. It's best not to eat oily and cold things."
     },
     {
       "dialogue_num": 2,
@@ -796,7 +817,8 @@
       "speaker": "安同",
       "text_zh": "謝謝妳的關心。",
       "pinyin": "Xièxie nǐ de guānxīn.",
-      "translation_vn": "Cảm ơn sự quan tâm của cậu."
+      "translation_vn": "Cảm ơn sự quan tâm của cậu.",
+      "translation_en": "Thank you for your concern."
     },
     {
       "dialogue_num": 2,
@@ -804,7 +826,8 @@
       "speaker": "如玉",
       "text_zh": "(如玉下課以後) 我來看你了。現在覺得怎麼樣？好一點了嗎？",
       "pinyin": "(Rúyù xiàkè yǐhòu) Wǒ lái kàn nǐ le. Xiànzài juéde zěnmeyàng? Hǎo yìdiǎn le ma?",
-      "translation_vn": "(Sau khi Như Ngọc tan học) Tớ đến thăm cậu đây. Bây giờ cảm thấy thế nào rồi? Đã đỡ hơn chút nào chưa?"
+      "translation_vn": "(Sau khi Như Ngọc tan học) Tớ đến thăm cậu đây. Bây giờ cảm thấy thế nào rồi? Đã đỡ hơn chút nào chưa?",
+      "translation_en": "(After Ruyu finishes class) I came to visit you. How do you feel now? Are you feeling any better?"
     },
     {
       "dialogue_num": 2,
@@ -812,7 +835,8 @@
       "speaker": "安同",
       "text_zh": "謝謝妳，好多了。我吃了一包藥以後，睡得比昨天好。",
       "pinyin": "Xièxie nǐ, hǎo duō le. Wǒ chī le yī bāo yào yǐhòu, shuì de bǐ zuótiān hǎo.",
-      "translation_vn": "Cảm ơn cậu, đỡ hơn nhiều rồi. Tớ uống một gói thuốc xong, thì ngủ ngon hơn ngày hôm qua."
+      "translation_vn": "Cảm ơn cậu, đỡ hơn nhiều rồi. Tớ uống một gói thuốc xong, thì ngủ ngon hơn ngày hôm qua.",
+      "translation_en": "Thank you, much better. After I took a packet of medicine, I slept better than yesterday."
     },
     {
       "dialogue_num": 2,
@@ -820,7 +844,8 @@
       "speaker": "如玉",
       "text_zh": "不錯。你睡了幾個小時的覺以後，現在臉色比早上好得多了。",
       "pinyin": "Bùcuò. Nǐ shuì le jǐ gè xiǎoshí de jiào yǐhòu, xiànzài liǎnsè bǐ zǎoshang hǎo de duō le.",
-      "translation_vn": "Không tồi. Cậu ngủ được mấy tiếng xong, bây giờ sắc mặt trông đã tốt hơn lúc sáng rất nhiều rồi đấy."
+      "translation_vn": "Không tồi. Cậu ngủ được mấy tiếng xong, bây giờ sắc mặt trông đã tốt hơn lúc sáng rất nhiều rồi đấy.",
+      "translation_en": "Not bad. After sleeping for a few hours, your complexion looks much better now than in the morning."
     }
   ]
 }

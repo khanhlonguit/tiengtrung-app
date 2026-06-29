@@ -506,7 +506,8 @@
       "speaker": "月美",
       "text_zh": "很多人都說台灣有不少有名的小吃。",
       "pinyin": "Hěn duō rén dōu shuō Táiwān yǒu bù shǎo yǒumíng de xiǎochī.",
-      "translation_vn": "Nhiều người đều nói Đài Loan có không ít món ăn nhẹ nổi tiếng."
+      "translation_vn": "Nhiều người đều nói Đài Loan có không ít món ăn nhẹ nổi tiếng.",
+      "translation_en": "Many people say that Taiwan has many famous snacks."
     },
     {
       "dialogue_num": 1,
@@ -514,7 +515,8 @@
       "speaker": "明華",
       "text_zh": "是啊！牛肉麵、小籠包、臭豆腐…都很好吃。",
       "pinyin": "Shì a! Niúròu miàn, xiǎolóngbāo, chòu dòufu... dōu hěn hǎochī.",
-      "translation_vn": "Đúng vậy! Mì bò, tiểu long bao, đậu hũ thúi... đều rất ngon."
+      "translation_vn": "Đúng vậy! Mì bò, tiểu long bao, đậu hũ thúi... đều rất ngon.",
+      "translation_en": "That's right! Beef noodles, xiao long bao, stinky tofu... are all very delicious."
     },
     {
       "dialogue_num": 1,
@@ -522,7 +524,8 @@
       "speaker": "月美",
       "text_zh": "你最喜歡吃什麼？",
       "pinyin": "Nǐ zuì xǐhuān chī shénme?",
-      "translation_vn": "Bạn thích ăn gì nhất?"
+      "translation_vn": "Bạn thích ăn gì nhất?",
+      "translation_en": "What do you like to eat the most?"
     },
     {
       "dialogue_num": 1,
@@ -530,7 +533,8 @@
       "speaker": "明華",
       "text_zh": "牛肉麵。牛肉好吃，湯也好喝。",
       "pinyin": "Niúròu miàn. Niúròu hǎochī, tāng yě hǎohē.",
-      "translation_vn": "Mì bò. Thịt bò ngon, nước dùng cũng rất ngon."
+      "translation_vn": "Mì bò. Thịt bò ngon, nước dùng cũng rất ngon.",
+      "translation_en": "Beef noodles. The beef is delicious, the broth is also very delicious."
     },
     {
       "dialogue_num": 1,
@@ -538,7 +542,8 @@
       "speaker": "月美",
       "text_zh": "這麼好吃，我很想吃。",
       "pinyin": "Zhème hǎochī, wǒ hěn xiǎng chī.",
-      "translation_vn": "Ngon như thế, mình rất muốn ăn."
+      "translation_vn": "Ngon như thế, mình rất muốn ăn.",
+      "translation_en": "It's so delicious, I really want to eat it."
     },
     {
       "dialogue_num": 1,
@@ -546,7 +551,8 @@
       "speaker": "明華",
       "text_zh": "我知道一家有名的牛肉麵店，我們一起去吃，怎麼樣？",
       "pinyin": "Wǒ zhīdào yì jiā yǒumíng de niúròu miàn diàn, wǒmen yìqǐ qù chī, zěnmeyàng?",
-      "translation_vn": "Mình biết một tiệm mì bò nổi tiếng, chúng ta cùng đi ăn, thấy sao?"
+      "translation_vn": "Mình biết một tiệm mì bò nổi tiếng, chúng ta cùng đi ăn, thấy sao?",
+      "translation_en": "I know a famous beef noodle shop, let's go eat together, how about it?"
     },
     {
       "dialogue_num": 1,
@@ -554,7 +560,8 @@
       "speaker": "月美",
       "text_zh": "太好了！",
       "pinyin": "Tài hǎo le!",
-      "translation_vn": "Tuyệt quá!"
+      "translation_vn": "Tuyệt quá!",
+      "translation_en": "So great!"
     },
     {
       "dialogue_num": 1,
@@ -562,7 +569,8 @@
       "speaker": "明華",
       "text_zh": "我們明天去。一定要點大碗的。",
       "pinyin": "Wǒmen míngtiān qù. Yídìng yào diǎn dà wǎn de.",
-      "translation_vn": "Ngày mai chúng ta đi. Nhất định phải gọi tô lớn nhé."
+      "translation_vn": "Ngày mai chúng ta đi. Nhất định phải gọi tô lớn nhé.",
+      "translation_en": "We go tomorrow. Be sure to order a big bowl."
     },
     {
       "dialogue_num": 2,
@@ -570,7 +578,8 @@
       "speaker": "月美",
       "text_zh": "昨天晚上那家餐廳的菜很好吃，可是有一點辣。",
       "pinyin": "Zuótiān wǎnshang nà jiā cāntīng de cài hěn hǎochī, kěshì yǒu yìdiǎn là.",
-      "translation_vn": "Món ăn ở nhà hàng tối hôm qua rất ngon, nhưng có một chút cay."
+      "translation_vn": "Món ăn ở nhà hàng tối hôm qua rất ngon, nhưng có một chút cay.",
+      "translation_en": "The food at the restaurant last night was delicious, but a bit spicy."
     },
     {
       "dialogue_num": 2,
@@ -578,7 +587,8 @@
       "speaker": "安同",
       "text_zh": "我也怕辣，所以我喜歡自己做飯。",
       "pinyin": "Wǒ yě pà là, suǒyǐ wǒ xǐhuān zìjǐ zuòfàn.",
-      "translation_vn": "Tôi cũng sợ cay, cho nên tôi thích tự nấu ăn."
+      "translation_vn": "Tôi cũng sợ cay, cho nên tôi thích tự nấu ăn.",
+      "translation_en": "I'm also afraid of spicy food, so I like to cook for myself."
     },
     {
       "dialogue_num": 2,
@@ -586,7 +596,8 @@
       "speaker": "月美",
       "text_zh": "你做飯做得怎麼樣？",
       "pinyin": "Nǐ zuòfàn zuò de zěnmeyàng?",
-      "translation_vn": "Bạn nấu ăn như thế nào (có ngon không)?"
+      "translation_vn": "Bạn nấu ăn như thế nào (có ngon không)?",
+      "translation_en": "How do you cook (is it good)?"
     },
     {
       "dialogue_num": 2,
@@ -594,7 +605,8 @@
       "speaker": "安同",
       "text_zh": "我做得不好。妳會做飯嗎？",
       "pinyin": "Wǒ zuò de bù hǎo. Nǐ huì zuòfàn ma?",
-      "translation_vn": "Tôi nấu không ngon. Bạn biết nấu ăn không?"
+      "translation_vn": "Tôi nấu không ngon. Bạn biết nấu ăn không?",
+      "translation_en": "I don't cook well. Do you know how to cook?"
     },
     {
       "dialogue_num": 2,
@@ -602,7 +614,8 @@
       "speaker": "月美",
       "text_zh": "會。我的甜點也做得不錯。",
       "pinyin": "Huì. Wǒ de tiándiǎn yě zuò de búcuò.",
-      "translation_vn": "Biết. Món tráng miệng của tôi làm cũng khá ngon."
+      "translation_vn": "Biết. Món tráng miệng của tôi làm cũng khá ngon.",
+      "translation_en": "Know. My dessert was also quite delicious."
     },
     {
       "dialogue_num": 2,
@@ -610,7 +623,8 @@
       "speaker": "安同",
       "text_zh": "我最喜歡吃甜點。妳可以教我嗎？",
       "pinyin": "Wǒ zuì xǐhuān chī tiándiǎn. Nǐ kěyǐ jiāo wǒ ma?",
-      "translation_vn": "Tôi thích ăn đồ ngọt nhất. Bạn có thể dạy tôi không?"
+      "translation_vn": "Tôi thích ăn đồ ngọt nhất. Bạn có thể dạy tôi không?",
+      "translation_en": "I like to eat sweets the most. Can you teach me?"
     },
     {
       "dialogue_num": 2,
@@ -618,7 +632,8 @@
       "speaker": "月美",
       "text_zh": "好的，這個週末，你到我家來。",
       "pinyin": "Hǎo de, zhè ge zhōumò, nǐ dào wǒ jiā lái.",
-      "translation_vn": "Được thôi, cuối tuần này bạn đến nhà tôi nhé."
+      "translation_vn": "Được thôi, cuối tuần này bạn đến nhà tôi nhé.",
+      "translation_en": "Okay, you can come to my house this weekend."
     },
     {
       "dialogue_num": 2,
@@ -626,7 +641,8 @@
       "speaker": "安同",
       "text_zh": "好啊！謝謝妳。",
       "pinyin": "Hǎo a! Xièxie nǐ.",
-      "translation_vn": "Được thôi! Cảm ơn bạn."
+      "translation_vn": "Được thôi! Cảm ơn bạn.",
+      "translation_en": "Okay! Thank you."
     }
   ],
   "exercises": [

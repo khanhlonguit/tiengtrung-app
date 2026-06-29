@@ -564,7 +564,8 @@
       "speaker": "安同",
       "text_zh": "聽說怡君的學校很漂亮。",
       "pinyin": "Tīngshuō Yíjūn de xuéxiào hěn piàoliang.",
-      "translation_vn": "Nghe nói trường của Di Quân rất đẹp."
+      "translation_vn": "Nghe nói trường của Di Quân rất đẹp.",
+      "translation_en": "I heard that Di Quan's school is very beautiful."
     },
     {
       "dialogue_num": 1,
@@ -572,7 +573,8 @@
       "speaker": "如玉",
       "text_zh": "他們學校在哪裡？遠不遠？",
       "pinyin": "Tāmen xuéxiào zài nǎlǐ? Yuǎn bu yuǎn?",
-      "translation_vn": "Trường họ ở đâu? Có xa không?"
+      "translation_vn": "Trường họ ở đâu? Có xa không?",
+      "translation_en": "Where is their school? Is it far?"
     },
     {
       "dialogue_num": 1,
@@ -580,7 +582,8 @@
       "speaker": "安同",
       "text_zh": "有一點遠。他們學校在花蓮的山上。",
       "pinyin": "Yǒu yìdiǎn yuǎn. Tāmen xuéxiào zài Huālián de shānshàng.",
-      "translation_vn": "Hơi xa một chút. Trường họ ở trên núi Hoa Liên."
+      "translation_vn": "Hơi xa một chút. Trường họ ở trên núi Hoa Liên.",
+      "translation_en": "A bit far. Their school is on Hualien Mountain."
     },
     {
       "dialogue_num": 1,
@@ -588,7 +591,8 @@
       "speaker": "如玉",
       "text_zh": "山上？那裡的風景一定很美。",
       "pinyin": "Shānshàng? Nàlǐ de fēngjǐng yídìng hěn měi.",
-      "translation_vn": "Trên núi ư? Phong cảnh ở đó nhất định rất đẹp."
+      "translation_vn": "Trên núi ư? Phong cảnh ở đó nhất định rất đẹp.",
+      "translation_en": "On the mountain? The scenery there is definitely very beautiful."
     },
     {
       "dialogue_num": 1,
@@ -596,7 +600,8 @@
       "speaker": "安同",
       "text_zh": "是的，他們學校前面有海，後面有山，那裡真的是一個很漂亮的地方。",
       "pinyin": "Shì de, tāmen xuéxiào qiánmiàn yǒu hǎi, hòumiàn yǒu shān, nàlǐ zhēnde shì yí ge hěn piàoliang de dìfāng.",
-      "translation_vn": "Đúng vậy, trường họ phía trước có biển, phía sau có núi, nơi đó thực sự là một nơi rất đẹp."
+      "translation_vn": "Đúng vậy, trường họ phía trước có biển, phía sau có núi, nơi đó thực sự là một nơi rất đẹp.",
+      "translation_en": "That's right, their school has the sea in front and mountains in the back, it's really a very beautiful place."
     },
     {
       "dialogue_num": 1,
@@ -604,7 +609,8 @@
       "speaker": "如玉",
       "text_zh": "我想去看看。我們這個週末一起去吧！",
       "pinyin": "Wǒ xiǎng qù kànkan. Wǒmen zhè ge zhōumò yìqǐ qù ba!",
-      "translation_vn": "Tôi muốn đi xem thử. Cuối tuần này chúng ta cùng đi nhé!"
+      "translation_vn": "Tôi muốn đi xem thử. Cuối tuần này chúng ta cùng đi nhé!",
+      "translation_en": "I want to go see it. Let's go together this weekend!"
     },
     {
       "dialogue_num": 1,
@@ -612,7 +618,8 @@
       "speaker": "安同",
       "text_zh": "好啊！我現在要去學校附近的咖啡店買咖啡。妳呢？",
       "pinyin": "Hǎo a! Wǒ xiànzài yào qù xuéxiào fùjìn de kāfēidiàn mǎi kāfēi. Nǐ ne?",
-      "translation_vn": "Được thôi! Bây giờ tôi phải đi mua cà phê ở quán cà phê gần trường. Còn bạn?"
+      "translation_vn": "Được thôi! Bây giờ tôi phải đi mua cà phê ở quán cà phê gần trường. Còn bạn?",
+      "translation_en": "Okay! Now I have to go buy coffee at the coffee shop near school. And you?"
     },
     {
       "dialogue_num": 1,
@@ -620,7 +627,8 @@
       "speaker": "如玉",
       "text_zh": "我去樓下找朋友，我們要一起去上課。",
       "pinyin": "Wǒ qù lóuxià zhǎo péngyou, wǒmen yào yìqǐ qù shàngkè.",
-      "translation_vn": "Tôi xuống lầu tìm bạn, chúng tôi chuẩn bị cùng nhau đi học."
+      "translation_vn": "Tôi xuống lầu tìm bạn, chúng tôi chuẩn bị cùng nhau đi học.",
+      "translation_en": "I went downstairs to find my friends, we prepared to go to school together."
     },
     {
       "dialogue_num": 2,
@@ -628,7 +636,8 @@
       "speaker": "怡君",
       "text_zh": "歡迎你們來。",
       "pinyin": "Huānyíng nǐmen lái.",
-      "translation_vn": "Chào mừng các bạn đến."
+      "translation_vn": "Chào mừng các bạn đến.",
+      "translation_en": "Welcome."
     },
     {
       "dialogue_num": 2,
@@ -636,7 +645,8 @@
       "speaker": "安同",
       "text_zh": "你們學校真遠！",
       "pinyin": "Nǐmen xuéxiào zhēn yuǎn!",
-      "translation_vn": "Trường các bạn xa thật!"
+      "translation_vn": "Trường các bạn xa thật!",
+      "translation_en": "Your school is so far away!"
     },
     {
       "dialogue_num": 2,
@@ -644,7 +654,8 @@
       "speaker": "怡君",
       "text_zh": "是啊，不是很近，有一點不方便。",
       "pinyin": "Shì a, bú shì hěn jìn, yǒu yìdiǎn bù fāngbiàn.",
-      "translation_vn": "Đúng vậy, không gần lắm, hơi bất tiện một chút."
+      "translation_vn": "Đúng vậy, không gần lắm, hơi bất tiện một chút.",
+      "translation_en": "That's right, not very close, a bit inconvenient."
     },
     {
       "dialogue_num": 2,
@@ -652,7 +663,8 @@
       "speaker": "如玉",
       "text_zh": "這裡的學生在哪裡買東西？",
       "pinyin": "Zhèlǐ de xuéshēng zài nǎlǐ mǎi dōngxī?",
-      "translation_vn": "Học sinh ở đây mua đồ ở đâu?"
+      "translation_vn": "Học sinh ở đây mua đồ ở đâu?",
+      "translation_en": "Where do students here buy things?"
     },
     {
       "dialogue_num": 2,
@@ -660,7 +672,8 @@
       "speaker": "怡君",
       "text_zh": "在學校外面。學校裡面沒有商店。",
       "pinyin": "Zài xuéxiào wàimiàn. Xuéxiào lǐmiàn méi yǒu shāngdiàn.",
-      "translation_vn": "Ở bên ngoài trường. Trong trường không có cửa hàng."
+      "translation_vn": "Ở bên ngoài trường. Trong trường không có cửa hàng.",
+      "translation_en": "Outside of school. There are no stores on campus."
     },
     {
       "dialogue_num": 2,
@@ -668,7 +681,8 @@
       "speaker": "安同",
       "text_zh": "吃飯呢？學校裡面有沒有餐廳？",
       "pinyin": "Chīfàn ne? Xuéxiào lǐmiàn yǒu méi yǒu cāntīng?",
-      "translation_vn": "Thế ăn cơm thì sao? Trong trường có nhà hàng không?"
+      "translation_vn": "Thế ăn cơm thì sao? Trong trường có nhà hàng không?",
+      "translation_en": "So what about eating rice? Is there a restaurant on campus?"
     },
     {
       "dialogue_num": 2,
@@ -676,7 +690,8 @@
       "speaker": "怡君",
       "text_zh": "有，餐廳在學生宿舍的一樓。",
       "pinyin": "Yǒu, cāntīng zài xuéshēng sùshè de yì lóu.",
-      "translation_vn": "Có, nhà hàng ở tầng một của ký túc xá sinh viên."
+      "translation_vn": "Có, nhà hàng ở tầng một của ký túc xá sinh viên.",
+      "translation_en": "Yes, the restaurant is on the first floor of the student dormitory."
     },
     {
       "dialogue_num": 2,
@@ -684,7 +699,8 @@
       "speaker": "安同",
       "text_zh": "前面這棟大樓很漂亮。",
       "pinyin": "Qiánmiàn zhè dòng dàlóu hěn piàoliang.",
-      "translation_vn": "Tòa nhà lớn phía trước này rất đẹp."
+      "translation_vn": "Tòa nhà lớn phía trước này rất đẹp.",
+      "translation_en": "This big building in front is very beautiful."
     },
     {
       "dialogue_num": 2,
@@ -692,7 +708,8 @@
       "speaker": "怡君",
       "text_zh": "這是圖書館，旁邊的那棟大樓是教室，圖書館後面有游泳池。",
       "pinyin": "Zhè shì túshūguǎn, pángbiān de nà dòng dàlóu shì jiàoshì, túshūguǎn hòumiàn yǒu yóuyǒngchí.",
-      "translation_vn": "Đây là thư viện, tòa nhà bên cạnh là phòng học, phía sau thư viện có hồ bơi."
+      "translation_vn": "Đây là thư viện, tòa nhà bên cạnh là phòng học, phía sau thư viện có hồ bơi.",
+      "translation_en": "This is the library, the building next to it is the classroom, behind the library there is a swimming pool."
     }
   ],
   "exercises": [

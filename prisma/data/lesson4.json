@@ -505,7 +505,8 @@
       "speaker": "老闆",
       "text_zh": "請問你要買什麼？",
       "pinyin": "Qǐngwèn nǐ yào mǎi shénme?",
-      "translation_vn": "Xin hỏi cháu muốn mua gì?"
+      "translation_vn": "Xin hỏi cháu muốn mua gì?",
+      "translation_en": "What do you want to buy, please?"
     },
     {
       "dialogue_num": 1,
@@ -513,7 +514,8 @@
       "speaker": "明華",
       "text_zh": "一杯熱咖啡。兩個包子。",
       "pinyin": "Yì bēi rè kāfēi. Liǎng ge bāozi.",
-      "translation_vn": "Cho cháu một ly cà phê nóng và hai cái bánh bao."
+      "translation_vn": "Cho cháu một ly cà phê nóng và hai cái bánh bao.",
+      "translation_en": "Give me a cup of hot coffee and two dumplings."
     },
     {
       "dialogue_num": 1,
@@ -521,7 +523,8 @@
       "speaker": "老闆",
       "text_zh": "你要大杯、中杯還是小杯？",
       "pinyin": "Nǐ yào dà bēi, zhōng bēi háishì xiǎo bēi?",
-      "translation_vn": "Cháu lấy ly lớn, ly vừa hay ly nhỏ?"
+      "translation_vn": "Cháu lấy ly lớn, ly vừa hay ly nhỏ?",
+      "translation_en": "Do I get a large glass, a medium glass or a small glass?"
     },
     {
       "dialogue_num": 1,
@@ -529,7 +532,8 @@
       "speaker": "明華",
       "text_zh": "大杯。包子請幫我微波。",
       "pinyin": "Dà bēi. Bāozi qǐng bāng wǒ wéibō.",
-      "translation_vn": "Ly lớn ạ. Bánh bao xin làm nóng giúp cháu với."
+      "translation_vn": "Ly lớn ạ. Bánh bao xin làm nóng giúp cháu với.",
+      "translation_en": "Big glass. Please help me warm up the dumplings."
     },
     {
       "dialogue_num": 1,
@@ -537,7 +541,8 @@
       "speaker": "老闆",
       "text_zh": "好的。請問外帶還是內用？",
       "pinyin": "Hǎode. Qǐngwèn wàidài háishì nèiyòng?",
-      "translation_vn": "Được rồi. Mang đi hay dùng tại đây hả cháu?"
+      "translation_vn": "Được rồi. Mang đi hay dùng tại đây hả cháu?",
+      "translation_en": "Alright. Take it away or use it here?"
     },
     {
       "dialogue_num": 1,
@@ -545,7 +550,8 @@
       "speaker": "明華",
       "text_zh": "外帶, 一共多少錢？",
       "pinyin": "Wàidài, yígòng duōshǎo qián?",
-      "translation_vn": "Mang đi ạ, tổng cộng bao nhiêu tiền thế bác?"
+      "translation_vn": "Mang đi ạ, tổng cộng bao nhiêu tiền thế bác?",
+      "translation_en": "Take it away, how much is the total?"
     },
     {
       "dialogue_num": 1,
@@ -553,7 +559,8 @@
       "speaker": "老闆",
       "text_zh": "咖啡八十, 包子四十, 一共一百二十塊。",
       "pinyin": "Kāfēi bāshí, bāozi sìshí, yígòng yìbǎi èrshí kuài.",
-      "translation_vn": "Cà phê 80, bánh bao 40, tổng cộng 120 tệ."
+      "translation_vn": "Cà phê 80, bánh bao 40, tổng cộng 120 tệ.",
+      "translation_en": "Coffee 80, dumplings 40, total 120 yuan."
     },
     {
       "dialogue_num": 2,
@@ -561,7 +568,8 @@
       "speaker": "月美",
       "text_zh": "我想買一支新手機。",
       "pinyin": "Wǒ xiǎng mǎi yì zhī xīn shǒujī.",
-      "translation_vn": "Tớ muốn mua một chiếc điện thoại di động mới."
+      "translation_vn": "Tớ muốn mua một chiếc điện thoại di động mới.",
+      "translation_en": "I want to buy a new cell phone."
     },
     {
       "dialogue_num": 2,
@@ -569,7 +577,8 @@
       "speaker": "明華",
       "text_zh": "妳的手機很好。為什麼要買新的？",
       "pinyin": "Nǐ de shǒujī hěn hǎo. Wèishénme yào mǎi xīn de?",
-      "translation_vn": "Điện thoại của cậu tốt mà. Tại sao phải mua cái mới?"
+      "translation_vn": "Điện thoại của cậu tốt mà. Tại sao phải mua cái mới?",
+      "translation_en": "Your phone is good. Why buy a new one?"
     },
     {
       "dialogue_num": 2,
@@ -577,7 +586,8 @@
       "speaker": "月美",
       "text_zh": "我這支手機太舊了, 不好看。",
       "pinyin": "Wǒ zhe zhī shǒujī tài jiù le, bù hǎokàn.",
-      "translation_vn": "Cái điện thoại này của tớ cũ quá rồi, không đẹp nữa."
+      "translation_vn": "Cái điện thoại này của tớ cũ quá rồi, không đẹp nữa.",
+      "translation_en": "My phone is so old, it's not beautiful anymore."
     },
     {
       "dialogue_num": 2,
@@ -585,7 +595,8 @@
       "speaker": "明華",
       "text_zh": "妳想買哪種手機？",
       "pinyin": "Nǐ xiǎng mǎi nǎ zhǒng shǒujī?",
-      "translation_vn": "Cậu muốn mua loại điện thoại nào?"
+      "translation_vn": "Cậu muốn mua loại điện thoại nào?",
+      "translation_en": "What kind of phone do you want to buy?"
     },
     {
       "dialogue_num": 2,
@@ -593,7 +604,8 @@
       "speaker": "月美",
       "text_zh": "能照相也能上網。",
       "pinyin": "Néng zhàoxiàng yě néng shàngwǎng.",
-      "translation_vn": "Có thể chụp ảnh mà cũng lên mạng được."
+      "translation_vn": "Có thể chụp ảnh mà cũng lên mạng được.",
+      "translation_en": "You can take photos and also post them online."
     },
     {
       "dialogue_num": 2,
@@ -601,7 +613,8 @@
       "speaker": "明華",
       "text_zh": "那種手機很好, 我哥哥有一支。",
       "pinyin": "Nà zhǒng shǒujī hěn hǎo, wǒ gēge yǒu yì zhī.",
-      "translation_vn": "Loại điện thoại đó tốt lắm, anh trai tớ có một chiếc."
+      "translation_vn": "Loại điện thoại đó tốt lắm, anh trai tớ có một chiếc.",
+      "translation_en": "That kind of phone is very good, my brother has one."
     },
     {
       "dialogue_num": 2,
@@ -609,7 +622,8 @@
       "speaker": "月美",
       "text_zh": "貴不貴？一支賣多少錢？",
       "pinyin": "Guì bú guì? Yì zhī mài duōshǎo qián?",
-      "translation_vn": "Có đắt không? Một chiếc bán bao nhiêu tiền?"
+      "translation_vn": "Có đắt không? Một chiếc bán bao nhiêu tiền?",
+      "translation_en": "Is it expensive? How much does one sell for?"
     },
     {
       "dialogue_num": 2,
@@ -617,7 +631,8 @@
       "speaker": "明華",
       "text_zh": "那種手機不便宜。一支要一萬五千多。",
       "pinyin": "Nà zhǒng shǒujī bù piányí. Yì zhī yào yíwàn wǔqiān duō.",
-      "translation_vn": "Loại đó không rẻ đâu. Một chiếc tầm hơn mười lăm ngàn (tệ Đài) đấy."
+      "translation_vn": "Loại đó không rẻ đâu. Một chiếc tầm hơn mười lăm ngàn (tệ Đài) đấy.",
+      "translation_en": "That's not cheap. One car costs more than fifteen thousand (Taiwan currency)."
     }
   ],
   "exercises": [
