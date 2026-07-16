@@ -824,15 +824,26 @@
   .vocabListHeader { display: none; }
   
   .vocabRow {
-    grid-template-columns: 28px 1fr;
-    grid-template-rows: auto auto auto;
-    row-gap: 2px;
-    padding: 12px 10px;
-    align-items: flex-start;
+    grid-template-columns: 28px 1fr auto;
+    grid-template-rows: auto auto auto auto auto;
+    row-gap: 4px;
+    column-gap: 8px;
+    padding: 14px 12px;
+    align-items: center;
   }
   
-  .colNum { grid-column: 1; grid-row: 1 / 4; margin-top: 4px; }
+  .colNum { grid-column: 1; grid-row: 1 / 6; align-self: start; margin-top: 6px; }
+  
   .colZh { grid-column: 2; grid-row: 1; justify-content: flex-start; }
+  
+  .colType { 
+    grid-column: 3; 
+    grid-row: 1; 
+    display: flex; 
+    justify-content: flex-end; 
+    align-self: start; 
+    margin-top: 4px; 
+  }
   
   .colPinyin { 
     display: flex; 
@@ -842,19 +853,42 @@
     padding: 0;
     justify-content: flex-start;
   }
+
+  .colHv { 
+    display: flex; 
+    grid-column: 2; 
+    grid-row: 3; 
+    font-size: 13px; 
+    padding: 0;
+    justify-content: flex-start;
+    color: var(--text-dim);
+  }
   
   .colMeaning { 
     grid-column: 2; 
-    grid-row: 3; 
+    grid-row: 4; 
+    font-size: 14px; 
+    padding: 0;
+    justify-content: flex-start;
+    color: var(--text-body);
+  }
+
+  .colMeaningEn { 
+    grid-column: 2; 
+    grid-row: 5; 
     font-size: 13px; 
     padding: 0;
     justify-content: flex-start;
     color: var(--text-muted);
   }
 
-  /* Hide Type and Expand columns on mobile */
-  .colType,
-  .colExpand { display: none; }
+  .colExpand { 
+    grid-column: 3; 
+    grid-row: 2 / 6; 
+    display: flex; 
+    align-items: center; 
+    justify-content: flex-end; 
+  }
 
   /* Vocab example indentation */
   .vocabExample { padding: 10px 12px 12px 40px; }
