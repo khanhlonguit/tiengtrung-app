@@ -820,74 +820,108 @@
   .heroZh { font-size: 26px; }
   .heroVn { font-size: 16px; }
 
-  /* Vocab table: collapse into stacked rows */
+  /* Vocab row: split into 2 visual columns (Zh on left, details on right) */
   .vocabListHeader { display: none; }
   
   .vocabRow {
-    grid-template-columns: 28px 1fr auto;
-    grid-template-rows: auto auto auto auto auto;
-    row-gap: 4px;
-    column-gap: 8px;
-    padding: 14px 12px;
+    grid-template-areas: 
+      "num zh pinyin type expand"
+      "num zh hv     hv   expand"
+      "num zh mean   mean expand"
+      "num zh en     en   expand";
+    grid-template-columns: 24px auto 1fr auto auto;
+    grid-template-rows: auto auto auto auto;
+    row-gap: 2px;
+    column-gap: 12px;
+    padding: 16px 12px;
     align-items: center;
   }
   
-  .colNum { grid-column: 1; grid-row: 1 / 6; align-self: start; margin-top: 6px; }
-  
-  .colZh { grid-column: 2; grid-row: 1; justify-content: flex-start; }
-  
-  .colType { 
-    grid-column: 3; 
-    grid-row: 1; 
-    display: flex; 
-    justify-content: flex-end; 
+  .colNum { 
+    grid-area: num; 
     align-self: start; 
-    margin-top: 4px; 
+    margin-top: 4px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: var(--bg-hover-med);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--text-muted);
   }
   
-  .colPinyin { 
-    display: flex; 
-    grid-column: 2; 
-    grid-row: 2; 
-    font-size: 14px; 
-    padding: 0;
-    justify-content: flex-start;
+  .colZh { 
+    grid-area: zh; 
+    align-self: start;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    width: auto;
+  }
+  
+  .vocabZh {
+    font-size: 32px;
+    color: var(--accent);
+    line-height: 1;
   }
 
-  .colHv { 
-    display: flex; 
-    grid-column: 2; 
-    grid-row: 3; 
-    font-size: 13px; 
+  .colZh .speakBtn {
+    margin-left: 0;
+  }
+
+  .colPinyin { 
+    grid-area: pinyin;
+    font-size: 15px; 
+    font-weight: 700;
+    color: var(--accent);
     padding: 0;
-    justify-content: flex-start;
+  }
+
+  .colType { 
+    grid-area: type;
+    display: flex; 
+    justify-content: flex-end; 
+    align-self: center;
+    margin-top: 0;
+  }
+  
+  .colHv { 
+    grid-area: hv;
+    font-size: 12px; 
     color: var(--text-dim);
+    padding: 0;
   }
   
   .colMeaning { 
-    grid-column: 2; 
-    grid-row: 4; 
-    font-size: 14px; 
-    padding: 0;
-    justify-content: flex-start;
-    color: var(--text-body);
-  }
-
-  .colMeaningEn { 
-    grid-column: 2; 
-    grid-row: 5; 
+    grid-area: mean;
     font-size: 13px; 
+    color: var(--text-body);
+    white-space: normal;
     padding: 0;
-    justify-content: flex-start;
-    color: var(--text-muted);
+    line-height: 1.3;
   }
-
+  
+  .colMeaningEn { 
+    grid-area: en;
+    font-size: 12px; 
+    color: var(--text-muted);
+    white-space: normal;
+    padding: 0;
+    line-height: 1.3;
+  }
+  
   .colExpand { 
-    grid-column: 3; 
-    grid-row: 2 / 6; 
+    grid-area: expand;
     display: flex; 
     align-items: center; 
-    justify-content: flex-end; 
+    justify-content: center; 
+    width: auto;
+    height: auto;
+    background: transparent;
   }
 
   /* Vocab example indentation */
