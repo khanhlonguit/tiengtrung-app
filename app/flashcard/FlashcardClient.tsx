@@ -55,7 +55,8 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
   const [flipped, setFlipped] = useState(false);
   const [loading, setLoading] = useState(false);
   
-  // Quiz states
+  // Study / Quiz states
+  const [studyCount, setStudyCount] = useState<number>(20);
   const [quizCount, setQuizCount] = useState<number>(10);
   const [quizQuestions, setQuizQuestions] = useState<QuizQuestion[]>([]);
   const [score, setScore] = useState(0);
@@ -82,7 +83,10 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
       const ids = Array.from(selectedLessons).join(',');
       const res = await fetch(`/api/flashcard?lessons=${ids}`);
       const data: Vocab[] = await res.json();
-      setCards(data);
+      // Xáo bài rồi lấy đúng số lượng đã chọn (studyCount <= 0 hoặc NaN => lấy tất cả)
+      const count = studyCount > 0 ? studyCount : data.length;
+      const sliced = count >= data.length ? shuffle(data) : shuffle(data).slice(0, count);
+      setCards(sliced);
       setCurrentIndex(0);
       setFlipped(false);
       setPhase('study');
@@ -299,15 +303,43 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
               ))}
             </div>
 
-                        <div className={styles.quizSettings}>
-              <label htmlFor='quizCount'>Số câu trắc nghiệm:</label>
-              <select id='quizCount' value={quizCount} onChange={e => setQuizCount(Number(e.target.value))} className={styles.quizSelect}>
-                <option value={5}>5 câu</option>
-                <option value={10}>10 câu</option>
-                <option value={15}>15 câu</option>
-                <option value={20}>20 câu</option>
-                <option value={9999}>Tất cả</option>
-              </select>
+            <div className={styles.settingsGrid}>
+              <div className={styles.settingItem}>
+                <label htmlFor='studyCount' className={styles.settingLabel}>
+                  🃏 Số thẻ muốn ôn
+                </label>
+                <input
+                  id='studyCount'
+                  type='number'
+                  min={1}
+                  max={9999}
+                  placeholder='VD: 20'
+                  value={studyCount === 0 ? '' : studyCount}
+                  onChange={e => {
+                    const val = parseInt(e.target.value, 10);
+                    setStudyCount(isNaN(val) ? 0 : val);
+                  }}
+                  className={styles.countInput}
+                />
+              </div>
+              <div className={styles.settingItem}>
+                <label htmlFor='quizCount' className={styles.settingLabel}>
+                  📝 Số câu trắc nghiệm
+                </label>
+                <input
+                  id='quizCount'
+                  type='number'
+                  min={1}
+                  max={9999}
+                  placeholder='VD: 10'
+                  value={quizCount === 0 ? '' : quizCount}
+                  onChange={e => {
+                    const val = parseInt(e.target.value, 10);
+                    setQuizCount(isNaN(val) ? 0 : val);
+                  }}
+                  className={styles.countInput}
+                />
+              </div>
             </div>
             <div className={styles.actionButtons}>
               <button
