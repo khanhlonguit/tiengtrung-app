@@ -347,6 +347,22 @@
 }
 
 /* ── TOGGLE BUTTONS (Dialogue) ── */
+.dialogueStickyBar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 32px 12px;
+  margin-left: -32px;
+  margin-right: -32px;
+  margin-bottom: 20px;
+  background: var(--bg-base);
+  border-bottom: 1px solid var(--border-faint);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
 .toggleGroup {
   display: flex;
   gap: 8px;

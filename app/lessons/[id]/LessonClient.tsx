@@ -422,6 +422,8 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                       <h2>Hội Thoại</h2>
                       <span className={styles.badge}>{Object.keys(groupedDialogues).length} đoạn hội thoại</span>
                     </div>
+                  </div>
+                  <div className={styles.dialogueStickyBar}>
                     <div className={styles.toggleGroup}>
                       <button
                         className={`${styles.toggleBtn} ${showPinyin ? styles.toggleBtnOn : ''}`}
