@@ -716,6 +716,7 @@
   cursor: pointer;
   transition: all 0.2s;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
@@ -751,6 +752,15 @@
 
 .quizOptionFaded {
   opacity: 0.5 !important;
+}
+
+.quizOptionPinyin {
+  display: block;
+  font-size: 11px;
+  font-style: italic;
+  opacity: 0.85;
+  margin-top: 3px;
+  letter-spacing: 0.03em;
 }
 
 .quizNextBtn {

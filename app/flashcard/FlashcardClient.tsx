@@ -28,6 +28,7 @@ type Phase = 'select' | 'study' | 'quiz' | 'quiz_result';
 
 type QuizOption = {
   text: string;
+  pinyinText?: string;
   isCorrect: boolean;
 };
 
@@ -110,15 +111,15 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
       if (type === 0) {
         questionType = 'Việt → Trung (có Pinyin)';
         qText = vocab.meaning_vn;
-        correctAnsText = `${vocab.word_zh} (${vocab.pinyin})`;
+        correctAnsText = vocab.word_zh;
       } else if (type === 1) {
         questionType = 'Việt → Trung';
         qText = vocab.meaning_vn;
         correctAnsText = vocab.word_zh;
       } else if (type === 2) {
-        questionType = 'Trung → Việt (có Pinyin)';
+        questionType = 'Trung → Việt';
         qText = vocab.word_zh;
-        correctAnsText = `${vocab.meaning_vn} (${vocab.pinyin})`;
+        correctAnsText = vocab.meaning_vn;
       } else {
         questionType = 'Trung → Việt';
         qText = vocab.word_zh;
@@ -127,19 +128,19 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
 
       const distractors = shuffle(data.filter(v => v.id !== vocab.id)).slice(0, 3);
       const wrongOptions = distractors.map(d => {
-        if (type === 0) return `${d.word_zh} (${d.pinyin})`;
-        if (type === 1) return d.word_zh;
-        if (type === 2) return `${d.meaning_vn} (${d.pinyin})`;
-        return d.meaning_vn;
+        if (type === 0 || type === 1) return { text: d.word_zh, pinyin: d.pinyin };
+        return { text: d.meaning_vn, pinyin: '' };
       });
 
       while (wrongOptions.length < 3) {
-        wrongOptions.push(`N/A ${wrongOptions.length}`);
+        wrongOptions.push({ text: `N/A ${wrongOptions.length}`, pinyin: '' });
       }
 
+      const correctPinyin = (type === 0 || type === 1) ? vocab.pinyin : '';
+
       const options = shuffle([
-        { text: correctAnsText, isCorrect: true },
-        ...wrongOptions.map(t => ({ text: t, isCorrect: false }))
+        { text: correctAnsText, pinyinText: correctPinyin, isCorrect: true },
+        ...wrongOptions.map(w => ({ text: w.text, pinyinText: w.pinyin, isCorrect: false }))
       ]);
 
       return { questionText: qText, questionType, options, originalWord: vocab };
@@ -503,6 +504,9 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
                   disabled={selectedOption !== null}
                 >
                   {opt.text}
+                  {selectedOption !== null && opt.pinyinText && (
+                    <span className={styles.quizOptionPinyin}>{opt.pinyinText}</span>
+                  )}
                 </button>
               );
             })}
