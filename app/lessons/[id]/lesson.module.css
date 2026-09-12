@@ -1401,6 +1401,16 @@
   border-radius: 6px;
   border-left: 3px solid var(--accent);
   margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.answerPinyin {
+  font-size: 12px;
+  color: var(--text-muted);
+  font-style: italic;
+  letter-spacing: 0.02em;
 }
 
 .exerciseFooter {

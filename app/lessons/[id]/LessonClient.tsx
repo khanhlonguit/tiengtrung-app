@@ -5,7 +5,13 @@ import { useParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
 import styles from './lesson.module.css';
 import { speak, initVoices } from '@/lib/useTTS';
+import { pinyin as pinyinConvert } from 'pinyin-pro';
 import { useTheme } from '@/app/ThemeProvider';
+
+function toPinyin(text: string): string {
+  if (!text) return '';
+  return pinyinConvert(text, { toneType: 'symbol', separator: ' ' });
+}
 
 type Lesson = { id: number; title_vn: string; title_zh: string; subtitle: string };
 type Vocab = {
@@ -567,6 +573,9 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                                 {isShowAns && (
                                   <div className={styles.answerText}>
                                     Đáp án: <strong>{answerArr.join(', ')}</strong>
+                                    <span className={styles.answerPinyin}>
+                                      {answerArr.map(a => toPinyin(a)).join(' / ')}
+                                    </span>
                                   </div>
                                 )}
                               </div>
