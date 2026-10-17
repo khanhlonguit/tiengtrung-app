@@ -1,0 +1,1200 @@
+{
+  "id": 104,
+  "book": 2,
+  "title_vn": "Tôi đi làm thêm, tôi dạy tiếng Pháp",
+  "title_zh": "我打工，我教法文",
+  "subtitle": "Công việc & phỏng vấn xin việc",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "高美玲",
+      "pinyin": "Gāo Měilíng",
+      "word_type": "N",
+      "meaning_vn": "Cao Mỹ Linh (cô gái người Pháp)",
+      "example_zh": "高美玲是法國人。",
+      "example_pinyin": "Gāo Měilíng shì Fǎguó rén.",
+      "example_vn": "Cao Mỹ Linh là người Pháp.",
+      "meaning_hv": "Cao Mỹ Linh",
+      "meaning_en": "Gao Meiling, a woman from France",
+      "example_en": "Gao Meiling is French."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "打工",
+      "pinyin": "dǎgōng",
+      "word_type": "V-sep",
+      "meaning_vn": "Làm thêm",
+      "example_zh": "我在咖啡店打工。",
+      "example_pinyin": "Wǒ zài kāfēi diàn dǎgōng.",
+      "example_vn": "Tôi làm thêm ở quán cà phê.",
+      "meaning_hv": "Đả công",
+      "meaning_en": "To work part-time",
+      "example_en": "I work part-time at a café."
+    },
+    {
+      "order_num": 3,
+      "word_zh": "主任",
+      "pinyin": "zhǔrèn",
+      "word_type": "N",
+      "meaning_vn": "Chủ nhiệm, trưởng bộ phận",
+      "example_zh": "黃主任很客氣。",
+      "example_pinyin": "Huáng zhǔrèn hěn kèqi.",
+      "example_vn": "Chủ nhiệm Hoàng rất lịch sự.",
+      "meaning_hv": "Chủ nhiệm",
+      "meaning_en": "Director",
+      "example_en": "Director Huang is very polite."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "介紹",
+      "pinyin": "jièshào",
+      "word_type": "V",
+      "meaning_vn": "Giới thiệu",
+      "example_zh": "請你先介紹一下自己。",
+      "example_pinyin": "Qǐng nǐ xiān jièshào yíxià zìjǐ.",
+      "example_vn": "Xin bạn giới thiệu bản thân trước.",
+      "meaning_hv": "Giới thiệu",
+      "meaning_en": "To introduce",
+      "example_en": "Please introduce yourself first."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "歲",
+      "pinyin": "suì",
+      "word_type": "M",
+      "meaning_vn": "Tuổi",
+      "example_zh": "我今年二十八歲。",
+      "example_pinyin": "Wǒ jīnnián èrshíbā suì.",
+      "example_vn": "Năm nay tôi hai mươi tám tuổi.",
+      "meaning_hv": "Tuế",
+      "meaning_en": "Years of age",
+      "example_en": "I am 28 years old this year."
+    },
+    {
+      "order_num": 6,
+      "word_zh": "語言學",
+      "pinyin": "yǔyánxué",
+      "word_type": "N",
+      "meaning_vn": "Ngôn ngữ học",
+      "example_zh": "她在大學念語言學。",
+      "example_pinyin": "Tā zài dàxué niàn yǔyánxué.",
+      "example_vn": "Cô ấy học ngôn ngữ học ở đại học.",
+      "meaning_hv": "Ngữ ngôn học",
+      "meaning_en": "Linguistics",
+      "example_en": "She studied linguistics in college."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "經驗",
+      "pinyin": "jīngyàn",
+      "word_type": "N",
+      "meaning_vn": "Kinh nghiệm",
+      "example_zh": "她有教法文的經驗。",
+      "example_pinyin": "Tā yǒu jiāo Fǎwén de jīngyàn.",
+      "example_vn": "Cô ấy có kinh nghiệm dạy tiếng Pháp.",
+      "meaning_hv": "Kinh nghiệm",
+      "meaning_en": "Experience",
+      "example_en": "She has experience teaching French."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "談",
+      "pinyin": "tán",
+      "word_type": "V",
+      "meaning_vn": "Nói chuyện, bàn bạc",
+      "example_zh": "請你談一談。",
+      "example_pinyin": "Qǐng nǐ tán yi tán.",
+      "example_vn": "Xin bạn nói một chút.",
+      "meaning_hv": "Đàm",
+      "meaning_en": "To talk over, to talk about, to discuss",
+      "example_en": "Please tell me about it."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "當",
+      "pinyin": "dāng",
+      "word_type": "V",
+      "meaning_vn": "Làm (nghề, chức vụ)",
+      "example_zh": "我當過老師。",
+      "example_pinyin": "Wǒ dāngguo lǎoshī.",
+      "example_vn": "Tôi đã từng làm giáo viên.",
+      "meaning_hv": "Đương",
+      "meaning_en": "To serve as",
+      "example_en": "I have served as a teacher."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "助教",
+      "pinyin": "zhùjiào",
+      "word_type": "N",
+      "meaning_vn": "Trợ giảng",
+      "example_zh": "她當過語言助教。",
+      "example_pinyin": "Tā dāngguo yǔyán zhùjiào.",
+      "example_vn": "Cô ấy đã từng làm trợ giảng ngôn ngữ.",
+      "meaning_hv": "Trợ giáo",
+      "meaning_en": "Teaching assistant",
+      "example_en": "She was a language teaching assistant."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "上午",
+      "pinyin": "shàngwǔ",
+      "word_type": "N",
+      "meaning_vn": "Buổi sáng",
+      "example_zh": "我上午學中文。",
+      "example_pinyin": "Wǒ shàngwǔ xué Zhōngwén.",
+      "example_vn": "Buổi sáng tôi học tiếng Trung.",
+      "meaning_hv": "Thượng ngọ",
+      "meaning_en": "Morning",
+      "example_en": "I study Chinese in the morning."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "除了",
+      "pinyin": "chúle",
+      "word_type": "Prep",
+      "meaning_vn": "Ngoài… ra, trừ…",
+      "example_zh": "除了中文，我還會說英文。",
+      "example_pinyin": "Chúle Zhōngwén, wǒ hái huì shuō Yīngwén.",
+      "example_vn": "Ngoài tiếng Trung, tôi còn biết nói tiếng Anh.",
+      "meaning_hv": "Trừ liễu",
+      "meaning_en": "Except for, other than",
+      "example_en": "In addition to Chinese, I can also speak English."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "年級",
+      "pinyin": "niánjí",
+      "word_type": "N",
+      "meaning_vn": "Lớp, năm học",
+      "example_zh": "我是大學三年級的學生。",
+      "example_pinyin": "Wǒ shì dàxué sān niánjí de xuésheng.",
+      "example_vn": "Tôi là sinh viên năm ba đại học.",
+      "meaning_hv": "Niên cấp",
+      "meaning_en": "Grade (year in school)",
+      "example_en": "I am a junior in college."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "暑假",
+      "pinyin": "shǔjià",
+      "word_type": "N",
+      "meaning_vn": "Kỳ nghỉ hè",
+      "example_zh": "暑假我想去台灣。",
+      "example_pinyin": "Shǔjià wǒ xiǎng qù Táiwān.",
+      "example_vn": "Kỳ nghỉ hè tôi muốn đi Đài Loan.",
+      "meaning_hv": "Thử giả",
+      "meaning_en": "Summer vacation",
+      "example_en": "I want to go to Taiwan during summer break."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "請教",
+      "pinyin": "qǐngjiào",
+      "word_type": "V",
+      "meaning_vn": "Xin hỏi, xin chỉ giáo (lịch sự)",
+      "example_zh": "我想請教您一個問題。",
+      "example_pinyin": "Wǒ xiǎng qǐngjiào nín yí ge wèntí.",
+      "example_vn": "Tôi muốn hỏi thầy một câu.",
+      "meaning_hv": "Thỉnh giáo",
+      "meaning_en": "To ask, to inquire (polite form)",
+      "example_en": "I would like to ask you a question."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "貴",
+      "pinyin": "guì",
+      "word_type": "Vs-attr",
+      "meaning_vn": "Quý (xưng hô lịch sự: của quý vị)",
+      "example_zh": "貴中心的老師很好。",
+      "example_pinyin": "Guì zhōngxīn de lǎoshī hěn hǎo.",
+      "example_vn": "Các thầy cô của quý trung tâm rất tốt.",
+      "meaning_hv": "Quý",
+      "meaning_en": "Your (honorable)",
+      "example_en": "The teachers at your center are very good."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "薪水",
+      "pinyin": "xīnshuǐ",
+      "word_type": "N",
+      "meaning_vn": "Tiền lương",
+      "example_zh": "這份工作的薪水很好。",
+      "example_pinyin": "Zhè fèn gōngzuò de xīnshuǐ hěn hǎo.",
+      "example_vn": "Công việc này lương rất tốt.",
+      "meaning_hv": "Tân thủy",
+      "meaning_en": "Pay",
+      "example_en": "The pay for this job is very good."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "算",
+      "pinyin": "suàn",
+      "word_type": "V",
+      "meaning_vn": "Tính, tính toán",
+      "example_zh": "薪水怎麼算？",
+      "example_pinyin": "Xīnshuǐ zěnme suàn?",
+      "example_vn": "Lương tính như thế nào?",
+      "meaning_hv": "Toán",
+      "meaning_en": "To calculate",
+      "example_en": "How is the pay calculated?"
+    },
+    {
+      "order_num": 19,
+      "word_zh": "按照",
+      "pinyin": "ànzhào",
+      "word_type": "Prep",
+      "meaning_vn": "Theo, dựa theo",
+      "example_zh": "按照法律，外國學生不可以工作。",
+      "example_pinyin": "Ànzhào fǎlǜ, wàiguó xuésheng bù kěyǐ gōngzuò.",
+      "example_vn": "Theo luật, sinh viên nước ngoài không được làm việc.",
+      "meaning_hv": "Án chiếu",
+      "meaning_en": "Based on, in accordance with",
+      "example_en": "According to the law, foreign students may not work."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "教授",
+      "pinyin": "jiàoshòu",
+      "word_type": "N",
+      "meaning_vn": "Giáo sư",
+      "example_zh": "李教授教我們書法。",
+      "example_pinyin": "Lǐ jiàoshòu jiāo wǒmen shūfǎ.",
+      "example_vn": "Giáo sư Lý dạy chúng tôi thư pháp.",
+      "meaning_hv": "Giáo thụ",
+      "meaning_en": "Professor",
+      "example_en": "Professor Li teaches us calligraphy."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "鐘點費",
+      "pinyin": "zhōngdiǎnfèi",
+      "word_type": "N",
+      "meaning_vn": "Tiền công theo giờ",
+      "example_zh": "鐘點費按照時間算。",
+      "example_pinyin": "Zhōngdiǎnfèi ànzhào shíjiān suàn.",
+      "example_vn": "Tiền công theo giờ được tính theo thời gian.",
+      "meaning_hv": "Chung điểm phí",
+      "meaning_en": "Hourly pay",
+      "example_en": "The hourly pay is calculated by hours worked."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "份",
+      "pinyin": "fèn",
+      "word_type": "M",
+      "meaning_vn": "Phần, (lượng từ cho công việc)",
+      "example_zh": "我很想試試這份工作。",
+      "example_pinyin": "Wǒ hěn xiǎng shìshi zhè fèn gōngzuò.",
+      "example_vn": "Tôi rất muốn thử công việc này.",
+      "meaning_hv": "Phần",
+      "meaning_en": "Measure word for job",
+      "example_en": "I would very much like to try this job."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "法文",
+      "pinyin": "Fǎwén",
+      "word_type": "N",
+      "meaning_vn": "Tiếng Pháp",
+      "example_zh": "她教法文。",
+      "example_pinyin": "Tā jiāo Fǎwén.",
+      "example_vn": "Cô ấy dạy tiếng Pháp.",
+      "meaning_hv": "Pháp văn",
+      "meaning_en": "French language",
+      "example_en": "She teaches French."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "亞洲",
+      "pinyin": "Yàzhōu",
+      "word_type": "N",
+      "meaning_vn": "Châu Á",
+      "example_zh": "她喜歡亞洲文化。",
+      "example_pinyin": "Tā xǐhuan Yàzhōu wénhuà.",
+      "example_vn": "Cô ấy thích văn hóa châu Á.",
+      "meaning_hv": "Á Châu",
+      "meaning_en": "Asia",
+      "example_en": "She likes Asian culture."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "西班牙語",
+      "pinyin": "Xībānyáyǔ",
+      "word_type": "N",
+      "meaning_vn": "Tiếng Tây Ban Nha",
+      "example_zh": "她會說西班牙語。",
+      "example_pinyin": "Tā huì shuō Xībānyáyǔ.",
+      "example_vn": "Cô ấy biết nói tiếng Tây Ban Nha.",
+      "meaning_hv": "Tây Ban Nha ngữ",
+      "meaning_en": "Spanish language",
+      "example_en": "She can speak Spanish."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "英文",
+      "pinyin": "Yīngwén",
+      "word_type": "N",
+      "meaning_vn": "Tiếng Anh",
+      "example_zh": "我也會說英文。",
+      "example_pinyin": "Wǒ yě huì shuō Yīngwén.",
+      "example_vn": "Tôi cũng biết nói tiếng Anh.",
+      "meaning_hv": "Anh văn",
+      "meaning_en": "English language",
+      "example_en": "I can also speak English."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "三年級",
+      "pinyin": "sān niánjí",
+      "word_type": "",
+      "meaning_vn": "Năm thứ ba (ở trường học hoặc đại học)",
+      "example_zh": "我大學三年級的時候去了法國。",
+      "example_pinyin": "Wǒ dàxué sān niánjí de shíhou qù le Fǎguó.",
+      "example_vn": "Hồi năm ba đại học tôi đã đến Pháp.",
+      "meaning_hv": "Tam niên cấp",
+      "meaning_en": "Grade three (school or university)",
+      "example_en": "I went to France in my junior year of college."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "法律",
+      "pinyin": "fǎlǜ",
+      "word_type": "N",
+      "meaning_vn": "Pháp luật",
+      "example_zh": "台灣的法律很清楚。",
+      "example_pinyin": "Táiwān de fǎlǜ hěn qīng chǔ.",
+      "example_vn": "Pháp luật Đài Loan rất rõ ràng.",
+      "meaning_hv": "Pháp luật",
+      "meaning_en": "Law",
+      "example_en": "Taiwan's law is very clear."
+    },
+    {
+      "order_num": 29,
+      "word_zh": "夠",
+      "pinyin": "gòu",
+      "word_type": "Vs-pred",
+      "meaning_vn": "Đủ",
+      "example_zh": "我的經驗還不夠。",
+      "example_pinyin": "Wǒ de jīngyàn hái búgòu.",
+      "example_vn": "Kinh nghiệm của tôi vẫn chưa đủ.",
+      "meaning_hv": "Cấu",
+      "meaning_en": "Enough",
+      "example_en": "My experience is still not enough."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "履歷表",
+      "pinyin": "lǚlìbiǎo",
+      "word_type": "N",
+      "meaning_vn": "Sơ yếu lý lịch, CV",
+      "example_zh": "她帶著履歷表去面談。",
+      "example_pinyin": "Tā dàizhe lǚlìbiǎo qù miàntán.",
+      "example_vn": "Cô ấy mang theo sơ yếu lý lịch đi phỏng vấn.",
+      "meaning_hv": "Lý lịch biểu",
+      "meaning_en": "Resume",
+      "example_en": "She brought her resume to the interview."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "面談",
+      "pinyin": "miàntán",
+      "word_type": "Vi, N",
+      "meaning_vn": "Phỏng vấn (trực tiếp), cuộc phỏng vấn",
+      "example_zh": "明天我有一個面談。",
+      "example_pinyin": "Míngtiān wǒ yǒu yí ge miàntán.",
+      "example_vn": "Ngày mai tôi có một cuộc phỏng vấn.",
+      "meaning_hv": "Diện đàm",
+      "meaning_en": "To have an interview, interview",
+      "example_en": "I have an interview tomorrow."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "華僑",
+      "pinyin": "Huáqiáo",
+      "word_type": "N",
+      "meaning_vn": "Hoa kiều",
+      "example_zh": "他是法國華僑。",
+      "example_pinyin": "Tā shì Fǎguó Huáqiáo.",
+      "example_vn": "Ông ấy là Hoa kiều ở Pháp.",
+      "meaning_hv": "Hoa kiều",
+      "meaning_en": "Overseas Chinese",
+      "example_en": "He is an overseas Chinese from France."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "辦公室",
+      "pinyin": "bàngōngshì",
+      "word_type": "N",
+      "meaning_vn": "Văn phòng",
+      "example_zh": "主任在辦公室。",
+      "example_pinyin": "Zhǔrèn zài bàngōngshì.",
+      "example_vn": "Chủ nhiệm ở trong văn phòng.",
+      "meaning_hv": "Biện công thất",
+      "meaning_en": "Office",
+      "example_en": "The director is in the office."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "談話",
+      "pinyin": "tánhuà",
+      "word_type": "V-sep",
+      "meaning_vn": "Trò chuyện, nói chuyện",
+      "example_zh": "他們在辦公室談話。",
+      "example_pinyin": "Tāmen zài bàngōngshì tánhuà.",
+      "example_vn": "Họ đang nói chuyện trong văn phòng.",
+      "meaning_hv": "Đàm thoại",
+      "meaning_en": "To talk",
+      "example_en": "They are talking in the office."
+    },
+    {
+      "order_num": 35,
+      "word_zh": "情形",
+      "pinyin": "qíngxíng",
+      "word_type": "N",
+      "meaning_vn": "Tình hình, tình trạng",
+      "example_zh": "我想了解那裡的情形。",
+      "example_pinyin": "Wǒ xiǎng liǎojiě nàlǐ de qíngxíng.",
+      "example_vn": "Tôi muốn tìm hiểu tình hình ở đó.",
+      "meaning_hv": "Tình hình",
+      "meaning_en": "Situation",
+      "example_en": "I want to understand the situation there."
+    },
+    {
+      "order_num": 36,
+      "word_zh": "適合",
+      "pinyin": "shìhé",
+      "word_type": "Vst",
+      "meaning_vn": "Phù hợp, thích hợp",
+      "example_zh": "這份工作很適合你。",
+      "example_pinyin": "Zhè fèn gōngzuò hěn shìhé nǐ.",
+      "example_vn": "Công việc này rất phù hợp với bạn.",
+      "meaning_hv": "Thích hợp",
+      "meaning_en": "Suitable for",
+      "example_en": "This job is very suitable for you."
+    },
+    {
+      "order_num": 37,
+      "word_zh": "說明",
+      "pinyin": "shuōmíng",
+      "word_type": "V",
+      "meaning_vn": "Giải thích, trình bày",
+      "example_zh": "主任說明了工作環境。",
+      "example_pinyin": "Zhǔrèn shuōmíng le gōngzuò huánjìng.",
+      "example_vn": "Chủ nhiệm đã giải thích về môi trường làm việc.",
+      "meaning_hv": "Thuyết minh",
+      "meaning_en": "To explain",
+      "example_en": "The director explained the work environment."
+    },
+    {
+      "order_num": 38,
+      "word_zh": "然後",
+      "pinyin": "ránhòu",
+      "word_type": "Adv",
+      "meaning_vn": "Sau đó, rồi thì",
+      "example_zh": "先吃飯，然後去上班。",
+      "example_pinyin": "Xiān chīfàn, ránhòu qù shàngbān.",
+      "example_vn": "Ăn cơm trước, sau đó đi làm.",
+      "meaning_hv": "Nhiên hậu",
+      "meaning_en": "Afterwards, and then",
+      "example_en": "Eat first, and then go to work."
+    },
+    {
+      "order_num": 39,
+      "word_zh": "月底",
+      "pinyin": "yuèdǐ",
+      "word_type": "N",
+      "meaning_vn": "Cuối tháng",
+      "example_zh": "月底發薪水。",
+      "example_pinyin": "Yuèdǐ fā xīnshuǐ.",
+      "example_vn": "Cuối tháng phát lương.",
+      "meaning_hv": "Nguyệt để",
+      "meaning_en": "The end of a month",
+      "example_en": "Pay is issued at the end of the month."
+    },
+    {
+      "order_num": 40,
+      "word_zh": "發",
+      "pinyin": "fā",
+      "word_type": "V",
+      "meaning_vn": "Phát (lương), gửi",
+      "example_zh": "老闆每個月發薪水。",
+      "example_pinyin": "Lǎobǎn měi ge yuè fā xīnshuǐ.",
+      "example_vn": "Ông chủ mỗi tháng phát lương.",
+      "meaning_hv": "Phát",
+      "meaning_en": "To pay (wages)",
+      "example_en": "The boss pays wages every month."
+    },
+    {
+      "order_num": 41,
+      "word_zh": "馬上",
+      "pinyin": "mǎshàng",
+      "word_type": "Adv",
+      "meaning_vn": "Lập tức, ngay",
+      "example_zh": "她馬上就答應了。",
+      "example_pinyin": "Tā mǎshàng jiù dāying le.",
+      "example_vn": "Cô ấy nhận lời ngay lập tức.",
+      "meaning_hv": "Mã thượng",
+      "meaning_en": "Immediately",
+      "example_en": "She accepted immediately."
+    },
+    {
+      "order_num": 42,
+      "word_zh": "答應",
+      "pinyin": "dāying",
+      "word_type": "V",
+      "meaning_vn": "Nhận lời, đồng ý",
+      "example_zh": "他答應了這份工作。",
+      "example_pinyin": "Tā dāying le zhè fèn gōngzuò.",
+      "example_vn": "Anh ấy đã nhận lời công việc này.",
+      "meaning_hv": "Đáp ứng",
+      "meaning_en": "To accept",
+      "example_en": "He accepted the job."
+    },
+    {
+      "order_num": 43,
+      "word_zh": "順利",
+      "pinyin": "shùnlì",
+      "word_type": "Vs",
+      "meaning_vn": "Thuận lợi, suôn sẻ",
+      "example_zh": "面談很順利。",
+      "example_pinyin": "Miàntán hěn shùnlì.",
+      "example_vn": "Buổi phỏng vấn rất suôn sẻ.",
+      "meaning_hv": "Thuận lợi",
+      "meaning_en": "To go, to proceed, smoothly",
+      "example_en": "The interview went smoothly."
+    },
+    {
+      "order_num": 44,
+      "word_zh": "黃",
+      "pinyin": "Huáng",
+      "word_type": "N",
+      "meaning_vn": "Họ Hoàng (nghĩa đen: màu vàng)",
+      "example_zh": "這位主任姓黃。",
+      "example_pinyin": "Zhè wèi zhǔrèn xìng Huáng.",
+      "example_vn": "Vị chủ nhiệm này họ Hoàng.",
+      "meaning_hv": "Hoàng",
+      "meaning_en": "A common Chinese family name, literally \"yellow\"",
+      "example_en": "This director's surname is Huang."
+    },
+    {
+      "order_num": 45,
+      "word_zh": "沒想到",
+      "pinyin": "méi xiǎngdào",
+      "word_type": "",
+      "meaning_vn": "Không ngờ",
+      "example_zh": "我沒想到面談這麼順利。",
+      "example_pinyin": "Wǒ méi xiǎngdào miàntán zhème shùnlì.",
+      "example_vn": "Tôi không ngờ buổi phỏng vấn lại suôn sẻ như vậy.",
+      "meaning_hv": "Một tưởng đáo",
+      "meaning_en": "Unexpectedly, didn't expect",
+      "example_en": "I didn't expect the interview to go so smoothly."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "Bổ sung thêm: 除了…，還… (ngoài… ra còn…)",
+      "explanation": "Mẫu câu giới thiệu thêm các thành phần khác ngoài những gì được nêu sau 除了. Cấu trúc: 除了 A，(主語)還 B. Phó từ 還 thường có thể thay bằng 也 mà nghĩa không đổi. Dạng phủ định: 除了不…，還不… / 除了沒…，還沒…. Câu hỏi thường có từ nghi vấn (哪些, 什麼) hoặc 嗎/是不是.",
+      "examples": "[{\"zh\":\"放假的時候，馬安同除了常打籃球，還常踢足球。\",\"pinyin\":\"Fàngjià de shíhou, Mǎ Āntóng chúle cháng dǎ lánqiú, hái cháng tī zúqiú.\",\"vn\":\"Vào kỳ nghỉ, ngoài việc thường chơi bóng rổ, Mã An Đồng còn thường đá bóng.\"},{\"zh\":\"台灣好吃的小吃，除了牛肉麵，還有小籠包。\",\"pinyin\":\"Táiwān hǎochī de xiǎochī, chúle niúròumiàn, hái yǒu xiǎolóngbāo.\",\"vn\":\"Đồ ăn vặt ngon của Đài Loan, ngoài mì bò còn có bánh bao tiểu long.\"},{\"zh\":\"從學校到火車站，除了坐捷運，還可以坐公車。\",\"pinyin\":\"Cóng xuéxiào dào huǒchēzhàn, chúle zuò jiéyùn, hái kěyǐ zuò gōngchē.\",\"vn\":\"Từ trường đến ga xe lửa, ngoài đi tàu điện ngầm còn có thể đi xe buýt.\"},{\"zh\":\"白如玉除了不喜歡喝茶，她還不喜歡喝咖啡。\",\"pinyin\":\"Bái Rúyù chúle bù xǐhuan hē chá, tā hái bù xǐhuan hē kāfēi.\",\"vn\":\"Bạch Như Ngọc ngoài không thích uống trà, còn không thích uống cà phê.\"},{\"zh\":\"馬安同生病了，他除了沒寫作業，還沒準備考試。\",\"pinyin\":\"Mǎ Āntóng shēngbìng le, tā chúle méi xiě zuòyè, hái méi zhǔnbèi kǎoshì.\",\"vn\":\"Mã An Đồng bị bệnh, ngoài chưa làm bài tập, anh còn chưa chuẩn bị thi.\"},{\"zh\":\"你們除了去故宮，還去了哪些地方？\",\"pinyin\":\"Nǐmen chúle qù Gùgōng, hái qù le nǎ xiē dìfang?\",\"vn\":\"Ngoài Cố Cung, các bạn còn đi những nơi nào?\"},{\"zh\":\"我們除了點牛肉麵，還要點臭豆腐嗎？\",\"pinyin\":\"Wǒmen chúle diǎn niúròumiàn, hái yào diǎn chòudòufu ma?\",\"vn\":\"Ngoài mì bò, chúng ta có gọi thêm đậu hũ thối không?\"},{\"zh\":\"除了芒果，他是不是還喜歡吃西瓜？\",\"pinyin\":\"Chúle mángguǒ, tā shì bu shì hái xǐhuan chī xīguā?\",\"vn\":\"Ngoài xoài, có phải anh ấy còn thích ăn dưa hấu không?\"},{\"zh\":\"感冒的人除了要吃藥，也要多喝水、多休息。\",\"pinyin\":\"Gǎnmào de rén chúle yào chī yào, yě yào duō hē shuǐ, duō xiūxi.\",\"vn\":\"Người bị cảm ngoài uống thuốc còn phải uống nhiều nước và nghỉ ngơi nhiều.\"},{\"zh\":\"陳月美租的房子除了離捷運站很近，離超市也很近。\",\"pinyin\":\"Chén Yuèměi zū de fángzi chúle lí jiéyùnzhàn hěn jìn, lí chāoshì yě hěn jìn.\",\"vn\":\"Căn nhà Trần Nguyệt Mỹ thuê ngoài gần ga tàu điện ngầm, còn gần siêu thị nữa.\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Giới từ 按照 (theo, dựa theo)",
+      "explanation": "按照 là giới từ chỉ \"dựa trên, theo\". Cụm giới từ 按照… có thể đứng đầu câu hoặc trước động từ. Phủ định đặt 沒/不 trước 按照. Khi hỏi, ngoài 嗎, chỉ có thể dùng mẫu 是不是 (không dùng A-不-A trên 按照).",
+      "examples": "[{\"zh\":\"按照醫生說的，你睡覺以前要吃一包藥。\",\"pinyin\":\"Ànzhào yīshēng shuō de, nǐ shuìjiào yǐqián yào chī yì bāo yào.\",\"vn\":\"Theo lời bác sĩ, trước khi ngủ bạn phải uống một gói thuốc.\"},{\"zh\":\"我打算按照網路的介紹，自己去花蓮玩玩。\",\"pinyin\":\"Wǒ dǎsuàn ànzhào wǎnglù de jièshào, zìjǐ qù Huālián wán wán.\",\"vn\":\"Tôi định theo hướng dẫn trên mạng, tự đi chơi Hoa Liên.\"},{\"zh\":\"按照台灣的法律，剛來台灣的外國學生不可以工作。\",\"pinyin\":\"Ànzhào Táiwān de fǎlǜ, gāng lái Táiwān de wàiguó xuésheng bù kěyǐ gōngzuò.\",\"vn\":\"Theo luật Đài Loan, sinh viên nước ngoài mới đến Đài Loan không được làm việc.\"},{\"zh\":\"按照他的旅行計畫，他現在應該在法國。\",\"pinyin\":\"Ànzhào tā de lǚxíng jìhuà, tā xiànzài yīnggāi zài Fǎguó.\",\"vn\":\"Theo kế hoạch du lịch của anh ấy, bây giờ anh ấy hẳn đang ở Pháp.\"},{\"zh\":\"你應該按照老師的建議，練習寫中國字。\",\"pinyin\":\"Nǐ yīnggāi ànzhào lǎoshī de jiànyì, liànxí xiě Zhōngguózì.\",\"vn\":\"Bạn nên làm theo gợi ý của thầy, luyện viết chữ Hán.\"},{\"zh\":\"馬安同沒按照老師的建議準備考試。\",\"pinyin\":\"Mǎ Āntóng méi ànzhào lǎoshī de jiànyì zhǔnbèi kǎoshì.\",\"vn\":\"Mã An Đồng không chuẩn bị thi theo gợi ý của thầy.\"},{\"zh\":\"田中誠一常常不按照老闆說的做事。\",\"pinyin\":\"Tiánzhōng Chéngyī chángcháng bú ànzhào lǎobǎn shuō de zuòshì.\",\"vn\":\"Tanaka Seiichi thường không làm việc theo lời sếp nói.\"},{\"zh\":\"高美玲沒按照計畫回來工作，她的老闆很不高興。\",\"pinyin\":\"Gāo Měilíng méi ànzhào jìhuà huí lái gōngzuò, tā de lǎobǎn hěn bù gāoxìng.\",\"vn\":\"Cao Mỹ Linh không quay lại làm việc theo kế hoạch, sếp của cô rất không vui.\"},{\"zh\":\"你是不是按照老師給你的建議練習說話？\",\"pinyin\":\"Nǐ shì bu shì ànzhào lǎoshī gěi nǐ de jiànyì liànxí shuōhuà?\",\"vn\":\"Có phải bạn luyện nói theo gợi ý thầy cho bạn không?\"},{\"zh\":\"請你按照我們約的時間在捷運站跟我見面，好嗎？\",\"pinyin\":\"Qǐng nǐ ànzhào wǒmen yuē de shíjiān zài jiéyùnzhàn gēn wǒ jiànmiàn, hǎo ma?\",\"vn\":\"Xin bạn gặp tôi ở ga tàu điện ngầm theo thời gian chúng ta hẹn, được không?\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "Các nghĩa của giới từ 跟",
+      "explanation": "跟 có nhiều nghĩa tùy ngữ cảnh: (1) \"với/nói với\" – đối tượng tiếp nhận hành động (跟…說, 跟…介紹); (2) \"cùng với\" – người đi cùng làm việc gì (跟…一起); (3) \"từ\" – nguồn tiếp nhận (跟…學, 跟…買). Phủ định đặt trước 跟 như các giới từ khác. Câu hỏi A-不-A dùng với 跟 (跟不跟), không dùng với động từ chính; cũng có thể dùng 是不是.",
+      "examples": "[{\"zh\":\"老師跟學生說，明天要考試。\",\"pinyin\":\"Lǎoshī gēn xuésheng shuō, míngtiān yào kǎoshì.\",\"vn\":\"Thầy giáo nói với học sinh là ngày mai có thi.\"},{\"zh\":\"他剛跟田中說明了他們國家的文化。\",\"pinyin\":\"Tā gāng gēn Tiánzhōng shuōmíng le tāmen guójiā de wénhuà.\",\"vn\":\"Anh ấy vừa giải thích với Tanaka về văn hóa của nước họ.\"},{\"zh\":\"語言中心主任跟高美玲介紹工作環境。\",\"pinyin\":\"Yǔyán zhōngxīn zhǔrèn gēn Gāo Měilíng jièshào gōngzuò huánjìng.\",\"vn\":\"Chủ nhiệm trung tâm ngôn ngữ giới thiệu với Cao Mỹ Linh về môi trường làm việc.\"},{\"zh\":\"田中誠一昨天跟馬安同一起踢足球。\",\"pinyin\":\"Tiánzhōng Chéngyī zuótiān gēn Mǎ Āntóng yìqǐ tī zúqiú.\",\"vn\":\"Hôm qua Tanaka Seiichi cùng Mã An Đồng đá bóng.\"},{\"zh\":\"我是跟朋友一起來的。\",\"pinyin\":\"Wǒ shì gēn péngyou yìqǐ lái de.\",\"vn\":\"Tôi đến cùng với bạn bè.\"},{\"zh\":\"這個週末，我想跟朋友去台南玩。\",\"pinyin\":\"Zhège zhōumò, wǒ xiǎng gēn péngyou qù Táinán wán.\",\"vn\":\"Cuối tuần này tôi muốn cùng bạn bè đi Đài Nam chơi.\"},{\"zh\":\"馬安同想跟王老師學寫書法。\",\"pinyin\":\"Mǎ Āntóng xiǎng gēn Wáng lǎoshī xué xiě shūfǎ.\",\"vn\":\"Mã An Đồng muốn học viết thư pháp với cô Vương.\"},{\"zh\":\"他打算跟麵包店老闆學做麵包。\",\"pinyin\":\"Tā dǎsuàn gēn miànbāodiàn lǎobǎn xué zuò miànbāo.\",\"vn\":\"Anh ấy định học làm bánh mì từ chủ tiệm bánh.\"},{\"zh\":\"我想跟朋友買他的那支舊手機。\",\"pinyin\":\"Wǒ xiǎng gēn péngyou mǎi tā de nà zhī jiù shǒujī.\",\"vn\":\"Tôi muốn mua cái điện thoại cũ của bạn tôi.\"},{\"zh\":\"請你不要跟別人說你和我的薪水。\",\"pinyin\":\"Qǐng nǐ búyào gēn bié rén shuō nǐ hé wǒ de xīnshuǐ.\",\"vn\":\"Xin bạn đừng nói với người khác lương của bạn và của tôi.\"},{\"zh\":\"馬安同沒跟台灣朋友去看電腦展。\",\"pinyin\":\"Mǎ Āntóng méi gēn Táiwān péngyou qù kàn diànnǎozhǎn.\",\"vn\":\"Mã An Đồng không đi xem triển lãm máy tính cùng bạn người Đài Loan.\"},{\"zh\":\"下個星期，你跟不跟我去爬山？\",\"pinyin\":\"Xià gè xīngqī, nǐ gēn bù gēn wǒ qù páshān?\",\"vn\":\"Tuần sau bạn có đi leo núi với tôi không?\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "Các nghĩa của giới từ 給",
+      "explanation": "給 có nhiều nghĩa tùy ngữ cảnh. Hai nghĩa chính ở đây: (1) \"cho, tới\" – đối tượng nhận hành động (給…打電話, 給…介紹); (2) \"cho, giúp\" – đối tượng được hưởng lợi từ hành động (給…過生日, 給…準備). Cũng như các giới từ khác, phủ định đặt trước 給. Khi nghĩa là \"cho/tới\", 給 có thể đứng sau động từ chính (nhất là ở Đài Loan): 打電話給房東, 介紹朋友給他. Khi nghĩa là \"giúp/thay\", 給 có thể thay bằng 幫 hoặc 替. Chú ý 給 cũng có thể là động từ (他給我一本書).",
+      "examples": "[{\"zh\":\"他給我們建議了台東很多好玩的地方。\",\"pinyin\":\"Tā gěi wǒmen jiànyì le Táidōng hěn duō hǎo wán de dìfang.\",\"vn\":\"Anh ấy gợi ý cho chúng tôi rất nhiều nơi vui chơi ở Đài Đông.\"},{\"zh\":\"馬安同昨天給房東打過電話。\",\"pinyin\":\"Mǎ Āntóng zuótiān gěi fángdōng dǎguo diànhuà.\",\"vn\":\"Hôm qua Mã An Đồng đã gọi điện cho chủ nhà.\"},{\"zh\":\"李明華給他介紹了很多台灣朋友。\",\"pinyin\":\"Lǐ Mínghuá gěi tā jièshào le hěn duō Táiwān péngyou.\",\"vn\":\"Lý Minh Hoa giới thiệu cho anh ấy rất nhiều người bạn Đài Loan.\"},{\"zh\":\"我想明天給你過生日。\",\"pinyin\":\"Wǒ xiǎng míngtiān gěi nǐ guò shēngrì.\",\"vn\":\"Tôi muốn ngày mai tổ chức sinh nhật cho bạn.\"},{\"zh\":\"李明華給大家照相。\",\"pinyin\":\"Lǐ Mínghuá gěi dàjiā zhàoxiàng.\",\"vn\":\"Lý Minh Hoa chụp ảnh cho mọi người.\"},{\"zh\":\"馬安同給同學們準備了西班牙咖啡。\",\"pinyin\":\"Mǎ Āntóng gěi tóngxué men zhǔnbèi le Xībānyá kāfēi.\",\"vn\":\"Mã An Đồng pha cà phê kiểu Tây Ban Nha cho các bạn học.\"},{\"zh\":\"他建議了台南很多好玩的地方給我們。\",\"pinyin\":\"Tā jiànyì le Táinán hěn duō hǎo wán de dìfang gěi wǒmen.\",\"vn\":\"Anh ấy gợi ý cho chúng tôi rất nhiều nơi vui chơi ở Đài Nam.\"},{\"zh\":\"我沒打電話給他。\",\"pinyin\":\"Wǒ méi dǎ diànhuà gěi tā.\",\"vn\":\"Tôi không gọi điện cho anh ấy.\"},{\"zh\":\"媽媽感冒了，所以沒給我們準備早餐。\",\"pinyin\":\"Māma gǎnmào le, suǒyǐ méi gěi wǒmen zhǔnbèi zǎocān.\",\"vn\":\"Mẹ bị cảm nên không chuẩn bị bữa sáng cho chúng tôi.\"},{\"zh\":\"來台灣以後，你給媽媽打過電話沒有？\",\"pinyin\":\"Lái Táiwān yǐhòu, nǐ gěi māma dǎguo diànhuà méiyǒu?\",\"vn\":\"Từ khi đến Đài Loan, bạn đã gọi điện cho mẹ chưa?\"},{\"zh\":\"妳可不可以給我介紹一個打工的機會？\",\"pinyin\":\"Nǐ kě bù kěyǐ gěi wǒ jièshào yí ge dǎgōng de jīhuì?\",\"vn\":\"Bạn có thể giới thiệu cho tôi một cơ hội làm thêm không?\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Giới từ 對 (đối với, hướng về)",
+      "explanation": "對 là giới từ nghĩa \"với, hướng về\", dẫn ra đối tượng của động từ; có thể đi với cả động từ hành động (對…說, 對…笑, 對…說明) và động từ trạng thái (對…很了解, 對…很客氣, 對…很關心). Phủ định đặt trước 對. Lưu ý 對, 跟, 給 đều chỉ đối tượng của động từ và nghĩa chồng lên nhau, nên cần nhớ động từ nào đi với giới từ nào: 給 + 打電話/介紹; 跟 + 說明/說; 對 + 說/說明 đều có thể gặp.",
+      "examples": "[{\"zh\":\"陳主任對馬安同說明了辦公室的工作環境。\",\"pinyin\":\"Chén zhǔrèn duì Mǎ Āntóng shuōmíng le bàngōngshì de gōngzuò huánjìng.\",\"vn\":\"Chủ nhiệm Trần giải thích cho Mã An Đồng về môi trường làm việc ở văn phòng.\"},{\"zh\":\"李明華對王開文說：「對不起，我不知道你是美國人。」\",\"pinyin\":\"Lǐ Mínghuá duì Wáng Kāiwén shuō: \\\"duìbuqǐ, wǒ bù zhīdào nǐ shì Měiguó rén.\\\"\",\"vn\":\"Lý Minh Hoa nói với Vương Khai Văn: \\\"Xin lỗi, tôi không biết bạn là người Mỹ.\\\"\"},{\"zh\":\"他一看見我，就對我笑。\",\"pinyin\":\"Tā yí kàn jiàn wǒ, jiù duì wǒ xiào.\",\"vn\":\"Hễ nhìn thấy tôi là anh ấy cười với tôi.\"},{\"zh\":\"他對台北的交通情形很了解。\",\"pinyin\":\"Tā duì Táiběi de jiāotōng qíngxíng hěn liǎojiě.\",\"vn\":\"Anh ấy rất hiểu tình hình giao thông ở Đài Bắc.\"},{\"zh\":\"王主任對老師很客氣。\",\"pinyin\":\"Wáng zhǔrèn duì lǎoshī hěn kèqi.\",\"vn\":\"Chủ nhiệm Vương rất lịch sự với các thầy cô.\"},{\"zh\":\"張先生對這個事很關心。\",\"pinyin\":\"Zhāng xiānsheng duì zhège shì hěn guānxīn.\",\"vn\":\"Ông Trương rất quan tâm đến việc này.\"},{\"zh\":\"你別對他說我找工作的事。\",\"pinyin\":\"Nǐ bié duì tā shuō wǒ zhǎo gōngzuò de shì.\",\"vn\":\"Bạn đừng nói với anh ấy chuyện tôi đang tìm việc.\"},{\"zh\":\"馬安同沒對陳月美說「對不起」。\",\"pinyin\":\"Mǎ Āntóng méi duì Chén Yuèměi shuō \\\"duìbuqǐ\\\".\",\"vn\":\"Mã An Đồng đã không nói \\\"xin lỗi\\\" với Trần Nguyệt Mỹ.\"},{\"zh\":\"醫生對你說了什麼？\",\"pinyin\":\"Yīshēng duì nǐ shuō le shénme?\",\"vn\":\"Bác sĩ đã nói gì với bạn?\"},{\"zh\":\"你的房東對你好不好？\",\"pinyin\":\"Nǐ de fángdōng duì nǐ hǎo bu hǎo?\",\"vn\":\"Chủ nhà của bạn đối xử với bạn có tốt không?\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "主任",
+      "text_zh": "請坐，妳是高美玲嗎？",
+      "pinyin": "Qǐng zuò, nǐ shì Gāo Měilíng ma?",
+      "translation_vn": "Mời ngồi, bạn là Cao Mỹ Linh phải không?",
+      "translation_en": "Please sit down. Are you Gao Meiling?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "美玲",
+      "text_zh": "是。您好。",
+      "pinyin": "Shì. Nín hǎo.",
+      "translation_vn": "Vâng. Chào ông.",
+      "translation_en": "Yes. How are you?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "主任",
+      "text_zh": "請妳先介紹一下自己。",
+      "pinyin": "Qǐng nǐ xiān jièshào yíxià zìjǐ.",
+      "translation_vn": "Xin bạn giới thiệu qua về bản thân trước.",
+      "translation_en": "Please tell me a little bit about yourself."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "美玲",
+      "text_zh": "我叫高美玲，是法國人，今年二十八歲，現在在師大學中文。我念大學的時候上過亞洲文化和語言學。",
+      "pinyin": "Wǒ jiào Gāo Měilíng, shì Fǎguó rén, jīnnián èrshíbā suì, xiànzài zài Shīdà xué Zhōngwén. Wǒ niàn dàxué de shíhou shàngguo Yàzhōu wénhuà hé yǔyánxué.",
+      "translation_vn": "Tôi tên là Cao Mỹ Linh, là người Pháp, năm nay 28 tuổi, hiện đang học tiếng Trung ở Sư Đại. Khi học đại học tôi đã học văn hóa châu Á và ngôn ngữ học.",
+      "translation_en": "My name is Gao Meiling. I am French and I am 28 years old. I am currently studying Chinese at NTNU. I studied Asian culture and linguistics in college."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "主任",
+      "text_zh": "妳有沒有教法文的經驗？請妳談一談。",
+      "pinyin": "Nǐ yǒu méiyǒu jiāo Fǎwén de jīngyàn? Qǐng nǐ tán yi tán.",
+      "translation_vn": "Bạn có kinh nghiệm dạy tiếng Pháp không? Xin bạn nói một chút.",
+      "translation_en": "Do you have any experience teaching French? Please share."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "美玲",
+      "text_zh": "有。我當過語言助教，那時候的學生都是外國人。",
+      "pinyin": "Yǒu. Wǒ dāngguo yǔyán zhùjiào, nà shíhou de xuésheng dōu shì wàiguórén.",
+      "translation_vn": "Có. Tôi từng làm trợ giảng ngôn ngữ, học sinh lúc đó đều là người nước ngoài.",
+      "translation_en": "Yes, I do. I was a teaching assistant. All the students were foreigners."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "主任",
+      "text_zh": "妳一個星期能來幾天？",
+      "pinyin": "Nǐ yí ge xīngqī néng lái jǐ tiān?",
+      "translation_vn": "Một tuần bạn có thể đến mấy ngày?",
+      "translation_en": "How many days a week can you come?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "美玲",
+      "text_zh": "我現在上午學中文，下午兩點以後都可以，但是我希望一個禮拜教三天就好了。",
+      "pinyin": "Wǒ xiànzài shàngwǔ xué Zhōngwén, xiàwǔ liǎng diǎn yǐhòu dōu kěyǐ, dàn shì wǒ xīwàng yí ge lǐbài jiāo sān tiān jiù hǎo le.",
+      "translation_vn": "Hiện giờ buổi sáng tôi học tiếng Trung, sau hai giờ chiều thì lúc nào cũng được, nhưng tôi hy vọng một tuần chỉ dạy ba ngày là được.",
+      "translation_en": "I have Chinese classes in the mornings, so any time after 2 o'clock is fine, but I hope to teach three days a week."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "主任",
+      "text_zh": "妳除了法文、中文，還會什麼語言？",
+      "pinyin": "Nǐ chúle Fǎwén, Zhōngwén, hái huì shénme yǔyán?",
+      "translation_vn": "Ngoài tiếng Pháp và tiếng Trung, bạn còn biết ngôn ngữ nào khác?",
+      "translation_en": "Other than French and Chinese, can you speak any other languages?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "美玲",
+      "text_zh": "我還會說西班牙語和英文。",
+      "pinyin": "Wǒ hái huì shuō Xībānyáyǔ hé Yīngwén.",
+      "translation_vn": "Tôi còn biết nói tiếng Tây Ban Nha và tiếng Anh.",
+      "translation_en": "I can also speak Spanish and English."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 11,
+      "speaker": "主任",
+      "text_zh": "妳教過西班牙語嗎？",
+      "pinyin": "Nǐ jiāoguo Xībānyáyǔ ma?",
+      "translation_vn": "Bạn đã từng dạy tiếng Tây Ban Nha chưa?",
+      "translation_en": "Have you ever taught Spanish?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 12,
+      "speaker": "美玲",
+      "text_zh": "我大學三年級的暑假，當過西班牙語老師。",
+      "pinyin": "Wǒ dàxué sān niánjí de shǔjià, dāngguo Xībānyáyǔ lǎoshī.",
+      "translation_vn": "Kỳ nghỉ hè năm ba đại học, tôi đã từng làm giáo viên tiếng Tây Ban Nha.",
+      "translation_en": "I was a Spanish instructor during summer break when I was a junior in college."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 13,
+      "speaker": "主任",
+      "text_zh": "妳的工作經驗聽起來很不錯。",
+      "pinyin": "Nǐ de gōngzuò jīngyàn tīng qǐ lái hěn búcuò.",
+      "translation_vn": "Kinh nghiệm làm việc của bạn nghe có vẻ rất tốt.",
+      "translation_en": "You seem to have pretty good work experience."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 14,
+      "speaker": "美玲",
+      "text_zh": "謝謝您。對了，我想請教一下，貴中心老師的薪水怎麼算？",
+      "pinyin": "Xièxie nín. Duìle, wǒ xiǎng qǐngjiào yíxià, guì zhōngxīn lǎoshī de xīnshuǐ zěnme suàn?",
+      "translation_vn": "Cảm ơn ông. À đúng rồi, tôi muốn hỏi một chút, lương của giáo viên ở trung tâm quý vị được tính như thế nào?",
+      "translation_en": "Thank you. Oh yes, I would like to ask how much your instructors are paid?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 15,
+      "speaker": "主任",
+      "text_zh": "我們是按照大學教授的鐘點費算的。薪水跟大學老師的一樣。",
+      "pinyin": "Wǒmen shì ànzhào dàxué jiàoshòu de zhōngdiǎnfèi suàn de. Xīnshuǐ gēn dàxué lǎoshī de yíyàng.",
+      "translation_vn": "Chúng tôi tính theo tiền công theo giờ của giáo sư đại học. Lương giống như giảng viên đại học.",
+      "translation_en": "We calculate their pay in accordance with the hourly pay of a professor. The pay is the same as that of university instructors."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 16,
+      "speaker": "美玲",
+      "text_zh": "我很想試試這份工作。",
+      "pinyin": "Wǒ hěn xiǎng shìshi zhè fèn gōngzuò.",
+      "translation_vn": "Tôi rất muốn thử công việc này.",
+      "translation_en": "I would very much like to give this job a try."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 17,
+      "speaker": "主任",
+      "text_zh": "歡迎妳，妳下個月一號就可以來嗎？",
+      "pinyin": "Huānyíng nǐ, nǐ xià ge yuè yī hào jiù kěyǐ lái ma?",
+      "translation_vn": "Hoan nghênh bạn, ngày mùng một tháng sau bạn có thể đến được không?",
+      "translation_en": "We welcome you. Can you come on the first of next month?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 18,
+      "speaker": "美玲",
+      "text_zh": "可以的。謝謝。",
+      "pinyin": "Kěyǐ de. Xièxie.",
+      "translation_vn": "Được ạ. Cảm ơn ông.",
+      "translation_en": "Yes. Thank you."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "敘述",
+      "text_zh": "高美玲來了一年了，按照台灣的法律，她已經可以打工了，所以她的台灣朋友給她介紹了一個在大學語言中心教法文的工作。",
+      "pinyin": "Gāo Měilíng lái le yì nián le, ànzhào Táiwān de fǎlǜ, tā yǐjīng kěyǐ dǎgōng le, suǒyǐ tā de Táiwān péngyou gěi tā jièshào le yí ge zài dàxué yǔyán zhōngxīn jiāo Fǎwén de gōngzuò.",
+      "translation_vn": "Cao Mỹ Linh đến đây được một năm rồi, theo luật Đài Loan cô đã có thể làm thêm, nên bạn người Đài Loan của cô giới thiệu cho cô một công việc dạy tiếng Pháp ở trung tâm ngôn ngữ của một trường đại học.",
+      "translation_en": "Gao Meiling has been living here for one year already. According to the law, she can work part-time in Taiwan, so her Taiwanese friend introduced her to a French teaching job at a college language center."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "敘述",
+      "text_zh": "雖然高美玲覺得自己的經驗還不夠，可是決定去試一試。",
+      "pinyin": "Suīrán Gāo Měilíng juéde zìjǐ de jīngyàn hái búgòu, kěshì juédìng qù shì yi shì.",
+      "translation_vn": "Tuy Cao Mỹ Linh thấy kinh nghiệm của mình vẫn chưa đủ, nhưng cô quyết định đi thử xem.",
+      "translation_en": "Despite feeling not experienced enough, Gao Meiling decided to give it a try."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "敘述",
+      "text_zh": "所以她帶著履歷表到語言中心去跟主任面談。",
+      "pinyin": "Suǒyǐ tā dàizhe lǚlìbiǎo dào yǔyán zhōngxīn qù gēn zhǔrèn miàntán.",
+      "translation_vn": "Vì vậy cô mang theo sơ yếu lý lịch đến trung tâm ngôn ngữ để phỏng vấn với chủ nhiệm.",
+      "translation_en": "Gao Meiling brought her resume along with her to the language center for an interview with the director."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "敘述",
+      "text_zh": "這位主任姓黃，是法國華僑，在台灣住了十幾年，他也在大學工作了十年了。",
+      "pinyin": "Zhè wèi zhǔrèn xìng Huáng, shì Fǎguó Huáqiáo, zài Táiwān zhù le shí jǐ nián, tā yě zài dàxué gōngzuò le shí nián le.",
+      "translation_vn": "Vị chủ nhiệm này họ Hoàng, là Hoa kiều ở Pháp, sống ở Đài Loan hơn mười năm, ông cũng đã làm việc ở trường đại học được mười năm.",
+      "translation_en": "The director's name is Huang. He is an overseas Chinese from France who has been living in Taiwan for over a decade. He has also worked at the university for ten years."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "敘述",
+      "text_zh": "高美玲在辦公室跟他談話的時候，他先問高美玲在法國的工作經驗，再問她在台灣學中文跟生活的情形。",
+      "pinyin": "Gāo Měilíng zài bàngōngshì gēn tā tánhuà de shíhou, tā xiān wèn Gāo Měilíng zài Fǎguó de gōngzuò jīngyàn, zài wèn tā zài Táiwān xué Zhōngwén gēn shēnghuó de qíngxíng.",
+      "translation_vn": "Khi Cao Mỹ Linh nói chuyện với ông trong văn phòng, ông hỏi trước về kinh nghiệm làm việc của cô ở Pháp, rồi hỏi về việc học tiếng Trung và cuộc sống của cô ở Đài Loan.",
+      "translation_en": "When they spoke at the office, he first asked Gao Meiling about her teaching experience in France. He then asked her about her Chinese studies and life in Taiwan."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "敘述",
+      "text_zh": "黃主任覺得高美玲的經驗很適合這份工作。",
+      "pinyin": "Huáng zhǔrèn juéde Gāo Měilíng de jīngyàn hěn shìhé zhè fèn gōngzuò.",
+      "translation_vn": "Chủ nhiệm Hoàng thấy kinh nghiệm của Cao Mỹ Linh rất phù hợp với công việc này.",
+      "translation_en": "Director Huang believes Gao Meiling's experience makes her suitable to the job."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "敘述",
+      "text_zh": "黃主任也給高美玲介紹了上課的書，還跟她說明了工作環境。",
+      "pinyin": "Huáng zhǔrèn yě gěi Gāo Měilíng jièshào le shàngkè de shū, hái gēn tā shuōmíng le gōngzuò huánjìng.",
+      "translation_vn": "Chủ nhiệm Hoàng cũng giới thiệu cho cô sách dùng trong lớp và giải thích về môi trường làm việc.",
+      "translation_en": "Director Huang also told Gao Meiling about the books she would be using in class and described the work environment for her."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "敘述",
+      "text_zh": "然後，黃主任告訴高美玲，薪水按照工作的時間算，每個月的月底發薪水。",
+      "pinyin": "Ránhòu, Huáng zhǔrèn gào sù Gāo Měilíng, xīnshuǐ ànzhào gōngzuò de shíjiān suàn, měi ge yuè de yuèdǐ fā xīnshuǐ.",
+      "translation_vn": "Sau đó, chủ nhiệm Hoàng nói với cô rằng lương tính theo thời gian làm việc, cuối mỗi tháng sẽ phát lương.",
+      "translation_en": "Afterward, he told her that pay is calculated based on the number of hours worked and that pay is issued at the end of each month."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "敘述",
+      "text_zh": "高美玲覺得這份工作聽起來很不錯，所以馬上就答應了。",
+      "pinyin": "Gāo Měilíng juéde zhè fèn gōngzuò tīng qǐ lái hěn búcuò, suǒyǐ mǎshàng jiù dāying le.",
+      "translation_vn": "Cao Mỹ Linh thấy công việc này nghe có vẻ rất tốt nên nhận lời ngay.",
+      "translation_en": "Gao Meiling felt that the job sounded good, so she accepted it immediately."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 10,
+      "speaker": "敘述",
+      "text_zh": "黃主任對她說，下個月一號就開始上班。",
+      "pinyin": "Huáng zhǔrèn duì tā shuō, xià ge yuè yī hào jiù kāishǐ shàngbān.",
+      "translation_vn": "Chủ nhiệm Hoàng nói với cô là ngày mùng một tháng sau sẽ bắt đầu đi làm.",
+      "translation_en": "Director Huang told her to start on the first of the following month."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 11,
+      "speaker": "敘述",
+      "text_zh": "高美玲沒想到這次的面談這麼順利。",
+      "pinyin": "Gāo Měilíng méi xiǎngdào zhè cì de miàntán zhème shùnlì.",
+      "translation_vn": "Cao Mỹ Linh không ngờ buổi phỏng vấn lần này lại suôn sẻ đến vậy.",
+      "translation_en": "Gao Meiling didn't expect the interview to go so smoothly."
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Trả lời câu hỏi với 除了…，還…",
+      "kind": "dialogue",
+      "grammar_order": 1,
+      "instruction": "Trả lời các câu hỏi sau bằng mẫu câu 除了…，還…（dùng từ trong ngoặc làm gợi ý）.",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：除了西班牙，你還去過哪些國家？（日本）\nB：＿＿＿＿。",
+          "answer": "B：除了西班牙，我還去過日本。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：除了學中文，你還想學什麼？（英文）\nB：＿＿＿＿。",
+          "answer": "B：除了學中文，我還想學英文。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：台灣小吃，除了小籠包，你還喜歡吃什麼？（牛肉麵）\nB：＿＿＿＿。",
+          "answer": "B：除了小籠包，我還喜歡吃牛肉麵。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你除了喉嚨痛，還有哪裡不舒服？（發燒）\nB：＿＿＿＿。",
+          "answer": "B：我除了喉嚨痛，還發燒。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：除了參觀電腦展，你這個週末還打算做什麼？（去貓空喝茶）\nB：＿＿＿＿。",
+          "answer": "B：除了參觀電腦展，我這個週末還打算去貓空喝茶。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你除了不喜歡吃臭豆腐，還不喜歡吃什麼？（豬腳麵線）\nB：＿＿＿＿。",
+          "answer": "B：我除了不喜歡吃臭豆腐，還不喜歡吃豬腳麵線。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Trả lời câu hỏi với 按照…，…",
+      "kind": "dialogue",
+      "grammar_order": 2,
+      "instruction": "Trả lời các câu hỏi sau bằng mẫu câu 按照…，….",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：按照你們國家的法律，幾歲可以騎機車？\nB：＿＿＿＿。",
+          "answer": "B：按照我們國家的法律，十八歲可以騎機車。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：按照你的成績，你能不能拿語言中心的獎學金？\nB：＿＿＿＿。",
+          "answer": "B：按照我的成績，我可以拿語言中心的獎學金。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：按照你自己的計畫，你打算一個星期上幾個小時的中文課？\nB：＿＿＿＿。",
+          "answer": "B：按照我自己的計畫，我打算一個星期上十五個小時的中文課。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：按照你們國家的傳統，你們怎麼過生日？\nB：＿＿＿＿。",
+          "answer": "B：按照我們國家的傳統，過生日的時候，家人會一起吃飯、吃蛋糕。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：按照醫生的說明，每天早上幾點起來，晚上幾點睡覺比較健康？\nB：＿＿＿＿。",
+          "answer": "B：按照醫生的說明，早上六點起來，晚上十一點睡覺比較健康。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：按照你們國家的習慣，吃飯的時候，先吃飯還是先喝湯？\nB：＿＿＿＿。",
+          "answer": "B：按照我們國家的習慣，吃飯的時候，先喝湯再吃飯。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Viết lại câu với 跟 (cùng với 高美玲)",
+      "kind": "rewrite",
+      "grammar_order": 3,
+      "instruction": "Những người sau đều sẽ làm gì đó cùng/với 高美玲. Hãy dùng mẫu \"…跟高美玲…\" để viết lại các câu.",
+      "image": "",
+      "questions": [
+        {
+          "question": "田中誠一學騎機車。",
+          "answer": "田中誠一跟高美玲學騎機車。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "李明華要買她的舊手機。",
+          "answer": "李明華要跟高美玲買她的舊手機。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "陳月美想學做法國蛋糕。",
+          "answer": "陳月美想跟高美玲學做法國蛋糕。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "馬安同說這個工作很適合她。",
+          "answer": "馬安同跟高美玲說這個工作很適合她。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "王開文打算請教高美玲在法國工作的事。",
+          "answer": "王開文打算跟高美玲請教在法國工作的事。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "法國語言中心主任介紹中心的情形。",
+          "answer": "法國語言中心主任跟高美玲介紹中心的情形。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Viết lại câu với 給 (làm giúp cho 田中誠一)",
+      "kind": "rewrite",
+      "grammar_order": 4,
+      "instruction": "Những người sau đều đã làm gì đó cho 田中誠一. Hãy dùng mẫu 給 để viết lại các câu.",
+      "image": "",
+      "questions": [
+        {
+          "question": "李明華介紹女朋友。",
+          "answer": "李明華給田中誠一介紹女朋友。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "陳月美買了一大杯咖啡。",
+          "answer": "陳月美給田中誠一買了一大杯咖啡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "好朋友過生日。",
+          "answer": "好朋友給田中誠一過生日。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "田中誠一的老闆早上六點打了一個電話。",
+          "answer": "田中誠一的老闆早上六點給他打了一個電話。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "王開文說明那個英文字。",
+          "answer": "王開文給田中誠一說明那個英文字。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "白如玉帶了一些感冒藥。",
+          "answer": "白如玉給田中誠一帶了一些感冒藥。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Sắp xếp lại câu và thêm 對",
+      "kind": "reorder",
+      "grammar_order": 5,
+      "instruction": "Sắp xếp lại các từ/cụm từ sau và thêm 對 ở chỗ thích hợp để tạo thành câu đúng ngữ pháp.",
+      "image": "",
+      "questions": [
+        {
+          "question": "白如玉 ／ 別吃 ／ 冰的、油的東西 ／ 醫生 ／ 說",
+          "answer": "醫生對白如玉說別吃冰的、油的東西。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "笑 ／ 一個 ／ 馬安同不認識的人 ／ 馬安同",
+          "answer": "馬安同對一個不認識的人笑。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "教授鐘點費是多少 ／ 說明 ／ 馬主任 ／ 陳老師",
+          "answer": "馬主任對陳老師說明教授鐘點費是多少。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "好朋友 ／ 「生日快樂！」 ／ 馬安同 ／ 說",
+          "answer": "馬安同對好朋友說「生日快樂！」",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "說明 ／ 月底才 ／ 語言中心主任 ／ 高美玲 ／ 發薪水",
+          "answer": "語言中心主任對高美玲說明月底才發薪水。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Điền mẫu sơ yếu lý lịch",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách điền một mẫu sơ yếu lý lịch đơn giản.\nNhiệm vụ: Giáo viên giải thích các mục thường có trong mẫu lý lịch tiếng Trung, học sinh tự điền thông tin vào mẫu bên dưới.",
+      "image": "/book2/l4/a1-resume.jpg",
+      "questions": [
+        {
+          "question": "姓名／性別／年齡／學歷／通訊處／聯絡電話",
+          "answer": "姓名：陳明華\n性別：男\n年齡：二十五歲\n學歷：大學畢業\n通訊處：台北市和平東路一段１號\n聯絡電話：0912-345-678",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Phỏng vấn xin việc",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Nói rõ mình muốn làm thêm công việc gì.\nNhiệm vụ: Nếu bạn muốn làm thêm, bạn muốn làm ở đâu? Làm việc gì? Muốn mức lương bao nhiêu? Ghép cặp với bạn học, lần lượt đóng vai người phỏng vấn và ứng viên. Ghi lại thông tin chính (địa điểm, kinh nghiệm, công việc, lương) vào bảng. Sau mỗi buổi phỏng vấn, người phỏng vấn giới thiệu ứng viên với cả lớp.",
+      "image": "/book2/l4/a2-form.jpg",
+      "questions": [
+        {
+          "question": "A（老闆）：請你介紹一下自己。\nB：你好，我叫 XXX，……\nA：你有沒有……的經驗？\nB：……\nA：我們的工作……\nB：請問薪水怎麼算？\nA：……",
+          "answer": "A：請你介紹一下自己。\nB：你好，我叫王小美，是越南人，現在在師大學中文。\nA：你有沒有在餐廳打工的經驗？\nB：有，我在餐廳給客人倒過茶、倒過咖啡。\nA：我們的工作是給客人點菜、送菜，一個星期上三天班。\nB：請問薪水怎麼算？\nA：按照時間算，一個小時兩百塊錢。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Tôi có kinh nghiệm về…",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Liệt kê ít nhất hai kỹ năng hoặc lĩnh vực bạn có chuyên môn.\nNhiệm vụ: Dùng V過 để viết ra kinh nghiệm của bạn, rồi dùng 除了…還… để báo cáo.\nVí dụ: 我除了來過台灣，還去過中國。\nBảng mẫu: 學生 A — 去過台東；B — 學中文、學日文；C — 會法文、會西班牙文、在餐廳工作.",
+      "image": "",
+      "questions": [
+        {
+          "question": "用 除了……，還…… 說說你的經驗",
+          "answer": "我除了學過中文，還學過英文。\n我除了去過台北，還去過台中和花蓮。\n我除了在餐廳打過工，還在咖啡店工作過。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Theo luật nước bạn, bao nhiêu tuổi mới được…?",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách dùng \"按照…\" để nói về nguyên tắc và tiêu chuẩn.\nNhiệm vụ: Ghép các mục ở cột A với các mục ở cột B, rồi dùng 按照 để tạo thành câu hoàn chỉnh.",
+      "image": "/book2/l4/a4-table.jpg",
+      "questions": [
+        {
+          "question": "幾歲可以開車？",
+          "answer": "按照我們國家的法律，十八歲可以開車。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "幾歲念小學／高中？",
+          "answer": "按照我們國家的法律，六歲念小學，十五歲念高中。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "幾點吃早／午／晚飯？",
+          "answer": "按照我自己的習慣，我早上七點吃早飯，中午十二點吃午飯，晚上七點吃晚飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "朋友生日，給他什麼？",
+          "answer": "按照我們國家的傳統，朋友生日的時候，我們會給他一個紅包。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你每個月幾號付房租？",
+          "answer": "按照房東的決定，我每個月五號付房租。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你每天幾點上班？",
+          "answer": "按照公司的上班時間，我每天早上九點上班。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

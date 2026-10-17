@@ -1,0 +1,1210 @@
+{
+  "id": 102,
+  "book": 2,
+  "title_vn": "Đi tàu điện ngầm đi!",
+  "title_zh": "還是坐捷運吧！",
+  "subtitle": "Giao thông & phương tiện đi lại",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "還是",
+      "pinyin": "háishi",
+      "word_type": "Adv",
+      "meaning_vn": "Nên, tốt hơn là (chọn phương án khác)",
+      "example_zh": "我們還是坐捷運吧。",
+      "example_pinyin": "Wǒmen háishi zuò jiéyùn ba.",
+      "example_vn": "Chúng ta vẫn nên đi tàu điện ngầm thì hơn.",
+      "meaning_hv": "Hoàn thị",
+      "meaning_en": "Should probably, alternatively, had better",
+      "example_en": "We had better take the MRT."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "早",
+      "pinyin": "zǎo",
+      "word_type": "Vs",
+      "meaning_vn": "Chào buổi sáng; sớm",
+      "example_zh": "安同，早！",
+      "example_pinyin": "Āntóng, zǎo!",
+      "example_vn": "An Đồng, chào buổi sáng!",
+      "meaning_hv": "Tảo",
+      "meaning_en": "Good morning",
+      "example_en": "Antong, good morning!"
+    },
+    {
+      "order_num": 3,
+      "word_zh": "約",
+      "pinyin": "yuē",
+      "word_type": "V",
+      "meaning_vn": "Hẹn (ai làm gì vào một thời điểm nhất định)",
+      "example_zh": "我約了朋友去看電影。",
+      "example_pinyin": "Wǒ yuē le péngyou qù kàn diànyǐng.",
+      "example_vn": "Tôi hẹn bạn đi xem phim.",
+      "meaning_hv": "Ước",
+      "meaning_en": "To invite someone to do something at a specific time",
+      "example_en": "I made plans with a friend to see a movie."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "對面",
+      "pinyin": "duìmiàn",
+      "word_type": "N",
+      "meaning_vn": "Đối diện, phía bên kia",
+      "example_zh": "公車站在對面。",
+      "example_pinyin": "Gōngchē zhàn zài duìmiàn.",
+      "example_vn": "Trạm xe buýt ở phía đối diện.",
+      "meaning_hv": "Đối diện",
+      "meaning_en": "On the other side of (something), opposite",
+      "example_en": "The bus stop is across the street."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "直接",
+      "pinyin": "zhíjiē",
+      "word_type": "Adv",
+      "meaning_vn": "Trực tiếp, thẳng",
+      "example_zh": "這路公車直接到展覽館。",
+      "example_pinyin": "Zhè lù gōngchē zhíjiē dào zhǎnlǎnguǎn.",
+      "example_vn": "Tuyến xe buýt này đi thẳng đến nhà triển lãm.",
+      "meaning_hv": "Trực tiếp",
+      "meaning_en": "Directly",
+      "example_en": "This bus goes directly to the exhibition hall."
+    },
+    {
+      "order_num": 6,
+      "word_zh": "不必",
+      "pinyin": "búbì",
+      "word_type": "Vaux",
+      "meaning_vn": "Không cần, không nhất thiết",
+      "example_zh": "你不必換車。",
+      "example_pinyin": "Nǐ búbì huàn chē.",
+      "example_vn": "Bạn không cần đổi xe.",
+      "meaning_hv": "Bất tất",
+      "meaning_en": "No need to, not necessary to",
+      "example_en": "You do not need to change buses."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "換",
+      "pinyin": "huàn",
+      "word_type": "V",
+      "meaning_vn": "Đổi, chuyển (phương tiện)",
+      "example_zh": "你要在台北車站換車。",
+      "example_pinyin": "Nǐ yào zài Táiběi Chēzhàn huàn chē.",
+      "example_vn": "Bạn phải đổi tàu ở ga Đài Bắc.",
+      "meaning_hv": "Hoán",
+      "meaning_en": "To transfer (transportation)",
+      "example_en": "You have to transfer at Taipei Main Station."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "車站",
+      "pinyin": "chēzhàn",
+      "word_type": "N",
+      "meaning_vn": "Trạm xe, nhà ga",
+      "example_zh": "捷運站就在車站前面。",
+      "example_pinyin": "Jiéyùnzhàn jiù zài chēzhàn qiánmian.",
+      "example_vn": "Ga tàu điện ngầm ngay phía trước nhà ga.",
+      "meaning_hv": "Xa trạm",
+      "meaning_en": "Bus station, train station",
+      "example_en": "The MRT station is right in front of the train station."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "麻煩",
+      "pinyin": "máfan",
+      "word_type": "Vs",
+      "meaning_vn": "Phiền phức, rắc rối",
+      "example_zh": "換車很麻煩。",
+      "example_pinyin": "Huàn chē hěn máfan.",
+      "example_vn": "Đổi xe rất phiền phức.",
+      "meaning_hv": "Ma phiền",
+      "meaning_en": "Troublesome",
+      "example_en": "Changing buses is troublesome."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "趕快",
+      "pinyin": "gǎnkuài",
+      "word_type": "Adv",
+      "meaning_vn": "Mau, nhanh lên (có ý thúc giục)",
+      "example_zh": "我們趕快走吧。",
+      "example_pinyin": "Wǒmen gǎnkuài zǒu ba.",
+      "example_vn": "Chúng ta mau đi thôi.",
+      "meaning_hv": "Cản khoái",
+      "meaning_en": "Right away; quickly (indicating urgency)",
+      "example_en": "Let's hurry and go."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "走",
+      "pinyin": "zǒu",
+      "word_type": "Vp",
+      "meaning_vn": "Rời đi, đi (lời chào tạm biệt)",
+      "example_zh": "我得走了。",
+      "example_pinyin": "Wǒ děi zǒu le.",
+      "example_vn": "Tôi phải đi rồi.",
+      "meaning_hv": "Tẩu",
+      "meaning_en": "To leave, to bid farewell",
+      "example_en": "I have to leave."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "班次",
+      "pinyin": "bāncì",
+      "word_type": "N",
+      "meaning_vn": "Số chuyến (tàu, xe, máy bay…)",
+      "example_zh": "捷運的班次很多。",
+      "example_pinyin": "Jiéyùn de bāncì hěn duō.",
+      "example_vn": "Tàu điện ngầm có rất nhiều chuyến.",
+      "meaning_hv": "Ban thứ",
+      "meaning_en": "Number of scheduled runs (of trains, flights, boats, buses)",
+      "example_en": "The MRT runs very frequently."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "禮拜",
+      "pinyin": "lǐbài",
+      "word_type": "N",
+      "meaning_vn": "Tuần",
+      "example_zh": "我們下禮拜見。",
+      "example_pinyin": "Wǒmen xià lǐbài jiàn.",
+      "example_vn": "Tuần sau gặp nhé.",
+      "meaning_hv": "Lễ bái",
+      "meaning_en": "Week",
+      "example_en": "See you next week."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "見",
+      "pinyin": "jiàn",
+      "word_type": "V",
+      "meaning_vn": "Gặp",
+      "example_zh": "明天見！",
+      "example_pinyin": "Míngtiān jiàn!",
+      "example_vn": "Mai gặp nhé!",
+      "meaning_hv": "Kiến",
+      "meaning_en": "To see",
+      "example_en": "See you tomorrow!"
+    },
+    {
+      "order_num": 15,
+      "word_zh": "電腦展",
+      "pinyin": "diànnǎo zhǎn",
+      "word_type": "N",
+      "meaning_vn": "Triển lãm máy tính",
+      "example_zh": "我要去看電腦展。",
+      "example_pinyin": "Wǒ yào qù kàn diànnǎo zhǎn.",
+      "example_vn": "Tôi muốn đi xem triển lãm máy tính.",
+      "meaning_hv": "Điện não triển",
+      "meaning_en": "Computer show",
+      "example_en": "I am going to the computer show."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "世貿展覽館",
+      "pinyin": "Shìmào Zhǎnlǎnguǎn",
+      "word_type": "N",
+      "meaning_vn": "Trung tâm triển lãm Thế Mậu (World Trade Center)",
+      "example_zh": "電腦展在世貿展覽館。",
+      "example_pinyin": "Diànnǎo zhǎn zài Shìmào Zhǎnlǎnguǎn.",
+      "example_vn": "Triển lãm máy tính ở Trung tâm triển lãm Thế Mậu.",
+      "meaning_hv": "Thế Mậu Triển Lãm Quán",
+      "meaning_en": "World Trade Center Exhibition Hall",
+      "example_en": "The computer show is at the World Trade Center Exhibition Hall."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "展覽館",
+      "pinyin": "zhǎnlǎnguǎn",
+      "word_type": "N",
+      "meaning_vn": "Nhà triển lãm",
+      "example_zh": "展覽館離捷運站不遠。",
+      "example_pinyin": "Zhǎnlǎnguǎn lí jiéyùnzhàn bù yuǎn.",
+      "example_vn": "Nhà triển lãm cách ga tàu điện ngầm không xa.",
+      "meaning_hv": "Triển Lãm Quán",
+      "meaning_en": "Exhibition hall",
+      "example_en": "The exhibition hall is not far from the MRT station."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "台北101",
+      "pinyin": "Táiběi 101",
+      "word_type": "N",
+      "meaning_vn": "Tòa nhà Đài Bắc 101 (từng là tòa nhà cao nhất thế giới 2004–2010)",
+      "example_zh": "台北101很高。",
+      "example_pinyin": "Táiběi 101 hěn gāo.",
+      "example_vn": "Đài Bắc 101 rất cao.",
+      "meaning_hv": "Đài Bắc 101",
+      "meaning_en": "Taipei 101, the tallest building in Taiwan",
+      "example_en": "Taipei 101 is very tall."
+    },
+    {
+      "order_num": 19,
+      "word_zh": "台北",
+      "pinyin": "Táiběi",
+      "word_type": "N",
+      "meaning_vn": "Đài Bắc",
+      "example_zh": "我住在台北。",
+      "example_pinyin": "Wǒ zhù zài Táiběi.",
+      "example_vn": "Tôi sống ở Đài Bắc.",
+      "meaning_hv": "Đài Bắc",
+      "meaning_en": "Taipei",
+      "example_en": "I live in Taipei."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "2號線",
+      "pinyin": "èr hào xiàn",
+      "word_type": "",
+      "meaning_vn": "Tuyến số 2 (của tàu điện ngầm Đài Bắc)",
+      "example_zh": "請坐2號線。",
+      "example_pinyin": "Qǐng zuò 2 hào xiàn.",
+      "example_vn": "Xin hãy đi tuyến số 2.",
+      "meaning_hv": "Nhị hiệu tuyến",
+      "meaning_en": "Line 2 (of the Taipei MRT)",
+      "example_en": "Please take Line 2."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "別急",
+      "pinyin": "bié jí",
+      "word_type": "",
+      "meaning_vn": "Đừng vội",
+      "example_zh": "別急，慢慢走。",
+      "example_pinyin": "Biéjí, mànmàn zǒu.",
+      "example_vn": "Đừng vội, cứ đi từ từ.",
+      "meaning_hv": "Biệt cấp",
+      "meaning_en": "No need to hurry. Take your time.",
+      "example_en": "Don't rush, take your time."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "飛機",
+      "pinyin": "fēijī",
+      "word_type": "N",
+      "meaning_vn": "Máy bay",
+      "example_zh": "我坐飛機到台灣。",
+      "example_pinyin": "Wǒ zuò fēijī dào Táiwān.",
+      "example_vn": "Tôi đi máy bay đến Đài Loan.",
+      "meaning_hv": "Phi cơ",
+      "meaning_en": "Airplane",
+      "example_en": "I took a plane to Taiwan."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "轉機",
+      "pinyin": "zhuǎnjī",
+      "word_type": "V-sep",
+      "meaning_vn": "Quá cảnh, đổi chuyến bay",
+      "example_zh": "我在越南轉機。",
+      "example_pinyin": "Wǒ zài Yuènán zhuǎnjī.",
+      "example_vn": "Tôi quá cảnh ở Việt Nam.",
+      "meaning_hv": "Chuyển cơ",
+      "meaning_en": "To transfer (flights)",
+      "example_en": "I transfer flights in Vietnam."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "機場",
+      "pinyin": "jīchǎng",
+      "word_type": "N",
+      "meaning_vn": "Sân bay",
+      "example_zh": "機場離市區很遠。",
+      "example_pinyin": "Jīchǎng lí shìqū hěn yuǎn.",
+      "example_vn": "Sân bay cách trung tâm thành phố rất xa.",
+      "meaning_hv": "Cơ trường",
+      "meaning_en": "Airport",
+      "example_en": "The airport is far from downtown."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "巴士",
+      "pinyin": "bāshì",
+      "word_type": "N",
+      "meaning_vn": "Xe buýt",
+      "example_zh": "我們坐巴士到台北。",
+      "example_pinyin": "Wǒmen zuò bāshì dào Táiběi.",
+      "example_vn": "Chúng tôi đi xe buýt đến Đài Bắc.",
+      "meaning_hv": "Ba sĩ",
+      "meaning_en": "Bus",
+      "example_en": "We took a bus to Taipei."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "市區",
+      "pinyin": "shìqū",
+      "word_type": "N",
+      "meaning_vn": "Nội thành, trung tâm thành phố",
+      "example_zh": "在市區坐捷運最方便。",
+      "example_pinyin": "Zài shìqū zuò jiéyùn zuì fāngbiàn.",
+      "example_vn": "Ở trong nội thành đi tàu điện ngầm là tiện nhất.",
+      "meaning_hv": "Thị khu",
+      "meaning_en": "Downtown",
+      "example_en": "Taking the MRT downtown is the most convenient."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "下",
+      "pinyin": "xià",
+      "word_type": "V",
+      "meaning_vn": "Xuống (xe, tàu, máy bay)",
+      "example_zh": "她下了巴士，就坐捷運。",
+      "example_pinyin": "Tā xià le bāshì, jiù zuò jiéyùn.",
+      "example_vn": "Cô ấy xuống xe buýt rồi đi tàu điện ngầm.",
+      "meaning_hv": "Hạ",
+      "meaning_en": "To get off, alight, disembark",
+      "example_en": "She got off the bus and took the MRT."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "交通",
+      "pinyin": "jiāotōng",
+      "word_type": "N",
+      "meaning_vn": "Giao thông",
+      "example_zh": "台北的交通很方便。",
+      "example_pinyin": "Táiběi de jiāotōng hěn fāngbiàn.",
+      "example_vn": "Giao thông ở Đài Bắc rất thuận tiện.",
+      "meaning_hv": "Giao thông",
+      "meaning_en": "Transportation",
+      "example_en": "Transportation in Taipei is very convenient."
+    },
+    {
+      "order_num": 29,
+      "word_zh": "便利",
+      "pinyin": "biànlì",
+      "word_type": "Vs",
+      "meaning_vn": "Thuận tiện, tiện lợi",
+      "example_zh": "這裡的交通很便利。",
+      "example_pinyin": "Zhèlǐ de jiāotōng hěn biànlì.",
+      "example_vn": "Giao thông ở đây rất tiện lợi.",
+      "meaning_hv": "Tiện lợi",
+      "meaning_en": "Convenient, handy",
+      "example_en": "Transportation here is very convenient."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "到處",
+      "pinyin": "dàochù",
+      "word_type": "Adv",
+      "meaning_vn": "Khắp nơi, mọi nơi",
+      "example_zh": "到處都有計程車。",
+      "example_pinyin": "Dàochù dōu yǒu jìchéngchē.",
+      "example_vn": "Đâu đâu cũng có taxi.",
+      "meaning_hv": "Đáo xứ",
+      "meaning_en": "Everywhere",
+      "example_en": "There are taxis everywhere."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "路線",
+      "pinyin": "lùxiàn",
+      "word_type": "N",
+      "meaning_vn": "Tuyến đường, lộ trình",
+      "example_zh": "捷運的路線不複雜。",
+      "example_pinyin": "Jiéyùn de lùxiàn bù fùzá.",
+      "example_vn": "Tuyến tàu điện ngầm không phức tạp.",
+      "meaning_hv": "Lộ tuyến",
+      "meaning_en": "Route",
+      "example_en": "The MRT routes are not complicated."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "複雜",
+      "pinyin": "fùzá",
+      "word_type": "Vs",
+      "meaning_vn": "Phức tạp",
+      "example_zh": "這個問題很複雜。",
+      "example_pinyin": "Zhège wèntí hěn fùzá.",
+      "example_vn": "Vấn đề này rất phức tạp.",
+      "meaning_hv": "Phức tạp",
+      "meaning_en": "Complicated",
+      "example_en": "This problem is very complicated."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "輕鬆",
+      "pinyin": "qīngsōng",
+      "word_type": "Vs",
+      "meaning_vn": "Nhẹ nhàng, thoải mái, dễ dàng",
+      "example_zh": "這個工作很輕鬆。",
+      "example_pinyin": "Zhège gōngzuò hěn qīngsōng.",
+      "example_vn": "Công việc này rất nhẹ nhàng.",
+      "meaning_hv": "Khinh tùng",
+      "meaning_en": "With ease",
+      "example_en": "This job is easy."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "東部",
+      "pinyin": "dōngbù",
+      "word_type": "N",
+      "meaning_vn": "Phía đông, miền đông",
+      "example_zh": "台灣東部的風景很美。",
+      "example_pinyin": "Táiwān dōngbù de fēngjǐng hěn měi.",
+      "example_vn": "Phong cảnh miền đông Đài Loan rất đẹp.",
+      "meaning_hv": "Đông bộ",
+      "meaning_en": "Eastern part",
+      "example_en": "The scenery in eastern Taiwan is beautiful."
+    },
+    {
+      "order_num": 35,
+      "word_zh": "海邊",
+      "pinyin": "hǎibiān",
+      "word_type": "N",
+      "meaning_vn": "Bờ biển, bên bờ biển",
+      "example_zh": "我想去海邊玩。",
+      "example_pinyin": "Wǒ xiǎng qù hǎibiān wán.",
+      "example_vn": "Tôi muốn đi chơi ở bờ biển.",
+      "meaning_hv": "Hải biên",
+      "meaning_en": "Seaside",
+      "example_en": "I want to go to the seaside."
+    },
+    {
+      "order_num": 36,
+      "word_zh": "島",
+      "pinyin": "dǎo",
+      "word_type": "N",
+      "meaning_vn": "Đảo",
+      "example_zh": "綠島是一個小島。",
+      "example_pinyin": "Lǜdǎo shì yí ge xiǎo dǎo.",
+      "example_vn": "Lục Đảo là một hòn đảo nhỏ.",
+      "meaning_hv": "Đảo",
+      "meaning_en": "Island",
+      "example_en": "Green Island is a small island."
+    },
+    {
+      "order_num": 37,
+      "word_zh": "搭",
+      "pinyin": "dā",
+      "word_type": "V",
+      "meaning_vn": "Đi, đáp (xe, tàu, thuyền, máy bay, taxi…)",
+      "example_zh": "我們搭船去綠島。",
+      "example_pinyin": "Wǒmen dā chuán qù Lǜdǎo.",
+      "example_vn": "Chúng tôi đi thuyền đến Lục Đảo.",
+      "meaning_hv": "Đáp",
+      "meaning_en": "To take (bus, boat, plane, taxi, etc.)",
+      "example_en": "We took a boat to Green Island."
+    },
+    {
+      "order_num": 38,
+      "word_zh": "船",
+      "pinyin": "chuán",
+      "word_type": "N",
+      "meaning_vn": "Thuyền, tàu thủy",
+      "example_zh": "坐船要兩個小時。",
+      "example_pinyin": "Zuò chuán yào liǎng ge xiǎoshí.",
+      "example_vn": "Đi thuyền mất hai tiếng.",
+      "meaning_hv": "Thuyền",
+      "meaning_en": "Boat, ship",
+      "example_en": "The boat ride takes two hours."
+    },
+    {
+      "order_num": 39,
+      "word_zh": "地",
+      "pinyin": "de",
+      "word_type": "Ptc",
+      "meaning_vn": "Trợ từ trạng ngữ (đứng sau tính từ, trước động từ)",
+      "example_zh": "好好地玩一玩。",
+      "example_pinyin": "Hǎohǎo de wán yi wán.",
+      "example_vn": "Chơi cho thật vui nhé.",
+      "meaning_hv": "Địa",
+      "meaning_en": "Adverbial particle",
+      "example_en": "Have a really good time."
+    },
+    {
+      "order_num": 40,
+      "word_zh": "美美",
+      "pinyin": "Měiměi",
+      "word_type": "N",
+      "meaning_vn": "Mỹ Mỹ (tên một cô gái)",
+      "example_zh": "美美是如玉的朋友。",
+      "example_pinyin": "Měiměi shì Rúyù de péngyou.",
+      "example_vn": "Mỹ Mỹ là bạn của Như Ngọc.",
+      "meaning_hv": "Mỹ Mỹ",
+      "meaning_en": "Meimei, name of a girl",
+      "example_en": "Meimei is Ruyu's friend."
+    },
+    {
+      "order_num": 41,
+      "word_zh": "法國",
+      "pinyin": "Fǎguó",
+      "word_type": "N",
+      "meaning_vn": "Nước Pháp",
+      "example_zh": "美美從法國來。",
+      "example_pinyin": "Měiměi cóng Fǎguó lái.",
+      "example_vn": "Mỹ Mỹ đến từ nước Pháp.",
+      "meaning_hv": "Pháp Quốc",
+      "meaning_en": "France",
+      "example_en": "Meimei comes from France."
+    },
+    {
+      "order_num": 42,
+      "word_zh": "歐洲",
+      "pinyin": "Ōuzhōu",
+      "word_type": "N",
+      "meaning_vn": "Châu Âu",
+      "example_zh": "她從歐洲來台灣。",
+      "example_pinyin": "Tā cóng Ōuzhōu lái Táiwān.",
+      "example_vn": "Cô ấy từ châu Âu đến Đài Loan.",
+      "meaning_hv": "Âu Châu",
+      "meaning_en": "Europe",
+      "example_en": "She came to Taiwan from Europe."
+    },
+    {
+      "order_num": 43,
+      "word_zh": "悠遊卡",
+      "pinyin": "yōuyóukǎ",
+      "word_type": "N",
+      "meaning_vn": "Thẻ EasyCard (thẻ đi tàu điện ngầm, xe buýt)",
+      "example_zh": "我買了一張悠遊卡。",
+      "example_pinyin": "Wǒ mǎi le yì zhāng yōuyóukǎ.",
+      "example_vn": "Tôi đã mua một tấm thẻ EasyCard.",
+      "meaning_hv": "Du du tạp",
+      "meaning_en": "EasyCard (MRT pass)",
+      "example_en": "I bought an EasyCard."
+    },
+    {
+      "order_num": 44,
+      "word_zh": "綠島",
+      "pinyin": "Lǜdǎo",
+      "word_type": "N",
+      "meaning_vn": "Lục Đảo (đảo ở phía đông nam đảo chính Đài Loan)",
+      "example_zh": "綠島的風景很美。",
+      "example_pinyin": "Lǜdǎo de fēngjǐng hěn měi.",
+      "example_vn": "Phong cảnh Lục Đảo rất đẹp.",
+      "meaning_hv": "Lục Đảo",
+      "meaning_en": "Green Island, to the southeast of the main island",
+      "example_en": "The scenery on Green Island is beautiful."
+    },
+    {
+      "order_num": 45,
+      "word_zh": "東南邊",
+      "pinyin": "dōngnán biān",
+      "word_type": "",
+      "meaning_vn": "Phía đông nam",
+      "example_zh": "綠島在台灣的東南邊。",
+      "example_pinyin": "Lǜdǎo zài Táiwān de dōngnánbiān.",
+      "example_vn": "Lục Đảo ở phía đông nam của Đài Loan.",
+      "meaning_hv": "Đông nam biên",
+      "meaning_en": "The southeast side of",
+      "example_en": "Green Island is southeast of Taiwan."
+    },
+    {
+      "order_num": 46,
+      "word_zh": "好好地",
+      "pinyin": "hǎohǎo de",
+      "word_type": "",
+      "meaning_vn": "Một cách đàng hoàng, cho thật tốt",
+      "example_zh": "你要好好地休息。",
+      "example_pinyin": "Nǐ yào hǎohǎo de xiūxi.",
+      "example_vn": "Bạn phải nghỉ ngơi cho thật tốt.",
+      "meaning_hv": "Hảo hảo địa",
+      "meaning_en": "To do something properly",
+      "example_en": "You should get a proper rest."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "Phủ định nhấn mạnh: 一點也不… (một chút cũng không…)",
+      "explanation": "Mẫu câu phủ định mạnh, mang sắc thái cường điệu, nghĩa là \"hoàn toàn không…\", \"một chút cũng không…\". Đây là mẫu câu chỉ có dạng phủ định, dùng được với cả động từ hành động và tính từ. Nếu tân ngữ không được đưa lên đầu câu làm chủ đề thì phải đặt giữa 一點 và 也/都, trước động từ (他一點飯也沒吃, không nói 他一點也沒吃飯). 也 có thể thay bằng 都, và 都 mang ý phủ định hoàn toàn mạnh hơn. Lưu ý 不 và 沒: 沒 phủ định sự việc đã xảy ra, còn 不 chỉ sự từ chối làm việc gì (cả quá khứ lẫn tương lai).",
+      "examples": "[{\"zh\":\"你要坐公車去嗎？坐公車去故宮博物院比較慢。——一點也不慢，比捷運方便。\",\"pinyin\":\"Nǐ yào zuò gōngchē qù ma? Zuò gōngchē qù Gùgōng Bówùyuàn bǐjiào màn. — — yìdiǎn yě bú màn, bǐ jiéyùn fāngbiàn.\",\"vn\":\"Bạn định đi xe buýt à? Đi xe buýt đến Bảo tàng Cố Cung chậm hơn. — Không chậm chút nào, còn tiện hơn tàu điện ngầm.\"},{\"zh\":\"他一點茶也不喝。\",\"pinyin\":\"Tā yìdiǎn chá yě bù hē.\",\"vn\":\"Anh ấy một chút trà cũng không uống.\"},{\"zh\":\"夜市的東西一點也不貴。\",\"pinyin\":\"Yèshì de dōngxi yìdiǎn yě bú guì.\",\"vn\":\"Đồ ở chợ đêm không đắt chút nào.\"},{\"zh\":\"已經晚上十二點多了，他們一點也不想睡覺。\",\"pinyin\":\"Yǐjīng wǎnshang shí èr diǎn duō le, tāmen yìdiǎn yě bù xiǎng shuìjiào.\",\"vn\":\"Đã hơn mười hai giờ đêm rồi mà họ chẳng buồn ngủ chút nào.\"},{\"zh\":\"他昨天一點飯也沒吃。\",\"pinyin\":\"Tā zuótiān yìdiǎn fàn yě méi chī.\",\"vn\":\"Hôm qua anh ấy không ăn một chút cơm nào.\"},{\"zh\":\"我一點湯也沒喝。\",\"pinyin\":\"Wǒ yìdiǎn tāng yě méi hē.\",\"vn\":\"Tôi không uống một chút canh nào.\"},{\"zh\":\"我一點都不累。\",\"pinyin\":\"Wǒ yìdiǎn dōu bú lèi.\",\"vn\":\"Tôi chẳng mệt chút nào.\"},{\"zh\":\"他生病這幾天一點東西都沒吃嗎？\",\"pinyin\":\"Tā shēngbìng zhè jǐ tiān yìdiǎn dōngxi dōu méi chī ma?\",\"vn\":\"Mấy ngày anh ấy bị bệnh, không ăn gì hết sao?\"},{\"zh\":\"我們來這裡玩，你怎麼一點也不開心？\",\"pinyin\":\"Wǒmen lái zhèlǐ wán, nǐ zěnme yìdiǎn yě bù kāixīn?\",\"vn\":\"Chúng ta đến đây chơi, sao bạn chẳng vui chút nào vậy?\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Đề nghị: 還是…吧 (vẫn nên… thì hơn)",
+      "explanation": "還是 là phó từ, cho biết trong hoàn cảnh hiện tại, đây là lựa chọn tốt nhất. Câu luôn kết thúc bằng trợ từ 吧. Cấu trúc: Chủ ngữ + 還是 + Động từ + 吧. 還是 đứng giữa chủ ngữ và động từ. Phủ định đặt 不要/別 sau 還是: 還是不要…吧, 還是別…吧.",
+      "examples": "[{\"zh\":\"我最近很忙，我們還是週末再出去吃飯吧！\",\"pinyin\":\"Wǒ zuìjìn hěn máng, wǒmen háishi zhōumò zài chū qù chīfàn ba!\",\"vn\":\"Dạo này tôi bận lắm, chúng ta vẫn nên đợi cuối tuần rồi hẵng đi ăn.\"},{\"zh\":\"已經晚上十一點了，我還是明天早上再給老師打電話吧！\",\"pinyin\":\"Yǐjīng wǎnshang shí yìdiǎn le, wǒ háishi míngtiān zǎoshang zài gěi lǎoshī dǎ diànhuà ba!\",\"vn\":\"Đã mười một giờ đêm rồi, tôi vẫn nên sáng mai hẵng gọi điện cho thầy thì hơn.\"},{\"zh\":\"去學校，可以坐公車，也可以坐捷運，但是坐捷運比較快，我們還是坐捷運去吧！\",\"pinyin\":\"Qù xuéxiào, kěyǐ zuò gōngchē, yě kěyǐ zuò jiéyùn, dàn shì zuò jiéyùn bǐjiào kuài, wǒmen háishi zuò jiéyùn qù ba!\",\"vn\":\"Đến trường có thể đi xe buýt hoặc tàu điện ngầm, nhưng tàu điện ngầm nhanh hơn, chúng ta vẫn nên đi tàu điện ngầm.\"},{\"zh\":\"坐公車很慢，我們還是不要坐公車吧！\",\"pinyin\":\"Zuò gōngchē hěn màn, wǒmen háishi búyào zuò gōngchē ba!\",\"vn\":\"Đi xe buýt chậm lắm, chúng ta vẫn đừng đi xe buýt thì hơn!\"},{\"zh\":\"雨下得很大，今天你還是別回家吧！\",\"pinyin\":\"Yǔ xià de hěn dà, jīntiān nǐ háishi bié huí jiā ba!\",\"vn\":\"Mưa lớn lắm, hôm nay bạn vẫn đừng về nhà thì hơn!\"},{\"zh\":\"他聽了一定不開心，你還是別告訴他吧！\",\"pinyin\":\"Tā tīng le yídìng bù kāixīn, nǐ háishi bié gào sù tā ba!\",\"vn\":\"Anh ấy nghe xong chắc chắn sẽ không vui, bạn vẫn đừng nói với anh ấy thì hơn!\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "Tạo trạng ngữ với 一點: Tính từ + 一點",
+      "explanation": "Tính từ (vị từ trạng thái) kết hợp với 一點 tạo thành trạng ngữ bổ nghĩa cho hành động, thường dùng trong câu mệnh lệnh, đề nghị. Bắt buộc phải có 一點. Trạng ngữ này đứng sau động từ, không dùng trợ từ 得. Dạng phủ định: 不 + Động từ + Tính từ + 一點 (thường có ý điều kiện); câu hỏi: 還不…一點嗎？, 是不是…一點比較好？, 可以…一點嗎？",
+      "examples": "[{\"zh\":\"你走慢一點！\",\"pinyin\":\"Nǐ zǒu màn yìdiǎn!\",\"vn\":\"Bạn đi chậm một chút!\"},{\"zh\":\"你們吃快一點！\",\"pinyin\":\"Nǐmen chī kuài yìdiǎn!\",\"vn\":\"Các bạn ăn nhanh lên một chút!\"},{\"zh\":\"你的字要寫好看一點！\",\"pinyin\":\"Nǐ de zì yào xiě hǎokàn yìdiǎn!\",\"vn\":\"Chữ của bạn phải viết đẹp hơn một chút!\"},{\"zh\":\"你不寫好看一點，老師說要再寫一次。\",\"pinyin\":\"Nǐ bù xiě hǎokàn yìdiǎn, lǎoshī shuō yào zài xiě yí cì.\",\"vn\":\"Nếu bạn không viết đẹp hơn thì thầy nói phải viết lại lần nữa.\"},{\"zh\":\"要是你不唱好聽一點，就不能去比賽了。\",\"pinyin\":\"Yàoshi nǐ bú chàng hǎo tīng yìdiǎn, jiù bù néng qù bǐsài le.\",\"vn\":\"Nếu bạn không hát hay hơn thì sẽ không thể đi thi.\"},{\"zh\":\"你不走快一點，就不能跟朋友見面了。\",\"pinyin\":\"Nǐ bù zǒu kuài yìdiǎn, jiù bù néng gēn péngyou jiànmiàn le.\",\"vn\":\"Nếu bạn không đi nhanh hơn thì sẽ không gặp được bạn bè.\"},{\"zh\":\"要上課了。你還不走快一點嗎？\",\"pinyin\":\"Yào shàngkè le. Nǐ hái bù zǒu kuài yìdiǎn ma?\",\"vn\":\"Sắp vào học rồi. Bạn còn chưa đi nhanh lên à?\"},{\"zh\":\"路上車那麼多。你是不是騎慢一點比較好？\",\"pinyin\":\"Lùshang chē nàme duō. Nǐ shì bu shì qí màn yìdiǎn bǐjiào hǎo?\",\"vn\":\"Trên đường nhiều xe thế. Có phải bạn nên chạy chậm lại thì hơn không?\"},{\"zh\":\"你說得太快了。可以說慢一點嗎？\",\"pinyin\":\"Nǐ shuō de tài kuài le. Kěyǐ shuō màn yìdiǎn ma?\",\"vn\":\"Bạn nói nhanh quá. Có thể nói chậm một chút không?\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "Láy tính từ hai âm tiết: AB → AABB",
+      "explanation": "Giống tính từ đơn âm tiết, tính từ hai âm tiết cũng có thể láy lại để nhấn mạnh trạng thái. Hình thức láy: AB → AABB (開心 → 開開心心, 輕鬆 → 輕輕鬆鬆, 舒服 → 舒舒服服). Khi làm trạng ngữ trước động từ thì thêm 地; khi bổ nghĩa cho danh từ thì thêm 的; khi làm vị ngữ thì cuối câu có 的; khi làm bổ ngữ sau động từ thì dùng 得 và cuối câu có 的 (có thể bỏ). Không phải tính từ hai âm tiết nào cũng láy được (ví dụ 便宜, 好看, 麻煩, 方便 thì không). Không dùng phó từ chỉ mức độ (很, 非常) trước tính từ đã láy.",
+      "examples": "[{\"zh\":\"他們開開心心地一起吃飯。\",\"pinyin\":\"Tāmen kāikāixīnxīn de yìqǐ chīfàn.\",\"vn\":\"Họ vui vẻ cùng nhau ăn cơm.\"},{\"zh\":\"王老闆客客氣氣地跟人說話。\",\"pinyin\":\"Wáng lǎobǎn kèkèqìqì de gēn rén shuōhuà.\",\"vn\":\"Ông chủ Vương nói chuyện với người khác rất lịch sự.\"},{\"zh\":\"大家開開心心地幫他過生日。\",\"pinyin\":\"Dàjiā kāikāixīnxīn de bāng tā guò shēngrì.\",\"vn\":\"Mọi người vui vẻ tổ chức sinh nhật cho anh ấy.\"},{\"zh\":\"有了悠遊卡，就可以輕輕鬆鬆地到處逛逛。\",\"pinyin\":\"Yǒu le yōuyóukǎ, jiù kěyǐ qīngqīngsōngsōng de dàochù guàngguang.\",\"vn\":\"Có thẻ EasyCard là có thể thoải mái đi dạo khắp nơi.\"},{\"zh\":\"我要租一個乾乾淨淨的房間，比較舒服。\",\"pinyin\":\"Wǒ yào zū yí ge gāngānjìngjìng de fángjiān, bǐjiào shūfu.\",\"vn\":\"Tôi muốn thuê một căn phòng sạch sẽ, sẽ thoải mái hơn.\"},{\"zh\":\"大家都想找輕輕鬆鬆的工作。\",\"pinyin\":\"Dàjiā dōu xiǎng zhǎo qīngqīngsōngsōng de gōngzuò.\",\"vn\":\"Ai cũng muốn tìm một công việc nhẹ nhàng.\"},{\"zh\":\"房間乾乾淨淨的，看起來真舒服。\",\"pinyin\":\"Fángjiān gāngānjìngjìng de, kànqǐlái zhēn shūfu.\",\"vn\":\"Căn phòng sạch sẽ, trông thật dễ chịu.\"},{\"zh\":\"月美每天都穿得漂漂亮亮（的）。\",\"pinyin\":\"Yuè měi měitiān dōu chuān de piàopiàoliàngliàng (de).\",\"vn\":\"Nguyệt Mỹ ngày nào cũng ăn mặc rất xinh đẹp.\"},{\"zh\":\"我跟同學在花蓮玩得開開心心的。\",\"pinyin\":\"Wǒ gēn tóngxué zài Huālián wán de kāikāixīnxīn de.\",\"vn\":\"Tôi và bạn học chơi ở Hoa Liên rất vui vẻ.\"},{\"zh\":\"那裡的廚房是不是乾乾淨淨的？\",\"pinyin\":\"Nàlǐ de chúfáng shì bu shì gāngānjìngjìng de?\",\"vn\":\"Nhà bếp ở đó có sạch sẽ không?\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Phủ định nhẹ nhàng: 不太 + Vs (không… lắm)",
+      "explanation": "Mẫu \"不太 + tính từ\" biểu thị sự phủ định nhẹ nhàng, lịch sự hơn so với phủ định thông thường 不 + tính từ, tương đương \"not terribly…\" trong tiếng Anh. 不太 thực chất đã mất nghĩa gốc, chỉ còn nghĩa \"không… lắm\"; tùy ngữ cảnh có thể mang nghĩa tiêu cực hoặc để nói giảm, an ủi. 不很 ít dùng hơn 不太 và mang tính trần thuật, thẳng thắn, không có sắc thái lịch sự.",
+      "examples": "[{\"zh\":\"騎機車去旅行太累了吧。——我覺得騎車去不太累，很好玩。\",\"pinyin\":\"Qí jīchē qù lǚxíng tài lèi le ba. — — wǒ juéde qí chē qù bú tài lèi, hěn hǎo wán.\",\"vn\":\"Chạy xe máy đi du lịch mệt quá nhỉ. — Tôi thấy chạy xe đi không mệt lắm, rất vui.\"},{\"zh\":\"高鐵票很貴，我們坐公車比較好。——高鐵票不太貴！\",\"pinyin\":\"Gāotiě piào hěn guì, wǒmen zuò gōngchē bǐjiào hǎo. — — gāotiě piào bú tài guì!\",\"vn\":\"Vé tàu cao tốc đắt lắm, đi xe buýt thì hơn. — Vé tàu cao tốc không đắt lắm đâu!\"},{\"zh\":\"今天不太冷，你不必穿那麼多。\",\"pinyin\":\"Jīntiān bú tài lěng, nǐ búbì chuān nàme duō.\",\"vn\":\"Hôm nay không lạnh lắm, bạn không cần mặc nhiều thế.\"},{\"zh\":\"放假的時候，高鐵票是不是不太好買？\",\"pinyin\":\"Fàngjià de shíhou, gāotiě piào shì bu shì bú tài hǎo mǎi?\",\"vn\":\"Vào dịp nghỉ, vé tàu cao tốc có phải không dễ mua lắm không?\"},{\"zh\":\"去西班牙的飛機是不是不太多？\",\"pinyin\":\"Qù Xībānyá de fēijī shì bu shì bú tài duō?\",\"vn\":\"Máy bay đi Tây Ban Nha có phải không nhiều lắm không?\"},{\"zh\":\"台灣的秋天和日本的秋天是不是不太一樣？\",\"pinyin\":\"Táiwān de qiūtiān hé Rìběn de qiūtiān shì bu shì bú tài yíyàng?\",\"vn\":\"Mùa thu ở Đài Loan và Nhật Bản có phải không giống nhau lắm không?\"},{\"zh\":\"這杯茶不太熱。\",\"pinyin\":\"Zhè bēi chá bú tài rè.\",\"vn\":\"Ly trà này không nóng lắm.\"},{\"zh\":\"他的咖啡賣得不太好。\",\"pinyin\":\"Tā de kāfēi mài de bú tài hǎo.\",\"vn\":\"Cà phê của anh ấy bán không chạy lắm.\"}]"
+    },
+    {
+      "order_num": 6,
+      "title": "Chỉ vị trí: 部 và 邊",
+      "explanation": "部 chỉ \"khu vực, phần\" của một vùng; 邊 chỉ \"phía, bên\" so với một điểm quy chiếu. Đối với một quốc gia, 部 chỉ các vùng trong nước, còn 邊 chỉ khu vực bên ngoài biên giới. Các phương hướng: 東 (đông), 西 (tây), 南 (nam), 北 (bắc), cộng thêm 邊 hoặc 部; kết hợp: 東南 (đông nam), 東北 (đông bắc), 西南 (tây nam), 西北 (tây bắc). Có 中部 (miền trung) nhưng không có 中邊.",
+      "examples": "[{\"zh\":\"台灣的北部、南部有很多好玩的地方。\",\"pinyin\":\"Táiwān de běibù, nánbù yǒu hěn duō hǎo wán de dìfang.\",\"vn\":\"Miền bắc và miền nam Đài Loan có rất nhiều nơi vui chơi.\"},{\"zh\":\"台灣東部的風景很美。\",\"pinyin\":\"Táiwān dōngbù de fēngjǐng hěn měi.\",\"vn\":\"Phong cảnh miền đông Đài Loan rất đẹp.\"},{\"zh\":\"台灣東邊的大海非常乾淨。\",\"pinyin\":\"Táiwān dōngbiān de dàhǎi fēicháng gānjìng.\",\"vn\":\"Biển ở phía đông Đài Loan rất sạch.\"},{\"zh\":\"那個地方西邊有山，南邊有海。\",\"pinyin\":\"Nàge dìfang xībiān yǒu shān, nánbiān yǒu hǎi.\",\"vn\":\"Nơi đó phía tây có núi, phía nam có biển.\"},{\"zh\":\"綠島在台灣的東南邊。\",\"pinyin\":\"Lǜdǎo zài Táiwān de dōngnánbiān.\",\"vn\":\"Lục Đảo ở phía đông nam của Đài Loan.\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "如玉",
+      "text_zh": "安同，早！你要去哪裡？",
+      "pinyin": "Āntóng, zǎo! Nǐ yào qù nǎlǐ?",
+      "translation_vn": "An Đồng, chào buổi sáng! Bạn định đi đâu thế?",
+      "translation_en": "Antong, good morning. Where are you going?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "安同",
+      "text_zh": "早！我約了朋友一起去看電影，你呢？",
+      "pinyin": "Zǎo! Wǒ yuē le péngyou yìqǐ qù kàn diànyǐng, nǐ ne?",
+      "translation_vn": "Chào buổi sáng! Tôi hẹn bạn cùng đi xem phim, còn bạn?",
+      "translation_en": "Good morning! I am going to see a movie with some friends. And you?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "如玉",
+      "text_zh": "我要去看電腦展。",
+      "pinyin": "Wǒ yào qù kàn diànnǎo zhǎn.",
+      "translation_vn": "Tôi định đi xem triển lãm máy tính.",
+      "translation_en": "I am going to the computer show."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "安同",
+      "text_zh": "你去哪裡看電腦展？",
+      "pinyin": "Nǐ qù nǎlǐ kàn diànnǎo zhǎn?",
+      "translation_vn": "Bạn xem triển lãm máy tính ở đâu?",
+      "translation_en": "Where are you going for the computer show?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "如玉",
+      "text_zh": "世貿展覽館，我現在要去對面坐公車。",
+      "pinyin": "Shìmào Zhǎnlǎnguǎn, wǒ xiànzài yào qù duìmiàn zuò gōngchē.",
+      "translation_vn": "Ở Trung tâm triển lãm Thế Mậu, bây giờ tôi đang định sang bên kia đường đi xe buýt.",
+      "translation_en": "The World Trade Center Exhibition Hall. I am going across the street now to take the bus."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "安同",
+      "text_zh": "那裡離台北101不遠，妳怎麼不坐捷運呢？",
+      "pinyin": "Nàlǐ lí Táiběi 101 bù yuǎn, nǐ zěnme bú zuò jiéyùn ne?",
+      "translation_vn": "Chỗ đó cách Đài Bắc 101 không xa, sao bạn không đi tàu điện ngầm?",
+      "translation_en": "It is not too far from Taipei 101. Why don't you take the MRT there?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "如玉",
+      "text_zh": "朋友告訴我公車直接到展覽館，不必換車。",
+      "pinyin": "Péngyou gào sù wǒ gōngchē zhíjiē dào zhǎnlǎnguǎn, búbì huàn chē.",
+      "translation_vn": "Bạn tôi nói xe buýt đi thẳng đến nhà triển lãm, không cần đổi xe.",
+      "translation_en": "My friend said the bus goes directly to the exhibition hall. I don't have to change buses."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "安同",
+      "text_zh": "坐捷運也很方便。妳先坐2號線到台北車站，再換車到展覽館。",
+      "pinyin": "Zuò jiéyùn yě hěn fāngbiàn. Nǐ xiān zuò 2 hào xiàn dào Táiběi Chēzhàn, zài huàn chē dào zhǎnlǎnguǎn.",
+      "translation_vn": "Đi tàu điện ngầm cũng rất tiện. Bạn đi tuyến số 2 đến ga Đài Bắc trước, rồi đổi tàu đến nhà triển lãm.",
+      "translation_en": "Taking the MRT is also very convenient. Take Line 2 to Taipei Main Station, transfer, and head to the exhibition hall."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "如玉",
+      "text_zh": "聽起來坐捷運比較麻煩。",
+      "pinyin": "Tīng qǐ lái zuò jiéyùn bǐjiào máfan.",
+      "translation_vn": "Nghe có vẻ đi tàu điện ngầm phiền phức hơn.",
+      "translation_en": "It sounds like taking the MRT would be more of a hassle."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "安同",
+      "text_zh": "一點也不麻煩，捷運比較快，坐公車要花一個多小時。你還是坐捷運吧！",
+      "pinyin": "Yìdiǎn yě bù máfan, jiéyùn bǐjiào kuài, zuò gōngchē yào huā yí ge duō xiǎoshí. Nǐ háishi zuò jiéyùn ba!",
+      "translation_vn": "Không phiền chút nào, tàu điện ngầm nhanh hơn, đi xe buýt mất hơn một tiếng. Bạn vẫn nên đi tàu điện ngầm đi!",
+      "translation_en": "It is not a hassle at all. The MRT is faster. The bus will take at least an hour. I think you should probably go ahead and take the MRT."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 11,
+      "speaker": "如玉",
+      "text_zh": "捷運站遠嗎？",
+      "pinyin": "Jiéyùnzhàn yuǎn ma?",
+      "translation_vn": "Ga tàu điện ngầm có xa không?",
+      "translation_en": "Is the MRT station far?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 12,
+      "speaker": "安同",
+      "text_zh": "捷運站就在前面。",
+      "pinyin": "Jiéyùnzhàn jiù zài qiánmian.",
+      "translation_vn": "Ga tàu điện ngầm ở ngay phía trước.",
+      "translation_en": "It is just ahead."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 13,
+      "speaker": "如玉",
+      "text_zh": "謝謝！我得趕快走了。",
+      "pinyin": "Xièxie! Wǒ děi gǎnkuài zǒu le.",
+      "translation_vn": "Cảm ơn! Tôi phải đi nhanh thôi.",
+      "translation_en": "Thanks! I have to go."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 14,
+      "speaker": "安同",
+      "text_zh": "別急，走慢一點。捷運的班次很多。",
+      "pinyin": "Biéjí, zǒu màn yìdiǎn. Jiéyùn de bāncì hěn duō.",
+      "translation_vn": "Đừng vội, cứ đi chậm một chút. Tàu điện ngầm có rất nhiều chuyến.",
+      "translation_en": "No need to hurry. Take your time. The trains are very frequent."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 15,
+      "speaker": "如玉",
+      "text_zh": "好，我們下禮拜見。",
+      "pinyin": "Hǎo, wǒmen xià lǐbài jiàn.",
+      "translation_vn": "Được, tuần sau gặp nhé.",
+      "translation_en": "Okay. See you next week."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "敘述",
+      "text_zh": "如玉的朋友美美從法國到台灣來玩兩個禮拜，她先從歐洲坐飛機到越南，再轉機到台灣。",
+      "pinyin": "Rúyù de péngyou Měiměi cóng Fǎguó dào Táiwān lái wán liǎng ge lǐbài, tā xiān cóng Ōuzhōu zuò fēijī dào Yuènán, zài zhuǎnjī dào Táiwān.",
+      "translation_vn": "Mỹ Mỹ, bạn của Như Ngọc, từ Pháp đến Đài Loan chơi hai tuần. Cô ấy đi máy bay từ châu Âu đến Việt Nam trước, rồi quá cảnh sang Đài Loan.",
+      "translation_en": "Meimei, a friend of Ruyu, arrived in Taiwan from France to vacation for two weeks. She first took a plane from Europe and transferred in Vietnam for Taiwan."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "敘述",
+      "text_zh": "到了機場，美美直接坐巴士到台北。",
+      "pinyin": "Dào le jīchǎng, Měiměi zhíjiē zuò bāshì dào Táiběi.",
+      "translation_vn": "Đến sân bay, Mỹ Mỹ đi thẳng xe buýt đến Đài Bắc.",
+      "translation_en": "After arriving at the airport, Meimei took a bus directly to Taipei."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "敘述",
+      "text_zh": "如玉告訴她，在市區坐捷運是最方便的，所以她下了巴士，就坐捷運到旅館去了。",
+      "pinyin": "Rúyù gào sù tā, zài shìqū zuò jiéyùn shì zuì fāngbiàn de, suǒyǐ tā xià le bāshì, jiù zuò jiéyùn dào lǚguǎn qù le.",
+      "translation_vn": "Như Ngọc nói với cô ấy rằng ở trong nội thành đi tàu điện ngầm là tiện nhất, nên cô ấy xuống xe buýt rồi đi tàu điện ngầm về khách sạn.",
+      "translation_en": "Ruyu told her that taking the MRT is the most convenient way to get around when in Taipei. So when she got off the bus, she took the MRT to her hotel."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "敘述",
+      "text_zh": "美美覺得台北的交通非常便利，到處都有公車、計程車，還有捷運，去哪裡都很方便。",
+      "pinyin": "Měiměi juéde Táiběi de jiāotōng fēicháng biànlì, dàochù dōu yǒu gōngchē, jìchéngchē, hái yǒu jiéyùn, qù nǎlǐ dōu hěn fāngbiàn.",
+      "translation_vn": "Mỹ Mỹ thấy giao thông ở Đài Bắc rất thuận tiện, đâu đâu cũng có xe buýt, taxi, lại còn có tàu điện ngầm, đi đâu cũng rất tiện.",
+      "translation_en": "Meimei thinks public transportation in Taipei is very convenient. There are buses and taxis everywhere and the MRT can take you anywhere."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "敘述",
+      "text_zh": "台北捷運的路線不複雜，車票也不貴，買一張悠遊卡，誰都可以輕輕鬆鬆地去逛逛。",
+      "pinyin": "Táiběi jiéyùn de lùxiàn bù fùzá, chē piào yě bú guì, mǎi yì zhāng yōuyóukǎ, shuí dōu kěyǐ qīngqīngsōngsōng de qù guàngguang.",
+      "translation_vn": "Các tuyến tàu điện ngầm Đài Bắc không phức tạp, vé cũng không đắt, mua một tấm thẻ EasyCard thì ai cũng có thể thoải mái đi dạo.",
+      "translation_en": "The MRT system in Taipei is not complicated and fares are not expensive. Buying an EasyCard allows anyone to go check out any place easily."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "敘述",
+      "text_zh": "美美住在法國東部，沒有什麼機會到海邊。",
+      "pinyin": "Měiměi zhù zài Fǎguó dōngbù, méiyǒu shénme jīhuì dào hǎibiān.",
+      "translation_vn": "Mỹ Mỹ sống ở miền đông nước Pháp nên không có nhiều cơ hội ra biển.",
+      "translation_en": "Meimei lives in eastern France, so she does not have many opportunities to go to the seaside."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "敘述",
+      "text_zh": "聽說台灣附近的小島，風景都很美，所以她決定到綠島去看看。",
+      "pinyin": "Tīngshuō Táiwān fùjìn de xiǎo dǎo, fēngjǐng dōu hěn měi, suǒyǐ tā juédìng dào Lǜdǎo qù kànkan.",
+      "translation_vn": "Nghe nói các đảo nhỏ gần Đài Loan phong cảnh đều rất đẹp, nên cô ấy quyết định đến Lục Đảo xem thử.",
+      "translation_en": "She heard that the scenery on the small islands near Taiwan is beautiful, so she has decided to go check out Green Island."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "敘述",
+      "text_zh": "綠島在台灣的東南邊，到那裡不太方便。",
+      "pinyin": "Lǜdǎo zài Táiwān de dōngnánbiān, dào nàlǐ bú tài fāngbiàn.",
+      "translation_vn": "Lục Đảo ở phía đông nam Đài Loan, đến đó không tiện lắm.",
+      "translation_en": "Green Island is located to the southeast of Taiwan and getting there is not easy."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "敘述",
+      "text_zh": "美美得先坐火車到台東，再搭船或是飛機到綠島。",
+      "pinyin": "Měiměi děi xiān zuò huǒchē dào Táidōng, zài dā chuán huò shì fēijī dào Lǜdǎo.",
+      "translation_vn": "Mỹ Mỹ phải đi tàu hỏa đến Đài Đông trước, rồi đi thuyền hoặc máy bay đến Lục Đảo.",
+      "translation_en": "Meimei has to first take the train to Taitung, and then take a boat or plane to Green Island."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 10,
+      "speaker": "敘述",
+      "text_zh": "她打算第二個星期去綠島，好好地玩一玩。",
+      "pinyin": "Tā dǎsuàn dì-èr ge xīngqī qù Lǜdǎo, hǎohǎo de wán yi wán.",
+      "translation_vn": "Cô ấy dự định tuần thứ hai sẽ đến Lục Đảo, chơi cho thật vui.",
+      "translation_en": "She plans to go to Green Island during her second week and have a really good time."
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Hoàn thành hội thoại với 一點也不…",
+      "kind": "dialogue",
+      "grammar_order": 1,
+      "instruction": "Hoàn thành các đoạn hội thoại sau bằng mẫu câu phủ định nhấn mạnh 一點也不….",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：出去的時候，記得多穿一點衣服。\nB：可是我覺得今天＿＿＿＿。",
+          "answer": "B：可是我覺得今天一點也不冷。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：我們趕快去吃飯吧！\nB：你自己去吧！我很累，＿＿＿＿。",
+          "answer": "B：你自己去吧！我很累，一點也不餓。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你有錢嗎？\nB：現在我＿＿＿＿。",
+          "answer": "B：現在我一點錢也沒有。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你先休息吧！\nB：沒關係，我＿＿＿＿。",
+          "answer": "B：沒關係，我一點也不累。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你會說西班牙文嗎？\nB：我＿＿＿＿。",
+          "answer": "B：我一點西班牙文也不會說。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành hội thoại với 還是…吧",
+      "kind": "dialogue",
+      "grammar_order": 2,
+      "instruction": "Hoàn thành các đoạn hội thoại sau bằng cách dùng gợi ý 還是…吧！",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：我想買那個日本手機。\nB：那個手機有一點貴，＿＿＿＿。",
+          "answer": "B：那個手機有一點貴，你還是買別的吧！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：我們去看電影吧！\nB：我不太舒服，＿＿＿＿。",
+          "answer": "B：我不太舒服，我們還是改天再去吧！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：我現在就去買背包。\nB：快要上課了，＿＿＿＿。",
+          "answer": "B：快要上課了，你還是下課再去買吧！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：我們明天去買車票吧！\nB：我怕明天車票就沒有了，＿＿＿＿。",
+          "answer": "B：我怕明天車票就沒有了，我們還是今天去買吧！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：我們坐捷運回去吧！\nB：下雨了，＿＿＿＿。",
+          "answer": "B：下雨了，我們還是坐計程車回去吧！",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Dùng câu mệnh lệnh với Adj + 一點",
+      "kind": "rewrite",
+      "grammar_order": 3,
+      "instruction": "Dùng mẫu câu mệnh lệnh vừa học để đáp lại các tình huống sau.",
+      "image": "",
+      "questions": [
+        {
+          "question": "你跟朋友一起騎車，他騎得很慢。",
+          "answer": "你騎快一點！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "公車快來了，朋友走路走得很慢。",
+          "answer": "你走快一點！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "台灣人說中文說得太快了。",
+          "answer": "請你說慢一點！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "快要上課了，朋友還在吃飯。",
+          "answer": "你吃快一點！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "朋友寫字寫得太難看了。",
+          "answer": "你寫好看一點！",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Chọn tính từ thích hợp và láy thành AABB",
+      "kind": "rewrite",
+      "grammar_order": 4,
+      "instruction": "Chọn tính từ thích hợp trong danh sách rồi dùng dạng láy AABB để điền vào câu.\nTính từ: 輕鬆、漂亮、舒服、乾淨、快樂、客氣、開心",
+      "image": "",
+      "questions": [
+        {
+          "question": "有了捷運，我每天都能＿＿＿＿地上學。",
+          "answer": "有了捷運，我每天都能輕輕鬆鬆地上學。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "下雨天我只想＿＿＿＿地在家睡覺。",
+          "answer": "下雨天我只想舒舒服服地在家睡覺。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我希望大家每天都過得＿＿＿＿。",
+          "answer": "我希望大家每天都過得快快樂樂（的）。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我們找一家＿＿＿＿的餐廳吃飯吧！",
+          "answer": "我們找一家乾乾淨淨的餐廳吃飯吧！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這幾個學生的字都寫得＿＿＿＿。",
+          "answer": "這幾個學生的字都寫得漂漂亮亮的。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành câu với 不太",
+      "kind": "rewrite",
+      "grammar_order": 5,
+      "instruction": "Hoàn thành các câu sau bằng mẫu câu 不太.",
+      "image": "",
+      "questions": [
+        {
+          "question": "去法國的飛機，只有中華和大華兩家公司，所以飛機＿＿＿＿。",
+          "answer": "去法國的飛機，只有中華和大華兩家公司，所以飛機不太多。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "聽說你打算明天去海邊游泳，可是這幾天的天氣＿＿＿＿。",
+          "answer": "聽說你打算明天去海邊游泳，可是這幾天的天氣不太好。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你怎麼臉色這麼難看？\nB：我覺得＿＿＿＿。",
+          "answer": "B：我覺得不太舒服。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我家附近沒有捷運，去很多地方都＿＿＿＿。",
+          "answer": "我家附近沒有捷運，去很多地方都不太方便。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這家超市的東西＿＿＿＿，我們去學校附近的商店買吧！",
+          "answer": "這家超市的東西不太便宜，我們去學校附近的商店買吧！",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Trả lời câu hỏi theo bản đồ Đài Loan với 部／邊",
+      "kind": "picture",
+      "grammar_order": 6,
+      "instruction": "1. Dựa vào bản đồ Đài Loan, trả lời các câu hỏi.\n2. Vẽ một bản đồ đơn giản của nước hoặc thành phố bạn rồi giới thiệu bằng các mẫu 部 và 邊.",
+      "image": "/book2/l2/g6-map.jpg",
+      "questions": [
+        {
+          "question": "哪裡有山？\n→ 台灣的＿＿＿＿有山。",
+          "answer": "台灣的中部（和東部）有山。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "台北、台東在哪裡？\n→ 台北在台灣＿＿＿＿，台東在台灣＿＿＿＿。",
+          "answer": "台北在台灣北部，台東在台灣東南部。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "花蓮在哪裡？\n→ 花蓮在台東＿＿＿＿。",
+          "answer": "花蓮在台東北邊。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "中國在哪裡？\n→ 中國在台灣的＿＿＿＿。",
+          "answer": "中國在台灣的西邊。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "用 部／邊 介紹你的國家或城市（自己畫一張簡單的地圖）。",
+          "answer": "越南在東南亞。越南的北部有山，南部有很多水果，東邊有大海，西邊是柬埔寨。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hỏi và chỉ cách đi phương tiện công cộng",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Hỏi và chỉ cách đi các phương tiện công cộng.\nNhiệm vụ: Ghép cặp với bạn học, lần lượt hỏi cách đi phương tiện công cộng từ một điểm xuất phát đến một điểm đến. Người nhận thông tin lặp lại chỉ dẫn. Khi cả hai xong thì ghi lại các chỉ dẫn đã nhận.\nMẫu câu: 到……，坐捷運應該怎麼坐？ / 先從……坐往……。 / 到了……，再換車，搭……。 / 坐……站，……就到了。",
+      "image": "/book2/l2/a1-mrt-map.jpg",
+      "questions": [
+        {
+          "question": "例：台北車站 → 南京復興",
+          "answer": "A：到南京復興，坐捷運應該怎麼坐？\nB：先從台北車站坐往南港展覽館的5號線，到了忠孝復興站，再換車，搭往南港展覽館的1號線，坐一站，南京復興站就到了。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Đóng vai: đại lý du lịch",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: So sánh thông tin rồi đưa ra quyết định.\nNhiệm vụ: Ghép cặp, lần lượt đóng vai A và B. Tình huống: A muốn đi du lịch nước ngoài và đến đại lý du lịch nhờ giúp. Nhân viên B giới thiệu ba gói du lịch khác nhau. A hỏi theo nhu cầu của mình rồi quyết định gói nào tốt nhất.",
+      "image": "/book2/l2/a2-packages.jpg",
+      "questions": [
+        {
+          "question": "A là khách, B là nhân viên đại lý",
+          "answer": "A：我想去國外玩，你可以給我介紹一下嗎？\nB：我們有三個行程：香港三天兩夜，費用二萬五；日本北海道五天四夜，費用五萬七；泰國五天四夜，費用三萬二。\nA：我不太喜歡太貴的，泰國的活動有什麼？\nB：可以游泳、買東西。\nA：聽起來不錯，我還是去泰國吧！",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Lời khuyên và cảnh báo với Vs + 一點",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Dùng tiếng Trung để nhắc nhở hoặc cảnh báo người khác.\nNhiệm vụ: Xem các tình huống trong tranh, nghĩ ra lời cảnh báo hoặc gợi ý bạn có thể nói. Có thể dùng mẫu V + Vs + 一點.\nVí dụ: 妳走慢一點！",
+      "image": "/book2/l2/a3-pictures.jpg",
+      "questions": [
+        {
+          "question": "圖 1（兩個人在吃東西）",
+          "answer": "你們吃慢一點，小心燙！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2（兩個人騎機車）",
+          "answer": "你們騎慢一點，要戴安全帽！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3（兩個人在咖啡店聊天）",
+          "answer": "你們說話小聲一點，不要太吵。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4（兩個人追公車）",
+          "answer": "你們跑快一點，公車要開了！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 5（問路，氣泡寫「先…再…就到了」）",
+          "answer": "你先往前走，再往右轉，就到了。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Miêu tả người, sự việc, sự vật với AABB",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Dùng tính từ hai âm tiết láy để miêu tả người và sự vật.\nNhiệm vụ: Mỗi người trong nhóm hai người chọn đối tượng trong tranh ứng với câu hỏi bên dưới. Dùng tính từ láy, hoặc các mẫu gợi ý khác (看起來…, 比較…) để miêu tả đối tượng mình chọn. Hỏi nhau để đoán ra lựa chọn của đối phương.\nTính từ: 漂亮、客氣、快樂、輕鬆、開心、乾淨、舒服、高興、累、高、矮、大、小、紅、白、藍、黃",
+      "image": "/book2/l2/a4-people.jpg",
+      "questions": [
+        {
+          "question": "你想哪一個人會說中文？",
+          "answer": "我想穿紅衣服的那個小姐會說中文，她看起來高高的，笑得開開心心的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你想哪一個人每天都坐捷運上班？",
+          "answer": "我想拿著公事包的那個人每天都坐捷運上班，他看起來有一點累。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你想哪一個人在便利商店工作？",
+          "answer": "我想那個穿黃衣服、看起來不太高興的人在便利商店工作。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你想哪一個人有日本汽車？",
+          "answer": "我想穿得乾乾淨淨的那個人有日本汽車。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

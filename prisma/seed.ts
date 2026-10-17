@@ -13,7 +13,11 @@ async function main() {
     return;
   }
 
-  const files = fs.readdirSync(dataDir).filter(f => f.endsWith('.json'));
+  // Tuỳ chọn: `tsx prisma/seed.ts book2_lesson1.json ...` chỉ nạp các file được chỉ định
+  const only = process.argv.slice(2);
+  const files = fs
+    .readdirSync(dataDir)
+    .filter(f => f.endsWith('.json') && (only.length === 0 || only.includes(f)));
 
   for (const file of files) {
     const filePath = path.join(dataDir, file);
@@ -51,6 +55,7 @@ async function main() {
     await prisma.lesson.create({
       data: {
         id: lessonId,
+        book: data.book ?? 1,
         title_vn: data.title_vn || `Bài ${lessonId}`,
         title_zh: data.title_zh || `第 ${lessonId} 課`,
         subtitle: data.subtitle || "",
@@ -77,7 +82,11 @@ async function main() {
       const createdEx = await prisma.exercise.create({ 
         data: { 
           lesson_id: lessonId, 
-          title: ex.title 
+          title: ex.title,
+          kind: ex.kind ?? 'fill',
+          grammar_order: ex.grammar_order ?? 0,
+          instruction: ex.instruction ?? '',
+          image: ex.image ?? '',
         } 
       });
       for (const q of ex.questions || []) {
@@ -86,7 +95,8 @@ async function main() {
             exercise_id: createdEx.id,
             question: q.question,
             answer: q.answer,
-            hint: q.hint
+            hint: q.hint ?? '',
+            image: q.image ?? '',
           }
         });
       }

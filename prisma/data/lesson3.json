@@ -736,141 +736,323 @@
   ],
   "exercises": [
     {
-      "title": "Placement of Time Words",
-      "description": "Complete the sentences below based on the pictures provided using 去 + VP.",
+      "title": "Hoàn thành câu với từ chỉ thời gian",
+      "kind": "picture",
+      "grammar_order": 1,
+      "instruction": "Hoàn thành bảng bằng các từ chỉ thời gian và câu thích hợp. Bảng 1: S (chủ ngữ) – TW (thời gian) – VP. Bảng 2: TW – S – VP. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l3/g1-tables.jpg",
       "questions": [
         {
-          "question": "明天早上我們一起去 __________ 。",
-          "answer": "游泳",
-          "explanation": "Tomorrow morning we will go swimming together."
+          "question": "我們　＿＿＿＿（thời gian）　想去看電影。",
+          "answer": "我們今天（hoặc 明天、週末）想去看電影。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "今天晚上我不想 __________ 。",
-          "answer": "去看電影",
-          "explanation": "I don't want to go to the movies tonight."
+          "question": "你　＿＿＿＿　想吃越南菜還是臺灣菜？",
+          "answer": "你今天晚上想吃越南菜還是臺灣菜？",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "你週末常 __________ 嗎？",
-          "answer": "去打網球",
-          "explanation": "Do you often go play tennis on weekends?"
+          "question": "我們　＿＿＿＿　去看電影還是去看＿＿＿＿？",
+          "answer": "我們明天去看電影還是去看球賽？",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我妹妹今天晚上要 __________ 。",
-          "answer": "去打籃球",
-          "explanation": "My younger sister wants to go play basketball tonight."
+          "question": "李先生　＿＿＿＿　＿＿＿＿＿＿＿＿？",
+          "answer": "李先生明天要做什麼？",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我爸爸去打棒球，我哥哥 __________ 。",
-          "answer": "去踢足球",
-          "explanation": "My dad goes to play baseball, my older brother goes to play soccer."
+          "question": "＿＿＿＿　我們　去他家。",
+          "answer": "今天晚上我們去他家。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "＿＿＿＿　他　想吃越南菜。",
+          "answer": "明天他想吃越南菜。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "＿＿＿＿　你　要去看電影嗎？",
+          "answer": "週末你要去看電影嗎？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "＿＿＿＿　王小姐　＿＿＿＿＿＿＿＿。",
+          "answer": "明天早上王小姐去游泳。",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Topic Sentences",
-      "description": "Complete the topic-comment sentences.",
+      "title": "Hoàn thành câu với 去 + VP theo tranh",
+      "kind": "picture",
+      "grammar_order": 2,
+      "instruction": "Hoàn thành các câu dưới đây dựa vào tranh, dùng 去 + VP. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l3/g2-pictures.jpg",
       "questions": [
         {
-          "question": "我常看美國電影。 -> __________，我常看。",
-          "answer": "美國電影",
-          "explanation": "Bring the topic (American movies) to the front."
+          "question": "明天早上我們一起去＿＿＿＿＿＿＿＿。",
+          "answer": "明天早上我們一起去游泳。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我覺得踢足球很好玩。 -> __________，我覺得很好玩。",
-          "answer": "踢足球",
-          "explanation": "Bring the topic (playing soccer) to the front."
+          "question": "今天晚上我不想＿＿＿＿＿＿＿＿＿＿＿＿。",
+          "answer": "今天晚上我不想去看電影。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 你喜歡喝臺灣茶還是日本茶？\nB: __________茶、__________茶，我都不喝。",
-          "answer": "臺灣 日本",
-          "explanation": "I drink neither Taiwanese tea nor Japanese tea."
+          "question": "你週末常＿＿＿＿＿＿＿＿＿＿＿＿嗎？",
+          "answer": "你週末常去打網球嗎？",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 你喜歡越南菜還是臺灣菜？\nB: __________和__________，我__________。",
-          "answer": "越南菜 臺灣菜 都喜歡",
-          "explanation": "I like both Vietnamese food and Taiwanese food."
+          "question": "我妹妹今天晚上要＿＿＿＿＿＿＿＿＿＿＿＿。",
+          "answer": "我妹妹今天晚上要去踢足球。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 你有弟弟和妹妹嗎？\nB: __________和__________，我__________。",
-          "answer": "弟弟 妹妹 都有",
-          "explanation": "I have both a younger brother and a younger sister."
-        },
-        {
-          "question": "A: 網球、籃球，你都喜歡嗎？\nB: __________，我喜歡；__________，我__________。",
-          "answer": "網球 籃球 不喜歡",
-          "explanation": "Tennis, I like; basketball, I don't like."
+          "question": "我爸爸去打棒球，我哥哥＿＿＿＿＿＿＿＿＿＿＿＿。",
+          "answer": "我爸爸去打棒球，我哥哥去打籃球。",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "The Word Order of Adverbs 也, 都 and 常",
-      "description": "Complete with 也, 都 or 常.",
+      "title": "Hoàn thành câu chủ đề – bình luận",
+      "kind": "rewrite",
+      "grammar_order": 3,
+      "instruction": "Hoàn thành các câu chủ đề (topic-comment): đưa đối tượng được nói đến lên đầu câu.",
+      "image": "",
       "questions": [
         {
-          "question": "陳先生喜歡喝茶， ________ 喜歡喝咖啡。",
-          "answer": "也",
-          "explanation": "Mr. Chen likes drinking tea, and ALSO likes drinking coffee."
+          "question": "我常看美國電影。→＿＿＿＿＿＿＿＿，我常看。",
+          "answer": "美國電影，我常看。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我 ________ 喝咖啡， ________ 常喝茶。",
-          "answer": "不常 也",
-          "explanation": "I DON'T OFTEN drink coffee, and I ALSO often drink tea."
+          "question": "我覺得踢足球很好玩。→＿＿＿＿＿＿＿＿，我覺得很好玩。",
+          "answer": "踢足球，我覺得很好玩。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我不是日本人，他 ________ 不是日本人。",
-          "answer": "也",
-          "explanation": "I am not Japanese, and he is ALSO not Japanese."
+          "question": "A：你喜歡喝臺灣茶還是日本茶？\nB：＿＿＿＿茶、＿＿＿＿茶，我都不喝。",
+          "answer": "B：臺灣茶、日本茶，我都不喝。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我沒有哥哥， ________ 沒有姐姐。",
-          "answer": "也",
-          "explanation": "I don't have an older brother, and ALSO don't have an older sister."
+          "question": "A：你喜歡越南菜還是臺灣菜？\nB：＿＿＿＿和＿＿＿＿，我＿＿＿＿＿＿＿＿。",
+          "answer": "B：越南菜和臺灣菜，我都喜歡。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "他的家人都喜歡打網球，我家人也 ________ 喜歡打網球。",
-          "answer": "都",
-          "explanation": "All his family members like to play tennis, and my family members ALSO ALL like to play tennis."
+          "question": "A：你有弟弟和妹妹嗎？\nB：＿＿＿＿和＿＿＿＿，我＿＿＿＿＿＿＿＿。",
+          "answer": "B：弟弟和妹妹，我都有。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我們 ________ 不常踢足球。",
-          "answer": "也",
-          "explanation": "We ALSO don't often play soccer."
-        },
-        {
-          "question": "我不 ________ 游泳。",
-          "answer": "常",
-          "explanation": "I don't OFTEN swim."
+          "question": "A：網球、籃球，你都喜歡嗎？\nB：＿＿＿＿，我喜歡；＿＿＿＿，我＿＿＿＿。",
+          "answer": "B：網球，我喜歡；籃球，我不喜歡。",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Making Suggestions 吧 ba",
-      "description": "Complete with suitable suggestions.",
+      "title": "Điền 也, 都 hoặc 常",
+      "kind": "fill",
+      "grammar_order": 4,
+      "instruction": "Điền 也, 都 hoặc 常 vào chỗ trống.",
+      "image": "",
       "questions": [
         {
-          "question": "我們喝什麼茶？",
-          "answer": "我們喝烏龍茶吧",
-          "explanation": "Let's drink Oolong tea!"
+          "question": "陳先生喜歡喝茶，___ 喜歡喝咖啡。",
+          "answer": "[\"也\"]",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我們吃什麼？",
-          "answer": "我們吃臺灣菜吧",
-          "explanation": "Let's eat Taiwanese food!"
+          "question": "我 ___ 喝咖啡，___ 常喝茶。",
+          "answer": "[\"也\",\"也\"]",
+          "hint": "我也喝咖啡，也常喝茶。",
+          "image": ""
         },
         {
-          "question": "我們看什麼電影？",
-          "answer": "我們看美國電影吧",
-          "explanation": "Let's watch an American movie!"
+          "question": "我不是日本人，他 ___ 不是日本人。",
+          "answer": "[\"也\"]",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 我們明天晚上看什麼電影？\nB: 我想學中文，我們______________________吧。",
-          "answer": "去看臺灣電影",
-          "explanation": "I want to learn Chinese, let's go watch a Taiwanese movie."
+          "question": "我沒有哥哥，___ 沒有姐姐。",
+          "answer": "[\"也\"]",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 我們週末要做什麼？\nB: ______________________吧。",
-          "answer": "我們去打籃球",
-          "explanation": "Let's go play basketball."
+          "question": "他的家人都喜歡打網球，我家人也 ___ 喜歡打網球。",
+          "answer": "[\"都\"]",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我們 ___ 不常踢足球。",
+          "answer": "[\"都\"]",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我不 ___ 游泳。",
+          "answer": "[\"常\"]",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Đưa ra lời gợi ý với 吧",
+      "kind": "picture",
+      "grammar_order": 5,
+      "instruction": "Hoàn thành các câu bằng lời gợi ý thích hợp, dùng 吧. Xem bảng mẫu ở dưới.",
+      "image": "/book1/l3/g5-table.jpg",
+      "questions": [
+        {
+          "question": "A：我們明天晚上看什麼電影？\nB：我想學中文，我們＿＿＿＿＿＿＿＿＿＿＿＿吧。",
+          "answer": "B：我想學中文，我們看臺灣電影吧。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：我們週末要做什麼？\nB：＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿。",
+          "answer": "B：我們去打網球吧！",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Người này thích làm gì?",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Mô tả một người thích loại thể thao hoặc hoạt động nào.\nNhiệm vụ 1: Xem các bức tranh, nói người trong tranh thường làm gì vào buổi sáng và buổi tối. Hôm nay (thứ Năm) anh ấy đã làm gì?\nNhiệm vụ 2: Xem lại tranh và trả lời các câu hỏi:\n① 他常看電影還是常打籃球？ ② 他常踢足球還是常游泳？ ③ 他今天打網球還是打籃球？",
+      "image": "/book1/l3/a1-week.jpg",
+      "questions": [
+        {
+          "question": "他常看電影還是常打籃球？",
+          "answer": "",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他常踢足球還是常游泳？",
+          "answer": "",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他今天打網球還是打籃球？",
+          "answer": "他今天打網球。（Thứ Năm sáng trong tranh là đánh tennis）",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Đưa ra gợi ý",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách hỏi ý kiến một cách lịch sự và đưa ra gợi ý.\nNhiệm vụ: Ngày mai là cuối tuần. Cùng ba bạn đóng vai thảo luận làm gì vào cuối tuần, dùng các bức tranh ở hoạt động trên.",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：明天是週末，我們做什麼？\nB：我們去＿＿＿＿＿＿＿＿吧！\nC：我不喜歡＿＿＿＿，我們＿＿＿＿吧！\nA：我不喜歡＿＿＿＿，我們＿＿＿＿，好不好？\nB：好，我們一起去＿＿＿＿！",
+          "answer": "A：明天是週末，我們做什麼？\nB：我們去打籃球吧！\nC：我不喜歡打籃球，我們去游泳吧！\nA：我不喜歡游泳，我們去看電影，好不好？\nB：好，我們一起去看電影！",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Tìm điểm chung",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách nói về điểm chung của hai người hoặc hai nhóm người.\nNhiệm vụ: Xem bảng bên dưới và tìm xem những người trong bảng có điểm chung nào. Không nhắc lại điểm chung đã được nói tới.\nVí dụ: 我常喝咖啡，小王也常喝咖啡。 / 我們和他弟弟都很常游泳。",
+      "image": "/book1/l3/a3-chart.jpg",
+      "questions": [
+        {
+          "question": "我 và 小王",
+          "answer": "我和小王都常喝咖啡，也都喜歡喝茶。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你 và 他們",
+          "answer": "你和他們都喜歡看電影。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他 và 我們",
+          "answer": "他和我們都不是日本人。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他們 và 你家人",
+          "answer": "他們和你家人都喜歡打籃球。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你 và 開文",
+          "answer": "你和開文都常踢足球，也都是美國人。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他 và 我妹妹",
+          "answer": "他和我妹妹都常打網球。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Khảo sát",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách hỏi và trả lời câu hỏi lựa chọn (chọn một trong hai hay nhiều thứ).\nNhiệm vụ: Đây là một cuộc khảo sát. Dùng các hoạt động trong bảng để hỏi bạn học và báo cáo kết quả. Ghi số người thích mỗi hoạt động vào ô và báo cáo.",
+      "image": "/book1/l3/a4-table.jpg",
+      "questions": [
+        {
+          "question": "A：你喜歡打籃球還是踢足球？",
+          "answer": "B：我喜歡打籃球，也喜歡踢足球。\n（hoặc）我喜歡打籃球，不喜歡踢足球。\n（hoặc）打籃球、踢足球，我都不喜歡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "Báo cáo kết quả",
+          "answer": "五個人喜歡打籃球。\n兩個人不常喝茶。",
+          "hint": "",
+          "image": ""
         }
       ]
     }

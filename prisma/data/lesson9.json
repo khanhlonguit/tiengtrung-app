@@ -626,5 +626,289 @@
       "translation_vn": "Tốt quá rồi! Cảm ơn nha!",
       "translation_en": "That's great! Thank you!"
     }
+  ],
+  "exercises": [
+    {
+      "title": "Trả lời bằng từ chỉ thời điểm hoặc khoảng thời gian",
+      "kind": "dialogue",
+      "grammar_order": 1,
+      "instruction": "Trả lời các câu hỏi sau bằng từ chỉ thời điểm (Time-When) hoặc khoảng thời gian (Time-Duration), theo gợi ý trong ngoặc.",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：他決定什麼時候到日本去玩？\nB：＿＿＿＿＿＿＿＿。（下個月）",
+          "answer": "B：他決定下個月到日本去玩。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你打算學多久（的）中文？\nB：＿＿＿＿＿＿＿＿。（五年）",
+          "answer": "B：我打算學五年（的）中文。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你什麼時候回國？\nB：＿＿＿＿＿＿＿＿。（下個星期二）",
+          "answer": "B：我下個星期二回國。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Nói về lịch ngày của An Đồng (V + khoảng thời gian)",
+      "kind": "picture",
+      "grammar_order": 2,
+      "instruction": "Dùng mẫu \"V + khoảng thời gian\" để nói về các hoạt động hằng ngày của An Đồng dựa trên lịch dưới đây. Ví dụ: 他早上上一個鐘頭的網。",
+      "image": "/book1/l9/g2-day.jpg",
+      "questions": [
+        {
+          "question": "圖 1（上網，時鐘 7:00 → 8:00）",
+          "answer": "他早上上一個鐘頭的網。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2（上課，8:00 → 11:00）",
+          "answer": "他每天上三個鐘頭的課。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3（游泳，12:00 → 12:30）",
+          "answer": "他中午游半個鐘頭的泳。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4（看書，1:00 → 3:00）",
+          "answer": "他下午看兩個鐘頭的書。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 5（做飯，5:00 → 6:00）",
+          "answer": "他下午做一個鐘頭的飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 6（吃飯，7:00 → 8:30）",
+          "answer": "他晚上吃一個半鐘頭的飯。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Trả lời bằng cụm 的時候 theo tranh",
+      "kind": "picture",
+      "grammar_order": 3,
+      "instruction": "Trả lời các câu hỏi dưới đây bằng mẫu …的時候. Dựa vào tranh để trả lời. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l9/g4-pictures.jpg",
+      "questions": [
+        {
+          "question": "有空的時候，你喜歡做什麼？（跟朋友一起…）",
+          "answer": "有空的時候，我喜歡跟朋友一起去咖啡店喝咖啡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "放假的時候，你要做什麼？（圖：飛機、巴黎）",
+          "answer": "放假的時候，我要坐飛機去歐洲玩。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "不上課的時候，你想做什麼？（圖：人躲在牆角看書）",
+          "answer": "不上課的時候，我想在家看書。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "週末的時候，你常做什麼？（圖：夜市）",
+          "answer": "週末的時候，我常去逛夜市。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hỏi đáp với 有時候…，有時候…",
+      "kind": "dialogue",
+      "grammar_order": 4,
+      "instruction": "Ghép cặp hỏi đáp, rồi tìm hiểu xem hoạt động nào được bạn học làm nhiều nhất. Hoàn thành câu trả lời bằng mẫu 有時候…，有時候….",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：在家的時候，你做什麼？\nB：有時候寫功課，有時候看電視。（ví dụ của sách）",
+          "answer": "B：有時候寫功課，有時候看電視。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：週末的時候，你做什麼？\nB：有時候＿＿＿＿，有時候＿＿＿＿。",
+          "answer": "B：有時候去爬山，有時候在家看書。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：有空的時候，你做什麼？\nB：有時候＿＿＿＿，有時候＿＿＿＿。",
+          "answer": "B：有時候看電影，有時候逛街。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：放假的時候，你做什麼？\nB：有時候＿＿＿＿，有時候＿＿＿＿。",
+          "answer": "B：有時候回家，有時候去旅行。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：在餐廳吃飯的時候，你吃什麼？\nB：有時候吃＿＿＿＿，有時候吃＿＿＿＿。",
+          "answer": "B：有時候吃牛肉麵，有時候吃小籠包。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Trả lời bằng mệnh đề điều kiện với 要是…就…",
+      "kind": "dialogue",
+      "grammar_order": 5,
+      "instruction": "Trả lời các câu hỏi bằng cách nêu điều kiện ở mệnh đề đầu. Mẫu: 要是＿＿，我就＿＿。",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：明天去看電影嗎？\nB：要是＿＿＿＿，我就＿＿＿＿。",
+          "answer": "B：要是明天有空，我就去看電影。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：這個週末，你要來我家嗎？\nB：＿＿＿＿，\n　　＿＿＿＿。",
+          "answer": "B：要是這個週末不忙，我就去你家。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：星期六你要跟我去看籃球比賽嗎？\nB：＿＿＿＿，\n　　＿＿＿＿。",
+          "answer": "B：要是星期六不下雨，我就跟你去看籃球比賽。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：今天下課，你去不去圖書館看書？\nB：＿＿＿＿，\n　　＿＿＿＿。",
+          "answer": "B：要是今天的功課不多，我就去圖書館看書。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你想去貓空喝茶嗎？\nB：＿＿＿＿，\n　　＿＿＿＿。",
+          "answer": "B：要是你也去，我就想去貓空喝茶。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Mất bao nhiêu thời gian?",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách dùng từ chỉ thời gian để miêu tả sự việc.\nNhiệm vụ: Nhìn thông tin bên dưới (lịch, dòng thời gian, đồng hồ) và nói với cả lớp mỗi hoạt động tốn bao nhiêu thời gian. (Đáp án mẫu chỉ mang tính tham khảo vì phụ thuộc vào hình.)",
+      "image": "/book1/l9/a1-pictures.jpg",
+      "questions": [
+        {
+          "question": "田中想去花蓮玩幾天？（圖：日曆圈出 4 月 3 日～5 日）",
+          "answer": "田中想去花蓮玩三天。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "安同打算在臺灣學多久的中文？（圖：2013 年～2018 年）",
+          "answer": "安同打算在臺灣學五年的中文。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "月美跟臺灣朋友打算去貓空玩多久？（圖：兩個時鐘）",
+          "answer": "月美跟臺灣朋友打算去貓空玩三個鐘頭。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "如玉的爸媽決定在臺灣旅行多久？（圖：日曆圈出 5 日～11 日）",
+          "answer": "如玉的爸媽決定在臺灣旅行一個星期。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Đưa ra gợi ý",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách thảo luận các tình huống giả định.\nNhiệm vụ: Bạn của bạn không phải lúc nào cũng thích lời khuyên bạn đưa. Còn có thể đưa ra gợi ý nào khác? Cùng bạn học thảo luận xem bạn ấy có gợi ý nào khác không (xem bảng ✗/✓ trong sách).\nVí dụ: 要是你不喜歡喝咖啡，就喝茶。",
+      "image": "",
+      "questions": [
+        {
+          "question": "不喜歡喝咖啡 → ?",
+          "answer": "要是你不喜歡喝咖啡，就喝茶。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "不要游泳 → ?",
+          "answer": "要是你不要游泳，就去打網球。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "不想去圖書館 → ?",
+          "answer": "要是你不想去圖書館，就在家看電視。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "不去上課 → ?",
+          "answer": "要是你不想去上課，就在家看書。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "不喜歡看書 → ?",
+          "answer": "要是你不喜歡看書，就去運動。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "覺得踢足球沒意思 → ?",
+          "answer": "要是你覺得踢足球沒意思，就去打籃球。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Kế hoạch du lịch",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách thảo luận về kế hoạch du lịch với bạn bè.\nNhiệm vụ 1: Một người bạn của 安同 đến từ Mỹ. Hãy kể với cả lớp kế hoạch đi Hoa Liên của bạn ấy dựa vào lịch trình bên dưới.\nNhiệm vụ 2: Ghép cặp hỏi nhau về kế hoạch cho kỳ nghỉ sắp tới: đi đâu, đi với ai, đi bằng gì, đi bao lâu. Ghi kết quả vào bảng và so sánh nơi nào được nhiều người chọn hơn. (Điền: 最多人去＿＿。)",
+      "image": "/book1/l9/a3-table.jpg",
+      "questions": [
+        {
+          "question": "Nhiệm vụ 1: kể kế hoạch đi Hoa Liên của bạn 安同",
+          "answer": "他星期五下午兩點坐火車從臺北到花蓮，六點吃晚飯，八點去逛夜市。星期六從早上八點到下午四點在太魯閣，四點半去參觀大學，晚上七點吃有名的小吃。星期日早上七點半吃早餐，九點坐火車從花蓮回臺北車站，十二點半坐計程車回宿舍。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "Nhiệm vụ 2: 你去哪裡？跟誰？怎麼去？去多久？",
+          "answer": "我想去花蓮。我跟朋友去，我們坐火車去，去三天。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    }
   ]
 }

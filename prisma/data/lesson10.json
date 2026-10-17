@@ -669,5 +669,340 @@
       "translation_vn": "Lần sau tớ cũng muốn đến ở thử.",
       "translation_en": "I want to stay there next time too."
     }
+  ],
+  "exercises": [
+    {
+      "title": "Hoàn thành câu với động từ láy + 看",
+      "kind": "rewrite",
+      "grammar_order": 1,
+      "instruction": "Hoàn thành các câu sau bằng các động từ cho sẵn: 吃、喝、學、做、問、打、寫、穿、聽 (dạng VV看).",
+      "image": "",
+      "questions": [
+        {
+          "question": "他做的牛肉湯很香，你＿＿＿＿＿＿＿＿。",
+          "answer": "他做的牛肉湯很香，你喝喝看。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我覺得這些音樂很不錯，請你＿＿＿＿＿＿＿＿。",
+          "answer": "我覺得這些音樂很不錯，請你聽聽看。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這個甜點很好吃，你要不要＿＿＿＿＿＿＿＿？",
+          "answer": "這個甜點很好吃，你要不要吃吃看？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "書法很美，你想＿＿＿＿＿＿＿＿嗎？",
+          "answer": "書法很美，你想學學看嗎？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：有空的時候，我可以去看看你們的書法課嗎？\nB：應該可以，可是我得＿＿＿＿＿＿＿＿。",
+          "answer": "B：應該可以，可是我得問問看。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Miêu tả tranh bằng vị từ trạng thái láy",
+      "kind": "picture",
+      "grammar_order": 2,
+      "instruction": "Miêu tả các bức tranh bằng vị từ trạng thái láy. Ví dụ: 那個先生高高的。",
+      "image": "/book1/l10/g2-pictures.jpg",
+      "questions": [
+        {
+          "question": "圖 1：那個先生…（高）",
+          "answer": "那個先生高高的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2：（甜）",
+          "answer": "這個西瓜甜甜的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3：（熱）",
+          "answer": "這碗牛肉麵熱熱的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4：（大）",
+          "answer": "那個房子大大的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 5：（舊）",
+          "answer": "那件衣服舊舊的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 6：（臭）",
+          "answer": "這個臭豆腐臭臭的。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Nối các câu với mệnh đề quan hệ",
+      "kind": "rewrite",
+      "grammar_order": 3,
+      "instruction": "Ghép các câu sau thành một câu có mệnh đề quan hệ. Ví dụ: 他朋友給他一個包子，那個包子很好吃。→ 他朋友給他的那個包子很好吃。",
+      "image": "",
+      "questions": [
+        {
+          "question": "這支手機能上網。這支手機有一點貴。",
+          "answer": "能上網的這支手機有一點貴。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這些甜點很香。他做這些甜點。",
+          "answer": "他做的這些甜點很香。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他在喝茶。我也喜歡喝那種茶。",
+          "answer": "我也喜歡喝他在喝的那種茶。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Miêu tả tranh với 了 cuối câu",
+      "kind": "picture",
+      "grammar_order": 4,
+      "instruction": "Miêu tả các bức tranh dùng 了 cuối câu (chỉ sự thay đổi tình huống). Ví dụ: 我家現在很乾淨了。",
+      "image": "/book1/l10/g4-pictures.jpg",
+      "questions": [
+        {
+          "question": "圖 1：我家現在很乾淨了。（ví dụ）",
+          "answer": "我家現在很乾淨了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2：車票…（貴）",
+          "answer": "車票貴了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3：這個學生…（想學中文）",
+          "answer": "這個學生想學中文了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4：這個先生…",
+          "answer": "這個先生不喝咖啡了。（hoặc：這個先生會做飯了。）",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Nối câu với 因為…，所以…",
+      "kind": "rewrite",
+      "grammar_order": 5,
+      "instruction": "Nối các câu sau bằng 因為…，所以…. Ví dụ: 我很喜歡中國古代的東西。我去參觀故宮。→ 因為我很喜歡中國古代的東西，所以去參觀故宮。",
+      "image": "",
+      "questions": [
+        {
+          "question": "我不想買那支手機。那支手機不能照相。",
+          "answer": "因為那支手機不能照相，所以我不想買。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我一定要去看看。我聽說花蓮的風景很美。",
+          "answer": "因為我聽說花蓮的風景很美，所以我一定要去看看。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我剛開始學中文。我的中文說得不好。",
+          "answer": "因為我剛開始學中文，所以我的中文說得不好。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Bạn thích cái nào hơn? (Nhiệm vụ 1)",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách miêu tả đơn giản ngoại hình của một người, và miêu tả màu sắc, mùi, vị của thức ăn.\nNhiệm vụ 1: Ghép cặp, xem các bức tranh dưới đây và nói với bạn mình bạn thích cái nào hơn và vì sao. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l10/a1a-pictures.jpg",
+      "questions": [
+        {
+          "question": "① 哪一個人比較好看？（A／B）",
+          "answer": "我覺得 A 比較好看，因為他高高的、帥帥的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "② 哪一張照片比較漂亮？（A／B）",
+          "answer": "我覺得 B 比較漂亮，因為照片裡的人笑得開心。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "③ 你想看哪一個電影？（馬安同／田中誠一）",
+          "answer": "我想看馬安同的電影，因為我覺得他的電影比較有意思。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "④ 你比較想去哪一個海邊玩？（A／B）",
+          "answer": "我比較想去 A 海邊玩，因為那裡人比較多，比較熱鬧。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "⑤ 你比較想去哪一家餐廳吃飯？（小籠包店／牛肉麵店）",
+          "answer": "我比較想去小籠包店吃飯，因為小籠包又好吃又便宜。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "⑥ 你比較喜歡吃哪一種西瓜？（A／B）",
+          "answer": "我比較喜歡吃 B，因為它又大又甜。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Bạn thích cái nào hơn? (tiếp) và thống kê",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Tiếp tục nhiệm vụ 1 với các câu 7–9. Nhiệm vụ 2: Nói với cả lớp lựa chọn của bạn và ghi lại lựa chọn của người khác bằng cách gạch chữ 正.",
+      "image": "/book1/l10/a1b-pictures.jpg",
+      "questions": [
+        {
+          "question": "⑦ 你比較喜歡喝哪一種咖啡？（A 熱咖啡／B 冰咖啡）",
+          "answer": "我比較喜歡喝 A，因為熱咖啡香香的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "⑧ 你比較喜歡穿什麼衣服？（A 藍襯衫／B 紅 T 恤）",
+          "answer": "我比較喜歡穿 B，因為紅色的比較漂亮。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "⑨ 你比較想住哪一個地方？（A 山上／B 海邊）",
+          "answer": "我比較想住 B（海邊），因為海邊的風景比較美。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Trước đây và bây giờ",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách miêu tả sự thay đổi của tình huống.\nNhiệm vụ 1: Hỏi bạn học xem từ khi đến Đài Loan họ có thay đổi gì không, ở nước họ giữa hiện tại và quá khứ có gì khác không. Ghi tên bạn học vào bảng nếu họ trả lời có.\nNhiệm vụ 2: Nghĩ ít nhất hai điều đã thay đổi ở bạn, bạn bè hoặc những người bạn của bạn rồi chia sẻ với cả lớp.",
+      "image": "/book1/l10/a2-table.jpg",
+      "questions": [
+        {
+          "question": "你會做中國菜了嗎？",
+          "answer": "會了，我會做炒飯了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你會唱中文歌了嗎？",
+          "answer": "會了，我會唱一首中文歌了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你會寫書法了嗎？",
+          "answer": "還不會，可是我會寫一點了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你現在喜歡吃臭豆腐了嗎？",
+          "answer": "喜歡了，我現在常吃臭豆腐。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "在日本／美國／越南…，吃的東西比以前貴了嗎？",
+          "answer": "在越南，吃的東西比以前貴了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "在日本／美國／越南…，房子比以前貴了嗎？",
+          "answer": "在越南，房子比以前貴多了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "Nhiệm vụ 2: 寫出至少兩件改變的事",
+          "answer": "1. 我的中文比以前好了。\n2. 我朋友現在會做飯了。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Quan sát của bạn về xã hội Đài Loan",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách giải thích ngắn gọn và đưa ra lý do.\nNhiệm vụ: Ghép cặp và thảo luận dựa trên năm câu hỏi sau. Chia sẻ kết luận của bạn với cả lớp.",
+      "image": "",
+      "questions": [
+        {
+          "question": "為什麼很多人到臺灣來學中文？",
+          "answer": "因為臺灣的環境很好，所以很多人到臺灣來學中文。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "為什麼現在學中文的人比以前多？",
+          "answer": "因為中國的經濟變好了，所以現在學中文的人比以前多了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "在臺灣，為什麼很多人不常在家吃飯？",
+          "answer": "因為外面的東西又好吃又便宜，所以很多人不常在家吃飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "在臺灣，為什麼很多人喜歡去夜市？",
+          "answer": "因為夜市的東西又多又便宜，所以很多人喜歡去夜市。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "在臺灣，為什麼很多人騎機車？",
+          "answer": "因為騎機車又方便又便宜，所以很多人騎機車。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    }
   ]
 }

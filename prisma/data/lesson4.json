@@ -637,127 +637,302 @@
   ],
   "exercises": [
     {
-      "title": "Measure Words",
-      "description": "Please fill in the blanks with measure words.",
+      "title": "Điền lượng từ vào chỗ trống",
+      "kind": "rewrite",
+      "grammar_order": 1,
+      "instruction": "Điền lượng từ thích hợp vào chỗ trống.",
+      "image": "",
       "questions": [
         {
-          "question": "一 __________ 熱咖啡三十五塊錢。",
-          "answer": "杯",
-          "explanation": "'杯' (bēi) is the measure word for a cup."
+          "question": "一＿＿＿＿熱咖啡三十五塊錢。",
+          "answer": "一杯熱咖啡三十五塊錢。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "這兩 __________ 手機都能上網。",
-          "answer": "支",
-          "explanation": "'支' (zhī) is the measure word for cell phones."
+          "question": "這兩＿＿＿＿手機都能上網。",
+          "answer": "這兩支手機都能上網。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "那十 __________ 臺灣人喜歡喝烏龍茶。",
-          "answer": "個",
-          "explanation": "'個' (ge) is the general measure word used for people."
+          "question": "那十＿＿＿＿臺灣人喜歡喝烏龍茶。",
+          "answer": "那十個臺灣人喜歡喝烏龍茶。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "這 __________ 茶很好喝。",
-          "answer": "杯",
-          "explanation": "'杯' (bēi) for a cup of tea, or '種' (zhǒng) for a kind of tea. '杯' is commonly used."
+          "question": "這＿＿＿＿茶很好喝。",
+          "answer": "這種茶很好喝。（hoặc：這杯茶很好喝。）",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "哪 __________ 包子好吃？",
-          "answer": "種",
-          "explanation": "'種' (zhǒng) means 'kind/type'. 'Which kind of baozi is delicious?'"
+          "question": "哪＿＿＿＿包子好吃？",
+          "answer": "哪種包子好吃？（hoặc：哪個包子好吃？）",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Preposition 幫 bāng",
-      "description": "Complete the sentences below with the beneficiary 幫 bāng.",
+      "title": "Hoàn thành câu với 幫 theo tranh",
+      "kind": "picture",
+      "grammar_order": 2,
+      "instruction": "Hoàn thành các câu sau với giới từ 幫 (làm giúp, làm hộ), dựa vào tranh.",
+      "image": "/book1/l4/g2-pictures.jpg",
       "questions": [
         {
-          "question": "包子不熱。請你 __________________ 。",
-          "answer": "幫我微波",
-          "explanation": "Please microwave it for me. 幫 (help/for) + 我 (me) + 微波 (microwave)."
+          "question": "包子不熱。請你＿＿＿＿＿＿＿＿。（圖：微波爐）",
+          "answer": "請你幫我微波包子。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我想喝咖啡。請你 __________________ 。",
-          "answer": "幫我買咖啡",
-          "explanation": "Please buy coffee for me. 幫我買咖啡."
+          "question": "我想喝咖啡。請你＿＿＿＿＿＿＿＿。（圖：買咖啡）",
+          "answer": "請你幫我買咖啡。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "（拍照）請你 __________________ 。",
-          "answer": "幫我們照相",
-          "explanation": "Please take a picture for us. 幫 (help) + 我們 (us) + 照相 (take a picture)."
+          "question": "我們想照相。請你＿＿＿＿＿＿＿＿。（圖：給遊客照相）",
+          "answer": "請你幫我們照相。",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "太...了 (Too... / Overly...)",
-      "description": "Complete the answers below using '太…了' with the following words: 舊、貴、大、熱、小.",
+      "title": "Hoàn thành câu trả lời (cụm 的)",
+      "kind": "fill",
+      "grammar_order": 3,
+      "instruction": "Hoàn thành các câu trả lời bằng cụm 的 (lược danh từ trung tâm).",
+      "image": "",
       "questions": [
         {
-          "question": "A: 你為什麼不買那種手機？\nB: ____________________。",
-          "answer": "太貴了",
-          "explanation": "It's too expensive. 太貴了."
+          "question": "A：這杯茶熱，那杯不熱。你要哪一杯？\nB：我要 ___。",
+          "answer": "[\"熱的\",\"不熱的\"]",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 你喜歡吃大包子嗎？\nB: 不喜歡，__________________。",
-          "answer": "太大了",
-          "explanation": "It's too big. 太大了."
+          "question": "A：王先生要買新手機還是舊手機？\nB：他要買 ___。",
+          "answer": "[\"新的\",\"舊的\"]",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 你為什麼要買新手機？\nB: 我的手機__________，不好看。",
-          "answer": "太舊了",
-          "explanation": "My cell phone is too old. 太舊了."
+          "question": "A：新手機能上網，舊的不能上網。你要哪種？\nB：我要 ___。",
+          "answer": "[\"新的\"]",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 你們為什麼不賣小杯咖啡？\nB: ____________________，沒有人買。",
-          "answer": "太小了",
-          "explanation": "It's too small. 太小了."
+          "question": "A：大杯熱茶35塊錢，小的25塊錢，你要買哪一杯？\nB：我要 ___。",
+          "answer": "[\"小的\",\"大的\"]",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 你要喝熱咖啡嗎？\nB: ____________________，我不要喝。",
-          "answer": "太熱了",
-          "explanation": "It's too hot. 太熱了."
+          "question": "A：大的很貴，小的很便宜。你喜歡哪一個？\nB：我喜歡 ___。",
+          "answer": "[\"小的\",\"大的\"]",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "能 néng (Capability)",
-      "description": "Use 能 (néng) or 不能 (bù néng) to answer the questions.",
+      "title": "Hoàn thành câu với 太…了",
+      "kind": "fill",
+      "grammar_order": 4,
+      "instruction": "Hoàn thành các câu trả lời bằng 太…了 với các từ: 舊、貴、大、熱、小.",
+      "image": "",
       "questions": [
         {
-          "question": "新手機 __________ 上網。",
-          "answer": "能",
-          "explanation": "New cell phones can go online. 能 (néng)."
+          "question": "A：你為什麼不買那種手機？\nB：___。",
+          "answer": "[\"太貴了\"]",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "他的腳痛 (His leg hurts)，他今天 __________ 踢足球。",
-          "answer": "不能",
-          "explanation": "He cannot play soccer. 不能 (bù néng)."
+          "question": "A：你喜歡吃大包子嗎？\nB：不喜歡，___。",
+          "answer": "[\"太大了\"]",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "烏龍茶 __________ 外帶。",
-          "answer": "能",
-          "explanation": "Oolong tea can be taken out. 能外帶 (can take out)."
+          "question": "A：你為什麼要買新手機？\nB：我的手機 ___，不好看。",
+          "answer": "[\"太舊了\"]",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你們為什麼不賣小杯咖啡？\nB：___，沒有人買。",
+          "answer": "[\"太小了\"]",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你要喝熱咖啡嗎？\nB：___，我不要喝。",
+          "answer": "[\"太熱了\"]",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "多 duō (More than / Over)",
-      "description": "Complete responses using '多' (duō).",
+      "title": "Dùng 能 / 不能 trả lời theo tranh",
+      "kind": "picture",
+      "grammar_order": 5,
+      "instruction": "Nhìn tranh và dùng 能 hoặc 不能 để trả lời câu hỏi. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "",
       "questions": [
         {
-          "question": "你有多少錢？ (50,000 ~ 55,000) -> _________________",
-          "answer": "五萬多塊錢",
-          "explanation": "Over 50,000 dollars. 五萬 (50,000) + 多 (more than) + 塊錢."
+          "question": "哪種手機能照相？（圖：舊手機和智慧型手機）",
+          "answer": "新的（智慧型）手機能照相。",
+          "hint": "",
+          "image": "/book1/l4/g5a-pictures.jpg"
         },
         {
-          "question": "他有幾塊錢？ (7 ~ 8) -> _________________",
-          "answer": "七塊多錢",
-          "explanation": "More than 7 dollars. 七塊 (7 dollars) + 多 (more than) + 錢."
+          "question": "他今天能不能踢足球？（圖：男孩坐著按著腳）",
+          "answer": "他今天不能踢足球。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "那支手機賣多少錢？ (21,000 ~ 22,000) -> _________________",
-          "answer": "兩萬多塊錢",
-          "explanation": "Over 20,000 dollars. 兩萬多 (over 20,000)."
+          "question": "烏龍茶能不能外帶？（圖：菜單「外帶一杯45元」）",
+          "answer": "烏龍茶能外帶，外帶一杯四十五塊。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他能不能上網？（圖：手機沒有 WiFi）",
+          "answer": "他不能上網。",
+          "hint": "",
+          "image": "/book1/l4/g5b-pictures.jpg"
+        },
+        {
+          "question": "老闆能不能幫他微波包子？（圖：老闆在微波包子）",
+          "answer": "老闆能幫他微波包子。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Trả lời theo khoảng số cho sẵn (多)",
+      "kind": "rewrite",
+      "grammar_order": 6,
+      "instruction": "Hoàn thành câu trả lời theo con số trong ngoặc, dùng 多.",
+      "image": "",
+      "questions": [
+        {
+          "question": "你賣多少手機？——一千兩百多支手機（1,200～1,300）",
+          "answer": "一千兩百多支手機。（ví dụ mẫu của sách）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你吃幾個包子？（hình: vài cái bánh bao）",
+          "answer": "我吃了十多個包子。（Tùy theo tranh）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你有多少錢？（50,000～55,000）",
+          "answer": "我有五萬多塊錢。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他有幾塊錢？（7～8）",
+          "answer": "他有七塊多錢。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "那支手機賣多少錢？（21,000～22,000）",
+          "answer": "那支手機賣兩萬一千多塊錢。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hỏi và nói về giá cả",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách hỏi và nói về giá cả.\nNhiệm vụ: Bạn học đã mua đồ nên biết giá. Hãy hỏi bạn về giá của các món trong tranh (圖一：咖啡 70 元；圖二：茶 35 元；圖三：手機 14800 元；圖四：包子一個 12 塊錢).",
+      "image": "/book1/l4/a1-prices.jpg",
+      "questions": [
+        {
+          "question": "圖一",
+          "answer": "A：這杯咖啡多少錢？\nB：七十塊錢。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖二",
+          "answer": "A：這杯茶多少錢？\nB：三十五塊錢。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖三",
+          "answer": "A：這支手機多少錢？\nB：一萬四千八百塊錢。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖四",
+          "answer": "A：包子一個多少錢？\nB：一個十二塊錢。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Điện thoại của tôi",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách dùng các cụm từ đơn giản để miêu tả kích thước và chức năng của đồ vật thông thường.\nNhiệm vụ: Miêu tả điện thoại của bạn, ví dụ nó lớn hay nhỏ, có thể làm được những gì.",
+      "image": "/book1/l4/a2-phone.jpg",
+      "questions": [
+        {
+          "question": "我的手機",
+          "answer": "我的手機是新的，不太大，能上網，也能照相。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hỏi lý do",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách hỏi lý do.\nNhiệm vụ: Bạn muốn mua quà cho bạn. Ghép cặp với bạn học để thảo luận nên mua điện thoại nào (2000 / 8000 / 12000 đồng), nói rõ chọn cái nào và giải thích vì sao. Dùng ít nhất các mẫu: 這三支手機，你喜歡…，…，還是…？ / 為什麼？ / …太…了 / 一支要…",
+      "image": "/book1/l4/a3-phones.jpg",
+      "questions": [
+        {
+          "question": "討論要買哪一支手機",
+          "answer": "A：這三支手機，你喜歡兩千塊的，八千塊的，還是一萬兩千塊的？\nB：我喜歡八千塊的。\nA：為什麼？\nB：兩千塊的不能上網，一萬兩千塊的太貴了，八千塊的能上網，也能照相。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Đếm từ 11 đến 110",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Nhiệm vụ: Điền các số còn thiếu trong bảng từ 11 đến 110 (viết bằng chữ Hán hoặc pinyin).",
+      "image": "/book1/l4/a4-numbers.jpg",
+      "questions": [
+        {
+          "question": "Điền các số còn thiếu",
+          "answer": "十一、十二、十三、十四、十五、十六、十七、十八、十九、二十\n二十一、二十二、二十三、二十四、二十五、二十六、二十七、二十八、二十九、三十\n三十一、三十二、三十三、三十四、三十五、三十六、三十七、三十八、三十九、四十\n四十一、四十二、四十三、四十四、四十五、四十六、四十七、四十八、四十九、五十\n五十一、五十二、五十三、五十四、五十五、五十六、五十七、五十八、五十九、六十\n六十一、六十二、六十三、六十四、六十五、六十六、六十七、六十八、六十九、七十\n七十一、七十二、七十三、七十四、七十五、七十六、七十七、七十八、七十九、八十\n八十一、八十二、八十三、八十四、八十五、八十六、八十七、八十八、八十九、九十\n九十一、九十二、九十三、九十四、九十五、九十六、九十七、九十八、九十九、一百\n一百零一、一百零二、一百零三、一百零四、一百零五、一百零六、一百零七、一百零八、一百零九、一百一十",
+          "hint": "",
+          "image": ""
         }
       ]
     }

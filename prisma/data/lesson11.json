@@ -747,5 +747,307 @@
       "translation_vn": "Vâng ạ, cảm ơn chú.",
       "translation_en": "Okay, thank you sir."
     }
+  ],
+  "exercises": [
+    {
+      "title": "Hoàn thành câu với 來 + VP theo tranh",
+      "kind": "picture",
+      "grammar_order": 1,
+      "instruction": "Hoàn thành các câu dựa theo tranh, dùng 來 + VP. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l11/g1-pictures.jpg",
+      "questions": [
+        {
+          "question": "下個星期六我們可以一起＿＿＿＿＿＿＿＿。（圖：圖書館，一起看書）",
+          "answer": "下個星期六我們可以一起來圖書館看書。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這個週末，我不＿＿＿＿＿＿＿＿。（圖：棒球場）",
+          "answer": "這個週末，我不來看棒球比賽。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你有空的時候，常＿＿＿＿＿＿＿＿嗎？（圖：咖啡店）",
+          "answer": "你有空的時候，常來這裡喝咖啡嗎？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "貓空的風景很美，我有時候＿＿＿＿＿＿＿＿，有時候＿＿＿＿＿＿＿＿。（圖：貓空纜車、茶）",
+          "answer": "貓空的風景很美，我有時候來喝茶，有時候來看風景。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành câu với 就 (và 了 khi cần)",
+      "kind": "rewrite",
+      "grammar_order": 2,
+      "instruction": "Hoàn thành các câu sau bằng 就 (và thêm 了 khi thích hợp).",
+      "image": "",
+      "questions": [
+        {
+          "question": "那個地方，坐捷運去比較快，十分鐘＿＿＿＿＿＿＿＿。",
+          "answer": "那個地方，坐捷運去比較快，十分鐘就到了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他今天沒課，下午三點＿＿＿＿＿＿＿＿。",
+          "answer": "他今天沒課，下午三點就回家了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "她剛打電話給我，她說老師等一下＿＿＿＿＿＿＿＿。",
+          "answer": "她剛打電話給我，她說老師等一下就來。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "今天是三月十二號，他三月十五號＿＿＿＿＿＿＿＿。（回國）",
+          "answer": "今天是三月十二號，他三月十五號就回國了。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Sắp xếp thành câu có chủ ngữ không xác định (有)",
+      "kind": "reorder",
+      "grammar_order": 3,
+      "instruction": "Sắp xếp các chữ sau thành câu tồn tại có chủ ngữ không xác định.",
+      "image": "",
+      "questions": [
+        {
+          "question": "①一個學生　②有　③唱歌　④在",
+          "answer": "有一個學生在唱歌。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "①有　②照相　③一個小姐　④在大樓前面",
+          "answer": "有一個小姐在大樓前面照相。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "①人　②有　③打電話　④給你　⑤今天早上",
+          "answer": "今天早上有人打電話給你。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "①來接我　②明天　③有　④人　⑤嗎",
+          "answer": "明天有人來接我嗎？",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Xác định loại 會 (會1 hay 會2)",
+      "kind": "rewrite",
+      "grammar_order": 4,
+      "instruction": "會1 = kỹ năng có được (\"biết\"); 會2 = khả năng/xác suất (\"sẽ\"). Xác định loại 會 trong từng câu và đánh dấu tương ứng.",
+      "image": "",
+      "questions": [
+        {
+          "question": "A. 我姐姐「會」做甜點了。",
+          "answer": "會1（biết làm）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "B. 他等一下就「會」去看電影了。",
+          "answer": "會2（sẽ）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "C. 我弟弟已經「會」騎機車了。",
+          "answer": "會1（biết）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "D. 我跟女朋友明天不「會」去 KTV。",
+          "answer": "會2（sẽ）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "E. 他「會」寫書法，可是寫得不太好。",
+          "answer": "會1（biết）",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Tìm thành phần bị lược bỏ trong hội thoại",
+      "kind": "dialogue",
+      "grammar_order": 5,
+      "instruction": "Trong các đoạn hội thoại sau có những chỗ bị lược bỏ. Hãy xác định thành phần bị lược (điền vào ngoặc).",
+      "image": "",
+      "questions": [
+        {
+          "question": "1-(1)　要是那時候我有空，（　）就跟你們一起去。",
+          "answer": "我",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "1-(2)　我以前不喜歡吃水果了，（　）現在很喜歡了。",
+          "answer": "我",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "2-(1)　A：那種手機很好，我哥哥有一支（　）。\nB：（　）貴不貴？一支（　）賣多少錢？",
+          "answer": "（手機）；那種手機／它；那種手機",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "2-(2)　選詞：a. 我們　b. 牛肉麵\nA：牛肉麵真的這麼好吃嗎？\nB：是的。牛肉好吃，湯也好喝。\nA：（　）這麼好吃，我想吃吃看。\nB：明天我們去吃。（　）一定要點大碗的（　）。",
+          "answer": "b. 牛肉麵；a. 我們；b. 牛肉麵",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3　選詞：a. 我　b. 你們　c. 我們\n安同：我想跟朋友去玩。\n田中：不錯啊，（　）去什麼地方？\n安同：花蓮。（　）聽說那裡的風景非常漂亮。\n田中：我也聽說。放假的時候，你常去旅行嗎？\n安同：不一定，（　）有時候在家寫功課，有時候出去玩。\n田中：你們什麼時候去花蓮？\n安同：（　）這個星期六下午去。\n田中：（　）去玩多久？\n安同：（　）大概玩四、五天。",
+          "answer": "b. 你們；a. 我；a. 我；c. 我們；b. 你們；c. 我們",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Cuộc sống ở Đài Loan / Nhật ký ảnh",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách dùng chủ ngữ không xác định để miêu tả sự việc.\nNhiệm vụ: 安同 đi dạo quanh khu nhà vào Chủ nhật và chụp vài tấm ảnh. Anh ấy định đăng lên Facebook. Hãy giúp anh viết chú thích cho từng ảnh, nói rõ hành động diễn ra ở đâu. Ví dụ: 有一個學生在學校打籃球。",
+      "image": "/book1/l11/a1-pictures.jpg",
+      "questions": [
+        {
+          "question": "圖 1",
+          "answer": "有一個學生在學校打籃球。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2（咖啡店裡）",
+          "answer": "有兩個人在咖啡店喝咖啡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3（KTV）",
+          "answer": "有一個小姐在 KTV 唱歌。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4（KTV 裡的兩位小姐）",
+          "answer": "有兩個小姐在 KTV 裡面一起唱歌。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Nơi tôi sống",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách nói về môi trường của một căn phòng hoặc ngôi nhà.\nNhiệm vụ: Ghép cặp với bạn học, miêu tả nơi bạn đang sống hoặc nhà bạn ở nước mình. Khi nghe bạn nói, hãy vẽ sơ đồ nhà của bạn và ghi chú từng phòng.",
+      "image": "",
+      "questions": [
+        {
+          "question": "用中文介紹你住的地方",
+          "answer": "我住在學校附近。我家一樓有一個客廳，有一個廚房。二樓有兩個房間。我家前面有一家便利商店，後面有一個公園。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Kể chuyện (hoàn thành câu chuyện)",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách hiểu một đoạn văn và bổ sung cho nó.\nNhiệm vụ: Lập nhóm hai hoặc ba người. Đọc câu chuyện bên dưới rồi cùng nhau viết tiếp. Đọc câu chuyện đã hoàn thành cho cả lớp nghe và đánh giá bài của từng nhóm.",
+      "image": "/book1/l11/a3-story.jpg",
+      "questions": [
+        {
+          "question": "請幫李大同想想他現在要做什麼。",
+          "answer": "他想了想，決定去看他的朋友。他先給朋友打電話，朋友說可以來。他坐捷運去朋友家，他們一起打籃球、吃晚飯，玩得很開心。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Quảng cáo cho thuê nhà",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách đọc hiểu quảng cáo cho thuê nhà.\nNhiệm vụ: Bạn và bạn của bạn thấy quảng cáo cho thuê nhà bên dưới. Hãy thảo luận dựa trên các câu hỏi sau.",
+      "image": "/book1/l11/a4-ad.jpg",
+      "questions": [
+        {
+          "question": "租這個房子一個月要多少錢？",
+          "answer": "一個月要一萬五，不包水電。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "租這個房子，可以做飯嗎？",
+          "answer": "可以，因為有廚房。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "要是我想看房子，應該打電話給誰？打哪個電話？",
+          "answer": "應該打電話給王太太，打 02-73889012 或 0988123456。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "什麼是「衛浴」？",
+          "answer": "衛浴是浴室和廁所（衛生間和洗澡的地方）。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你現在住的房子比這個房子好嗎？",
+          "answer": "我現在住的房子比這個房子大，可是比較遠。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "要是你想租房子，你會租這個地方嗎？為什麼？",
+          "answer": "我會租這個地方，因為離捷運站、超市、學校都很近。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Phòng của tôi có vấn đề",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách đưa ra yêu cầu, ví dụ với chủ nhà.\nNhiệm vụ: Bạn vừa thuê nhà nhưng phát hiện có chỗ không ổn: mạng Internet không dùng được và nhà bếp không có nước nóng. Hãy gọi điện cho chủ nhà, nói về các vấn đề và nhờ ông/bà xử lý. (Nhờ một bạn học đóng vai chủ nhà.)",
+      "image": "/book1/l11/a5-pictures.jpg",
+      "questions": [
+        {
+          "question": "Gọi điện cho chủ nhà",
+          "answer": "房東太太，您好。我是新來的房客。我房間的網路不能用，廚房也沒有熱水。可以請您幫我看一看嗎？",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    }
   ]
 }

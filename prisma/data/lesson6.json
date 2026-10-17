@@ -714,97 +714,437 @@
   ],
   "exercises": [
     {
-      "title": "Nối hai câu thành một (Dùng định ngữ + 的)",
+      "title": "Miêu tả vị trí theo tranh (在)",
+      "kind": "picture",
+      "grammar_order": 1,
+      "instruction": "1. Dùng các từ chỉ nơi chốn và phương vị cho sẵn để miêu tả bốn bức tranh bên dưới.\n2. Anh ấy ở đâu? Trả lời dựa theo tranh.\n3. Điền vào chỗ trống dựa theo tranh. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l6/g1-pictures.jpg",
       "questions": [
         {
-          "question": "他在圖書館，那個圖書館在他家附近。 -> 他在 _________。",
-          "hint": "Thư viện ở gần nhà anh ấy",
-          "answer": "[\"他家附近的圖書館\", \"他家附近的那個圖書館\"]"
+          "question": "圖 1：咖啡店（的）裡面（ví dụ của sách）",
+          "answer": "咖啡店（的）裡面",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "他姐姐在那棟大樓裡面，那棟大樓在學校後面。 -> 他姐姐在 _________。",
-          "hint": "Tòa nhà ở phía sau trường",
-          "answer": "[\"學校後面的大樓裡面\", \"學校後面的那棟大樓裡面\"]"
+          "question": "圖 2（大樓）",
+          "answer": "大樓（的）前面。（hoặc 大樓（的）旁邊）",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我和我朋友在一家咖啡店，那家咖啡店在學校餐廳樓上。 -> 我和我朋友在 _________。",
-          "hint": "Quán cà phê ở trên tầng của nhà ăn trường",
-          "answer": "[\"學校餐廳樓上的咖啡店\", \"學校餐廳樓上的那家咖啡店\"]"
+          "question": "圖 3（游泳池）",
+          "answer": "游泳池（的）附近。（hoặc 游泳池（的）旁邊）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4（圖書館）",
+          "answer": "圖書館（的）外面。（hoặc 圖書館（的）前面）",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Sắp xếp từ thành câu hoàn chỉnh",
+      "title": "Anh ấy ở đâu? Điền vào chỗ trống theo tranh",
+      "kind": "picture",
+      "grammar_order": 1,
+      "instruction": "2. 他在哪裡？Trả lời dựa theo tranh.\n3. Điền vào chỗ trống: 大樓的前面、前面的大樓、餐廳後面、後面的（那家）餐廳. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l6/g2-pictures.jpg",
       "questions": [
         {
-          "question": "有 / 很多漂亮的房子 / 山上",
-          "hint": "Trên núi có...",
-          "answer": "[\"山上有很多漂亮的房子\"]"
+          "question": "2-1　他在哪裡？（圖：男生站在美國地圖上）",
+          "answer": "他在美國。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "樓下 / 咖啡店 / 嗎 / 有",
-          "hint": "Dưới lầu có...?",
-          "answer": "[\"樓下有咖啡店嗎\"]"
+          "question": "2-2　他在哪裡？（圖：男生在書架中間看書）",
+          "answer": "他在圖書館（裡面）。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "裡面 / 沒有 / 他們學校 / 游泳池",
-          "hint": "Bên trong trường họ...",
-          "answer": "[\"他們學校裡面沒有游泳池\"]"
+          "question": "2-3　他在哪裡？（圖：咖啡店外面，一人站在店前）",
+          "answer": "他在咖啡店（的）外面。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "的 / 教室 / 外面 / 兩個美國人 / 有",
-          "hint": "Bên ngoài của phòng học...",
-          "answer": "[\"教室的外面有兩個美國人\"]"
+          "question": "3-1　＿＿＿＿很美。（圖：大樓前面站著一位小姐）",
+          "answer": "大樓的前面很美。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3-2　我在＿＿＿＿。（圖：夜晚的大樓）",
+          "answer": "我在前面的大樓。（hoặc 我在大樓的前面。）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3-3　＿＿＿＿很便宜。（圖：餐廳在斜線之後）",
+          "answer": "後面的（那家）餐廳很便宜。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3-4　他在＿＿＿＿。（圖：箭頭指向餐廳後面）",
+          "answer": "他在餐廳後面。",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Lặp lại động từ (Reduplication)",
+      "title": "Nối hai câu thành một",
+      "kind": "rewrite",
+      "grammar_order": 1,
+      "instruction": "Ghép hai mệnh đề thành một câu (biến mệnh đề thứ hai thành định ngữ).",
+      "image": "",
       "questions": [
         {
-          "question": "做飯 -> _______",
-          "hint": "Làm cơm",
-          "answer": "[\"做做飯\"]"
+          "question": "他在咖啡店，那家咖啡店在陽明山（Yangming Mountain）山上。→＿＿＿＿。（ví dụ của sách: 他在陽明山山上的（那家）咖啡店。）",
+          "answer": "他在陽明山山上的（那家）咖啡店。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "喝茶 -> _______",
-          "hint": "Uống trà",
-          "answer": "[\"喝喝茶\"]"
+          "question": "他在圖書館，那個圖書館在他家附近。→＿＿＿＿。",
+          "answer": "他在他家附近的（那個）圖書館。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "打網球 -> _______",
-          "hint": "Đánh tennis",
-          "answer": "[\"打打網球\"]"
+          "question": "他姐姐在那棟大樓裡面，那棟大樓在學校後面。→＿＿＿＿。",
+          "answer": "他姐姐在學校後面的（那棟）大樓裡面。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "游泳 -> _______",
-          "hint": "Bơi",
-          "answer": "[\"游游泳\"]"
+          "question": "我和我朋友在一家咖啡店，那家咖啡店在學校餐廳（的）樓上。→＿＿＿＿。",
+          "answer": "我和我朋友在學校餐廳樓上的（一家）咖啡店。",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Dùng 不是 để hoàn thành câu",
+      "title": "Sắp xếp các chữ thành câu tồn tại",
+      "kind": "reorder",
+      "grammar_order": 2,
+      "instruction": "Sắp xếp lại thứ tự các chữ để tạo thành câu tồn tại đúng.",
+      "image": "",
       "questions": [
         {
-          "question": "A: 你朋友的家在三樓，對嗎？\nB: _______，他家在四樓。",
-          "hint": "Không phải",
-          "answer": "[\"不是\"]"
+          "question": "①有　②很多漂亮的房子　③山上",
+          "answer": "山上有很多漂亮的房子。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 你們覺得這家店的甜點好吃嗎？\nB: 我妹妹覺得很好吃，可是我覺得 _______。",
-          "hint": "Không phải rất ngon",
-          "answer": "[\"不是很好吃\"]"
+          "question": "①樓下　②咖啡店　③嗎　④有",
+          "answer": "樓下有咖啡店嗎？",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 你的照片不多，你不喜歡照相嗎？\nB: _______，我不常照相，所以我的照片不多。",
-          "hint": "Không phải không thích",
-          "answer": "[\"不是不喜歡\"]"
+          "question": "①裡面　②沒有　③他們學校　④游泳池",
+          "answer": "他們學校裡面沒有游泳池。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 你晚上不想去他家聽音樂嗎？\nB: _______，我晚上要和老闆吃飯。",
-          "hint": "Không phải không muốn đi",
-          "answer": "[\"不是不想去\"]"
+          "question": "①的　②教室　③外面　④兩個美國人　⑤有",
+          "answer": "教室的外面有兩個美國人。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Lặp lại động từ (V(一)V)",
+      "kind": "fill",
+      "grammar_order": 3,
+      "instruction": "1. Hãy láy lại các động từ sau. 2. Điền vào chỗ trống bằng động từ láy cùng tân ngữ (nếu cần). Từ cho sẵn: 看、吃、喝、想、做、打、找、買、教、幫.",
+      "image": "",
+      "questions": [
+        {
+          "question": "做飯 → ___",
+          "answer": "[\"做做飯\"]",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "喝茶 → ___",
+          "answer": "[\"喝喝茶\"]",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "吃甜點 → ___",
+          "answer": "[\"吃吃甜點\"]",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "打網球 → ___",
+          "answer": "[\"打打網球\"]",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "踢足球 → ___",
+          "answer": "[\"踢踢足球\"]",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "游泳 → ___",
+          "answer": "[\"游游泳\"]",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "看電影 → ___",
+          "answer": "[\"看看電影\"]",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "照相 → ___",
+          "answer": "[\"照照相\"]",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Điền động từ láy cùng tân ngữ",
+      "kind": "rewrite",
+      "grammar_order": 3,
+      "instruction": "Điền vào chỗ trống bằng động từ láy phù hợp (kèm tân ngữ nếu cần). Từ cho sẵn: 看、吃、喝、想、做、打、找、買、教、幫.",
+      "image": "",
+      "questions": [
+        {
+          "question": "那個電影很好看，我想去＿＿＿＿。",
+          "answer": "那個電影很好看，我想去看（一）看。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我不會做飯，請你＿＿＿＿。",
+          "answer": "我不會做飯，請你教教我。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我想學照相，能不能請你＿＿＿＿？",
+          "answer": "我想學照相，能不能請你教教我？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "週末我喜歡到外面＿＿＿＿。",
+          "answer": "週末我喜歡到外面走走。（hoặc：逛逛／吃吃飯／看看電影）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：那支手機很貴，你要買嗎？\nB：＿＿＿＿。",
+          "answer": "B：我想想。（hoặc：我再看看。）",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành đối thoại với 不是",
+      "kind": "dialogue",
+      "grammar_order": 4,
+      "instruction": "Dùng cụm 不是 để hoàn thành các đoạn hội thoại sau.",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：你朋友的家在三樓，對嗎？\nB：＿＿＿＿，他家在四樓。",
+          "answer": "B：不是三樓，他家在四樓。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你們覺得這家店的甜點好吃嗎？\nB：我妹妹覺得很好吃，可是我覺得＿＿＿＿。",
+          "answer": "B：我妹妹覺得很好吃，可是我覺得不是很好吃。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：很多人都說你做飯做得很好。\nB：我做得＿＿＿＿，我媽媽做得很好。",
+          "answer": "B：我做得不是很好，我媽媽做得很好。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你的照片不多，你不喜歡照相嗎？\nB：＿＿＿＿，我不常照相，所以我的照片不多。",
+          "answer": "B：不是不喜歡照相，我不常照相，所以我的照片不多。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你晚上不想去他家聽音樂嗎？\nB：＿＿＿＿，我晚上要和老闆吃飯。",
+          "answer": "B：不是不想去，我晚上要和老闆吃飯。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Kể chuyện theo tranh (địa điểm của hoạt động)",
+      "kind": "picture",
+      "grammar_order": 5,
+      "instruction": "Dựa vào các bức tranh, kể lại câu chuyện (dùng 在／到 + địa điểm + hoạt động). Ví dụ: 姐姐在家裡做飯。",
+      "image": "/book1/l6/g5-story.jpg",
+      "questions": [
+        {
+          "question": "圖 1",
+          "answer": "姐姐在家裡做飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2",
+          "answer": "他們到那家店吃牛肉麵。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3",
+          "answer": "他們在教室裡學中文。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4",
+          "answer": "她到學校附近照相。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Họ ở đâu?",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách miêu tả vị trí của một người.\nNhiệm vụ 1: Xem bức tranh bên dưới và viết ra từng người ở đâu.\nNhiệm vụ 2: Viết tên bạn ở một chỗ bất kỳ trên tranh, rồi nhìn tranh của bạn bên cạnh và nói với cả lớp bạn ấy ở đâu. Lắng nghe mọi người và viết lại ai ở đâu. Nhờ giáo viên kiểm tra xem có đúng không.",
+      "image": "/book1/l6/a1-map.jpg",
+      "questions": [
+        {
+          "question": "怡君在＿＿＿＿（的）＿＿＿＿（教室、裡面）",
+          "answer": "怡君在教室（的）裡面。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "如玉在＿＿＿＿",
+          "answer": "如玉在圖書館裡面。（Tùy vị trí bạn chọn trên tranh）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "安同在＿＿＿＿",
+          "answer": "安同在游泳池旁邊。（Tùy vị trí bạn chọn trên tranh）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "月美在＿＿＿＿",
+          "answer": "月美在咖啡店（的）裡面。（Tùy vị trí bạn chọn trên tranh）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "明華在＿＿＿＿",
+          "answer": "明華在商店前面。（Tùy vị trí bạn chọn trên tranh）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "田中在＿＿＿＿",
+          "answer": "田中在學生宿舍外面。（Tùy vị trí bạn chọn trên tranh）",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Nói về nơi bạn sống",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách nhận xét đơn giản về vị trí và vẻ ngoài của một nơi.\nNhiệm vụ: Bạn muốn mời một bạn học đến nhà (nhà bạn ở gần trường). Hãy nói nhà bạn ở đâu, gần đó có gì, ở nhà hoặc quanh nhà có thể làm gì, và gần đó có thể ăn gì. Hỏi 2 bạn học và ghi lại kết quả vào bảng.",
+      "image": "/book1/l6/a2-table2.jpg",
+      "questions": [
+        {
+          "question": "你家在哪裡？",
+          "answer": "我家在學校附近。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你家附近怎麼樣？風景美嗎？",
+          "answer": "我家附近很漂亮，風景很美。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你家附近有什麼？（商店、學校、餐廳、大樓、房子、游泳池、圖書館、咖啡店、山、海）",
+          "answer": "我家附近有商店、餐廳，也有一個圖書館。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你喜歡在家裡做什麼？（吃飯、喝咖啡、看書）",
+          "answer": "我喜歡在家裡看書、喝咖啡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你常在家附近做什麼？（吃飯、看電影、打球、買東西）",
+          "answer": "我常在家附近吃飯、打球。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Tôi muốn biết về trường của bạn",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách nói về trường học ở nước bạn.\nNhiệm vụ: Ghép cặp và hỏi bạn về trường của bạn ấy. Có thể dùng các câu hỏi sau để thu thập thông tin. Làm xong thì báo cáo kết quả trước lớp. (Hãy viết câu trả lời của bạn.)",
+      "image": "",
+      "questions": [
+        {
+          "question": "你的學校裡有什麼？（教室、商店、咖啡店、餐廳、圖書館、游泳池、學生宿舍）",
+          "answer": "我的學校裡有教室、圖書館、餐廳，也有游泳池。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你的學校風景怎麼樣？美不美？學校附近呢？",
+          "answer": "我的學校風景很美。學校附近有很多商店。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你的學校附近有什麼？（山、海、商店、餐廳）",
+          "answer": "我的學校附近有商店和餐廳，沒有海。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你常在學校附近做什麼？（喝咖啡、打球、游泳、吃飯、看電影、上網、看書）",
+          "answer": "我常在學校附近喝咖啡、吃飯。",
+          "hint": "",
+          "image": ""
         }
       ]
     }

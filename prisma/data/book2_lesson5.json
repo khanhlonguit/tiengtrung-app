@@ -1,0 +1,1226 @@
+{
+  "id": 105,
+  "book": 2,
+  "title_vn": "Dự tiệc cưới",
+  "title_zh": "吃喜酒",
+  "subtitle": "Quan hệ giao tiếp & đám cưới Đài Loan",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "喜酒",
+      "pinyin": "xǐjiǔ",
+      "word_type": "N",
+      "meaning_vn": "Tiệc cưới, đám cưới",
+      "example_zh": "我們去吃喜酒。",
+      "example_pinyin": "Wǒmen qù chī xǐjiǔ.",
+      "example_vn": "Chúng tôi đi ăn tiệc cưới.",
+      "meaning_hv": "Hỷ tửu",
+      "meaning_en": "Wedding banquet, wedding reception",
+      "example_en": "We are going to a wedding banquet."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "恭喜",
+      "pinyin": "gōngxǐ",
+      "word_type": "V",
+      "meaning_vn": "Chúc mừng",
+      "example_zh": "恭喜你們！",
+      "example_pinyin": "Gōngxǐ nǐmen!",
+      "example_vn": "Chúc mừng các bạn!",
+      "meaning_hv": "Cung hỷ",
+      "meaning_en": "To congratulate",
+      "example_en": "Congratulations to you!"
+    },
+    {
+      "order_num": 3,
+      "word_zh": "新娘",
+      "pinyin": "xīnniáng",
+      "word_type": "N",
+      "meaning_vn": "Cô dâu",
+      "example_zh": "新娘穿著白色的禮服。",
+      "example_pinyin": "Xīnniáng chuānzhe bái sè de lǐfú.",
+      "example_vn": "Cô dâu mặc lễ phục màu trắng.",
+      "meaning_hv": "Tân nương",
+      "meaning_en": "Bride",
+      "example_en": "The bride is wearing a white gown."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "參加",
+      "pinyin": "cānjiā",
+      "word_type": "V",
+      "meaning_vn": "Tham dự, tham gia",
+      "example_zh": "我要參加他的婚禮。",
+      "example_pinyin": "Wǒ yào cānjiā tā de hūnlǐ.",
+      "example_vn": "Tôi sẽ tham dự đám cưới của anh ấy.",
+      "meaning_hv": "Tham gia",
+      "meaning_en": "To attend",
+      "example_en": "I will attend his wedding."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "婚禮",
+      "pinyin": "hūnlǐ",
+      "word_type": "N",
+      "meaning_vn": "Lễ cưới",
+      "example_zh": "婚禮六點半開始。",
+      "example_pinyin": "Hūnlǐ liù diǎn bàn kāishǐ.",
+      "example_vn": "Lễ cưới bắt đầu lúc sáu giờ rưỡi.",
+      "meaning_hv": "Hôn lễ",
+      "meaning_en": "Wedding ceremony",
+      "example_en": "The wedding starts at 6:30."
+    },
+    {
+      "order_num": 6,
+      "word_zh": "西裝",
+      "pinyin": "xīzhuāng",
+      "word_type": "N",
+      "meaning_vn": "Âu phục, com-lê",
+      "example_zh": "你穿西裝很好看。",
+      "example_pinyin": "Nǐ chuān xīzhuāng hěn hǎokàn.",
+      "example_vn": "Bạn mặc com-lê rất đẹp.",
+      "meaning_hv": "Tây trang",
+      "meaning_en": "A (western) suit",
+      "example_en": "You look great in a suit."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "正式",
+      "pinyin": "zhèngshì",
+      "word_type": "Vs",
+      "meaning_vn": "Trang trọng, chính thức",
+      "example_zh": "參加婚禮要穿得很正式。",
+      "example_pinyin": "Cānjiā hūnlǐ yào chuān de hěn zhèngshì.",
+      "example_vn": "Dự đám cưới phải ăn mặc thật trang trọng.",
+      "meaning_hv": "Chính thức",
+      "meaning_en": "Formal",
+      "example_en": "You need to dress formally for a wedding."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "客人",
+      "pinyin": "kèrén",
+      "word_type": "N",
+      "meaning_vn": "Khách",
+      "example_zh": "客人都到了。",
+      "example_pinyin": "Kèrén dōu dào le.",
+      "example_vn": "Khách đều đến cả rồi.",
+      "meaning_hv": "Khách nhân",
+      "meaning_en": "Guest",
+      "example_en": "All the guests have arrived."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "手",
+      "pinyin": "shǒu",
+      "word_type": "N",
+      "meaning_vn": "Tay",
+      "example_zh": "他手裡拿著照相機。",
+      "example_pinyin": "Tā shǒu lǐ názhe zhàoxiàngjī.",
+      "example_vn": "Trong tay anh ấy cầm máy ảnh.",
+      "meaning_hv": "Thủ",
+      "meaning_en": "Hand",
+      "example_en": "He is holding a camera in his hand."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "照相機",
+      "pinyin": "zhàoxiàngjī",
+      "word_type": "N",
+      "meaning_vn": "Máy ảnh",
+      "example_zh": "他有一台照相機。",
+      "example_pinyin": "Tā yǒu yì tái zhàoxiàngjī.",
+      "example_vn": "Anh ấy có một cái máy ảnh.",
+      "meaning_hv": "Chiếu tượng cơ",
+      "meaning_en": "Camera",
+      "example_en": "He has a camera."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "新郎",
+      "pinyin": "xīnláng",
+      "word_type": "N",
+      "meaning_vn": "Chú rể",
+      "example_zh": "新郎看起來很帥。",
+      "example_pinyin": "Xīnláng kànqǐlái hěn shuài.",
+      "example_vn": "Chú rể trông rất đẹp trai.",
+      "meaning_hv": "Tân lang",
+      "meaning_en": "Bridegroom",
+      "example_en": "The bridegroom looks very handsome."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "站",
+      "pinyin": "zhàn",
+      "word_type": "Vi",
+      "meaning_vn": "Đứng",
+      "example_zh": "他在門口站著。",
+      "example_pinyin": "Tā zài ménkǒu zhànzhe.",
+      "example_vn": "Anh ấy đang đứng ở cửa.",
+      "meaning_hv": "Trạm",
+      "meaning_en": "To stand",
+      "example_en": "He is standing at the entrance."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "白",
+      "pinyin": "bái",
+      "word_type": "Vs",
+      "meaning_vn": "Trắng",
+      "example_zh": "新郎穿白西裝。",
+      "example_pinyin": "Xīnláng chuān bái xīzhuāng.",
+      "example_vn": "Chú rể mặc com-lê trắng.",
+      "meaning_hv": "Bạch",
+      "meaning_en": "White",
+      "example_en": "The bridegroom wears a white suit."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "帥",
+      "pinyin": "shuài",
+      "word_type": "Vs",
+      "meaning_vn": "Đẹp trai (nói về nam)",
+      "example_zh": "他今天看起來好帥。",
+      "example_pinyin": "Tā jīntiān kànqǐlái hǎo shuài.",
+      "example_vn": "Hôm nay anh ấy trông đẹp trai quá.",
+      "meaning_hv": "Suất",
+      "meaning_en": "Handsome, good looking (of men)",
+      "example_en": "He looks so handsome today."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "禮服",
+      "pinyin": "lǐfú",
+      "word_type": "N",
+      "meaning_vn": "Lễ phục",
+      "example_zh": "她穿著紅色的禮服。",
+      "example_pinyin": "Tā chuānzhe hóngsè de lǐfú.",
+      "example_vn": "Cô ấy mặc lễ phục màu đỏ.",
+      "meaning_hv": "Lễ phục",
+      "meaning_en": "Formal attire",
+      "example_en": "She is wearing a red gown."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "座位",
+      "pinyin": "zuòwèi",
+      "word_type": "N",
+      "meaning_vn": "Chỗ ngồi",
+      "example_zh": "我帶你們去座位。",
+      "example_pinyin": "Wǒ dài nǐmen qù zuòwèi.",
+      "example_vn": "Tôi dẫn các bạn đến chỗ ngồi.",
+      "meaning_hv": "Tọa vị",
+      "meaning_en": "Seat",
+      "example_en": "I will take you to your seats."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "看起來",
+      "pinyin": "kàn qǐlái",
+      "word_type": "",
+      "meaning_vn": "Trông có vẻ, xem ra",
+      "example_zh": "她看起來很高興。",
+      "example_pinyin": "Tā kànqǐlái hěn gāoxìng.",
+      "example_vn": "Cô ấy trông rất vui.",
+      "meaning_hv": "Khán khởi lai",
+      "meaning_en": "To look, it appears to me…",
+      "example_en": "She looks very happy."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "結婚",
+      "pinyin": "jiéhūn",
+      "word_type": "Vp-sep",
+      "meaning_vn": "Kết hôn, cưới",
+      "example_zh": "他們打算明年結婚。",
+      "example_pinyin": "Tāmen dǎsuàn míng nián jiéhūn.",
+      "example_vn": "Họ định năm sau kết hôn.",
+      "meaning_hv": "Kết hôn",
+      "meaning_en": "To get married",
+      "example_en": "They plan to get married next year."
+    },
+    {
+      "order_num": 19,
+      "word_zh": "日子",
+      "pinyin": "rìzi",
+      "word_type": "N",
+      "meaning_vn": "Ngày (tốt xấu), ngày tháng",
+      "example_zh": "今天是個好日子。",
+      "example_pinyin": "Jīntiān shì gè hǎo rìzi.",
+      "example_vn": "Hôm nay là một ngày tốt.",
+      "meaning_hv": "Nhật tử",
+      "meaning_en": "Day",
+      "example_en": "Today is a good day."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "親戚",
+      "pinyin": "qīnqi",
+      "word_type": "N",
+      "meaning_vn": "Họ hàng, bà con",
+      "example_zh": "他請了很多親戚。",
+      "example_pinyin": "Tā qǐng le hěn duō qīnqi.",
+      "example_vn": "Anh ấy mời rất nhiều họ hàng.",
+      "meaning_hv": "Thân thích",
+      "meaning_en": "Relatives",
+      "example_en": "He invited many relatives."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "熱鬧",
+      "pinyin": "rènao",
+      "word_type": "Vs",
+      "meaning_vn": "Náo nhiệt, sôi động",
+      "example_zh": "夜市很熱鬧。",
+      "example_pinyin": "Yèshì hěn rènao.",
+      "example_vn": "Chợ đêm rất náo nhiệt.",
+      "meaning_hv": "Nhiệt náo",
+      "meaning_en": "To be boisterous, lively",
+      "example_en": "The night market is very lively."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "慶祝",
+      "pinyin": "qìngzhù",
+      "word_type": "V",
+      "meaning_vn": "Chúc mừng, ăn mừng",
+      "example_zh": "我們一起慶祝他的生日。",
+      "example_pinyin": "Wǒmen yìqǐ qìngzhù tā de shēngrì.",
+      "example_vn": "Chúng tôi cùng nhau ăn mừng sinh nhật anh ấy.",
+      "meaning_hv": "Khánh chúc",
+      "meaning_en": "To celebrate",
+      "example_en": "We celebrate his birthday together."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "件",
+      "pinyin": "jiàn",
+      "word_type": "M",
+      "meaning_vn": "Cái, việc (lượng từ cho quần áo, sự việc)",
+      "example_zh": "她換了一件漂亮的禮服。",
+      "example_pinyin": "Tā huàn le yí jiàn piàoliang de lǐfú.",
+      "example_vn": "Cô ấy thay một bộ lễ phục xinh đẹp.",
+      "meaning_hv": "Kiện",
+      "meaning_en": "Measure word for clothing",
+      "example_en": "She changed into a beautiful gown."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "喜事",
+      "pinyin": "xǐshì",
+      "word_type": "N",
+      "meaning_vn": "Việc vui (như đám cưới)",
+      "example_zh": "這是一件喜事。",
+      "example_pinyin": "Zhè shì yí jiàn xǐshì.",
+      "example_vn": "Đây là một việc vui.",
+      "meaning_hv": "Hỷ sự",
+      "meaning_en": "An auspicious occasion, such as a wedding",
+      "example_en": "This is a happy occasion."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "請客",
+      "pinyin": "qǐngkè",
+      "word_type": "V-sep",
+      "meaning_vn": "Mời khách, đãi khách",
+      "example_zh": "今天我請客。",
+      "example_pinyin": "Jīntiān wǒ qǐngkè.",
+      "example_vn": "Hôm nay tôi đãi.",
+      "meaning_hv": "Thỉnh khách",
+      "meaning_en": "To host a banquet, treat somebody to a meal",
+      "example_en": "It is my treat today."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "紅包",
+      "pinyin": "hóngbāo",
+      "word_type": "N",
+      "meaning_vn": "Bao lì xì",
+      "example_zh": "客人準備了紅包。",
+      "example_pinyin": "Kèrén zhǔnbèi le hóngbāo.",
+      "example_vn": "Khách đã chuẩn bị bao lì xì.",
+      "meaning_hv": "Hồng bao",
+      "meaning_en": "Red envelope with cash gift",
+      "example_en": "The guests prepared red envelopes."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "送",
+      "pinyin": "sòng",
+      "word_type": "V",
+      "meaning_vn": "Tặng; tiễn",
+      "example_zh": "我送你回家。",
+      "example_pinyin": "Wǒ sòng nǐ huí jiā.",
+      "example_vn": "Tôi tiễn bạn về nhà.",
+      "meaning_hv": "Tống",
+      "meaning_en": "To give a gift; to send off, to see off",
+      "example_en": "I will see you home."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "新人",
+      "pinyin": "xīnrén",
+      "word_type": "N",
+      "meaning_vn": "Tân hôn, cô dâu chú rể (chỉ dùng ở đám cưới)",
+      "example_zh": "大家祝新人幸福。",
+      "example_pinyin": "Dàjiā zhù xīnrén xìng fú.",
+      "example_vn": "Mọi người chúc cô dâu chú rể hạnh phúc.",
+      "meaning_hv": "Tân nhân",
+      "meaning_en": "Newlyweds (used only at a wedding)",
+      "example_en": "Everyone wishes the newlyweds happiness."
+    },
+    {
+      "order_num": 29,
+      "word_zh": "喜宴",
+      "pinyin": "xǐyàn",
+      "word_type": "N",
+      "meaning_vn": "Tiệc cưới",
+      "example_zh": "喜宴開始了。",
+      "example_pinyin": "Xǐyàn kāishǐ le.",
+      "example_vn": "Tiệc cưới đã bắt đầu.",
+      "meaning_hv": "Hỷ yến",
+      "meaning_en": "Wedding banquet, wedding reception",
+      "example_en": "The wedding banquet has started."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "敬酒",
+      "pinyin": "jìngjiǔ",
+      "word_type": "V-sep",
+      "meaning_vn": "Mời rượu, chúc rượu",
+      "example_zh": "新郎新娘來敬酒了。",
+      "example_pinyin": "Xīnláng xīnniáng lái jìngjiǔ le.",
+      "example_vn": "Cô dâu chú rể đến mời rượu rồi.",
+      "meaning_hv": "Kính tửu",
+      "meaning_en": "To make a toast (alcoholic drinks)",
+      "example_en": "The bride and groom came to make a toast."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "大人",
+      "pinyin": "dàrén",
+      "word_type": "N",
+      "meaning_vn": "Người lớn",
+      "example_zh": "大人有說有笑。",
+      "example_pinyin": "Dàrén yǒu shuō yǒu xiào.",
+      "example_vn": "Người lớn nói cười vui vẻ.",
+      "meaning_hv": "Đại nhân",
+      "meaning_en": "Adult",
+      "example_en": "The adults chat and laugh."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "小孩",
+      "pinyin": "xiǎohái",
+      "word_type": "N",
+      "meaning_vn": "Trẻ con",
+      "example_zh": "小孩有吃有喝。",
+      "example_pinyin": "Xiǎohái yǒu chī yǒu hē.",
+      "example_vn": "Trẻ con có ăn có uống.",
+      "meaning_hv": "Tiểu hài",
+      "meaning_en": "Child, children",
+      "example_en": "The children eat and drink."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "不得了",
+      "pinyin": "bùdéliǎo",
+      "word_type": "Vs",
+      "meaning_vn": "Vô cùng, hết sức (chỉ mức độ nghiêm trọng)",
+      "example_zh": "這裡熱鬧得不得了。",
+      "example_pinyin": "Zhèlǐ rènao de bùdéliǎo.",
+      "example_vn": "Ở đây náo nhiệt vô cùng.",
+      "meaning_hv": "Bất đắc liễu",
+      "meaning_en": "Very; extremely; indicates severity",
+      "example_en": "It is extremely lively here."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "另外",
+      "pinyin": "lìngwài",
+      "word_type": "Det",
+      "meaning_vn": "Khác, ngoài ra",
+      "example_zh": "她換了另外一件禮服。",
+      "example_pinyin": "Tā huàn le lìngwài yí jiàn lǐfú.",
+      "example_vn": "Cô ấy thay một bộ lễ phục khác.",
+      "meaning_hv": "Lánh ngoại",
+      "meaning_en": "Another",
+      "example_en": "She changed into another gown."
+    },
+    {
+      "order_num": 35,
+      "word_zh": "糖",
+      "pinyin": "táng",
+      "word_type": "N",
+      "meaning_vn": "Kẹo, đường",
+      "example_zh": "新娘拿著糖送客人。",
+      "example_pinyin": "Xīnniáng názhe táng sòng kèrén.",
+      "example_vn": "Cô dâu cầm kẹo tiễn khách.",
+      "meaning_hv": "Đường",
+      "meaning_en": "Candies",
+      "example_en": "The bride holds candy to see the guests off."
+    },
+    {
+      "order_num": 36,
+      "word_zh": "離開",
+      "pinyin": "líkāi",
+      "word_type": "Vp",
+      "meaning_vn": "Rời đi, rời khỏi",
+      "example_zh": "客人都離開了。",
+      "example_pinyin": "Kèrén dōu líkāi le.",
+      "example_vn": "Khách đều đã ra về.",
+      "meaning_hv": "Ly khai",
+      "meaning_en": "To depart, to leave",
+      "example_en": "All the guests have left."
+    },
+    {
+      "order_num": 37,
+      "word_zh": "句",
+      "pinyin": "jù",
+      "word_type": "M",
+      "meaning_vn": "Câu (lượng từ cho lời nói)",
+      "example_zh": "他說了幾句話。",
+      "example_pinyin": "Tā shuō le jǐ jù huà.",
+      "example_vn": "Anh ấy nói vài câu.",
+      "meaning_hv": "Cú",
+      "meaning_en": "Measure word for utterances",
+      "example_en": "He said a few words."
+    },
+    {
+      "order_num": 38,
+      "word_zh": "祝福",
+      "pinyin": "zhùfú",
+      "word_type": "V",
+      "meaning_vn": "Chúc phúc",
+      "example_zh": "大家都祝福他們。",
+      "example_pinyin": "Dàjiā dōu zhùfú tāmen.",
+      "example_vn": "Mọi người đều chúc phúc cho họ.",
+      "meaning_hv": "Chúc phúc",
+      "meaning_en": "To give blessings to",
+      "example_en": "Everyone blesses them."
+    },
+    {
+      "order_num": 39,
+      "word_zh": "話",
+      "pinyin": "huà",
+      "word_type": "N",
+      "meaning_vn": "Lời nói, câu nói",
+      "example_zh": "請你多說幾句祝福的話。",
+      "example_pinyin": "Qǐng nǐ duō shuō jǐ jù zhùfú de huà.",
+      "example_vn": "Xin bạn nói thêm vài lời chúc phúc.",
+      "meaning_hv": "Thoại",
+      "meaning_en": "Utterance, word",
+      "example_en": "Please say a few more words of blessing."
+    },
+    {
+      "order_num": 40,
+      "word_zh": "一會兒",
+      "pinyin": "yíhuìr",
+      "word_type": "",
+      "meaning_vn": "Một lát, một lúc",
+      "example_zh": "大家吃了一會兒。",
+      "example_pinyin": "Dàjiā chī le yíhuìr.",
+      "example_vn": "Mọi người ăn một lúc.",
+      "meaning_hv": "Nhất hội nhi",
+      "meaning_en": "In a moment",
+      "example_en": "Everyone ate for a while."
+    },
+    {
+      "order_num": 41,
+      "word_zh": "有說有笑",
+      "pinyin": "yǒu shuō yǒu xiào",
+      "word_type": "",
+      "meaning_vn": "Vừa nói vừa cười, chuyện trò vui vẻ",
+      "example_zh": "他們有說有笑地走進來。",
+      "example_pinyin": "Tāmen yǒu shuō yǒu xiào dì zǒu jìn lái.",
+      "example_vn": "Họ vừa nói vừa cười bước vào.",
+      "meaning_hv": "Hữu thuyết hữu tiếu",
+      "meaning_en": "Laughing and joking",
+      "example_en": "They walked in laughing and joking."
+    },
+    {
+      "order_num": 42,
+      "word_zh": "有吃有喝",
+      "pinyin": "yǒu chī yǒu hē",
+      "word_type": "",
+      "meaning_vn": "Có ăn có uống",
+      "example_zh": "婚禮上有吃有喝。",
+      "example_pinyin": "Hūnlǐ shàng yǒu chī yǒu hē.",
+      "example_vn": "Ở đám cưới có ăn có uống.",
+      "meaning_hv": "Hữu cật hữu hát",
+      "meaning_en": "An availability of food and drink",
+      "example_en": "There is food and drink at the wedding."
+    },
+    {
+      "order_num": 43,
+      "word_zh": "百年好合",
+      "pinyin": "bǎinián hǎohé",
+      "word_type": "",
+      "meaning_vn": "Trăm năm hòa hợp (lời chúc hôn nhân bền lâu)",
+      "example_zh": "祝你們百年好合！",
+      "example_pinyin": "Zhù nǐmen bǎinián hǎohé!",
+      "example_vn": "Chúc hai bạn trăm năm hạnh phúc!",
+      "meaning_hv": "Bách niên hảo hợp",
+      "meaning_en": "Century-long matrimony, i.e., to have a long happy marriage",
+      "example_en": "Wishing you a long and happy marriage!"
+    },
+    {
+      "order_num": 44,
+      "word_zh": "早生貴子",
+      "pinyin": "zǎo shēng guìzǐ",
+      "word_type": "",
+      "meaning_vn": "Sớm sinh quý tử (lời chúc truyền thống cho vợ chồng mới cưới)",
+      "example_zh": "祝你們早生貴子！",
+      "example_pinyin": "Zhù nǐmen zǎo shēng guìzǐ!",
+      "example_vn": "Chúc hai bạn sớm sinh quý tử!",
+      "meaning_hv": "Tảo sinh quý tử",
+      "meaning_en": "May you soon bear a child! (a traditional exhortation given to newlyweds)",
+      "example_en": "May you soon have a child!"
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "Phó từ 還 (vẫn còn, còn nữa)",
+      "explanation": "Phó từ 還 chỉ tình huống chưa thay đổi hoặc vẫn ở một trạng thái nhất định: \"vẫn, còn\". Khi trong câu có nhiều phó từ, 還 đứng trước các phó từ khác (trừ 也), kể cả từ phủ định (還不夠, 還沒). Câu hỏi dùng mẫu 是不是 đặt trước phó từ. Nghĩa của 還 tùy ngữ cảnh: (1) \"vẫn, chưa\" – thường đi với tính từ/vị từ trạng thái; (2) \"còn, thêm nữa\" – thường đi với động từ hành động.",
+      "examples": "[{\"zh\":\"現在時間還早，學生都沒到。\",\"pinyin\":\"Xiànzài shíjiān hái zǎo, xuésheng dōu méi dào.\",\"vn\":\"Bây giờ vẫn còn sớm, học sinh chưa ai đến.\"},{\"zh\":\"來的客人還太少，喜宴還不能開始。\",\"pinyin\":\"Lái de kèrén hái tài shǎo, xǐyàn hái bù néng kāishǐ.\",\"vn\":\"Khách đến còn quá ít, tiệc cưới chưa thể bắt đầu.\"},{\"zh\":\"現在天氣還太冷，不可以去游泳。\",\"pinyin\":\"Xiànzài tiān qì hái tài lěng, bù kěyǐ qù yóuyǒng.\",\"vn\":\"Bây giờ trời vẫn còn quá lạnh, không thể đi bơi.\"},{\"zh\":\"我的錢還不夠，不能付學費。\",\"pinyin\":\"Wǒ de qián hái búgòu, bù néng fù xuéfèi.\",\"vn\":\"Tiền của tôi vẫn chưa đủ, không thể đóng học phí.\"},{\"zh\":\"現在天氣還不熱，我們去東部旅行吧！\",\"pinyin\":\"Xiànzài tiān qì hái bú rè, wǒmen qù dōngbù lǚxíng ba!\",\"vn\":\"Bây giờ trời vẫn chưa nóng, chúng ta đi du lịch miền đông đi!\"},{\"zh\":\"他剛回國，找工作還不順利。\",\"pinyin\":\"Tā gāng huíguó, zhǎo gōngzuò hái bù shùnlì.\",\"vn\":\"Anh ấy mới về nước, tìm việc vẫn chưa suôn sẻ.\"},{\"zh\":\"你的錢是不是還不夠租套房？\",\"pinyin\":\"Nǐ de qián shì bu shì hái búgòu zū tàofáng?\",\"vn\":\"Có phải tiền của bạn vẫn chưa đủ thuê phòng riêng không?\"},{\"zh\":\"你喝得這麼慢，牛肉湯還很熱嗎？\",\"pinyin\":\"Nǐ hē de zhème màn, niúròu tāng hái hěn rè ma?\",\"vn\":\"Bạn uống chậm thế, canh bò còn nóng không?\"},{\"zh\":\"十二點的飛機，現在六點，去機場是不是還太早？\",\"pinyin\":\"Shí èr diǎn de fēijī, xiànzài liù diǎn, qù jīchǎng shì bu shì hái tài zǎo?\",\"vn\":\"Chuyến bay mười hai giờ, bây giờ mới sáu giờ, ra sân bay có phải còn quá sớm không?\"},{\"zh\":\"菜還很多，你要多吃一點。\",\"pinyin\":\"Cài hái hěn duō, nǐ yào duō chī yìdiǎn.\",\"vn\":\"Đồ ăn còn nhiều lắm, bạn ăn thêm một chút đi.\"},{\"zh\":\"昨天晚上肚子很不舒服，還吐了好幾次。\",\"pinyin\":\"Zuótiān wǎnshang dù zǐ hěn bù shūfu, hái tǔ le hǎo jǐ cì.\",\"vn\":\"Tối qua bụng rất khó chịu, còn nôn mấy lần nữa.\"},{\"zh\":\"下了課要寫作業，還要準備第二天的課。\",\"pinyin\":\"Xià le kè yào xiě zuòyè, hái yào zhǔnbèi dì-èr tiān de kè.\",\"vn\":\"Tan học phải làm bài tập, còn phải chuẩn bị bài cho ngày hôm sau.\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Cách thức hành động: V + 著 + động từ chính",
+      "explanation": "Mẫu V著 đứng trước động từ chính (thường là động từ hành động) chỉ cách thức thực hiện hành động đó, có thể hiểu là \"vừa làm A vừa làm B\" (làm B trong trạng thái A). Động từ trước 著 thường là động từ hành động (cả ngoại động từ lẫn nội động từ). Phủ định đặt 不是/別/不 trước V著. Khác với 一邊…一邊… (hai hành động đồng thời, dùng nhiều hơn ở Đài Loan); không phải động từ nào cũng dùng được cả hai mẫu (站著吃 được, 一邊站一邊吃 thì không). Một số vị từ trạng thái tạm thời cũng dùng được: 忙著, 急著.",
+      "examples": "[{\"zh\":\"他笑著跟客人說話。\",\"pinyin\":\"Tā xiàozhe gēn kèrén shuōhuà.\",\"vn\":\"Anh ấy vừa cười vừa nói chuyện với khách.\"},{\"zh\":\"站著吃飯不好吧！\",\"pinyin\":\"Zhànzhe chīfàn bù hǎo ba!\",\"vn\":\"Đứng ăn cơm thì không tốt đâu!\"},{\"zh\":\"那裡的路很複雜，你還是帶著地圖去吧！\",\"pinyin\":\"Nàlǐ de lù hěn fù zá, nǐ háishi dàizhe dìtú qù ba!\",\"vn\":\"Đường ở đó rất phức tạp, bạn nên mang theo bản đồ đi!\"},{\"zh\":\"李老師不是站著上課，他坐著上課。\",\"pinyin\":\"Lǐ lǎoshī bú shì zhànzhe shàngkè, tā zuòzhe shàngkè.\",\"vn\":\"Thầy Lý không đứng giảng bài, thầy ngồi giảng.\"},{\"zh\":\"爸爸說別看著電視吃飯。\",\"pinyin\":\"Bà ba shuō bié kànzhe diànshì chīfàn.\",\"vn\":\"Bố nói đừng vừa xem tivi vừa ăn cơm.\"},{\"zh\":\"你站了多久了？怎麼不坐著等他？\",\"pinyin\":\"Nǐ zhàn le duō jiǔ le? Zěnme bù zuòzhe děng tā?\",\"vn\":\"Bạn đứng bao lâu rồi? Sao không ngồi đợi anh ấy?\"},{\"zh\":\"安同是不是聽著音樂騎機車？\",\"pinyin\":\"Āntóng shì bu shì tīngzhe yīnyuè qí jīchē?\",\"vn\":\"Có phải An Đồng vừa nghe nhạc vừa chạy xe máy không?\"},{\"zh\":\"他是不是帶著兩個大背包去旅行？\",\"pinyin\":\"Tā shì bu shì dàizhe liǎng ge dà bēibāo qù lǚxíng?\",\"vn\":\"Có phải anh ấy mang theo hai ba lô lớn đi du lịch không?\"},{\"zh\":\"麵店沒有座位了，我們得站著吃麵。\",\"pinyin\":\"Miàn diàn méiyǒu zuòwèi le, wǒmen děi zhànzhe chī miàn.\",\"vn\":\"Quán mì hết chỗ ngồi rồi, chúng ta phải đứng ăn mì.\"},{\"zh\":\"他忙著找工作。\",\"pinyin\":\"Tā mángzhe zhǎo gōngzuò.\",\"vn\":\"Anh ấy đang bận tìm việc.\"},{\"zh\":\"陳小姐急著準備找工作的履歷表。\",\"pinyin\":\"Chén xiǎojiě jízhe zhǔnbèi zhǎo gōngzuò de lǚlìbiǎo.\",\"vn\":\"Chị Trần đang vội chuẩn bị sơ yếu lý lịch để tìm việc.\"},{\"zh\":\"媽媽忙著給大家做飯。\",\"pinyin\":\"Māma mángzhe gěi dàjiā zuò fàn.\",\"vn\":\"Mẹ đang bận nấu cơm cho mọi người.\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "Câu có nhiều cụm động từ (liên động)",
+      "explanation": "Khi trong câu có nhiều cụm động từ, thứ tự của chúng phản ánh thứ tự thời gian xảy ra các hành động. Khi đổi thứ tự cụm động từ thì nghĩa câu thay đổi (chỉ một số ít động từ như 送, 帶, 接 làm được điều này). Phủ định đặt trước động từ đầu tiên. Câu hỏi A-不-A chỉ áp dụng cho động từ đầu tiên; cũng có thể dùng 是不是.",
+      "examples": "[{\"zh\":\"我帶你們去你們的座位吧！\",\"pinyin\":\"Wǒ dài nǐmen qù nǐmen de zuòwèi ba!\",\"vn\":\"Để tôi dẫn các bạn đến chỗ ngồi của các bạn nhé!\"},{\"zh\":\"安同送美玲回宿舍。\",\"pinyin\":\"Āntóng sòng Měilíng huí sùshè.\",\"vn\":\"An Đồng tiễn Mỹ Linh về ký túc xá.\"},{\"zh\":\"我跟弟弟去機場接朋友。\",\"pinyin\":\"Wǒ gēn dìdi qù jīchǎng jiē péngyou.\",\"vn\":\"Tôi cùng em trai ra sân bay đón bạn.\"},{\"zh\":\"我們送朋友去機場。\",\"pinyin\":\"Wǒmen sòng péngyou qù jīchǎng.\",\"vn\":\"Chúng tôi đưa bạn ra sân bay (đi cùng bạn).\"},{\"zh\":\"我們去機場送朋友。\",\"pinyin\":\"Wǒmen qù jīchǎng sòng péngyou.\",\"vn\":\"Chúng tôi ra sân bay tiễn bạn.\"},{\"zh\":\"他們坐巴士到台北。\",\"pinyin\":\"Tāmen zuò bā shì dào Táiběi.\",\"vn\":\"Họ đi xe buýt đến Đài Bắc.\"},{\"zh\":\"他們到台北坐巴士。\",\"pinyin\":\"Tāmen dào Táiběi zuò bā shì.\",\"vn\":\"Họ đến Đài Bắc rồi đi xe buýt.\"},{\"zh\":\"我還有事，我不送她回家了。\",\"pinyin\":\"Wǒ hái yǒu shì, wǒ bù sòng tā huí jiā le.\",\"vn\":\"Tôi còn có việc, tôi sẽ không đưa cô ấy về nhà nữa.\"},{\"zh\":\"他沒送我去郵局，我是自己去的。\",\"pinyin\":\"Tā méi sòng wǒ qù yóujú, wǒ shì zìjǐ qù de.\",\"vn\":\"Anh ấy không đưa tôi đến bưu điện, tôi tự đi.\"},{\"zh\":\"你要不要坐火車到台東，再搭船到綠島？\",\"pinyin\":\"Nǐ yào bu yào zuò huǒchē dào Táidōng, zài dā chuán dào Lǜdǎo?\",\"vn\":\"Bạn có muốn đi tàu hỏa đến Đài Đông rồi đi thuyền đến Lục Đảo không?\"},{\"zh\":\"王老師明天帶不帶我們去看電腦展？\",\"pinyin\":\"Wáng lǎoshī míngtiān dài bu dài wǒmen qù kàn diànnǎozhǎn?\",\"vn\":\"Ngày mai thầy Vương có dẫn chúng ta đi xem triển lãm máy tính không?\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "Khi A xong thì B: 等…就…",
+      "explanation": "Mẫu câu cho biết khi hành động A hoàn thành thì B xảy ra: 等 A (了/的時候)，B 就… Về cơ bản mẫu này tạo thành câu ghép có quan hệ liên kết; ở dạng phủ định, có thể phủ định một trong hai vế, hoặc dùng mẫu đặc biệt 不等…就… (\"không đợi… đã…\"). Ở vế sau thường có phó từ 再, 才 hoặc 就, tùy ngữ cảnh: 再 (tiếp theo trình tự), 才 (điều kiện), 就 (ngay sau đó).",
+      "examples": "[{\"zh\":\"等客人都回去了，喜宴就結束了。\",\"pinyin\":\"Děng kèrén dōu huí qù le, xǐyàn jiù jié shù le.\",\"vn\":\"Đợi khách đều ra về, tiệc cưới liền kết thúc.\"},{\"zh\":\"等夏天到了，去海邊的人就多了。\",\"pinyin\":\"Děng xiàtiān dào le, qù hǎibiān de rén jiù duō le.\",\"vn\":\"Đến mùa hè, người đi biển sẽ nhiều lên.\"},{\"zh\":\"等你準備找工作的時候，我就會給你一些建議。\",\"pinyin\":\"Děng nǐ zhǔnbèi zhǎo gōngzuò de shíhou, wǒ jiù huì gěi nǐ yìxiē jiànyì.\",\"vn\":\"Đến khi bạn chuẩn bị tìm việc, tôi sẽ cho bạn vài lời khuyên.\"},{\"zh\":\"不等足球比賽結束，加油的學生就走了。\",\"pinyin\":\"Bù děng zúqiú bǐsài jié shù, jiāyóu de xuésheng jiù zǒu le.\",\"vn\":\"Chưa đợi trận bóng đá kết thúc, các học sinh cổ vũ đã đi rồi.\"},{\"zh\":\"看到桌上有吃的、有喝的，不等明華回來，大家就先吃了。\",\"pinyin\":\"Kàndào zhuō shàng yǒu chī de, yǒu hē de, bù děng Mínghuá huí lái, dàjiā jiù xiān chī le.\",\"vn\":\"Thấy trên bàn có đồ ăn thức uống, chưa đợi Minh Hoa về, mọi người đã ăn trước.\"},{\"zh\":\"是不是等我結婚的時候，你就會來參加我的婚禮？\",\"pinyin\":\"Shì bu shì děng wǒ jiéhūn de shíhou, nǐ jiù huì lái cānjiā wǒ de hūnlǐ?\",\"vn\":\"Có phải đến lúc tôi kết hôn thì bạn sẽ đến dự đám cưới của tôi không?\"},{\"zh\":\"等早上九點以後，交通是不是就會比較好？\",\"pinyin\":\"Děng zǎoshang jiǔ diǎn yǐhòu, jiāotōng shì bu shì jiù huì bǐjiào hǎo?\",\"vn\":\"Sau chín giờ sáng, giao thông có phải sẽ tốt hơn không?\"},{\"zh\":\"等他來了，我再離開。\",\"pinyin\":\"Děng tā lái le, wǒ zài líkāi.\",\"vn\":\"Đợi anh ấy đến rồi tôi mới (tiếp theo) rời đi.\"},{\"zh\":\"等他來了，我才離開。\",\"pinyin\":\"Děng tā lái le, wǒ cái líkāi.\",\"vn\":\"Phải đợi anh ấy đến tôi mới rời đi.\"},{\"zh\":\"等他來了，我就離開。\",\"pinyin\":\"Děng tā lái le, wǒ jiù líkāi.\",\"vn\":\"Anh ấy vừa đến là tôi đi ngay.\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Đang A thì B xảy ra: V著V著，就…了",
+      "explanation": "Mẫu câu chỉ khi hành động A đang diễn ra thì B xảy ra (thường là bất ngờ hoặc là kết quả tự nhiên): V著V著，就…了. Nếu động từ có tân ngữ thì tân ngữ không đặt sau động từ mà phải đưa lên đầu câu làm chủ đề, hoặc lược bỏ nếu rõ nghĩa theo ngữ cảnh.",
+      "examples": "[{\"zh\":\"大家吃著吃著，新郎、新娘和他們的父母就來敬酒了。\",\"pinyin\":\"Dàjiā chīzhe chīzhe, xīnláng, xīnniáng hé tāmen de fùmǔ jiù lái jìngjiǔ le.\",\"vn\":\"Mọi người đang ăn thì cô dâu, chú rể và bố mẹ hai bên đã đến mời rượu.\"},{\"zh\":\"我們等著等著，喜宴就開始了。\",\"pinyin\":\"Wǒmen děngzhe děngzhe, xǐyàn jiù kāishǐ le.\",\"vn\":\"Chúng tôi đang chờ thì tiệc cưới bắt đầu.\"},{\"zh\":\"我小時候每天看媽媽做飯，看著看著，就會了。\",\"pinyin\":\"Wǒ xiǎoshíhou měitiān kàn māma zuò fàn, kànzhe kànzhe, jiù huì le.\",\"vn\":\"Hồi nhỏ ngày nào tôi cũng xem mẹ nấu ăn, xem mãi rồi tự biết làm.\"},{\"zh\":\"這個歌，我聽著聽著，就會唱了。\",\"pinyin\":\"Zhège gē, wǒ tīngzhe tīngzhe, jiù huì chàng le.\",\"vn\":\"Bài hát này, tôi nghe mãi rồi tự biết hát.\"},{\"zh\":\"電視在介紹日本的風景，她看著看著，就想家了。\",\"pinyin\":\"Diànshì zài jièshào Rìběn de fēngjǐng, tā kànzhe kànzhe, jiù xiǎng jiā le.\",\"vn\":\"Tivi đang giới thiệu phong cảnh Nhật Bản, cô ấy xem xem rồi nhớ nhà.\"},{\"zh\":\"安同在捷運上看書，看著看著，就忘了換車了。\",\"pinyin\":\"Āntóng zài jiéyùn shàng kàn shū, kànzhe kànzhe, jiù wàng le huàn chē le.\",\"vn\":\"An Đồng đọc sách trên tàu điện ngầm, đọc mãi rồi quên đổi tàu.\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "明華",
+      "text_zh": "安同，你們來了。",
+      "pinyin": "Āntóng, nǐmen lái le.",
+      "translation_vn": "An Đồng, các bạn đến rồi.",
+      "translation_en": "Antong, you're here!"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "安同",
+      "text_zh": "恭喜！恭喜！明華，這是我常跟你說的高美玲。美玲，他就是新娘的哥哥，李明華。",
+      "pinyin": "Gōngxǐ! Gōngxǐ! Mínghuá, zhè shì wǒ cháng gēn nǐ shuō de Gāo Měilíng. Měilíng, tā jiù shì xīnniáng de gēge, Lǐ Mínghuá.",
+      "translation_vn": "Chúc mừng! Chúc mừng! Minh Hoa, đây là Cao Mỹ Linh mà tôi thường nhắc với bạn. Mỹ Linh, đây chính là anh trai của cô dâu, Lý Minh Hoa.",
+      "translation_en": "Congratulations! Minghua, this is Gao Meiling whom I have mentioned to you a number of times. Meiling, this is the bride's older brother, Li Minghua."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "美玲",
+      "text_zh": "李先生，恭喜你們！謝謝你請我們來參加你妹妹的婚禮。",
+      "pinyin": "Lǐ xiānsheng, gōngxǐ nǐmen! Xièxie nǐ qǐng wǒmen lái cānjiā nǐ mèimei de hūnlǐ.",
+      "translation_vn": "Anh Lý, chúc mừng các anh! Cảm ơn anh đã mời chúng tôi đến dự đám cưới của em gái anh.",
+      "translation_en": "Mr. Li, congratulations to all of you! Thank you for inviting us to your sister's wedding."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "明華",
+      "text_zh": "你太客氣了。安同，你今天穿西裝真好看。",
+      "pinyin": "Nǐ tài kèqi le. Āntóng, nǐ jīntiān chuān xīzhuāng zhēn hǎokàn.",
+      "translation_vn": "Bạn khách sáo quá. An Đồng, hôm nay bạn mặc com-lê đẹp thật.",
+      "translation_en": "Don't mention it. Antong, you look great in your suit today."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "安同",
+      "text_zh": "謝謝，參加婚禮應該要穿得很正式。",
+      "pinyin": "Xièxie, cānjiā hūnlǐ yīnggāi yào chuān de hěn zhèngshì.",
+      "translation_vn": "Cảm ơn, dự đám cưới thì nên ăn mặc thật trang trọng.",
+      "translation_en": "Thank you. You need to dress formally for weddings."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "美玲",
+      "text_zh": "客人怎麼都還沒到？",
+      "pinyin": "Kèrén zěnme dōu hái méi dào?",
+      "translation_vn": "Sao khách khứa vẫn chưa đến vậy?",
+      "translation_en": "How come none of the (other) guests are here yet?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "明華",
+      "text_zh": "現在才六點，婚禮六點半開始，時間還早。",
+      "pinyin": "Xiànzài cái liù diǎn, hūnlǐ liù diǎn bàn kāishǐ, shíjiān hái zǎo.",
+      "translation_vn": "Bây giờ mới sáu giờ, sáu giờ rưỡi lễ cưới mới bắt đầu, vẫn còn sớm.",
+      "translation_en": "It's only 6:00 and the wedding doesn't start until 6:30. It's still early."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "安同",
+      "text_zh": "明華，手裡拿著照相機的那個人是誰？",
+      "pinyin": "Mínghuá, shǒu lǐ názhe zhàoxiàngjī de nàge rén shì shuí?",
+      "translation_vn": "Minh Hoa, người cầm máy ảnh trong tay kia là ai vậy?",
+      "translation_en": "Minghua, who is that person holding the camera?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "明華",
+      "text_zh": "他是新郎的弟弟。",
+      "pinyin": "Tā shì xīnláng de dìdi.",
+      "translation_vn": "Đó là em trai của chú rể.",
+      "translation_en": "That is the bridegroom's younger brother."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "安同",
+      "text_zh": "新郎呢？",
+      "pinyin": "Xīnláng ne?",
+      "translation_vn": "Thế còn chú rể?",
+      "translation_en": "And the groom?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 11,
+      "speaker": "明華",
+      "text_zh": "他在門口站著跟客人說話。",
+      "pinyin": "Tā zài ménkǒu zhànzhe gēn kèrén shuōhuà.",
+      "translation_vn": "Anh ấy đang đứng ở cửa nói chuyện với khách.",
+      "translation_en": "He is at the entrance talking with guests."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 12,
+      "speaker": "安同",
+      "text_zh": "哪一個？",
+      "pinyin": "Nǎ yí ge?",
+      "translation_vn": "Là người nào?",
+      "translation_en": "Which one is he?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 13,
+      "speaker": "明華",
+      "text_zh": "就是穿著白西裝的那個。",
+      "pinyin": "Jiù shì chuānzhe bái xīzhuāng de nàge.",
+      "translation_vn": "Chính là người mặc com-lê trắng đó.",
+      "translation_en": "The one in the white suit."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 14,
+      "speaker": "安同",
+      "text_zh": "新郎看起來好帥。",
+      "pinyin": "Xīnláng kànqǐlái hǎo shuài.",
+      "translation_vn": "Chú rể trông đẹp trai quá.",
+      "translation_en": "The groom looks handsome."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 15,
+      "speaker": "美玲",
+      "text_zh": "你看，那邊那位穿著紅色禮服，跟客人說話的太太是誰？",
+      "pinyin": "Nǐ kàn, nà biān nà wèi chuānzhe hóngsè lǐfú, gēn kèrén shuōhuà de tàitai shì shuí?",
+      "translation_vn": "Bạn xem, bà mặc lễ phục màu đỏ đang nói chuyện với khách ở đằng kia là ai vậy?",
+      "translation_en": "Look. Who is that lady in the red gown talking with the guests?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 16,
+      "speaker": "明華",
+      "text_zh": "那是新郎的媽媽。",
+      "pinyin": "Nà shì xīnláng de māma.",
+      "translation_vn": "Đó là mẹ của chú rể.",
+      "translation_en": "That's the groom's mom."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 17,
+      "speaker": "美玲",
+      "text_zh": "她看起來好高興啊！怎麼沒看見新娘呢？",
+      "pinyin": "Tā kànqǐlái hǎo gāoxìng a! Zěnme méi kàn jiàn xīnniáng ne?",
+      "translation_vn": "Trông bà vui quá! Sao không thấy cô dâu đâu nhỉ?",
+      "translation_en": "She looks so happy. How come I haven't seen the bride?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 18,
+      "speaker": "明華",
+      "text_zh": "等一下你們就會看見她了。婚禮要開始了，我帶你們去你們的座位吧！",
+      "pinyin": "Děng yíxià nǐmen jiù huì kàn jiàn tā le. Hūnlǐ yào kāishǐ le, wǒ dài nǐmen qù nǐmen de zuòwèi ba!",
+      "translation_vn": "Lát nữa các bạn sẽ thấy cô ấy thôi. Lễ cưới sắp bắt đầu rồi, để tôi dẫn các bạn đến chỗ ngồi nhé!",
+      "translation_en": "You will see her in a moment. The wedding is about to start. Let me take you to your seats."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "敘述",
+      "text_zh": "李明華請安同和美玲去參加他妹妹的婚禮，這是安同他們第一次去吃喜酒。",
+      "pinyin": "Lǐ Mínghuá qǐng Āntóng hé Měilíng qù cānjiā tā mèimei de hūnlǐ, zhè shì Āntóng tāmen dì yí cì qù chī xǐjiǔ.",
+      "translation_vn": "Lý Minh Hoa mời An Đồng và Mỹ Linh đến dự đám cưới em gái anh, đây là lần đầu tiên An Đồng và mọi người đi ăn tiệc cưới.",
+      "translation_en": "Li Minghua invited Antong and Meiling to his sister's wedding. This is the first time Antong and Meiling have attended a Chinese wedding banquet."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "敘述",
+      "text_zh": "李明華告訴他們，在台灣，要結婚的人大部分都會找一個好日子，請親戚、朋友一起吃飯，熱熱鬧鬧地慶祝這件喜事。",
+      "pinyin": "Lǐ Mínghuá gào sù tāmen, zài Táiwān, yào jiéhūn de rén dàbùfen dōu huì zhǎo yí ge hǎo rìzi, qǐng qīnqi, péngyou yìqǐ chīfàn, rèrenàonào de qìngzhù zhè jiàn xǐshì.",
+      "translation_vn": "Lý Minh Hoa nói với họ rằng ở Đài Loan, phần lớn những người sắp kết hôn đều chọn một ngày tốt, mời họ hàng, bạn bè cùng ăn cơm, náo nhiệt chúc mừng việc vui này.",
+      "translation_en": "Li Minghua told them that most couples in Taiwan pick an auspicious day for their wedding and invite family and friends to a meal to celebrate the happy occasion."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "敘述",
+      "text_zh": "請客的那天，新郎、新娘，還有來吃喜酒的客人都穿得漂漂亮亮的。",
+      "pinyin": "Qǐngkè de nà tiān, xīnláng, xīnniáng, hái yǒu lái chī xǐjiǔ de kèrén dōu chuān de piàopiàoliàngliàng de.",
+      "translation_vn": "Vào ngày đãi tiệc, chú rể, cô dâu và cả khách đến dự tiệc đều ăn mặc thật đẹp.",
+      "translation_en": "On that day, the bridegroom, the bride, and the guests that come for the reception all dress up nicely."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "敘述",
+      "text_zh": "來參加的客人都會準備一個紅包送新人。",
+      "pinyin": "Lái cānjiā de kèrén dōu huì zhǔnbèi yí ge hóngbāo sòng xīnrén.",
+      "translation_vn": "Khách đến dự đều chuẩn bị một bao lì xì tặng cô dâu chú rể.",
+      "translation_en": "Guests (who come) prepare a red envelope for the newlyweds."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "敘述",
+      "text_zh": "等客人都到了，喜宴就開始了。",
+      "pinyin": "Děng kèrén dōu dào le, xǐyàn jiù kāishǐ le.",
+      "translation_vn": "Đợi khách đến đủ thì tiệc cưới bắt đầu.",
+      "translation_en": "After all the guests have arrived, the banquet begins."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "敘述",
+      "text_zh": "大家吃了一會兒，有的人忙著到處敬酒，有的人忙著跟朋友聊天，大人有說有笑，小孩有吃有喝，熱鬧得不得了。",
+      "pinyin": "Dàjiā chī le yíhuìr, yǒu de rén mángzhe dàochù jìngjiǔ, yǒu de rén mángzhe gēn péngyou liáotiān, dàrén yǒu shuō yǒu xiào, xiǎohái yǒu chī yǒu hē, rènao de bùdéliǎo.",
+      "translation_vn": "Mọi người ăn một lúc, có người bận đi khắp nơi mời rượu, có người bận trò chuyện với bạn bè, người lớn nói cười vui vẻ, trẻ con có ăn có uống, náo nhiệt vô cùng.",
+      "translation_en": "After everyone has eaten for a while, some people busy themselves going around toasting others, while some busy themselves chatting with friends. Adults chat and laugh, while children eat and drink. It is all very lively."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "敘述",
+      "text_zh": "大家吃著吃著，新郎、新娘和他們的父母就來敬酒了。",
+      "pinyin": "Dàjiā chīzhe chīzhe, xīnláng, xīnniáng hé tāmen de fùmǔ jiù lái jìngjiǔ le.",
+      "translation_vn": "Mọi người đang ăn thì cô dâu, chú rể và bố mẹ hai bên đến mời rượu.",
+      "translation_en": "While guests are eating, the bridegroom, the bride, and their parents come to make a toast."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "敘述",
+      "text_zh": "客人也會祝新人百年好合、早生貴子。",
+      "pinyin": "Kèrén yě huì zhù xīnrén bǎinián hǎohé, zǎo shēng guìzǐ.",
+      "translation_vn": "Khách cũng chúc cô dâu chú rể trăm năm hòa hợp, sớm sinh quý tử.",
+      "translation_en": "Guests congratulate the newlyweds by wishing them a long, happy life together as well as the prompt birth of a child."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "敘述",
+      "text_zh": "等喜酒吃得差不多了，新娘會換另外一件漂亮的禮服，跟新郎拿著糖在門口送客人離開。",
+      "pinyin": "Děng xǐjiǔ chī de chàbuduō le, xīnniáng huì huàn lìngwài yí jiàn piàoliang de lǐfú, gēn xīnláng názhe táng zài ménkǒu sòng kèrén líkāi.",
+      "translation_vn": "Khi tiệc gần tàn, cô dâu sẽ thay một bộ lễ phục xinh đẹp khác, cùng chú rể cầm kẹo đứng ở cửa tiễn khách ra về.",
+      "translation_en": "When the reception is just about over, the bride changes into another beautiful gown and stands at the doorway with the groom holding candy to see the guests off."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 10,
+      "speaker": "敘述",
+      "text_zh": "這個時候很多人會跟新人一起照相，再多說幾句祝福的話。",
+      "pinyin": "Zhège shíhou hěn duō rén huì gēn xīnrén yìqǐ zhàoxiàng, zài duō shuō jǐ jù zhùfú de huà.",
+      "translation_vn": "Lúc này nhiều người sẽ chụp ảnh cùng cô dâu chú rể và nói thêm vài lời chúc phúc.",
+      "translation_en": "At this time, many of them take pictures with the couple and offer them more words of blessing."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 11,
+      "speaker": "敘述",
+      "text_zh": "等客人都回去了，喜宴就結束了。",
+      "pinyin": "Děng kèrén dōu huí qù le, xǐyàn jiù jié shù le.",
+      "translation_vn": "Đợi khách đều về hết thì tiệc cưới kết thúc.",
+      "translation_en": "When all the guests are gone, the wedding reception comes to an end."
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Hoàn thành hội thoại với 還",
+      "kind": "dialogue",
+      "grammar_order": 1,
+      "instruction": "Hoàn thành các đoạn hội thoại sau bằng 還.",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：我們出去吃飯吧！\nB：現在才十點半，＿＿＿＿，我們十一點去吧。",
+          "answer": "B：現在才十點半，還太早，我們十一點去吧。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "媽媽：小明，我怎麼說他都不聽。\n爸爸：＿＿＿＿，等他大了，就好了。",
+          "answer": "爸爸：他還小，等他大了，就好了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：三十年以前，會說英文很容易找工作。\nB：那是因為以前＿＿＿＿，現在會說英文的人太多了。",
+          "answer": "B：那是因為以前會說英文的人還很少，現在會說英文的人太多了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你怎麼還沒買書？\nB：我的錢＿＿＿＿，不能買。",
+          "answer": "B：我的錢還不夠，不能買。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：只來了五個人嗎？我們要不要先開始？\nB：現在人＿＿＿＿，我們再等等吧！",
+          "answer": "B：現在人還太少，我們再等等吧！",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Nhìn tranh và điền hành động phù hợp (V + 著)",
+      "kind": "picture",
+      "grammar_order": 2,
+      "instruction": "Nhìn các bức tranh sau và điền các hành động thích hợp vào chỗ trống.",
+      "image": "/book2/l5/g2-pictures.jpg",
+      "questions": [
+        {
+          "question": "教室裡，老師＿＿＿＿，學生＿＿＿＿。",
+          "answer": "教室裡，老師站著上課，學生坐著聽課。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這幾位小姐，＿＿＿＿，＿＿＿＿。",
+          "answer": "這幾位小姐坐著聊天，笑著說話。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這位先生＿＿＿＿，＿＿＿＿。（打）",
+          "answer": "這位先生坐著打字，看著電腦。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這位小姐＿＿＿＿。",
+          "answer": "這位小姐站著等公車。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這兩個人＿＿＿＿。",
+          "answer": "這兩個人拿著酒杯，站著聊天。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành hội thoại với 送…（VP2…）",
+      "kind": "dialogue",
+      "grammar_order": 3,
+      "instruction": "Hoàn thành các đoạn hội thoại sau bằng mẫu câu 送…VP2…(VP3).",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：時間不早了，我應該走了。\nB：外面下雨，我＿＿＿＿。",
+          "answer": "B：外面下雨，我送你回家吧。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：我要去機場，可是我的東西太多了。\nB：明華有車，他可以＿＿＿＿。",
+          "answer": "B：明華有車，他可以送你去機場。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "小美的父母覺得在美國念書比在台灣好，所以打算＿＿＿＿。",
+          "answer": "小美的父母覺得在美國念書比在台灣好，所以打算送她去美國念書。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：中午我要去銀行。\nB：你一個人拿那麼多錢不太好，我＿＿＿＿。",
+          "answer": "B：你一個人拿那麼多錢不太好，我送你去銀行吧。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：這裡離市區很遠，交通真不方便。\nB：明天你可以請張先生＿＿＿＿。",
+          "answer": "B：明天你可以請張先生送你去市區。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Sắp xếp lại câu với 等…就／再／才…",
+      "kind": "reorder",
+      "grammar_order": 4,
+      "instruction": "Sắp xếp lại các từ sau để tạo thành câu đúng ngữ pháp và có nghĩa.",
+      "image": "",
+      "questions": [
+        {
+          "question": "鐘點費 ／ 等你 ／ 高一點 ／ 有經驗 ／ 就會",
+          "answer": "等你有經驗，鐘點費就會高一點。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "新的漢字 ／ 考了聽寫 ／ 就學 ／ 我們 ／ 等",
+          "answer": "等我們考了聽寫，就學新的漢字。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "睡覺 ／ 早一點 ／ 等你 ／ 吃了藥 ／ 就",
+          "answer": "等你吃了藥，就早一點睡覺。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "右轉 ／ 紅綠燈 ／ 等 ／ 再 ／ 第二個 ／ 到了",
+          "answer": "等到了第二個紅綠燈，再右轉。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "等 ／ 發 ／ 月底 ／ 薪水 ／ 才",
+          "answer": "薪水等月底才發。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Mô tả sự thay đổi trong tranh với V著V著，就…了",
+      "kind": "picture",
+      "grammar_order": 5,
+      "instruction": "Dùng mẫu V著V著，就…了 để mô tả sự thay đổi giữa các bức tranh. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book2/l5/g5-pictures.jpg",
+      "questions": [
+        {
+          "question": "安同以前不會說中文，現在他＿＿＿＿。",
+          "answer": "安同以前不會說中文，現在他說著說著，就會說了。（或：聽著聽著，就會說了。）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我覺得做飯不太難，我常常看朋友做飯，我＿＿＿＿。",
+          "answer": "我覺得做飯不太難，我常常看朋友做飯，我看著看著，就會做了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "田中剛到台灣，他在學校附近＿＿＿＿。",
+          "answer": "田中剛到台灣，他在學校附近走著走著，就迷路了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "學生在車站說話，＿＿＿＿。",
+          "answer": "學生在車站說話，說著說著，公車就來了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "如玉在＿＿＿＿。",
+          "answer": "如玉在看書，看著看著，就睡著了。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Miêu tả người khác",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Miêu tả cách ăn mặc và cử chỉ của một người.\nNhiệm vụ: Dựa vào các câu hỏi và bức tranh, dùng mẫu V 著 để miêu tả mọi người đang mặc gì, đang làm gì. Càng chi tiết càng tốt. Người miêu tả chi tiết nhất sẽ được giáo viên cho một điểm.\nVí dụ: A：你覺得誰快結婚了？\nB：我覺得穿著紅色衣服，喝著咖啡跟朋友說話的那個小姐快結婚了吧！",
+      "image": "/book2/l5/a1-picture.jpg",
+      "questions": [
+        {
+          "question": "你覺得誰是學生？",
+          "answer": "我覺得坐著看書、穿著白衣服的那個人是學生。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你覺得誰喜歡喝茶？",
+          "answer": "我覺得拿著茶杯、笑著聊天的那位小姐喜歡喝茶。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你覺得誰是大學老師？",
+          "answer": "我覺得戴著眼鏡、拿著書的那位先生是大學老師。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你覺得誰很能喝酒？",
+          "answer": "我覺得站著跟客人說話、手裡拿著酒杯的那位先生很能喝酒。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你覺得誰會說西班牙文？",
+          "answer": "我覺得坐著看地圖的那位小姐會說西班牙文。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Giới thiệu bạn bè",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách giới thiệu hai người bạn của mình với nhau.\nNhiệm vụ: Lập nhóm ba người, lần lượt giới thiệu hai người kia với nhau. Phần giới thiệu nên có tên, mối quan hệ với bạn, nghề nghiệp và sở thích.\nVí dụ: 這位是王小美，是我的大學同學。現在是 XX 語言中心的主任。\n這是林大同，是我姐姐的朋友。現在在 XX 公司工作。",
+      "image": "",
+      "questions": [
+        {
+          "question": "介紹的人說：",
+          "answer": "這位是李明華，是我的大學同學，現在在銀行工作，喜歡打籃球。\n這是白如玉，是我的語言交換的朋友，她喜歡喝茶、爬山。\n你們好，很高興認識你們！",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Chào mừng và khen ngợi",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách bày tỏ và đáp lại lời chào đón, lời khen.\nNhiệm vụ: Ghép cặp, dựa vào các tình huống sau lần lượt chào đón hoặc khen đối phương; người kia đáp lại cho phù hợp.\nVí dụ: A：歡迎妳來參加我的婚禮。 B：謝謝你請我來參加，恭喜你。 A：謝謝妳。\nTình huống: ① A 穿了新衣服 ② A 做的蛋糕請 B 吃 ③ A 換了新的背包 ④ A 買了新手機",
+      "image": "/book2/l5/a3-picture.jpg",
+      "questions": [
+        {
+          "question": "① A 穿了新衣服",
+          "answer": "B：你今天穿的衣服真漂亮！\nA：謝謝你，你過獎了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "② A 做的蛋糕請 B 吃",
+          "answer": "A：這是我做的蛋糕，請你吃。\nB：謝謝！看起來好好吃，你真厲害！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "③ A 換了新的背包",
+          "answer": "B：你換了新的背包，看起來很好看。\nA：謝謝，我昨天剛買的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "④ A 買了新手機",
+          "answer": "B：你的新手機看起來很好用！\nA：是啊，謝謝你。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Mô tả một sự việc với V著V著，就…",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách mô tả một sự việc xảy ra một cách tự nhiên.\nNhiệm vụ: Ghép cặp, xem các bức tranh sau và lần lượt dùng mẫu \"V著V著，就…\" để mô tả điều đang xảy ra.\nVí dụ: （打電話）女：你怎麼還在家裡？我們約了 6:30 見面啊！ 男：對不起，我在看電視，看著看著，就忘了時間。",
+      "image": "/book2/l5/a4-pictures.jpg",
+      "questions": [
+        {
+          "question": "A：你怎麼這麼晚回來？\nB：我在路上看到老朋友，我們＿＿＿＿。",
+          "answer": "B：我在路上看到老朋友，我們聊著聊著，就聊到很晚了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：這個月妳怎麼花了那麼多錢？\nB：我看到好多想買的東西，＿＿＿＿。",
+          "answer": "B：我看到好多想買的東西，買著買著，就花了那麼多錢。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：妳怎麼遲到了？\nB：我在公車站一邊等車，一邊玩手機，＿＿＿＿。",
+          "answer": "B：我在公車站一邊等車，一邊玩手機，玩著玩著，就錯過公車了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：這個歌我本來不會唱，可是常聽，＿＿＿＿。",
+          "answer": "A：這個歌我本來不會唱，可是常聽，聽著聽著，就會唱了。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Đọc thiệp mời đám cưới",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách đọc một tấm thiệp mời đám cưới.\nNhiệm vụ: Ghép cặp và hỏi nhau về thông tin trên thiệp mời đám cưới.",
+      "image": "/book2/l5/a5-invitation.jpg",
+      "questions": [
+        {
+          "question": "新郎、新娘叫什麼名字？",
+          "answer": "新郎叫國華，新娘叫愛美。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "新郎姓什麼？新娘姓什麼？",
+          "answer": "新郎姓王，新娘姓李。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "喜酒是哪一天？",
+          "answer": "喜酒是國曆三月二十九日（農曆二月二十九日），星期六。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "去吃喜酒的客人應該幾點到？",
+          "answer": "下午六點半入席，所以客人應該六點半以前到。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

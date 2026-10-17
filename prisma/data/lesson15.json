@@ -847,5 +847,538 @@
       "translation_vn": "Không tồi. Cậu ngủ được mấy tiếng xong, bây giờ sắc mặt trông đã tốt hơn lúc sáng rất nhiều rồi đấy.",
       "translation_en": "Not bad. After sleeping for a few hours, your complexion looks much better now than in the morning."
     }
+  ],
+  "exercises": [
+    {
+      "title": "Trả lời mơ hồ với từ nghi vấn",
+      "kind": "dialogue",
+      "grammar_order": 1,
+      "instruction": "Trả lời các câu hỏi bằng từ nghi vấn biểu thị thái độ không muốn nói rõ (luôn ở dạng phủ định). Ví dụ: 你的房租一個月多少錢？——沒有多少錢。",
+      "image": "",
+      "questions": [
+        {
+          "question": "週末快到了，你打算去哪裡玩？\n我＿＿＿＿＿＿＿＿。",
+          "answer": "我沒打算去哪裡玩。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你在看什麼？\n我＿＿＿＿＿＿＿＿。",
+          "answer": "我沒在看什麼。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你在臺灣有很多朋友嗎？\n我＿＿＿＿＿＿＿＿。",
+          "answer": "我沒有幾個朋友。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你昨天去便利商店買了什麼東西？\n我昨天＿＿＿＿＿＿＿＿。",
+          "answer": "我昨天沒買什麼東西。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Nhìn tranh: họ đã làm gì với đồ vật?",
+      "kind": "picture",
+      "grammar_order": 2,
+      "instruction": "Dựa vào các bức tranh dưới đây, mỗi người đã làm gì với cà phê, sách, bánh bao, mì bò và xe máy? Dùng câu 把. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l15/g2-pictures.jpg",
+      "questions": [
+        {
+          "question": "1　她＿＿＿＿＿＿＿＿。（圖：小姐把咖啡喝完）",
+          "answer": "她把咖啡喝了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "2　王先生＿＿＿＿＿＿＿＿。她＿＿＿＿＿＿＿＿。（圖：書店賣書／買書）",
+          "answer": "王先生把書賣了。她把書買了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3　她＿＿＿＿＿＿＿＿。（圖：小姐把小籠包吃完）",
+          "answer": "她把小籠包吃了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "4　她＿＿＿＿＿＿＿＿。（圖：小姐把牛肉麵吃完）",
+          "answer": "她把牛肉麵吃了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "5　老闆＿＿＿＿＿＿＿＿。（圖：老闆把機車賣了）",
+          "answer": "老闆把機車賣了。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành hội thoại với V 了…就…",
+      "kind": "dialogue",
+      "grammar_order": 3,
+      "instruction": "Hoàn thành các đoạn hội thoại bằng mẫu V了…就… (làm A xong là làm B ngay) với từ cho trong ngoặc.",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：你什麼時候買禮物？\nB：＿＿＿＿＿＿＿＿。（訂蛋糕）",
+          "answer": "B：我訂了蛋糕就去買禮物。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你什麼時候可以看足球比賽？\nB：＿＿＿＿＿＿＿＿。（裝有線電視）",
+          "answer": "B：我裝了有線電視就可以看足球比賽。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你什麼時候去日本旅行？\nB：＿＿＿＿＿＿＿＿。（放假）",
+          "answer": "B：我放了假就去日本旅行。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你什麼時候開始上課？\nB：＿＿＿＿＿＿＿＿。（付學費）",
+          "answer": "B：我付了學費就開始上課。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：他什麼時候回來？\nB：＿＿＿＿＿＿＿＿。（看紅葉）",
+          "answer": "B：他看了紅葉就回來。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Dùng 一點 (một chút) – điền câu",
+      "kind": "rewrite",
+      "grammar_order": 4,
+      "instruction": "Hoàn thành các câu bằng cách dùng 一點 để diễn đạt số lượng/mức độ nhỏ. Ví dụ: 他給我的太少了，我希望他多給我一點。",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：你不舒服，吃飯了沒有？\nB：我只＿＿＿＿＿＿＿＿。（喝湯）",
+          "answer": "B：我只喝了一點湯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你感冒了，最好＿＿＿＿＿＿＿＿。（睡覺）",
+          "answer": "你感冒了，最好多睡一點覺。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "今天下午有籃球比賽，我們都很想看，請問老師能不能＿＿＿＿＿＿＿＿（早）下課？",
+          "answer": "請問老師能不能早一點下課？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我明天要看網球比賽，會＿＿＿＿＿＿＿＿（晚）回家。",
+          "answer": "我明天要看網球比賽，會晚一點回家。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Điền 一點, 有一點, 多/少 + V + 一點",
+      "kind": "rewrite",
+      "grammar_order": 4,
+      "instruction": "Hoàn thành các câu bằng 一點, 有一點, hoặc 多／少 + V + 一點.",
+      "image": "",
+      "questions": [
+        {
+          "question": "他昨天工作了十個鐘頭，覺得＿＿＿＿＿＿＿＿累。",
+          "answer": "他昨天工作了十個鐘頭，覺得有一點累。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我感冒了，喉嚨＿＿＿＿＿＿＿＿發炎。",
+          "answer": "我感冒了，喉嚨有一點發炎。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "今天不上班，早上我想＿＿＿＿＿＿＿＿覺。",
+          "answer": "今天不上班，早上我想多睡一點覺。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "媽媽想去超市買＿＿＿＿＿＿＿＿東西。",
+          "answer": "媽媽想去超市買一點東西。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我租的房子很好，可是房租＿＿＿＿＿＿＿＿貴。",
+          "answer": "我租的房子很好，可是房租有一點貴。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "今年的學費比去年貴，我要＿＿＿＿＿＿＿＿衣服。",
+          "answer": "今年的學費比去年貴，我要少買一點衣服。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這碗臭豆腐＿＿＿＿＿＿＿＿（辣），我不想吃。",
+          "answer": "這碗臭豆腐有一點辣，我不想吃。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "So sánh hành động với 得 (so sánh phó từ)",
+      "kind": "rewrite",
+      "grammar_order": 5,
+      "instruction": "So sánh các hành động bằng 得 rồi hoàn thành câu. Ví dụ: 我做豬腳麵線要花一個半鐘頭。我做牛肉麵要花一個鐘頭。→ 我做豬腳麵線做得比牛肉麵慢。",
+      "image": "",
+      "questions": [
+        {
+          "question": "咖啡，今天賣了一百二十杯。烏龍茶，今天賣了八十四杯。→ 今天咖啡＿＿＿＿＿＿＿＿。",
+          "answer": "今天咖啡賣得比烏龍茶多。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "今年下雪下了三個半月。去年下雪下了半個月。→ 今年下雪＿＿＿＿＿＿＿＿。",
+          "answer": "今年下雪下得比去年久。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "上個週末在 KTV 唱歌唱了五個鐘頭。這個週末在 KTV 唱歌唱了四個鐘頭。→ 這個週末在 KTV 唱歌＿＿＿＿＿＿＿＿。",
+          "answer": "這個週末在 KTV 唱歌唱得比上個週末少。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "媽媽走路走得很快。從家裡到捷運站要二十分鐘。姐姐只要十分鐘。→ 媽媽走路不比＿＿＿＿＿＿＿＿。",
+          "answer": "媽媽走路不比姐姐走得快。（hoặc: 媽媽走路走得沒有姐姐快。）",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Trả lời với 一點、得多、多了 (bổ ngữ mức độ so sánh)",
+      "kind": "dialogue",
+      "grammar_order": 6,
+      "instruction": "Trả lời các câu hỏi dùng 一點, 得多 hoặc 多了 trong bổ ngữ. Ví dụ: 高鐵比公車快嗎？——高鐵比公車快得多／快多了。",
+      "image": "",
+      "questions": [
+        {
+          "question": "西瓜比芒果大嗎？",
+          "answer": "西瓜比芒果大得多。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "安同和田中誰打網球打得好？（安同）",
+          "answer": "安同打得比田中好一點。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "便利商店的東西貴還是超市的東西貴？",
+          "answer": "便利商店的東西比超市的貴一點。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "姐姐和妹妹誰玩得開心？（妹妹）",
+          "answer": "妹妹玩得比姐姐開心多了。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Tách động từ ly hợp và chèn thành phần vào giữa",
+      "kind": "rewrite",
+      "grammar_order": 7,
+      "instruction": "Tách các động từ ly hợp ra (V và N) rồi chèn thêm thành phần vào giữa để tạo câu tốt. Ví dụ: 看書 → 看了三小時的書／看了很久的書.",
+      "image": "",
+      "questions": [
+        {
+          "question": "唱歌 →",
+          "answer": "唱了兩個小時的歌。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "上班 →",
+          "answer": "我們每天上八個鐘頭的班。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "上網 →",
+          "answer": "我每天上三個鐘頭的網。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "上課 →",
+          "answer": "我昨天上了四個鐘頭的課。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "生病 →",
+          "answer": "他生了三天的病。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "睡覺 →",
+          "answer": "我昨天睡了八個鐘頭的覺。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "念書 →",
+          "answer": "他每天晚上念兩個鐘頭的書。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "滑雪 →",
+          "answer": "我去年冬天滑了一個星期的雪。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "游泳 →",
+          "answer": "他游了半個鐘頭的泳。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "照相 →",
+          "answer": "他照了你一張相。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "吃飯 →",
+          "answer": "我們吃了一個鐘頭的飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "做飯 →",
+          "answer": "媽媽做了一個鐘頭的飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "見面 →",
+          "answer": "我想見你一面。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Cùng so sánh",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách so sánh ở các mức độ khác nhau.\nNhiệm vụ: Bốn sinh viên sau đang học tiếng Trung ở Đài Bắc. Họ luôn đi ăn và đi chơi cùng nhau nhưng không ở cùng nhau. Hãy so sánh bốn người dùng các câu hỏi ở cột trái.\nBảng: 晚飯吃幾碗 – 田中 2 碗, 如玉 1.5 碗, 安同 2.5 碗, 月美 0.5 碗; 房租 – NT$18,000 / 6,500 / 15,000 / 6,200; 去臺南 – 計程車 3.5 giờ / 火車 4.5 giờ / xe máy 8 giờ / cao tốc 1 giờ 40.",
+      "image": "/book1/l15/a1-table.jpg",
+      "questions": [
+        {
+          "question": "1.(1) 田中吃飯吃得比＿＿＿ 吃得＿＿＿。",
+          "answer": "田中吃飯吃得比如玉多。（田中吃得比月美多得多）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "1.(2) 月美吃得比＿＿＿＿＿＿＿＿。",
+          "answer": "月美吃得比如玉少，也比田中少得多。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "1.(3) 如玉吃得＿＿＿比田中多。",
+          "answer": "如玉吃得沒有比田中多。（hoặc: 如玉吃得比月美多）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "2.(1) 月美的房租＿＿＿如玉的房租＿＿＿貴。",
+          "answer": "月美的房租沒有如玉的房租那麼貴。（hoặc: 月美的房租比如玉的便宜一點）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "2.(2) 安同的房租很貴，可是田中的比他的＿＿＿貴，田中的房租比月美的＿＿＿＿＿＿＿＿。",
+          "answer": "安同的房租很貴，可是田中的比他的更貴，田中的房租比月美的貴得多。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "2.(3) 如玉的房租＿＿＿比月美的便宜。",
+          "answer": "如玉的房租沒有比月美的便宜。（Chênh lệch chỉ 300 NT$）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3.(1) 如玉坐火車去臺南玩 / 田中坐計程車",
+          "answer": "如玉坐火車去臺南玩，比田中坐計程車慢一個鐘頭。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3.(2) 安同騎機車 / 月美坐高鐵",
+          "answer": "安同騎機車去臺南，比月美坐高鐵慢得多。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3.(3) 如玉坐火車 / 安同騎機車",
+          "answer": "如玉坐火車去臺南，比安同騎機車快一點。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Ai đang chăm sóc tôi? (Đóng vai A và B)",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách hỏi thăm ai đó và đưa ra lời khuyên cho người bị ốm.\nNhiệm vụ 1: Cùng bạn học đóng vai A và B và ghi lại cuộc hội thoại.\nVí dụ: A：你怎麼了？ B：我喉嚨發炎。 A：你應該／最好＿＿。（看病、多休息、早一點睡覺、多喝水） B：好的，謝謝你的關心。\nNhiệm vụ 2: Đóng vai bệnh nhân. Tối qua bạn ăn xong thì nôn, dạ dày khó chịu. Bạn đi khám, bạn học đóng vai bác sĩ. Mô tả triệu chứng, bác sĩ cho lời khuyên.",
+      "image": "/book1/l15/a2-pictures.jpg",
+      "questions": [
+        {
+          "question": "1　李開明（同意建議）",
+          "answer": "A：老李，你怎麼了？\nB：我肚子不舒服。\nA：你應該去看病。\nB：好的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "2　陳文同（同意建議）",
+          "answer": "A：小陳，你怎麼了？\nB：我發燒了，頭很痛。\nA：你應該多休息，最好早一點睡覺。\nB：謝謝你。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3　王先生（拒絕建議）",
+          "answer": "A：王先生，你怎麼了？\nB：我感冒了，一直流鼻水。\nA：你應該去看病。\nB：謝謝你的關心。我不用去看病，我多喝水就好了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "Nhiệm vụ 2: bệnh nhân – bác sĩ",
+          "answer": "醫生：你哪裡不舒服？\n病人：我昨天晚上吃了晚飯就吐了，肚子很不舒服。\n醫生：你發燒嗎？\n病人：有一點發燒。\n醫生：你應該多休息，多喝水，這些藥一天吃三次。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Uống thuốc",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách đọc hướng dẫn trên đơn thuốc.\nNhiệm vụ: Xem đơn thuốc bên dưới và hỏi ba câu sau.",
+      "image": "/book1/l15/a3-rx.jpg",
+      "questions": [
+        {
+          "question": "這種藥一天吃幾次？",
+          "answer": "一天吃三次。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "什麼時候吃？",
+          "answer": "飯後三十分鐘吃。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "裡面有幾包藥？",
+          "answer": "裡面有四包藥。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Dùng cấu trúc 把",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách dùng cấu trúc xử trí 把.\nNhiệm vụ: Lập nhóm hai người và hoàn thành các đoạn hội thoại sau dựa vào tranh.",
+      "image": "/book1/l15/a4-pictures.jpg",
+      "questions": [
+        {
+          "question": "A：加油！我們今天一定要＿＿＿＿＿＿＿＿ 這 50 個小籠包＿＿＿＿＿＿＿＿ 了。\nB：好的，沒有問題。",
+          "answer": "A：加油！我們今天一定要把這 50 個小籠包吃完了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：要是你＿＿＿＿＿＿＿＿ 今天的功課＿＿＿＿＿＿＿＿ 了，就可以去打籃球。\nB：太好了。",
+          "answer": "A：要是你把今天的功課寫完了，就可以去打籃球。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：誰＿＿＿＿＿＿＿＿ 我的西瓜＿＿＿＿＿＿＿＿ 了？\nB：對不起，我不知道是你的。",
+          "answer": "A：誰把我的西瓜吃了？",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Bạn thấy thế nào? (hỏi bạn đang bị cảm)",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách nói về chuyện bị cảm lạnh.\nNhiệm vụ: Bạn của bạn 如玉 đang bị ốm ở nhà. Hãy gọi điện hỏi xem bạn ấy cảm thấy thế nào. Đồng thời hỏi bốn câu về tình trạng của bạn ấy.",
+      "image": "/book1/l15/a5-girl.jpg",
+      "questions": [
+        {
+          "question": "1",
+          "answer": "你怎麼了？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "2",
+          "answer": "你感冒了嗎？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3",
+          "answer": "你發燒嗎？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "4",
+          "answer": "你吃了藥沒有？",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    }
   ]
 }

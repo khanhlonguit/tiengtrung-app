@@ -112,6 +112,61 @@
   padding: 0 8px 8px;
 }
 
+.bookGroup {
+  margin-bottom: 6px;
+}
+
+.bookHeader {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 10px;
+  border: none;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--text-muted);
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-align: left;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.bookHeader:hover {
+  background: var(--accent-soft);
+  color: var(--text-primary);
+}
+
+.bookHeaderActive {
+  color: var(--accent);
+}
+
+.bookChevron {
+  display: inline-flex;
+  transition: transform 0.2s ease;
+}
+
+.bookChevronOpen {
+  transform: rotate(90deg);
+}
+
+.bookName {
+  flex: 1;
+}
+
+.bookCount {
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--text-dim);
+}
+
+.navItemNested {
+  margin-left: 10px;
+}
+
 .navItem {
   display: flex;
   align-items: center;
@@ -993,6 +1048,55 @@
   flex: 1;
 }
 
+/* ── PASSAGE (đoạn văn, không phải hội thoại) ── */
+.passage {
+  padding: 20px 24px;
+  background: var(--bg-base);
+}
+
+.passageZh {
+  font-family: 'Noto Sans SC', sans-serif;
+  font-size: 19px;
+  font-weight: 500;
+  color: var(--text-primary);
+  line-height: 2;
+  margin: 0;
+  flex: 1;
+  text-indent: 2em;
+}
+
+.passageSentence {
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background 0.15s ease;
+}
+
+.passageSentence:hover {
+  background: var(--accent-soft);
+}
+
+.passagePinyin,
+.passageVn,
+.passageEn {
+  font-size: 14px;
+  line-height: 1.8;
+  margin: 14px 0 0;
+}
+
+.passagePinyin {
+  color: var(--accent-label);
+  font-style: italic;
+}
+
+.passageVn {
+  color: var(--text-body);
+}
+
+.passageEn {
+  color: var(--text-faint);
+  font-style: italic;
+}
+
 /* ── MOBILE TAB STRIP: hidden on desktop ── */
 .mobileTabStrip {
   display: none;
@@ -1445,4 +1549,37 @@
 
 .scorePerfect {
   color: #10b981;
+}
+
+/* ── EXERCISE: nhóm theo mẫu ngữ pháp, lời dặn, ảnh từ sách ── */
+.exerciseGroupTitle {
+  margin: 28px 0 4px;
+  padding-left: 12px;
+  border-left: 3px solid var(--accent);
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.exerciseGroupTitle:first-child {
+  margin-top: 0;
+}
+
+.exerciseInstruction {
+  margin: 0 0 14px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--text-muted);
+  font-style: italic;
+  white-space: pre-line;
+}
+
+.exerciseImage {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 4px 0 16px;
+  border: 1px solid var(--border-subtle);
+  border-radius: 10px;
+  background: #fff;
 }

@@ -813,5 +813,382 @@
       "translation_vn": "Cảm ơn! Cảm ơn nhé!",
       "translation_en": "Thank you! Thanks!"
     }
+  ],
+  "exercises": [
+    {
+      "title": "Hoàn thành hội thoại với 一…就…",
+      "kind": "dialogue",
+      "grammar_order": 1,
+      "instruction": "Hoàn thành các đoạn hội thoại bằng mẫu 一…就… với từ cho trong ngoặc.",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：昨天晚上你做什麼？\nB：＿＿＿＿＿＿＿＿。（到家，上網）",
+          "answer": "B：我一到家，就上網。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你已經收到房租了嗎？\nB：＿＿＿＿＿＿＿＿。（上班，收到）",
+          "answer": "B：我一上班，就收到了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你什麼時候來找我？\nB：＿＿＿＿＿＿＿＿。（下課，去你學校）",
+          "answer": "B：我一下課，就去你學校。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：明天開始放假，你要做什麼？\nB：＿＿＿＿＿＿＿＿。",
+          "answer": "B：我一放假，就去旅行。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你明天下課以後，要做什麼？\nB：＿＿＿＿＿＿＿＿。",
+          "answer": "B：我一下課，就去圖書館看書。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành câu với 了 (hoàn thành hành động)",
+      "kind": "rewrite",
+      "grammar_order": 2,
+      "instruction": "Hoàn thành các câu sau bằng cách thêm 了 sau động từ khi hành động đã hoàn thành.",
+      "image": "",
+      "questions": [
+        {
+          "question": "我昨天晚上＿＿＿＿＿＿＿＿。（吃 + 牛肉麵）",
+          "answer": "我昨天晚上吃了牛肉麵。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他今天早上＿＿＿＿＿＿＿＿。（喝 + 一杯咖啡）",
+          "answer": "他今天早上喝了一杯咖啡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我剛在便利商店＿＿＿＿＿＿＿＿。（買 + 麵包）",
+          "answer": "我剛在便利商店買了麵包。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我今天沒＿＿＿＿＿＿＿＿。（吃午餐）",
+          "answer": "我今天沒吃午餐。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "弟弟＿＿＿＿＿＿＿＿沒有？（吃午餐）",
+          "answer": "弟弟吃了午餐沒有？",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Điền 沒 hoặc 不 và giải thích",
+      "kind": "fill",
+      "grammar_order": 3,
+      "instruction": "Điền 沒 hoặc 不 vào chỗ trống và giải thích ngắn gọn lý do. Ví dụ: 我們下星期一(不)上課 → phủ định động từ hành động (thói quen/ý định).",
+      "image": "",
+      "questions": [
+        {
+          "question": "他常常不來工作，也 ___ 打電話給老闆。",
+          "answer": "[\"沒\"]",
+          "hint": "事情沒發生（quá khứ）",
+          "image": ""
+        },
+        {
+          "question": "我覺得今天 ___ 熱。",
+          "answer": "[\"不\"]",
+          "hint": "狀態動詞只能用不",
+          "image": ""
+        },
+        {
+          "question": "昨天我 ___ 跟他去逛夜市。",
+          "answer": "[\"沒\"]",
+          "hint": "過去沒發生",
+          "image": ""
+        },
+        {
+          "question": "這家牛肉麵店 ___ 便宜。",
+          "answer": "[\"不\"]",
+          "hint": "狀態動詞只能用不",
+          "image": ""
+        },
+        {
+          "question": "比賽還 ___ 開始，我先去買杯咖啡。",
+          "answer": "[\"沒\"]",
+          "hint": "過程動詞（開始）只能用沒",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Viết lại câu sang dạng toàn thể / phủ định toàn thể",
+      "kind": "rewrite",
+      "grammar_order": 4,
+      "instruction": "Viết lại các câu sau theo mẫu bao hàm toàn bộ hoặc loại trừ toàn bộ với từ nghi vấn. Ví dụ: 大家都喜歡我。→ 誰都喜歡我。",
+      "image": "",
+      "questions": [
+        {
+          "question": "每一個人都很忙。→",
+          "answer": "誰都很忙。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "李先生有錢、有房子、有車子…。→",
+          "answer": "李先生什麼都有。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他早上、中午、晚上都在上網。→",
+          "answer": "他什麼時候都在上網。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這裡有中國餐廳，那裡也有中國餐廳。→",
+          "answer": "哪裡都有中國餐廳。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這種包子，熱的好吃，冷的也好吃。→",
+          "answer": "這種包子，怎麼吃都好吃。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Đưa ra gợi ý với 多／少 + V theo tranh",
+      "kind": "picture",
+      "grammar_order": 5,
+      "instruction": "Nhìn tranh và đưa ra lời khuyên cho người trong tranh, dùng 多 / 少 + V. Ví dụ: 她應該多休息。(Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l13/g5-pictures.jpg",
+      "questions": [
+        {
+          "question": "圖 1（小姐很瘦）　她應該＿＿＿＿＿＿＿＿。",
+          "answer": "她應該多吃飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2（學生不會做功課）　他應該＿＿＿＿＿＿＿＿。",
+          "answer": "他應該多念書、多問老師。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3（人在看電視）　他應該＿＿＿＿＿＿＿＿。",
+          "answer": "他應該少看電視。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4（小姐很胖）　她應該＿＿＿＿＿＿＿＿。（甜點）",
+          "answer": "她應該少吃甜點。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Thêm 是不是 vào câu",
+      "kind": "rewrite",
+      "grammar_order": 6,
+      "instruction": "Chèn 是不是 vào vị trí thích hợp trong câu để biến thành câu hỏi xác nhận. Ví dụ: 他已經訂了豬腳麵線。→ 他是不是已經訂了豬腳麵線？",
+      "image": "",
+      "questions": [
+        {
+          "question": "我們明天給他過生日。→＿＿＿＿＿＿＿＿？",
+          "answer": "我們是不是明天給他過生日？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你的學費公司替你付。→＿＿＿＿＿＿＿＿？",
+          "answer": "你的學費是不是公司替你付？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他來臺灣學中文。→＿＿＿＿＿＿＿＿？",
+          "answer": "他是不是來臺灣學中文？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你打算明年回國。→＿＿＿＿＿＿＿＿？",
+          "answer": "你是不是打算明年回國？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他很喜歡逛夜市。→＿＿＿＿＿＿＿＿？",
+          "answer": "他是不是很喜歡逛夜市？",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "So sánh với 跟…一樣 theo tranh",
+      "kind": "picture",
+      "grammar_order": 7,
+      "instruction": "Nối hoạt động với tranh trong sơ đồ, rồi đặt câu với …跟…一樣…. Điền vào bảng: 好吃、難學、好喝、喜歡…、貴. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l13/g7-pictures.jpg",
+      "questions": [
+        {
+          "question": "好吃：（牛肉麵——我做的 / 媽媽做的）",
+          "answer": "我做的牛肉麵跟媽媽做的牛肉麵一樣好吃。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "難學：（中文／日文）",
+          "answer": "中文跟日文一樣難學。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "好喝：（茶／咖啡）",
+          "answer": "茶跟咖啡一樣好喝。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "喜歡…：（我／我弟弟，打籃球）",
+          "answer": "我跟我弟弟一樣喜歡打籃球。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "貴：（我的手機 20000 元／她的手機 20000 元）",
+          "answer": "我的手機跟她的手機一樣貴。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Đi chợ đêm",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách hỏi sở thích của người khác.\nNhiệm vụ: Bạn biết tối qua bạn học đi chợ đêm. Bạn muốn hỏi xem họ có làm những việc sau không.\nA：你昨天逛夜市，吃了臭豆腐沒有？\nB：(i) 沒有，我點了小籠包。 (ii) 吃了，我吃了臭豆腐。 (iii) 我沒吃臭豆腐。",
+      "image": "/book1/l13/a1-foods.jpg",
+      "questions": [
+        {
+          "question": "你昨天逛夜市，喝了珍珠奶茶沒有？",
+          "answer": "喝了，我喝了一杯珍珠奶茶。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你昨天逛夜市，吃了牛肉麵沒有？",
+          "answer": "沒有，我點了小籠包。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你昨天逛夜市，買了手機沒有？",
+          "answer": "我沒買手機，我買了一件紅色衣服。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你昨天逛夜市，吃了西瓜沒有？",
+          "answer": "吃了，我吃了很多西瓜。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Bạn ăn mừng sinh nhật thế nào?",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách so sánh ngắn gọn các nền văn hóa khác nhau.\nNhiệm vụ: Ghép cặp và hỏi nhau ở quê hương mỗi người ăn sinh nhật thế nào. Đánh dấu từng mục đúng. Xong thì tổng hợp câu trả lời cả lớp và cử đại diện báo cáo điểm giống và khác nhau.",
+      "image": "/book1/l13/a2-table.jpg",
+      "questions": [
+        {
+          "question": "家人給你過生日嗎？",
+          "answer": "給我過。家人給我過生日。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "朋友給你過生日嗎？",
+          "answer": "朋友也給我過生日。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "在家裡過還是在外面（餐廳）吃飯？",
+          "answer": "我們在外面餐廳吃飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "吃蛋糕嗎？吃豬腳麵線嗎？",
+          "answer": "吃蛋糕，不吃豬腳麵線。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "朋友給你禮物嗎？自己買蛋糕請朋友吃嗎？",
+          "answer": "朋友給我禮物。我也自己買蛋糕請朋友吃。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "跟我們國家不一樣的地方是什麼？",
+          "answer": "在越南，我們不吃豬腳麵線，但是吃蛋糕。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Gọi điện cho bạn",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách hẹn gặp qua điện thoại.\nNhiệm vụ: Ngày mai là sinh nhật của thầy/cô giáo. Gọi điện cho bạn và bàn chuyện mời thầy/cô đi ăn. (Ghép cặp với bạn ngồi cạnh.) Trong cuộc trò chuyện hỏi: Tại sao mời thầy/cô đi ăn? Khi nào nên đi? Nên đi đâu? Mọi người gặp nhau ở đâu thế nào?",
+      "image": "",
+      "questions": [
+        {
+          "question": "打電話給同學",
+          "answer": "A：喂，明天是老師的生日，我們請老師吃飯，好不好？\nB：好啊！我們去哪裡吃？\nA：去學校附近的牛肉麵店吧。\nB：幾點？\nA：晚上六點，我們在學校門口見面。\nB：好，明天見。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Lời chúc mừng",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách gửi lời chúc vào dịp vui.\nNhiệm vụ: Hôm nay là sinh nhật của thầy/cô giáo bạn. Hãy viết một tấm thiệp cho thầy/cô. Mẫu trong sách: 陳老師，您好：老師，好久不見。聽說後天是您的生日，祝您生日快樂、萬事如意、心想事成。學生 馬安同 敬上。",
+      "image": "/book1/l13/a4-card.jpg",
+      "questions": [
+        {
+          "question": "寫一張生日卡給老師",
+          "answer": "王老師，您好：\n　　今天是您的生日，祝您生日快樂、身體健康、萬事如意、心想事成。\n　　學生 ＿＿＿ 敬上",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    }
   ]
 }

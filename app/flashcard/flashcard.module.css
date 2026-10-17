@@ -105,6 +105,15 @@
   border-radius: 3px;
 }
 
+.bookLabel {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  padding: 6px 4px 0;
+}
+
 .lessonCheck {
   display: flex;
   align-items: center;

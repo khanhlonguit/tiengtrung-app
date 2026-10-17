@@ -632,5 +632,286 @@
       "pinyin": "Chàbùduō.",
       "translation_vn": "Cũng xấp xỉ nhau thôi."
     }
+  ],
+  "exercises": [
+    {
+      "title": "Hỏi đáp luân phiên với 跟",
+      "kind": "picture",
+      "grammar_order": 1,
+      "instruction": "Lần lượt hỏi và trả lời các câu hỏi sau, dùng 跟 (cùng với).",
+      "image": "/book1/l8/g1-table.jpg",
+      "questions": [
+        {
+          "question": "你喜歡跟誰去玩？\n我喜歡跟＿＿＿＿。",
+          "answer": "我喜歡跟朋友去玩。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你想跟誰去看電影？\n我想跟＿＿＿＿。",
+          "answer": "我想跟哥哥去看電影。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你要跟誰去打籃球？\n我要跟＿＿＿＿。",
+          "answer": "我要跟同學去打籃球。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你常跟誰吃晚飯？\n我常跟＿＿＿＿。",
+          "answer": "我常跟家人吃晚飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你跟他在做什麼？\n我跟他在＿＿＿＿。",
+          "answer": "我跟他在吃飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你跟你哥哥去看棒球比賽嗎？\n我不跟＿＿＿＿去，\n我跟＿＿＿＿去。",
+          "answer": "我不跟我哥哥去，我跟我朋友去。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你跟他去吃牛肉麵嗎？\n我＿＿＿＿，我在家吃飯。",
+          "answer": "我不跟他去，我在家吃飯。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Cách thức hành động với 怎麼",
+      "kind": "picture",
+      "grammar_order": 2,
+      "instruction": "安同可以怎麼去 學校／臺南／故宮／朋友家？ Miêu tả cách thức đi lại trong các tình huống cho sẵn (xem tranh: tàu hỏa, tàu cao tốc, xe buýt, tàu điện ngầm, xe máy, taxi, ô tô, đi chung xe máy).",
+      "image": "/book1/l8/g2-pictures.jpg",
+      "questions": [
+        {
+          "question": "安同可以怎麼去學校？",
+          "answer": "他可以坐捷運去，也可以坐公車去。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "安同可以怎麼去臺南？",
+          "answer": "他可以坐火車去，也可以坐高鐵去。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "安同可以怎麼去故宮？",
+          "answer": "他可以坐公車去，也可以坐計程車去。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "安同可以怎麼去朋友家？",
+          "answer": "他可以騎機車去，也可以請朋友載他去。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Đặt câu với 比較 theo tranh",
+      "kind": "picture",
+      "grammar_order": 3,
+      "instruction": "Đặt câu với 比較 bằng các từ cho trong ngoặc. Ví dụ: 坐計程車比較快。(Đi taxi sẽ nhanh hơn.)",
+      "image": "/book1/l8/g3-pictures.jpg",
+      "questions": [
+        {
+          "question": "圖 1：計程車和公車（快）",
+          "answer": "坐計程車比較快。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2：在圖書館和在家（常）",
+          "answer": "我比較常在圖書館看書。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3：咖啡和茶（喜歡）",
+          "answer": "我比較喜歡喝茶。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành hội thoại với 又…又…",
+      "kind": "picture",
+      "grammar_order": 4,
+      "instruction": "Hoàn thành các đoạn hội thoại bằng mẫu 又…又… với các từ cho trong ngoặc. Bắt đầu từ câu 4, xem thêm tranh.",
+      "image": "/book1/l8/g4-pictures.jpg",
+      "questions": [
+        {
+          "question": "A：這家咖啡店的咖啡怎麼樣？\nB：＿＿＿＿＿＿＿＿。（便宜、好喝）",
+          "answer": "B：又便宜又好喝。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你覺得這個電影怎麼樣？\nB：＿＿＿＿＿＿＿＿。（好看、有意思）",
+          "answer": "B：又好看又有意思。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：我們週末去運動還是在家看書？\nB：＿＿＿＿＿＿＿＿，我們去 KTV 唱歌。（不想…不想…）",
+          "answer": "B：我又不想運動又不想看書，我們去 KTV 唱歌。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你為什麼不買這種手機？\nB：＿＿＿＿＿＿＿＿。（不好看、不能上網）",
+          "answer": "B：又不好看又不能上網。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：這種甜點好吃嗎？\nB：＿＿＿＿＿＿＿＿。（好吃、便宜）",
+          "answer": "B：又好吃又便宜。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "So sánh các tình huống trong tranh với 比",
+      "kind": "picture",
+      "grammar_order": 5,
+      "instruction": "Dùng từ vựng đã học để so sánh các tình huống trong tranh.\nVí dụ: A：週末你想去看電影還是去 KTV 唱歌？為什麼？ B：我想去 KTV 唱歌。我覺得去 KTV 唱歌比看電影有意思。\nTừ gợi ý: 有意思、好玩、快、慢、便宜、貴、美…",
+      "image": "/book1/l8/g6-pictures.jpg",
+      "questions": [
+        {
+          "question": "圖 1（棒球／足球）",
+          "answer": "我覺得踢足球比打棒球好玩。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2（火車／高鐵）",
+          "answer": "坐高鐵比坐火車快。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3（牛肉麵 100 元／小籠包 70 元）",
+          "answer": "牛肉麵比小籠包貴。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4（山／臺南古蹟）",
+          "answer": "我覺得山上的風景比那裡美。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Lập kế hoạch",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách nói về kế hoạch trong thời gian rảnh.\nNhiệm vụ: Giả sử bạn đang lập kế hoạch với gia đình hoặc bạn bè, điền các khung thời gian dưới đây với kế hoạch của bạn rồi nói về chúng.\nVí dụ: 今天下午我要跟媽媽坐公車到學校附近去吃越南菜。",
+      "image": "/book1/l8/a1-table.jpg",
+      "questions": [
+        {
+          "question": "今天晚上",
+          "answer": "今天晚上我要跟朋友坐捷運到夜市去吃小吃。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "明天中午",
+          "answer": "明天中午我要跟同學走路到學校餐廳去吃飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "明天晚上",
+          "answer": "明天晚上我要跟哥哥騎機車到 KTV 去唱歌。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這個週末",
+          "answer": "這個週末我要跟家人坐火車到臺南去玩。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Nói xem bạn nghĩ gì",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách giải thích ai đó thích hoặc không thích điều gì.\nNhiệm vụ: Bạn học của bạn hay hỏi \"tại sao?\". Hãy đưa ra ít nhất hai lý do.\nVí dụ: A：為什麼你喜歡喝烏龍茶？ B：烏龍茶又好喝又便宜，所以我喜歡。",
+      "image": "/book1/l8/a2-pictures.jpg",
+      "questions": [
+        {
+          "question": "你為什麼常坐高鐵？",
+          "answer": "高鐵又快又舒服，所以我常坐高鐵。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你為什麼要買這種手機？",
+          "answer": "這種手機又好看又能上網，所以我要買。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你為什麼不吃那家的牛肉麵？",
+          "answer": "那家的牛肉麵又貴又不好吃，所以我不吃。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你為什麼喜歡這個電影？",
+          "answer": "這個電影又好看又有意思，所以我喜歡。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Cái nào tốt hơn?",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách so sánh đơn giản.\nNhiệm vụ: Dưới đây là một vài hoạt động bạn và bạn học có thể làm vào cuối tuần. Hãy thảo luận, quyết định sẽ làm gì và nói với cả lớp kế hoạch cuối cùng và lý do chọn hoạt động đó. Dùng 比 hoặc 比較 để giải thích.",
+      "image": "/book1/l8/a3-pictures.jpg",
+      "questions": [
+        {
+          "question": "看電影 và 參觀故宮／KTV 唱歌 và 看電視／喝咖啡 và 喝茶／騎機車去山上 và 打網球",
+          "answer": "我們這個週末想去參觀故宮。去故宮比在家看電視有意思，也比去 KTV 唱歌便宜。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Bạn dự định đi đến đó bằng cách nào?",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách nói về các loại phương tiện giao thông và việc đi đến các địa điểm.\nNhiệm vụ: Bạn bè/gia đình sắp đến Đài Loan thăm bạn. Bạn muốn đưa họ đến Dương Minh Sơn (陽明山). Hãy nói cho mọi người nghe bạn dự định đi đến đó như thế nào.",
+      "image": "",
+      "questions": [
+        {
+          "question": "我們怎麼去陽明山？",
+          "answer": "我們先坐捷運到士林，再坐公車到陽明山。坐公車比坐計程車便宜，可是坐計程車比較快。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    }
   ]
 }

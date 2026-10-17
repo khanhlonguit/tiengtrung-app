@@ -728,72 +728,395 @@
   ],
   "exercises": [
     {
-      "title": "Miêu tả hình ảnh (Thời gian và Địa điểm)",
+      "title": "Miêu tả tranh bằng thời gian hoặc địa điểm (hoặc cả hai)",
+      "kind": "picture",
+      "grammar_order": 1,
+      "instruction": "Miêu tả các bức tranh dưới đây bằng cách nói Thời gian hoặc Địa điểm hoặc cả hai. Ví dụ ở câu 1 đã làm sẵn.",
+      "image": "/book1/l7/g1-pictures.jpg",
       "questions": [
         {
-          "question": "（中午 / 圖書館 / 上網）-> 他和他妹妹 _________。",
-          "hint": "buổi trưa ở thư viện lên mạng",
-          "answer": "[\"中午在圖書館上網\"]"
+          "question": "圖 1：（晚上／他們家附近的餐廳／吃晚飯）他和他哥哥…",
+          "answer": "他和他哥哥晚上七點在他們家附近的餐廳吃晚飯。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "（下午 / 九樓的教室 / 寫書法）-> 這三個學生 _________。",
-          "hint": "buổi chiều ở phòng học tầng 9 viết thư pháp",
-          "answer": "[\"下午在九樓的教室寫書法\"]"
+          "question": "圖 2：（中午／圖書館／上網）他和他妹妹…",
+          "answer": "他和他妹妹中午在圖書館上網。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "（早上 / 學校 / 打籃球）-> 很多學生 _________。",
-          "hint": "buổi sáng ở trường đánh bóng rổ",
-          "answer": "[\"早上在學校打籃球\"]"
+          "question": "圖 3：（下午／九樓的教室／寫書法）這三個學生…",
+          "answer": "這三個學生下午在九樓的教室寫書法。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4：（早上／學校／打籃球）很多學生…",
+          "answer": "很多學生早上在學校打籃球。",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Sử dụng 從... 到... (Từ... đến...)",
+      "title": "Miêu tả sự việc trong tranh với 從…到…",
+      "kind": "picture",
+      "grammar_order": 2,
+      "instruction": "Miêu tả các sự việc trong tranh (dùng 從…到…). (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l7/g2-pictures.jpg",
       "questions": [
         {
-          "question": "姐姐 _________ 在學校看電影。",
-          "hint": "từ 9 giờ đến 12 giờ (九點, 十二點)",
-          "answer": "[\"從九點到十二點\"]"
+          "question": "圖 1：姐姐＿＿＿＿＿＿＿＿在學校看電影。",
+          "answer": "姐姐從下午兩點到四點在學校看電影。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "明天的游泳比賽 _________，歡迎你們來。",
-          "hint": "từ 9 giờ đến 12 giờ",
-          "answer": "[\"從九點到十二點\"]"
+          "question": "圖 2：明天的游泳比賽＿＿＿＿＿＿＿＿＿＿＿＿，歡迎你們來。",
+          "answer": "明天的游泳比賽從上午九點到十一點，歡迎你們來。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "Q: 從他家去那個商店遠不遠？\nA: _________。",
-          "hint": "Rất xa (3km)",
-          "answer": "[\"很遠\"]"
+          "question": "圖 3：Q：從他家到那個商店遠不遠？\nA：＿＿＿＿＿＿＿＿＿＿＿＿。（圖：3 km）",
+          "answer": "A：從他家到那個商店有三公里，很遠。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4：他從＿＿＿＿到＿＿＿＿去＿＿＿＿＿＿＿＿。",
+          "answer": "他從圖書館到那家店去買東西。",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Dùng 可以 / 不可以 / 可不可以 / 可以嗎 để điền vào chỗ trống",
+      "title": "Họ đang làm gì? (在 + động từ)",
+      "kind": "picture",
+      "grammar_order": 3,
+      "instruction": "Các thành viên trong gia đình anh ấy đang làm gì? Dựa vào tranh để hoàn thành. Ví dụ: 我在踢足球。",
+      "image": "/book1/l7/g3-family.jpg",
       "questions": [
         {
-          "question": "A: 請問咖啡可以外帶嗎？\nB: 外帶、內用都 _________。",
-          "hint": "Có thể",
-          "answer": "[\"可以\"]"
+          "question": "我在踢足球。（ví dụ của sách）",
+          "answer": "我在踢足球。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 這杯烏龍茶是誰的？我 _________ 喝嗎？\nB: _________。請喝！",
-          "hint": "Có thể / Có thể",
-          "answer": "[\"可以, 可以\", \"可以,可以\"]"
+          "question": "爸爸…",
+          "answer": "爸爸在做飯。（Tùy theo tranh）",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 請問我們可不可以在這裡打網球？\nB: 早上可以，可是晚上 _________。",
-          "hint": "Không thể",
-          "answer": "[\"不可以\"]"
+          "question": "媽媽…",
+          "answer": "媽媽在聽音樂。（Tùy theo tranh）",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 這個週末我們 _________ 去你家看看？\nB: _________，我這個週末沒事。",
-          "hint": "Có thể... không (dùng dạng câu hỏi A-not-A) / Có thể",
-          "answer": "[\"可不可以, 可以\", \"可不可以,可以\"]"
+          "question": "姐姐…",
+          "answer": "姐姐在看書。（Tùy theo tranh）",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 我們 _________ 在大教室裡面吃東西嗎？\nB: _________，可是小教室可以。",
-          "hint": "Có thể / Không thể",
-          "answer": "[\"可以, 不可以\", \"可以,不可以\"]"
+          "question": "弟弟…",
+          "answer": "弟弟在寫功課。（Tùy theo tranh）",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành câu và đối thoại với 每",
+      "kind": "picture",
+      "grammar_order": 4,
+      "instruction": "Hoàn thành các câu và đối thoại sau dựa theo tranh. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l7/g4-pictures.jpg",
+      "questions": [
+        {
+          "question": "我哥哥每天…（圖：時鐘、校園）",
+          "answer": "我哥哥每天早上七點都到學校。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "每杯…（圖：讚＋一排咖啡杯）",
+          "answer": "每杯咖啡都很好喝。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他的兄弟姐妹，每…（圖：全家福）",
+          "answer": "他的兄弟姐妹，每個人都很漂亮。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：他每個週末都去看電影嗎？\nB：＿＿＿＿＿＿＿＿＿＿＿＿。（圖：日曆，只有三個圈）",
+          "answer": "B：不是每個週末都去，他只有三個週末去。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：他們學校，每棟大樓都很漂亮嗎？\nB：＿＿＿＿＿＿＿＿＿＿＿＿。",
+          "answer": "B：不是每棟大樓都很漂亮，有的很舊。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành đối thoại với 可以 / 不可以 / 可不可以 / 可以嗎",
+      "kind": "dialogue",
+      "grammar_order": 5,
+      "instruction": "Hoàn thành các đoạn hội thoại sau bằng 可以 / 不可以 / 可不可以 / 可以嗎?",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：請問咖啡可以外帶嗎？\nB：外帶、內用都＿＿＿＿＿＿＿＿。",
+          "answer": "B：外帶、內用都可以。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：這杯烏龍茶是誰的？我＿＿＿＿＿＿＿＿喝嗎？\nB：＿＿＿＿＿＿＿＿。請喝！",
+          "answer": "A：我可以喝嗎？\nB：可以。請喝！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：請問我們可不可以在這裡打網球？\nB：早上可以，可是晚上＿＿＿＿＿＿＿＿。",
+          "answer": "B：早上可以，可是晚上不可以。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：這個週末我們＿＿＿＿＿＿＿＿去你家看看？\nB：＿＿＿＿＿＿＿＿，我這個週末沒事。",
+          "answer": "A：這個週末我們可不可以去你家看看？\nB：可以，我這個週末沒事。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：我們＿＿＿＿＿＿＿＿在大教室裡面吃東西嗎？\nB：＿＿＿＿＿＿＿＿，可是小教室可以。",
+          "answer": "A：我們可以在大教室裡面吃東西嗎？\nB：不可以，可是小教室可以。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Họ đang làm gì?",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách miêu tả một hoạt động đang diễn ra.\nNhiệm vụ: Nhìn các bức tranh dưới đây và miêu tả họ đang làm gì và làm tốt đến đâu.",
+      "image": "/book1/l7/a1-activities.jpg",
+      "questions": [
+        {
+          "question": "圖 1（男人在廚房做飯）",
+          "answer": "他在做飯，做得很好。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2（人在游泳）",
+          "answer": "他在游泳，游得很快。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3（小姐在寫書法）",
+          "answer": "她在寫書法，寫得很漂亮。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4（女孩在打籃球）",
+          "answer": "她在打籃球，打得不錯。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Sinh hoạt hằng ngày (Nhiệm vụ 1: lịch của 小明)",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách miêu tả các hành động diễn ra vào những thời điểm hoặc khoảng thời gian nhất định.\nNhiệm vụ 1: Bảng dưới đây là lịch sinh hoạt hằng ngày của 小明. Hãy dựa vào đó hoàn thành các câu ở cột bên phải. Chú ý hai bảng tiếp theo thuộc nhiệm vụ 2.",
+      "image": "/book1/l7/a2-table1.jpg",
+      "questions": [
+        {
+          "question": "8:00am：他八點到學校來。（ví dụ）",
+          "answer": "他八點到學校來。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "8:10～10:00am：他從＿＿＿＿到＿＿＿＿有中文課。",
+          "answer": "他從八點十分到十點有中文課。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "10:20～11:30am：他從＿＿＿＿到＿＿＿＿在教室＿＿＿＿。",
+          "answer": "他從十點二十分到十一點半在教室上網。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "12:00～1:00pm：他和他朋友從＿＿＿＿到＿＿＿＿在學校附近的餐廳＿＿＿＿。",
+          "answer": "他和他朋友從十二點到一點在學校附近的餐廳吃飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3:30pm：他和他朋友…",
+          "answer": "他和他朋友三點半去買東西（hoặc 買麵包）。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3:50～5:00pm：（圖：兩人打網球）",
+          "answer": "他和他朋友從三點五十分到五點打網球。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hôm qua bạn làm gì? (Nhiệm vụ 2)",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Nhiệm vụ 2: Ghép cặp với bạn học, lần lượt kể cho nhau nghe mỗi người đã làm gì hôm qua. Báo cáo kết quả trước lớp. (Tên bạn học: ____)",
+      "image": "/book1/l7/a2-table3.jpg",
+      "questions": [
+        {
+          "question": "早上 Morning",
+          "answer": "他早上八點在學校上中文課。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "中午 Noon",
+          "answer": "他中午在學校附近的餐廳吃飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "下午 Afternoon",
+          "answer": "他下午在圖書館看書。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "晚上 Evening",
+          "answer": "他晚上在家看電視、上網。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Khảo sát hoạt động hằng ngày",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách nói về thói quen hằng ngày và hỏi, nói về thời gian.\nNhiệm vụ 1: Phỏng vấn các bạn trong lớp để biết ai làm các việc sau mỗi ngày. Ghi tên các bạn và hỏi họ thường làm vào lúc nào.\nNhiệm vụ 2: Những người trong gia đình bạn mỗi ngày hoặc mỗi cuối tuần thường phải làm những việc gì?",
+      "image": "/book1/l7/a3-table.jpg",
+      "questions": [
+        {
+          "question": "你每天喝咖啡嗎？什麼時候喝？",
+          "answer": "我每天早上喝咖啡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你每天學中文嗎？什麼時候學？",
+          "answer": "我每天早上學中文。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你每天運動嗎？什麼時候運動？",
+          "answer": "我每天晚上七點運動。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你每天上網嗎？什麼時候上網？",
+          "answer": "我每天晚上八點上網。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你每天吃甜點嗎？什麼時候吃？",
+          "answer": "我不是每天都吃甜點，週末下午吃。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你每天聽音樂嗎？什麼時候聽？",
+          "answer": "我每天下午聽音樂。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你每天看電影嗎？什麼時候看？",
+          "answer": "我不是每天都看電影，我週末晚上看。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你家人每天或每個週末都要做什麼？",
+          "answer": "我爸爸每天都要上班，我媽媽每個週末都要做飯。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hẹn gặp bạn",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách hẹn gặp bạn bè.\nNhiệm vụ: Đang là cuối tuần và bạn muốn đi chơi cùng bạn. Ghép cặp với bạn học và viết lại cuộc hội thoại (cố gắng chỉ trong 10 câu). Có thể dùng các từ: 有空、最近、可以、在哪裡、什麼時候、幾點.",
+      "image": "",
+      "questions": [
+        {
+          "question": "約朋友出去玩",
+          "answer": "A：你這個週末有空嗎？\nB：有，你想做什麼？\nA：我想去看電影，你可以去嗎？\nB：可以。我們什麼時候去？\nA：星期六下午兩點，好不好？\nB：好。在哪裡見面？\nA：在捷運站見面吧。\nB：好，星期六見。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Quảng cáo (áp phích đội thuyền rồng)",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách miêu tả một hoạt động đang diễn ra hoặc xảy ra vào một thời điểm hoặc khoảng thời gian nhất định.\nNhiệm vụ: Bạn thấy áp phích này ở trường. Hãy kể cho bạn học nghe bạn thấy gì và hỏi họ có hứng thú không. Các bạn khác có thể hỏi thêm về hoạt động, ví dụ thời gian và địa điểm luyện tập.",
+      "image": "/book1/l7/a5-poster.jpg",
+      "questions": [
+        {
+          "question": "龍舟隊要什麼人？",
+          "answer": "要會游泳、會說一點中文的人。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "練習時間是什麼時候？",
+          "answer": "每天早上六點半到九點。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "在哪裡練習？",
+          "answer": "在新店。",
+          "hint": "",
+          "image": ""
         }
       ]
     }

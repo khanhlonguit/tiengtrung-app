@@ -570,6 +570,30 @@
       "title": "Đặt câu hỏi A – không – A",
       "explanation": "Cách đặt câu hỏi trung lập nhất trong tiếng Trung. Cấu trúc: lặp lại động từ đầu tiên với hình thức phủ định ở giữa. Tương đương câu hỏi có/không trong tiếng Anh.",
       "examples": "[{\"zh\":\"王先生要不要喝咖啡？\",\"pinyin\":\"Wáng xiānsheng yào bú yào hē kāfēi?\",\"vn\":\"Ông Vương, ông có muốn uống cà phê không?\"},{\"zh\":\"這是不是烏龍茶？\",\"pinyin\":\"Zhè shì bú shì wūlóngchá?\",\"vn\":\"Đây có phải là trà ô long không?\"},{\"zh\":\"臺灣人喜歡不喜歡喝茶？\",\"pinyin\":\"Táiwān rén xǐhuān bù xǐhuān hē chá?\",\"vn\":\"Người Đài Loan có thích uống trà không?\"},{\"zh\":\"他喝不喝咖啡？\",\"pinyin\":\"Tā hē bù hē kāfēi?\",\"vn\":\"Anh ấy uống cà phê không?\"},{\"zh\":\"你是不是日本人？\",\"pinyin\":\"Nǐ shì bú shì Rìběn rén?\",\"vn\":\"Bạn là người Nhật phải không?\"},{\"zh\":\"他來不來臺灣？\",\"pinyin\":\"Tā lái bù lái Táiwān?\",\"vn\":\"Anh ấy đến Đài Loan không?\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Đặt câu hỏi với 嗎 (ma)",
+      "explanation": "Trợ từ nghi vấn 嗎 đặt ở cuối câu, thường dùng cho câu hỏi ngắn. Cấu trúc: CÂU + 嗎? Câu trước 嗎 có thể ở dạng khẳng định hoặc phủ định. Lưu ý: câu hỏi A-không-A cho biết người hỏi không có giả định trước, dùng cho câu hỏi trung tính hoặc dài hơn; không thể thêm 嗎 sau câu A-không-A (không nói *這是不是茶嗎？). Trong hầu hết trường hợp hai dạng hỏi này có thể thay thế cho nhau.",
+      "examples": "[{\"zh\":\"你好嗎？\",\"pinyin\":\"Nǐ hǎo ma?\",\"vn\":\"Bạn khỏe không?\"},{\"zh\":\"你來接我們嗎？\",\"pinyin\":\"Nǐ lái jiē wǒmen ma?\",\"vn\":\"Bạn đến đón chúng tôi à?\"},{\"zh\":\"他是日本人嗎？\",\"pinyin\":\"Tā shì Rìběn rén ma?\",\"vn\":\"Anh ấy là người Nhật à?\"},{\"zh\":\"他不姓陳嗎？\",\"pinyin\":\"Tā bú xìng Chén ma?\",\"vn\":\"Anh ấy không họ Trần à?\"},{\"zh\":\"你不是臺灣人嗎？\",\"pinyin\":\"Nǐ bú shì Táiwān rén ma?\",\"vn\":\"Bạn không phải người Đài Loan sao?\"},{\"zh\":\"他不喝咖啡嗎？\",\"pinyin\":\"Tā bù hē kāfēi ma?\",\"vn\":\"Anh ấy không uống cà phê sao?\"},{\"zh\":\"你要喝茶嗎？\",\"pinyin\":\"Nǐ yào hē chá ma?\",\"vn\":\"Bạn muốn uống trà không?\"},{\"zh\":\"你們要不要喝烏龍茶？\",\"pinyin\":\"Nǐmen yào bú yào hē Wūlóng chá?\",\"vn\":\"Các bạn có muốn uống trà ô long không?\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "Cách trả lời câu hỏi: khẳng định và phủ định",
+      "explanation": "Trả lời khẳng định: lặp lại động từ chính trong câu hỏi, rồi nói câu khẳng định (是，他是臺灣人。/ 喜歡，我喜歡臺灣。). Câu trả lời ngắn chỉ cần lặp lại động từ (是。/ 來。/ 喜歡。). Trả lời phủ định: dùng 不 + động từ rồi nói câu phủ định (不是，他不是李先生。/ 不，他不喝。). Câu trả lời ngắn phủ định: 不要。/ 不喜歡。/ 不是。Ngoại lệ: với động từ 姓 và 叫, câu trả lời phủ định là 不姓李 / 不叫開文, không nói *不姓 hay *不叫.",
+      "examples": "[{\"zh\":\"是，他是臺灣人。\",\"pinyin\":\"Shì, tā shì Táiwān rén.\",\"vn\":\"Vâng, anh ấy là người Đài Loan.\"},{\"zh\":\"喜歡，我喜歡臺灣。\",\"pinyin\":\"Xǐhuān, wǒ xǐhuān Táiwān.\",\"vn\":\"Thích, tôi thích Đài Loan.\"},{\"zh\":\"喝，他喝烏龍茶。\",\"pinyin\":\"Hē, tā hē Wūlóng chá.\",\"vn\":\"Có, anh ấy uống trà ô long.\"},{\"zh\":\"你是王先生嗎？——是。\",\"pinyin\":\"Nǐ shì Wáng xiānsheng ma? Shì.\",\"vn\":\"Bạn là ông Vương à? — Vâng.\"},{\"zh\":\"不是，他不是李先生。\",\"pinyin\":\"Bú shì, tā bú shì Lǐ xiānsheng.\",\"vn\":\"Không phải, anh ấy không phải ông Lý.\"},{\"zh\":\"不，他不喝。\",\"pinyin\":\"Bù, tā bù hē.\",\"vn\":\"Không, anh ấy không uống.\"},{\"zh\":\"他要不要喝咖啡？——不要。\",\"pinyin\":\"Tā yào bú yào hē kāfēi? Bú yào.\",\"vn\":\"Anh ấy có muốn uống cà phê không? — Không.\"},{\"zh\":\"他姓李嗎？——不姓李。\",\"pinyin\":\"Tā xìng Lǐ ma? Bú xìng Lǐ.\",\"vn\":\"Anh ấy họ Lý à? — Không họ Lý.\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "Phó từ 很 (hěn) bổ nghĩa cho vị từ trạng thái",
+      "explanation": "Phó từ 很 bổ nghĩa cho vị từ trạng thái (tính từ) và đứng trước nó: Chủ ngữ + 很 + Vs. Thông thường tính từ phải đi với 不 hoặc một từ chỉ mức độ; khi không có ý nhấn mạnh thì dùng 很 (lúc đó 很 không đọc nhấn, chỉ có nghĩa là \"(là) tính từ\"). Khi 很 thực sự có nghĩa \"rất\" thì đọc nhấn mạnh.",
+      "examples": "[{\"zh\":\"我很好。\",\"pinyin\":\"Wǒ hěn hǎo.\",\"vn\":\"Tôi khỏe.\"},{\"zh\":\"他很喜歡臺灣。\",\"pinyin\":\"Tā hěn xǐhuān Táiwān.\",\"vn\":\"Anh ấy rất thích Đài Loan.\"},{\"zh\":\"臺灣人很喜歡喝烏龍茶。\",\"pinyin\":\"Táiwān rén hěn xǐhuān hē Wūlóng chá.\",\"vn\":\"Người Đài Loan rất thích uống trà ô long.\"},{\"zh\":\"烏龍茶很好喝。\",\"pinyin\":\"Wūlóng chá hěn hǎohē.\",\"vn\":\"Trà ô long uống ngon.\"},{\"zh\":\"他很喜歡日本人。\",\"pinyin\":\"Tā hěn xǐhuān Rìběn rén.\",\"vn\":\"Anh ấy rất thích người Nhật.\"},{\"zh\":\"我們很好。\",\"pinyin\":\"Wǒmen hěn hǎo.\",\"vn\":\"Chúng tôi khỏe.\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Câu hỏi đối chiếu với 呢 (ne)",
+      "explanation": "呢 là trợ từ nghi vấn dùng để hỏi tiếp bằng một câu ngắn sau một câu trần thuật, nghĩa là \"còn… thì sao?\". Hai mẫu chính: (1) cùng vị ngữ, khác chủ ngữ: S1 V O, S2 呢? (2) cùng chủ ngữ, khác vị ngữ: S V O1, O2 呢?",
+      "examples": "[{\"zh\":\"我要喝茶，你呢？\",\"pinyin\":\"Wǒ yào hē chá, nǐ ne?\",\"vn\":\"Tôi muốn uống trà, còn bạn?\"},{\"zh\":\"他不喝咖啡，陳小姐呢？\",\"pinyin\":\"Tā bù hē kāfēi, Chén xiǎojiě ne?\",\"vn\":\"Anh ấy không uống cà phê, cô Trần thì sao?\"},{\"zh\":\"王先生是日本人，李先生呢？\",\"pinyin\":\"Wáng xiānsheng shì Rìběn rén, Lǐ xiānsheng ne?\",\"vn\":\"Ông Vương là người Nhật, ông Lý thì sao?\"},{\"zh\":\"他是美國人，你呢？\",\"pinyin\":\"Tā shì Měiguó rén, nǐ ne?\",\"vn\":\"Anh ấy là người Mỹ, còn bạn?\"},{\"zh\":\"他喜歡我們，你呢？\",\"pinyin\":\"Tā xǐhuān wǒmen, nǐ ne?\",\"vn\":\"Anh ấy thích chúng tôi, còn bạn?\"},{\"zh\":\"你喜歡喝茶，咖啡呢？\",\"pinyin\":\"Nǐ xǐhuān hē chá, kāfēi ne?\",\"vn\":\"Bạn thích uống trà, còn cà phê thì sao?\"},{\"zh\":\"他不喝咖啡，茶呢？\",\"pinyin\":\"Tā bù hē kāfēi, chá ne?\",\"vn\":\"Anh ấy không uống cà phê, còn trà thì sao?\"}]"
     }
   ],
   "dialogues": [
@@ -693,92 +717,302 @@
   ],
   "exercises": [
     {
-      "title": "Hoàn thành câu hỏi dùng cấu trúc A-không-A (A-not-A)",
+      "title": "Hoàn thành câu hỏi dạng A-không-A",
+      "kind": "fill",
+      "grammar_order": 1,
+      "instruction": "Hoàn thành các câu hỏi bằng dạng A-không-A. (Mỗi câu có câu trả lời khẳng định ở ngay bên dưới để bạn dựa vào.)",
+      "image": "",
       "questions": [
         {
           "question": "李明華 ___ 不 ___ 美國人？",
-          "answer": "[\"是\", \"是\"]",
-          "hint": "李明華是美國人。"
+          "answer": "[\"是\",\"是\"]",
+          "hint": "李明華是美國人。",
+          "image": ""
         },
         {
           "question": "陳月美 ___ 不 ___ 臺灣？",
-          "answer": "[\"來\", \"來\"]",
-          "hint": "陳月美來臺灣。"
+          "answer": "[\"來\",\"來\"]",
+          "hint": "陳月美來臺灣。",
+          "image": ""
         },
         {
           "question": "王先生 ___ 不 ___ 喝咖啡？",
-          "answer": "[\"喜歡\", \"喜歡\"]",
-          "hint": "王先生喜歡喝咖啡。"
+          "answer": "[\"喜歡\",\"喜歡\"]",
+          "hint": "王先生喜歡喝咖啡。",
+          "image": ""
         },
         {
           "question": "他 ___ 不 ___ 喝茶？",
-          "answer": "[\"要\", \"要\"]",
-          "hint": "他不要喝茶。"
+          "answer": "[\"要\",\"要\"]",
+          "hint": "他不要喝茶。",
+          "image": ""
         },
         {
           "question": "他 ___ 不 ___ 來臺北？",
-          "answer": "[\"來\", \"來\"]",
-          "hint": "他要來臺北。"
+          "answer": "[\"要\",\"要\"]",
+          "hint": "他要來臺北。",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Hoàn thành câu hỏi dùng từ để hỏi 嗎 (ma) dựa vào câu trả lời",
+      "title": "Đặt câu hỏi với 嗎 dựa theo câu trả lời bên phải",
+      "kind": "rewrite",
+      "grammar_order": 2,
+      "instruction": "Hoàn thành câu hỏi bằng 嗎 sao cho khớp với câu trả lời cho sẵn.",
+      "image": "",
       "questions": [
         {
-          "question": "___ ？",
-          "answer": "[\"他叫明華嗎\"]",
-          "hint": "他叫明華。"
+          "question": "＿＿＿＿？——他叫明華。",
+          "answer": "他叫明華嗎？",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "___ ？",
-          "answer": "[\"陳小姐是臺灣人嗎\"]",
-          "hint": "陳小姐是臺灣人。"
+          "question": "＿＿＿＿？——陳小姐是臺灣人。",
+          "answer": "陳小姐是臺灣人嗎？",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "___ ？",
-          "answer": "[\"他喜歡喝咖啡嗎\"]",
-          "hint": "他喜歡喝咖啡。"
+          "question": "＿＿＿＿？——他喜歡喝咖啡。",
+          "answer": "他喜歡喝咖啡嗎？",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "___ ？",
-          "answer": "[\"王先生叫開文嗎\"]",
-          "hint": "王先生叫開文。"
+          "question": "＿＿＿＿？——王先生叫開文。",
+          "answer": "王先生叫開文嗎？",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "___ ？",
-          "answer": "[\"他不是日本人嗎\"]",
-          "hint": "他不是日本人。"
+          "question": "＿＿＿＿？——他不是日本人。",
+          "answer": "他是日本人嗎？",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Viết câu trả lời khẳng định",
+      "title": "Trả lời khẳng định",
+      "kind": "rewrite",
+      "grammar_order": 3,
+      "instruction": "Trả lời các câu hỏi sau bằng câu trả lời khẳng định (chỉ cần lặp lại động từ chính).",
+      "image": "",
       "questions": [
         {
           "question": "臺灣人喜歡不喜歡喝茶？",
-          "answer": "[\"喜歡，臺灣人喜歡喝茶\",\"喜歡\"]",
-          "hint": ""
+          "answer": "喜歡。",
+          "hint": "",
+          "image": ""
         },
         {
           "question": "你要不要喝咖啡？",
-          "answer": "[\"要，我要喝咖啡\",\"要\"]",
-          "hint": ""
+          "answer": "要。",
+          "hint": "",
+          "image": ""
         },
         {
           "question": "你喜歡他嗎？",
-          "answer": "[\"喜歡，我喜歡他\",\"喜歡\"]",
-          "hint": ""
+          "answer": "喜歡。",
+          "hint": "",
+          "image": ""
         },
         {
           "question": "他是不是日本人？",
-          "answer": "[\"是，他是日本人\",\"是\"]",
-          "hint": ""
+          "answer": "是。",
+          "hint": "",
+          "image": ""
         },
         {
           "question": "你要喝烏龍茶嗎？",
-          "answer": "[\"要，我要喝烏龍茶\",\"要\"]",
-          "hint": ""
+          "answer": "要。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Trả lời phủ định dựa theo tranh",
+      "kind": "picture",
+      "grammar_order": 3,
+      "instruction": "Trả lời các câu hỏi dựa theo các bức tranh bên dưới (dùng câu trả lời phủ định). Đáp án mẫu chỉ mang tính tham khảo.",
+      "image": "/book1/l1/g4-pictures.jpg",
+      "questions": [
+        {
+          "question": "李小姐是美國人嗎？（圖：穿和服的小姐在泡茶）",
+          "answer": "不是，李小姐不是美國人，她是日本人。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他是陳先生嗎？（圖：名牌「張日生」的人在睡覺）",
+          "answer": "不是，他不是陳先生，他是張日生。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他喜歡喝茶嗎？（圖：一個人拿著咖啡，桌上有很多杯咖啡）",
+          "answer": "不，他不喜歡喝茶，他很喜歡喝咖啡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "王小姐要不要喝咖啡？（圖：小姐不要別人遞來的咖啡）",
+          "answer": "不要，王小姐不喝咖啡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他叫明華嗎？（圖：名牌「王開文」）",
+          "answer": "不叫明華，他叫王開文。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Dùng 很 (1–2 không nhấn mạnh, 3–5 nhấn mạnh)",
+      "kind": "rewrite",
+      "grammar_order": 4,
+      "instruction": "Trả lời bằng câu có 很. Câu 1–2: 很 không nhấn (chỉ có nghĩa \"là\"). Câu 3–5: 很 đọc nhấn mạnh (nghĩa \"rất\", dùng để đáp lại \"Có chứ!\").",
+      "image": "",
+      "questions": [
+        {
+          "question": "你好嗎？",
+          "answer": "我很好。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "李明華喜歡他嗎？",
+          "answer": "李明華很喜歡他。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "陳小姐不喜歡喝茶嗎？",
+          "answer": "陳小姐很喜歡喝茶。（Có, cô ấy thích chứ!）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "王先生不喜歡臺灣嗎？",
+          "answer": "他很喜歡臺灣。（Có, anh ấy thích chứ!）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "明華不喜歡月美嗎？",
+          "answer": "他很喜歡。（Có, anh ấy thích chứ!）",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hỏi lại với 呢",
+      "kind": "rewrite",
+      "grammar_order": 5,
+      "instruction": "Câu 1–3: cùng vị ngữ, khác chủ ngữ. Câu 4–5: cùng chủ ngữ, khác vị ngữ. Điền vào chỗ trống hoặc trả lời câu hỏi 呢.",
+      "image": "",
+      "questions": [
+        {
+          "question": "陳小姐來臺北，王先生呢？",
+          "answer": "王先生也來臺北。（hoặc：王先生不來臺北。）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "日本人喜歡喝咖啡，＿＿＿＿呢？",
+          "answer": "臺灣人",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他來臺灣，李先生呢？",
+          "answer": "李先生也來臺灣。（hoặc：李先生不來臺灣。）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你不喝咖啡，＿＿＿＿？",
+          "answer": "茶呢",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他喝烏龍茶，＿＿＿＿？",
+          "answer": "咖啡呢",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Giới thiệu bản thân và người khác",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách cho và hỏi thông tin cá nhân cơ bản.\nNhiệm vụ: Ghép cặp với bạn học, chào hỏi và tự giới thiệu. Sau đó hỏi tên và quê quán của bạn, rồi giới thiệu bạn với cả lớp.",
+      "image": "/book1/l1/a1-intro.jpg",
+      "questions": [
+        {
+          "question": "例：你好，我姓王，叫開文，我是美國人。你呢？",
+          "answer": "A：你好，我姓王，叫開文，我是美國人。你呢？\nB：我叫田中美月，我是日本人。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Thích và không thích",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách hỏi bạn có thích uống trà hay cà phê không.\nNhiệm vụ: Dùng dạng A-không-A 喜歡不喜歡 để hỏi bạn học xem bạn ấy có thích uống trà/cà phê không. Nếu câu trả lời là có thì mời bạn uống; nếu không thì mời thứ khác.",
+      "image": "/book1/l1/a2-pictures.jpg",
+      "questions": [
+        {
+          "question": "A 問 B 喜不喜歡喝茶／咖啡",
+          "answer": "A：你喜歡不喜歡喝茶？\nB：喜歡。\nA：我請你喝茶。\nB：謝謝！",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Bày tỏ lời cảm ơn",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách đáp lại lời hỏi và nói cảm ơn.\nNhiệm vụ: Ghép cặp hội thoại. Hỏi nhau những câu như:\nA：你要不要……？\nB：好的 / 不要，謝謝。",
+      "image": "/book1/l1/a3-dialog.jpg",
+      "questions": [
+        {
+          "question": "A：你要不要喝茶？",
+          "answer": "B：好的，謝謝。\n（hoặc）B：不要，謝謝。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Lấy thêm thông tin với 呢",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách dùng câu hỏi 呢 để lấy thêm thông tin.\nNhiệm vụ: Đặt câu dựa theo tranh, rồi dùng câu hỏi 呢 hỏi bạn học.\nVí dụ:\nA：陳月美喜歡……。王開文呢？\nB：他不喜歡……，他喜歡……。",
+      "image": "/book1/l1/a4-pictures.jpg",
+      "questions": [
+        {
+          "question": "圖 1（陳月美、王開文）",
+          "answer": "A：陳月美喜歡喝咖啡。王開文呢？\nB：他不喜歡喝咖啡，他喜歡喝茶。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2（王小姐、李明華）",
+          "answer": "A：王小姐是日本人。李明華呢？\nB：他不是日本人，他是臺灣人。",
+          "hint": "",
+          "image": ""
         }
       ]
     }

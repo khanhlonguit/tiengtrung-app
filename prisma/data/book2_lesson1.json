@@ -1,0 +1,1106 @@
+{
+  "id": 101,
+  "book": 2,
+  "title_vn": "Xin hỏi, đến Sư Đại đi thế nào?",
+  "title_zh": "請問，到師大怎麼走？",
+  "subtitle": "Hỏi đường & chỉ đường",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "走",
+      "pinyin": "zǒu",
+      "word_type": "Vi",
+      "meaning_vn": "Đi (đến), đi bộ",
+      "example_zh": "你往前走，就到了。",
+      "example_pinyin": "Nǐ wǎngqián zǒu, jiù dào le.",
+      "example_vn": "Bạn đi thẳng về phía trước là đến nơi.",
+      "meaning_hv": "Tẩu",
+      "meaning_en": "To get to; to walk",
+      "example_en": "Walk straight ahead and you will be there."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "路人",
+      "pinyin": "lùrén",
+      "word_type": "N",
+      "meaning_vn": "Người đi đường",
+      "example_zh": "路人告訴我怎麼走。",
+      "example_pinyin": "Lùrén gàosù wǒ zěnme zǒu.",
+      "example_vn": "Người đi đường chỉ cho tôi cách đi.",
+      "meaning_hv": "Lộ nhân",
+      "meaning_en": "Someone; lit. a person on the street",
+      "example_en": "A passer-by told me the way."
+    },
+    {
+      "order_num": 3,
+      "word_zh": "幫忙",
+      "pinyin": "bāngmáng",
+      "word_type": "V-sep",
+      "meaning_vn": "Giúp đỡ",
+      "example_zh": "你需要我幫忙嗎？",
+      "example_pinyin": "Nǐ xū yào wǒ bāngmáng ma?",
+      "example_vn": "Bạn có cần tôi giúp không?",
+      "meaning_hv": "Bang mang",
+      "meaning_en": "To help",
+      "example_en": "Do you need my help?"
+    },
+    {
+      "order_num": 4,
+      "word_zh": "迷路",
+      "pinyin": "mílù",
+      "word_type": "Vp-sep",
+      "meaning_vn": "Bị lạc đường",
+      "example_zh": "我好像迷路了。",
+      "example_pinyin": "Wǒ hǎoxiàng mílù le.",
+      "example_vn": "Hình như tôi bị lạc đường rồi.",
+      "meaning_hv": "Mê lộ",
+      "meaning_en": "To be lost, to have lost directions",
+      "example_en": "I think I am lost."
+    },
+    {
+      "order_num": 5,
+      "word_zh": "下",
+      "pinyin": "xià",
+      "word_type": "Det",
+      "meaning_vn": "Tiếp theo, kế tiếp",
+      "example_zh": "到了下一個路口，右轉。",
+      "example_pinyin": "Dào le xià yí ge lùkǒu, yòuzhuǎn.",
+      "example_vn": "Đến ngã tư tiếp theo thì rẽ phải.",
+      "meaning_hv": "Hạ",
+      "meaning_en": "Next",
+      "example_en": "At the next intersection, turn right."
+    },
+    {
+      "order_num": 6,
+      "word_zh": "路口",
+      "pinyin": "lùkǒu",
+      "word_type": "N",
+      "meaning_vn": "Ngã tư, giao lộ",
+      "example_zh": "這個路口可以往右轉。",
+      "example_pinyin": "Zhège lùkǒu kěyǐ wǎng yòuzhuǎn.",
+      "example_vn": "Ở ngã tư này có thể rẽ phải.",
+      "meaning_hv": "Lộ khẩu",
+      "meaning_en": "Intersection",
+      "example_en": "You can turn right at this intersection."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "段",
+      "pinyin": "duàn",
+      "word_type": "N",
+      "meaning_vn": "Đoạn (của đường)",
+      "example_zh": "和平東路一段",
+      "example_pinyin": "Hépíng Dōng Lù yí duàn",
+      "example_vn": "Đường Hòa Bình Đông, đoạn 1",
+      "meaning_hv": "Đoạn",
+      "meaning_en": "Section",
+      "example_en": "Heping East Road Section 1"
+    },
+    {
+      "order_num": 8,
+      "word_zh": "過",
+      "pinyin": "guò",
+      "word_type": "V",
+      "meaning_vn": "Đi qua, băng qua",
+      "example_zh": "過了這個路口就到了。",
+      "example_pinyin": "Guò le zhège lùkǒu jiù dào le.",
+      "example_vn": "Qua ngã tư này là đến nơi.",
+      "meaning_hv": "Quá",
+      "meaning_en": "To go past, to cross",
+      "example_en": "Once you cross this intersection you are there."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "第",
+      "pinyin": "dì",
+      "word_type": "Det",
+      "meaning_vn": "Thứ (dùng để chỉ số thứ tự)",
+      "example_zh": "過了第二個紅綠燈，就看見師大了。",
+      "example_pinyin": "Guò le dì-èr ge hónglǜdēng, jiù kànjiàn Shīdà le.",
+      "example_vn": "Qua đèn giao thông thứ hai là thấy Sư Đại.",
+      "meaning_hv": "Đệ",
+      "meaning_en": "Used to indicate ordinal numbers",
+      "example_en": "After the second traffic light, you will see NTNU."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "紅綠燈",
+      "pinyin": "hónglǜdēng",
+      "word_type": "N",
+      "meaning_vn": "Đèn giao thông",
+      "example_zh": "前面有一個紅綠燈。",
+      "example_pinyin": "Qiánmian yǒu yí ge hónglǜdēng.",
+      "example_vn": "Phía trước có một cái đèn giao thông.",
+      "meaning_hv": "Hồng lục đăng",
+      "meaning_en": "Traffic light",
+      "example_en": "There is a traffic light ahead."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "告訴",
+      "pinyin": "gàosù",
+      "word_type": "V",
+      "meaning_vn": "Nói cho biết, bảo",
+      "example_zh": "請你告訴我怎麼走。",
+      "example_pinyin": "Qǐng nǐ gàosù wǒ zěnme zǒu.",
+      "example_vn": "Xin bạn chỉ cho tôi cách đi.",
+      "meaning_hv": "Cáo tố",
+      "meaning_en": "To tell",
+      "example_en": "Please tell me how to get there."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "提款機",
+      "pinyin": "tíkuǎnjī",
+      "word_type": "N",
+      "meaning_vn": "Máy ATM",
+      "example_zh": "這附近有沒有提款機？",
+      "example_pinyin": "Zhè fùjìn yǒu méiyǒu tíkuǎnjī?",
+      "example_vn": "Gần đây có máy ATM không?",
+      "meaning_hv": "Đề khoản cơ",
+      "meaning_en": "ATM machine",
+      "example_en": "Is there an ATM around here?"
+    },
+    {
+      "order_num": 13,
+      "word_zh": "超商",
+      "pinyin": "chāo-shāng",
+      "word_type": "N",
+      "meaning_vn": "Cửa hàng tiện lợi",
+      "example_zh": "超商裡有提款機。",
+      "example_pinyin": "Chāoshāng lǐ yǒu tíkuǎnjī.",
+      "example_vn": "Trong cửa hàng tiện lợi có máy ATM.",
+      "meaning_hv": "Siêu thương",
+      "meaning_en": "Convenience store",
+      "example_en": "There is an ATM in the convenience store."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "應該",
+      "pinyin": "yīnggāi",
+      "word_type": "Vaux",
+      "meaning_vn": "Nên, hẳn là",
+      "example_zh": "大部分的超商應該都有。",
+      "example_pinyin": "Dàbùfen de chāoshāng yīnggāi dōu yǒu.",
+      "example_vn": "Phần lớn các cửa hàng tiện lợi hẳn đều có.",
+      "meaning_hv": "Ưng cai",
+      "meaning_en": "Should; ought to",
+      "example_en": "Most convenience stores should have one."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "郵局",
+      "pinyin": "yóujú",
+      "word_type": "N",
+      "meaning_vn": "Bưu điện",
+      "example_zh": "郵局也可以提錢。",
+      "example_pinyin": "Yóujú yě kěyǐ tí qián.",
+      "example_vn": "Bưu điện cũng có thể rút tiền.",
+      "meaning_hv": "Bưu cục",
+      "meaning_en": "Post office",
+      "example_en": "You can also withdraw money from the post office."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "提",
+      "pinyin": "tí",
+      "word_type": "V",
+      "meaning_vn": "Rút (tiền)",
+      "example_zh": "我想提錢。",
+      "example_pinyin": "Wǒ xiǎng tí qián.",
+      "example_vn": "Tôi muốn rút tiền.",
+      "meaning_hv": "Đề",
+      "meaning_en": "To withdraw (money)",
+      "example_en": "I want to withdraw some money."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "那邊",
+      "pinyin": "nàbiān/nèibiān",
+      "word_type": "N",
+      "meaning_vn": "Bên kia, đằng kia",
+      "example_zh": "那邊有一家便利商店。",
+      "example_pinyin": "Nàbiān yǒu yì jiā biànlì shāngdiàn.",
+      "example_vn": "Đằng kia có một cửa hàng tiện lợi.",
+      "meaning_hv": "Na biên",
+      "meaning_en": "Over there, yonder",
+      "example_en": "There is a convenience store over there."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "師大",
+      "pinyin": "Shīdà",
+      "word_type": "N",
+      "meaning_vn": "Sư Đại (Đại học Sư phạm Quốc lập Đài Loan, viết tắt của 師範大學)",
+      "example_zh": "請問，到師大怎麼走？",
+      "example_pinyin": "Qǐngwèn, dào Shīdà zěnme zǒu?",
+      "example_vn": "Xin hỏi, đến Sư Đại đi thế nào?",
+      "meaning_hv": "Sư Đại",
+      "meaning_en": "NTNU (National Taiwan Normal University)",
+      "example_en": "Excuse me, how do I get to Shida?"
+    },
+    {
+      "order_num": 19,
+      "word_zh": "和平東路",
+      "pinyin": "Hépíng Dōng Lù",
+      "word_type": "N",
+      "meaning_vn": "Đường Hòa Bình Đông",
+      "example_zh": "師大在和平東路上。",
+      "example_pinyin": "Shīdà zài Hépíng Dōng Lù shàng.",
+      "example_vn": "Sư Đại nằm trên đường Hòa Bình Đông.",
+      "meaning_hv": "Hòa Bình Đông Lộ",
+      "meaning_en": "Heping East Road",
+      "example_en": "NTNU is on Heping East Road."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "往前",
+      "pinyin": "wǎng qián",
+      "word_type": "",
+      "meaning_vn": "Về phía trước",
+      "example_zh": "你往前一直走。",
+      "example_pinyin": "Nǐ wǎngqián yìzhí zǒu.",
+      "example_vn": "Bạn cứ đi thẳng về phía trước.",
+      "meaning_hv": "Vãng tiền",
+      "meaning_en": "Forward, ahead",
+      "example_en": "Just keep walking straight ahead."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "右轉",
+      "pinyin": "yòu zhuǎn",
+      "word_type": "",
+      "meaning_vn": "Rẽ phải",
+      "example_zh": "到了路口，請右轉。",
+      "example_pinyin": "Dào le lùkǒu, qǐng yòuzhuǎn.",
+      "example_vn": "Đến ngã tư xin hãy rẽ phải.",
+      "meaning_hv": "Hữu chuyển",
+      "meaning_en": "To turn right",
+      "example_en": "At the intersection, please turn right."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "聽起來",
+      "pinyin": "tīng qǐlái",
+      "word_type": "",
+      "meaning_vn": "Nghe có vẻ, nghe như",
+      "example_zh": "聽起來不遠。",
+      "example_pinyin": "Tīngqǐlái bù yuǎn.",
+      "example_vn": "Nghe có vẻ không xa.",
+      "meaning_hv": "Thính khởi lai",
+      "meaning_en": "To sound, sound like",
+      "example_en": "It sounds like it is not far."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "看見",
+      "pinyin": "kànjiàn",
+      "word_type": "",
+      "meaning_vn": "Nhìn thấy",
+      "example_zh": "我看見了，那邊有一家便利商店。",
+      "example_pinyin": "Wǒ kànjiàn le, nàbiān yǒu yì jiā biànlì shāngdiàn.",
+      "example_vn": "Tôi thấy rồi, đằng kia có một cửa hàng tiện lợi.",
+      "meaning_hv": "Khán kiến",
+      "meaning_en": "To see, to have seen",
+      "example_en": "I see it; there is a convenience store over there."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "下載",
+      "pinyin": "xiàzài",
+      "word_type": "V",
+      "meaning_vn": "Tải xuống",
+      "example_zh": "我下載了一個新的地圖。",
+      "example_pinyin": "Wǒ xiàzài le yí ge xīn de dìtú.",
+      "example_vn": "Tôi đã tải một tấm bản đồ mới.",
+      "meaning_hv": "Hạ tải",
+      "meaning_en": "To download",
+      "example_en": "I downloaded a new map."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "地圖",
+      "pinyin": "dìtú",
+      "word_type": "N",
+      "meaning_vn": "Bản đồ",
+      "example_zh": "手機裡有地圖。",
+      "example_pinyin": "Shǒujī lǐ yǒu dìtú.",
+      "example_vn": "Trong điện thoại có bản đồ.",
+      "meaning_hv": "Địa đồ",
+      "meaning_en": "Map",
+      "example_en": "There is a map in the cell phone."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "好用",
+      "pinyin": "hǎoyòng",
+      "word_type": "Vs",
+      "meaning_vn": "Dễ dùng, tiện dùng",
+      "example_zh": "這個地圖很好用。",
+      "example_pinyin": "Zhège dìtú hěn hǎoyòng.",
+      "example_vn": "Bản đồ này rất dễ dùng.",
+      "meaning_hv": "Hảo dụng",
+      "meaning_en": "Easy to use, handy",
+      "example_en": "This map is very handy."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "著",
+      "pinyin": "zhe",
+      "word_type": "Ptc",
+      "meaning_vn": "Trợ từ chỉ hành động đang diễn ra hoặc kéo dài",
+      "example_zh": "他看著地圖走路。",
+      "example_pinyin": "Tā kànzhe dìtú zǒulù.",
+      "example_vn": "Anh ấy vừa nhìn bản đồ vừa đi.",
+      "meaning_hv": "Trước",
+      "meaning_en": "A particle indicating progression or continuation of action",
+      "example_en": "He walks while looking at the map."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "日用品",
+      "pinyin": "rìyòngpǐn",
+      "word_type": "N",
+      "meaning_vn": "Đồ dùng hằng ngày",
+      "example_zh": "這裡賣很多日用品。",
+      "example_pinyin": "Zhèlǐ mài hěn duō rìyòngpǐn.",
+      "example_vn": "Ở đây bán rất nhiều đồ dùng hằng ngày.",
+      "meaning_hv": "Nhật dụng phẩm",
+      "meaning_en": "Articles of daily use",
+      "example_en": "They sell lots of daily necessities here."
+    },
+    {
+      "order_num": 29,
+      "word_zh": "經過",
+      "pinyin": "jīngguò",
+      "word_type": "V",
+      "meaning_vn": "Đi ngang qua, đi qua",
+      "example_zh": "我們經過兩個小巷子。",
+      "example_pinyin": "Wǒmen jīngguò liǎng ge xiǎo xiàngzi.",
+      "example_vn": "Chúng tôi đi qua hai con hẻm nhỏ.",
+      "meaning_hv": "Kinh quá",
+      "meaning_en": "To go past",
+      "example_en": "We passed two small alleys."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "巷子",
+      "pinyin": "xiàngzi",
+      "word_type": "N",
+      "meaning_vn": "Hẻm, ngõ",
+      "example_zh": "巷子裡有一家麵店。",
+      "example_pinyin": "Xiàngzi lǐ yǒu yì jiā miàndiàn.",
+      "example_vn": "Trong hẻm có một quán mì.",
+      "meaning_hv": "Hạng tử",
+      "meaning_en": "Alley",
+      "example_en": "There is a noodle shop in the alley."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "餓",
+      "pinyin": "è",
+      "word_type": "Vs",
+      "meaning_vn": "Đói",
+      "example_zh": "我有一點餓。",
+      "example_pinyin": "Wǒ yǒu yìdiǎn è.",
+      "example_vn": "Tôi hơi đói.",
+      "meaning_hv": "Ngạ",
+      "meaning_en": "Hungry",
+      "example_en": "I am a little hungry."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "一邊",
+      "pinyin": "yìbiān",
+      "word_type": "Adv",
+      "meaning_vn": "Vừa… vừa… (hai việc cùng lúc)",
+      "example_zh": "他一邊吃麵，一邊看地圖。",
+      "example_pinyin": "Tā yìbiān chī miàn, yìbiān kàn dìtú.",
+      "example_vn": "Anh ấy vừa ăn mì vừa xem bản đồ.",
+      "meaning_hv": "Nhất biên",
+      "meaning_en": "Indicates doing two things simultaneously, as, while",
+      "example_en": "He looks at the map while eating noodles."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "發現",
+      "pinyin": "fāxiàn",
+      "word_type": "Vpt",
+      "meaning_vn": "Phát hiện, nhận ra",
+      "example_zh": "我發現這裡有一家背包店。",
+      "example_pinyin": "Wǒ fāxiàn zhèlǐ yǒu yì jiā bēibāo diàn.",
+      "example_vn": "Tôi phát hiện ở đây có một tiệm ba lô.",
+      "meaning_hv": "Phát hiện",
+      "meaning_en": "To discover",
+      "example_en": "I discovered there is a backpack shop here."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "離",
+      "pinyin": "lí",
+      "word_type": "Prep",
+      "meaning_vn": "Cách (từ…)",
+      "example_zh": "我家離學校很遠。",
+      "example_pinyin": "Wǒ jiā lí xuéxiào hěn yuǎn.",
+      "example_vn": "Nhà tôi cách trường rất xa.",
+      "meaning_hv": "Ly",
+      "meaning_en": "(Away) from",
+      "example_en": "My home is far from school."
+    },
+    {
+      "order_num": 35,
+      "word_zh": "背包",
+      "pinyin": "bēibāo",
+      "word_type": "N",
+      "meaning_vn": "Ba lô",
+      "example_zh": "他買了一個背包。",
+      "example_pinyin": "Tā mǎi le yí ge bēibāo.",
+      "example_vn": "Anh ấy mua một cái ba lô.",
+      "meaning_hv": "Bối bao",
+      "meaning_en": "Backpack",
+      "example_en": "He bought a backpack."
+    },
+    {
+      "order_num": 36,
+      "word_zh": "正好",
+      "pinyin": "zhènghǎo",
+      "word_type": "Adv",
+      "meaning_vn": "Vừa hay, đúng lúc",
+      "example_zh": "我正好想買一個背包。",
+      "example_pinyin": "Wǒ zhènghǎo xiǎng mǎi yí ge bēibāo.",
+      "example_vn": "Tôi vừa hay đang muốn mua một cái ba lô.",
+      "meaning_hv": "Chính hảo",
+      "meaning_en": "Just, happen to",
+      "example_en": "I happened to want to buy a backpack."
+    },
+    {
+      "order_num": 37,
+      "word_zh": "最後",
+      "pinyin": "zuìhòu",
+      "word_type": "Adv",
+      "meaning_vn": "Cuối cùng",
+      "example_zh": "最後，他買了一個背包。",
+      "example_pinyin": "Zuìhòu, tā mǎi le yí ge bēibāo.",
+      "example_vn": "Cuối cùng, anh ấy mua một cái ba lô.",
+      "meaning_hv": "Tối hậu",
+      "meaning_en": "In the end, finally",
+      "example_en": "In the end, he bought a backpack."
+    },
+    {
+      "order_num": 38,
+      "word_zh": "枝",
+      "pinyin": "zhī",
+      "word_type": "M",
+      "meaning_vn": "Cây, cái (lượng từ cho bút)",
+      "example_zh": "我買了兩枝筆。",
+      "example_pinyin": "Wǒ mǎi le liǎng zhī bǐ.",
+      "example_vn": "Tôi mua hai cây bút.",
+      "meaning_hv": "Chi",
+      "meaning_en": "Measure word for pens",
+      "example_en": "I bought two pens."
+    },
+    {
+      "order_num": 39,
+      "word_zh": "筆",
+      "pinyin": "bǐ",
+      "word_type": "N",
+      "meaning_vn": "Bút",
+      "example_zh": "這枝筆好寫嗎？",
+      "example_pinyin": "Zhè zhī bǐ hǎoxiě ma?",
+      "example_vn": "Cây bút này viết có trơn không?",
+      "meaning_hv": "Bút",
+      "meaning_en": "Pen",
+      "example_en": "Is this pen easy to write with?"
+    },
+    {
+      "order_num": 40,
+      "word_zh": "本",
+      "pinyin": "běn",
+      "word_type": "M",
+      "meaning_vn": "Quyển, cuốn (lượng từ cho sách vở)",
+      "example_zh": "我買了一本本子。",
+      "example_pinyin": "Wǒ mǎi le yì běn běnzi.",
+      "example_vn": "Tôi mua một quyển vở.",
+      "meaning_hv": "Bản",
+      "meaning_en": "Measure word for books",
+      "example_en": "I bought a notebook."
+    },
+    {
+      "order_num": 41,
+      "word_zh": "本子",
+      "pinyin": "běnzi",
+      "word_type": "N",
+      "meaning_vn": "Quyển vở, sổ tay",
+      "example_zh": "他在附近買了一本本子。",
+      "example_pinyin": "Tā zài fùjìn mǎi le yì běn běnzi.",
+      "example_vn": "Anh ấy mua một quyển vở ở gần đây.",
+      "meaning_hv": "Bản tử",
+      "meaning_en": "Notebook",
+      "example_en": "He bought a notebook nearby."
+    },
+    {
+      "order_num": 42,
+      "word_zh": "左轉",
+      "pinyin": "zuǒ zhuǎn",
+      "word_type": "",
+      "meaning_vn": "Rẽ trái",
+      "example_zh": "從學校門口往左轉。",
+      "example_pinyin": "Cóng xuéxiào ménkǒu wǎng zuǒzhuǎn.",
+      "example_vn": "Từ cổng trường rẽ trái.",
+      "meaning_hv": "Tả chuyển",
+      "meaning_en": "To turn left",
+      "example_en": "Turn left from the school gate."
+    },
+    {
+      "order_num": 43,
+      "word_zh": "師大路上",
+      "pinyin": "Shīdà Lù shàng",
+      "word_type": "",
+      "meaning_vn": "Trên đường Sư Đại",
+      "example_zh": "師大路上有很多小吃店。",
+      "example_pinyin": "Shīdà Lù shàng yǒu hěn duō xiǎochī diàn.",
+      "example_vn": "Trên đường Sư Đại có rất nhiều quán ăn vặt.",
+      "meaning_hv": "Sư Đại Lộ thượng",
+      "meaning_en": "On Shida Road",
+      "example_en": "There are many snack shops on Shida Road."
+    },
+    {
+      "order_num": 44,
+      "word_zh": "麵店",
+      "pinyin": "miàn diàn",
+      "word_type": "",
+      "meaning_vn": "Quán mì",
+      "example_zh": "我們到一家麵店吃牛肉麵。",
+      "example_pinyin": "Wǒmen dào yì jiā miàndiàn chī niúròumiàn.",
+      "example_vn": "Chúng tôi đến một quán mì ăn mì bò.",
+      "meaning_hv": "Miến điếm",
+      "meaning_en": "Noodle shop",
+      "example_en": "We went to a noodle shop for beef noodles."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "Chỉ hướng đi: 從…往… (từ… đến/hướng…)",
+      "explanation": "Mẫu câu diễn tả hướng di chuyển. 從 đánh dấu điểm xuất phát, 往 đánh dấu hướng/điểm đến của việc di chuyển. Nếu điểm xuất phát đã rõ qua ngữ cảnh thì có thể lược 從, chỉ dùng 往. Phủ định đặt 不能/不可以/不是 trước 往 hoặc trước 從…往…. Khi hỏi đường, thường dùng 怎麼走 hoặc 是不是… hoặc 有沒有往…的公車.",
+      "examples": "[{\"zh\":\"你從這裡往前一直走，就到師大了。\",\"pinyin\":\"Nǐ cóng zhèlǐ wǎngqián yìzhí zǒu, jiù dào Shīdà le.\",\"vn\":\"Bạn đi thẳng từ đây là đến Sư Đại.\"},{\"zh\":\"從這個路口往右轉，你可以到學校宿舍。\",\"pinyin\":\"Cóng zhège lùkǒu wǎng yòuzhuǎn, nǐ kěyǐ dào xuéxiào sùshè.\",\"vn\":\"Từ ngã tư này rẽ phải, bạn có thể đến ký túc xá của trường.\"},{\"zh\":\"從學校大門往裡面走十分鐘，可以到語言中心。\",\"pinyin\":\"Cóng xuéxiào dàmén wǎng lǐmiàn zǒu shí fēnzhōng, kěyǐ dào Yǔyán Zhōngxīn.\",\"vn\":\"Từ cổng trường đi vào trong mười phút là đến Trung tâm ngôn ngữ.\"},{\"zh\":\"你不能（從這裡）往前走，前面沒有路了。\",\"pinyin\":\"Nǐ bù néng (cóng zhèlǐ) wǎngqián zǒu, qiánmian méiyǒu lù le.\",\"vn\":\"Bạn không thể đi thẳng (từ đây) nữa, phía trước hết đường rồi.\"},{\"zh\":\"你不可以從這個路口往左轉，只可以往右轉。\",\"pinyin\":\"Nǐ bù kěyǐ cóng zhège lùkǒu wǎng zuǒzhuǎn, zhī kěyǐ wǎng yòuzhuǎn.\",\"vn\":\"Bạn không được rẽ trái ở ngã tư này, chỉ được rẽ phải.\"},{\"zh\":\"這公車不是往師大，是往火車站的。\",\"pinyin\":\"Zhè gōngchē bú shì wǎng Shīdà, shì wǎng huǒchēzhàn de.\",\"vn\":\"Xe buýt này không đi Sư Đại mà đi ga xe lửa.\"},{\"zh\":\"我是不是從這裡往前面一直騎，就可以到花蓮？\",\"pinyin\":\"Wǒ shì bu shì cóng zhèlǐ wǎng qiánmian yìzhí qí, jiù kěyǐ dào Huālián?\",\"vn\":\"Có phải tôi cứ chạy thẳng từ đây về phía trước là đến Hoa Liên không?\"},{\"zh\":\"請問從師大有沒有往故宮博物院的公車？\",\"pinyin\":\"Qǐngwèn cóng Shīdà yǒu méiyǒu wǎng Gùgōng Bówùyuàn de gōngchē?\",\"vn\":\"Xin hỏi từ Sư Đại có xe buýt nào đi Bảo tàng Cố Cung không?\"},{\"zh\":\"請問，我要到銀行去，是從這裡往前一直走嗎？\",\"pinyin\":\"Qǐngwèn, wǒ yào dào yínháng qù, shì cóng zhèlǐ wǎngqián yìzhí zǒu ma?\",\"vn\":\"Xin hỏi, tôi muốn đến ngân hàng, có phải đi thẳng từ đây không?\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Nhận định, đánh giá: V + 起來 (nhìn/nghe/ăn… có vẻ…)",
+      "explanation": "Mẫu câu thể hiện nhận xét, đánh giá chủ quan của người nói về một sự việc. Cấu trúc: Động từ + 起來 + Vị từ trạng thái (tính từ). Không phủ định được phần 起來, nhưng có thể phủ định tính từ phía sau (看起來很不好, 吃起來不太辣). Động từ thường dùng trước 起來: 看, 聽, 吃, 喝, 坐, 穿, 寫, 笑, 說, 學, 念, 住, 拍(照), 逛, 走.",
+      "examples": "[{\"zh\":\"白小姐笑起來很美。\",\"pinyin\":\"Bái xiǎojiě xiàoqǐlái hěn měi.\",\"vn\":\"Cô Bạch cười lên rất đẹp.\"},{\"zh\":\"那裡賣的小吃看起來很好吃。\",\"pinyin\":\"Nàlǐ mài de xiǎochī kànqǐlái hěn hǎochī.\",\"vn\":\"Đồ ăn vặt bán ở đó nhìn có vẻ rất ngon.\"},{\"zh\":\"這個房子很小，我住起來不習慣。\",\"pinyin\":\"Zhège fángzi hěn xiǎo, wǒ zhùqǐlái bù xíguàn.\",\"vn\":\"Căn nhà này rất nhỏ, tôi ở thấy không quen.\"},{\"zh\":\"王先生今天的臉色看起來很不好。\",\"pinyin\":\"Wáng xiānsheng jīntiān de liǎnsè kànqǐlái hěn bù hǎo.\",\"vn\":\"Sắc mặt của ông Vương hôm nay trông rất không tốt.\"},{\"zh\":\"越南菜看起來很辣，吃起來不太辣。\",\"pinyin\":\"Yuènán cài kànqǐlái hěn là, chīqǐlái bú tài là.\",\"vn\":\"Món Việt nhìn có vẻ rất cay, nhưng ăn không cay lắm.\"},{\"zh\":\"你說的事聽起來不難。不過，做起來有點難。\",\"pinyin\":\"Nǐ shuō de shì tīngqǐlái bù nán. Búguò, zuòqǐlái yǒudiǎn nán.\",\"vn\":\"Việc bạn nói nghe có vẻ không khó. Nhưng làm thì hơi khó.\"},{\"zh\":\"臭豆腐吃起來怎麼樣？\",\"pinyin\":\"Chòudòufu chīqǐlái zěnmeyàng?\",\"vn\":\"Đậu hũ thối ăn thế nào?\"},{\"zh\":\"你昨天買的衣服穿起來好不好看？\",\"pinyin\":\"Nǐ zuótiān mǎi de yīfu chuānqǐlái hǎo bu hǎo kàn?\",\"vn\":\"Cái áo bạn mua hôm qua mặc lên có đẹp không?\"},{\"zh\":\"他的新車坐起來是不是很舒服？\",\"pinyin\":\"Tā de xīn chē zuòqǐlái shì bu shì hěn shūfu?\",\"vn\":\"Chiếc xe mới của anh ấy ngồi có phải rất thoải mái không?\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "Hành động đang diễn ra: V + 著",
+      "explanation": "Khi thêm 著 sau động từ hành động, nghĩa là hành động hoặc trạng thái đó đang diễn ra/đang kéo dài. Động từ đi với 著 thường là động từ đơn âm tiết. Phủ định dùng 沒 hoặc các từ cấm đoán 不要/別 trước động từ + 著.",
+      "examples": "[{\"zh\":\"他在門口等著你，你快去吧！\",\"pinyin\":\"Tā zài ménkǒu děngzhe nǐ, nǐ kuài qù ba!\",\"vn\":\"Anh ấy đang đợi bạn ở cửa, bạn mau đi đi!\"},{\"zh\":\"李明華拿著一杯冰咖啡。\",\"pinyin\":\"Lǐ Mínghuá názhe yì bēi bīng kāfēi.\",\"vn\":\"Lý Minh Hoa cầm một ly cà phê đá.\"},{\"zh\":\"他看著我，什麼也沒說。\",\"pinyin\":\"Tā kànzhe wǒ, shénme yě méi shuō.\",\"vn\":\"Anh ấy nhìn tôi, không nói gì cả.\"},{\"zh\":\"你不要一直坐著，我們去運動吧！\",\"pinyin\":\"Nǐ búyào yìzhí zuòzhe, wǒmen qù yùndòng ba!\",\"vn\":\"Bạn đừng ngồi mãi thế, chúng ta đi vận động đi!\"},{\"zh\":\"你別帶著咖啡到圖書館去，裡面不能喝東西。\",\"pinyin\":\"Nǐ bié dàizhe kāfēi dào túshūguǎn qù, lǐmiàn bù néng hē dōngxi.\",\"vn\":\"Bạn đừng mang cà phê vào thư viện, bên trong không được uống đồ.\"},{\"zh\":\"夜市附近的小巷子這麼多，要是我沒帶著地圖，一定會迷路。\",\"pinyin\":\"Yèshì fùjìn de xiǎo xiàngzi zhème duō, yàoshi wǒ méi dàizhe dìtú, yídìng huì mílù.\",\"vn\":\"Quanh chợ đêm có nhiều hẻm nhỏ như vậy, nếu tôi không mang theo bản đồ thì chắc chắn sẽ lạc đường.\"},{\"zh\":\"馬安同是不是載著陳月美到圖書館去了？\",\"pinyin\":\"Mǎ Āntóng shì bu shì zàizhe Chén Yuèměi dào túshūguǎn qù le?\",\"vn\":\"Có phải Mã An Đồng đã chở Trần Nguyệt Mỹ đến thư viện không?\"},{\"zh\":\"他生病了，你要不要陪著他？\",\"pinyin\":\"Tā shēngbìng le, nǐ yào bu yào péizhe tā?\",\"vn\":\"Anh ấy bị bệnh, bạn có muốn ở bên cạnh anh ấy không?\"},{\"zh\":\"你是不是一直在學校門口等著朋友？\",\"pinyin\":\"Nǐ shì bu shì yìzhí zài xuéxiào ménkǒu děngzhe péngyou?\",\"vn\":\"Có phải bạn cứ đứng đợi bạn ở cổng trường mãi không?\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "Hai hành động đồng thời: 一邊…一邊…",
+      "explanation": "Mẫu câu diễn tả hai hành động xảy ra cùng lúc. 一邊…一邊… nối hai cụm động từ hành động. Phủ định đặt 不可以/不要/沒 trước 一邊. Có thể dùng để khuyên bảo (不能/可以一邊…，一邊…) hoặc đặt câu hỏi 好不好, 可以…嗎, 是不是….",
+      "examples": "[{\"zh\":\"我常常一邊走路，一邊聽歌。\",\"pinyin\":\"Wǒ chángcháng yìbiān zǒulù, yìbiān tīnggē.\",\"vn\":\"Tôi thường vừa đi bộ vừa nghe nhạc.\"},{\"zh\":\"那個小姐喜歡一邊吃飯，一邊看電視。\",\"pinyin\":\"Nàge xiǎojiě xǐhuan yìbiān chīfàn, yìbiān kàn diànshì.\",\"vn\":\"Cô gái đó thích vừa ăn cơm vừa xem tivi.\"},{\"zh\":\"田中誠一常常一邊逛夜市，一邊照相。\",\"pinyin\":\"Tiánzhōng Chéngyī chángcháng yìbiān guàng yèshì, yìbiān zhàoxiàng.\",\"vn\":\"Tanaka Seiichi thường vừa đi dạo chợ đêm vừa chụp ảnh.\"},{\"zh\":\"你不可以一邊騎機車，一邊打電話。\",\"pinyin\":\"Nǐ bù kěyǐ yìbiān qí jīchē, yìbiān dǎ diànhuà.\",\"vn\":\"Bạn không được vừa chạy xe máy vừa gọi điện thoại.\"},{\"zh\":\"請你不要一邊上課，一邊吃早餐。\",\"pinyin\":\"Qǐng nǐ búyào yìbiān shàngkè, yìbiān chī zǎocān.\",\"vn\":\"Xin bạn đừng vừa học vừa ăn sáng.\"},{\"zh\":\"他沒一邊工作，一邊玩手機。\",\"pinyin\":\"Tā méi yìbiān gōngzuò, yìbiān wán shǒujī.\",\"vn\":\"Anh ấy không vừa làm việc vừa chơi điện thoại.\"},{\"zh\":\"我們一邊看電視，一邊喝茶，好不好？\",\"pinyin\":\"Wǒmen yìbiān kàn diànshì, yìbiān hē chá, hǎo bu hǎo?\",\"vn\":\"Chúng ta vừa xem tivi vừa uống trà, được không?\"},{\"zh\":\"老闆，我可以一邊工作，一邊學西班牙文嗎？\",\"pinyin\":\"Lǎobǎn, wǒ kěyǐ yìbiān gōngzuò, yìbiān xué Xībānyáwén ma?\",\"vn\":\"Sếp ơi, tôi có thể vừa làm việc vừa học tiếng Tây Ban Nha không?\"},{\"zh\":\"你是不是一邊上班，一邊念書？\",\"pinyin\":\"Nǐ shì bu shì yìbiān shàngbān, yìbiān niànshū?\",\"vn\":\"Có phải bạn vừa đi làm vừa đi học không?\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Khoảng cách: 離 (cách…)",
+      "explanation": "Giới từ 離 biểu thị khoảng cách giữa hai địa điểm: A 離 B + (很/不)遠/近. Khác với đa số giới từ khác, 離 không phủ định trực tiếp bằng 不 đặt ngay trước nó; thường phủ định ở tính từ phía sau (離學校不遠), hoặc dùng động từ năng nguyện như 不能離夜市太近. Câu hỏi thường dùng 遠不遠, 是不是很遠, 遠嗎.",
+      "examples": "[{\"zh\":\"我家離學校很遠。\",\"pinyin\":\"Wǒ jiā lí xuéxiào hěn yuǎn.\",\"vn\":\"Nhà tôi cách trường rất xa.\"},{\"zh\":\"離火車站很近的地方，有一家（牛肉）麵店的牛肉麵很好吃。\",\"pinyin\":\"Lí huǒchēzhàn hěn jìn de dìfang, yǒu yì jiā (niúròu) miàndiàn de niúròumiàn hěn hǎochī.\",\"vn\":\"Ở nơi rất gần ga xe lửa có một quán mì mà mì bò rất ngon.\"},{\"zh\":\"你從這裡往左邊走，離學校不遠的地方，可以看到海。\",\"pinyin\":\"Nǐ cóng zhèlǐ wǎng zuǒbiān zǒu, lí xuéxiào bù yuǎn de dìfang, kěyǐ kàndào hǎi.\",\"vn\":\"Bạn đi sang bên trái từ đây, ở nơi cách trường không xa có thể nhìn thấy biển.\"},{\"zh\":\"銀行離學校不遠，你走路去應該就可以了。\",\"pinyin\":\"Yínháng lí xuéxiào bù yuǎn, nǐ zǒulù qù yīnggāi jiù kěyǐ le.\",\"vn\":\"Ngân hàng cách trường không xa, bạn đi bộ đến chắc là được.\"},{\"zh\":\"花蓮離台北不很遠，可是到那裡要花不少時間。\",\"pinyin\":\"Huālián lí Táiběi bù hěn yuǎn, kěshì dào nàlǐ yào huā bù shǎo shíjiān.\",\"vn\":\"Hoa Liên cách Đài Bắc không xa lắm, nhưng đến đó mất khá nhiều thời gian.\"},{\"zh\":\"我要找的房子，不能離夜市太近。\",\"pinyin\":\"Wǒ yào zhǎo de fángzi, bù néng lí yèshì tài jìn.\",\"vn\":\"Căn nhà tôi muốn tìm không được quá gần chợ đêm.\"},{\"zh\":\"學校離郵局遠不遠？\",\"pinyin\":\"Xuéxiào lí yóujú yuǎn bu yuǎn?\",\"vn\":\"Trường học cách bưu điện có xa không?\"},{\"zh\":\"你家離捷運站是不是很遠？\",\"pinyin\":\"Nǐ jiā lí jiéyùnzhàn shì bu shì hěn yuǎn?\",\"vn\":\"Nhà bạn có phải cách ga tàu điện ngầm rất xa không?\"},{\"zh\":\"你們國家離台灣遠嗎？\",\"pinyin\":\"Nǐmen guójiā lí Táiwān yuǎn ma?\",\"vn\":\"Nước các bạn cách Đài Loan có xa không?\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "路人",
+      "text_zh": "你需要我幫忙嗎？",
+      "pinyin": "Nǐ xū yào wǒ bāngmáng ma?",
+      "translation_vn": "Bạn có cần tôi giúp không?",
+      "translation_en": "Do you need any help?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "安同",
+      "text_zh": "我好像迷路了。",
+      "pinyin": "Wǒ hǎoxiàng mílù le.",
+      "translation_vn": "Hình như tôi bị lạc đường rồi.",
+      "translation_en": "I think I am lost."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "路人",
+      "text_zh": "你要去哪裡？",
+      "pinyin": "Nǐ yào qù nǎlǐ?",
+      "translation_vn": "Bạn muốn đi đâu?",
+      "translation_en": "Where do you want to go?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "安同",
+      "text_zh": "請問，到師大怎麼走？",
+      "pinyin": "Qǐngwèn, dào Shīdà zěnme zǒu?",
+      "translation_vn": "Xin hỏi, đến Sư Đại đi thế nào?",
+      "translation_en": "Could you tell me how to get to Shida (NTNU)?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "路人",
+      "text_zh": "你從這裡往前走，到了下一個路口，右轉。",
+      "pinyin": "Nǐ cóng zhèlǐ wǎngqián zǒu, dào le xià yí ge lùkǒu, yòuzhuǎn.",
+      "translation_vn": "Bạn đi thẳng từ đây, đến ngã tư tiếp theo thì rẽ phải.",
+      "translation_en": "Go straight from here. When you reach the next intersection, turn right."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "安同",
+      "text_zh": "右轉就到了嗎？聽起來不遠。",
+      "pinyin": "Yòuzhuǎn jiù dào le ma? Tīngqǐlái bù yuǎn.",
+      "translation_vn": "Rẽ phải là đến rồi à? Nghe có vẻ không xa.",
+      "translation_en": "Just turn right and I'm there? Doesn't sound very far."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "路人",
+      "text_zh": "還沒到！你右轉以後，是和平東路一段，再往前一直走，過了第二個紅綠燈，就看見師大了。",
+      "pinyin": "Hái méi dào! Nǐ yòuzhuǎn yǐhòu, shì Hépíng Dōng Lù yí duàn, zài wǎngqián yìzhí zǒu, guò le dì-èr ge hónglǜdēng, jiù kànjiàn Shīdà le.",
+      "translation_vn": "Chưa đến đâu! Sau khi rẽ phải là đường Hòa Bình Đông đoạn 1, cứ tiếp tục đi thẳng, qua đèn giao thông thứ hai là sẽ thấy Sư Đại.",
+      "translation_en": "Not yet. After you turn right, you will be on Heping East Road Section 1. Keep going straight. Once you cross the second traffic light, you will see NTNU."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "安同",
+      "text_zh": "謝謝，我知道了。",
+      "pinyin": "Xièxie, wǒ zhīdào le.",
+      "translation_vn": "Cảm ơn, tôi hiểu rồi.",
+      "translation_en": "Thank you. I understand."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "路人",
+      "text_zh": "你的中文很好。",
+      "pinyin": "Nǐ de Zhōngwén hěn hǎo.",
+      "translation_vn": "Tiếng Trung của bạn rất giỏi.",
+      "translation_en": "Your Chinese is very good."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "安同",
+      "text_zh": "謝謝，我還得多學一點。能不能再告訴我，這附近有沒有提款機？",
+      "pinyin": "Xièxie, wǒ hái děi duō xué yìdiǎn. Néng bu néng zài gàosù wǒ, zhè fùjìn yǒu méiyǒu tíkuǎnjī?",
+      "translation_vn": "Cảm ơn, tôi còn phải học thêm nữa. Bạn có thể nói thêm cho tôi biết gần đây có máy ATM không?",
+      "translation_en": "Thank you. I still have more to learn. Can you also tell me if there is an ATM machine around here?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 11,
+      "speaker": "路人",
+      "text_zh": "從這裡往和平東路走，好像沒有銀行，不過大部分的超商裡應該都有。",
+      "pinyin": "Cóng zhèlǐ wǎng Hépíng Dōng Lù zǒu, hǎoxiàng méiyǒu yínháng, búguò dàbùfen de chāoshāng lǐ yīnggāi dōu yǒu.",
+      "translation_vn": "Đi từ đây về phía đường Hòa Bình Đông, hình như không có ngân hàng, nhưng phần lớn các cửa hàng tiện lợi hẳn đều có.",
+      "translation_en": "I don't think there are any banks between here and Heping East Road, but most \"超商\" (convenience stores) should have an ATM."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 12,
+      "speaker": "安同",
+      "text_zh": "你說的「超商」是「7-11」那種便利商店嗎？",
+      "pinyin": "Nǐ shuō de \"chāoshāng\" shì \"7-11\" nà zhǒng biànlì shāngdiàn ma?",
+      "translation_vn": "Cái bạn nói là \"超商\" là loại cửa hàng tiện lợi như \"7-11\" phải không?",
+      "translation_en": "By \"超商\", do you mean convenience stores like 7-11?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 13,
+      "speaker": "路人",
+      "text_zh": "是的。對了，郵局也可以提錢。",
+      "pinyin": "Shì de. Duìle, yóujú yě kěyǐ tí qián.",
+      "translation_vn": "Đúng vậy. À đúng rồi, bưu điện cũng có thể rút tiền.",
+      "translation_en": "Yes. Oh, by the way, you can also withdraw money from the post office."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 14,
+      "speaker": "安同",
+      "text_zh": "我看見了，那邊有一家便利商店。謝謝，謝謝！",
+      "pinyin": "Wǒ kànjiàn le, nàbiān yǒu yì jiā biànlì shāngdiàn. Xièxie, xièxie!",
+      "translation_vn": "Tôi thấy rồi, đằng kia có một cửa hàng tiện lợi. Cảm ơn, cảm ơn!",
+      "translation_en": "I see a convenience store over there. Thank you so much."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 15,
+      "speaker": "路人",
+      "text_zh": "不客氣。",
+      "pinyin": "Búkèqi.",
+      "translation_vn": "Không có gì.",
+      "translation_en": "You're welcome."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "敘述",
+      "text_zh": "馬安同下載了新的地圖到手機裡，他找白如玉跟他在師大附近走走，試試地圖好用不好用。",
+      "pinyin": "Mǎ Āntóng xiàzài le xīn de dìtú dào shǒujī lǐ, tā zhǎo Bái Rúyù gēn tā zài Shīdà fùjìn zǒuzǒu, shìshi dìtú hǎoyòng bù hǎoyòng.",
+      "translation_vn": "Mã An Đồng tải một tấm bản đồ mới vào điện thoại, rồi rủ Bạch Như Ngọc đi dạo quanh khu Sư Đại cùng anh để thử xem bản đồ có dễ dùng không.",
+      "translation_en": "Ma Antong downloaded a new map to his cell phone. He went to see Bai Ruyu and asked her to accompany him on a walk around NTNU to try out the map functions."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "敘述",
+      "text_zh": "他們看著地圖，從學校門口往左轉，過了和平東路就到了師大路。",
+      "pinyin": "Tāmen kànzhe dìtú, cóng xuéxiào ménkǒu wǎng zuǒzhuǎn, guò le Hépíng Dōng Lù jiù dào le Shīdà Lù.",
+      "translation_vn": "Họ nhìn bản đồ, từ cổng trường rẽ trái, qua đường Hòa Bình Đông là đến đường Sư Đại.",
+      "translation_en": "Looking at the map, they turned left at the main entrance of the school. After crossing Heping East Road, they arrived at Shida Road."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "敘述",
+      "text_zh": "在師大路上，他們看見很多賣小吃的店，也有賣衣服和日用品的商店。",
+      "pinyin": "Zài Shīdà Lù shàng, tāmen kànjiàn hěn duō mài xiǎochī de diàn, yě yǒu mài yīfu hé rìyòngpǐn de shāngdiàn.",
+      "translation_vn": "Trên đường Sư Đại, họ thấy rất nhiều quán bán đồ ăn vặt, cũng có các cửa hàng bán quần áo và đồ dùng hằng ngày.",
+      "translation_en": "On Shida Road, they found a lot of eateries as well as shops selling clothes and articles of daily use."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "敘述",
+      "text_zh": "他們經過兩個小巷子再右轉，這邊的商店比師大路的多。",
+      "pinyin": "Tāmen jīngguò liǎng ge xiǎo xiàngzi zài yòuzhuǎn, zhèbiān de shāngdiàn bǐ Shīdà Lù de duō.",
+      "translation_vn": "Họ đi qua hai con hẻm nhỏ rồi rẽ phải, bên này có nhiều cửa hàng hơn đường Sư Đại.",
+      "translation_en": "They took a right turn after a couple of small alleys. There were more shops there than on Shida Road."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "敘述",
+      "text_zh": "他們逛了半天，白如玉覺得有一點餓，所以他們到一家麵店，點了兩碗牛肉麵。",
+      "pinyin": "Tāmen guàng le bàntiān, Bái Rúyù juéde yǒu yìdiǎn è, suǒyǐ tāmen dào yì jiā miàndiàn, diǎn le liǎng wǎn niúròumiàn.",
+      "translation_vn": "Họ đi dạo cả buổi, Bạch Như Ngọc thấy hơi đói nên cả hai vào một quán mì, gọi hai tô mì bò.",
+      "translation_en": "After walking around for a while, Bai Ruyu was hungry. They went to a noodle shop and ordered two bowls of beef noodles."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "敘述",
+      "text_zh": "他們一邊吃麵，一邊看著手機裡的地圖，發現離麵店不遠的巷子裡有一家賣背包的店。",
+      "pinyin": "Tāmen yìbiān chī miàn, yìbiān kànzhe shǒujī lǐ de dìtú, fāxiàn lí miàndiàn bù yuǎn de xiàngzi lǐ yǒu yì jiā mài bēibāo de diàn.",
+      "translation_vn": "Họ vừa ăn mì vừa xem bản đồ trong điện thoại, phát hiện trong một con hẻm cách quán mì không xa có một tiệm bán ba lô.",
+      "translation_en": "They checked out the map on the cell phone while eating and noticed a backpack shop in an alley not too far from the noodle shop."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "敘述",
+      "text_zh": "馬安同正好想買一個背包，所以決定吃了麵就到這家店去看看。",
+      "pinyin": "Mǎ Āntóng zhènghǎo xiǎng mǎi yí ge bēibāo, suǒyǐ juédìng chī le miàn jiù dào zhè jiā diàn qù kànkan.",
+      "translation_vn": "Mã An Đồng vừa hay đang muốn mua một cái ba lô nên quyết định ăn mì xong sẽ đến tiệm này xem thử.",
+      "translation_en": "Ma Antong was just thinking about getting a backpack, so they decided to go to the store after they finished eating."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "敘述",
+      "text_zh": "最後，馬安同買了一個背包，白如玉也在附近買了兩枝筆和一本本子。",
+      "pinyin": "Zuìhòu, Mǎ Āntóng mǎi le yí ge bēibāo, Bái Rúyù yě zài fùjìn mǎi le liǎng zhī bǐ hé yì běn běnzi.",
+      "translation_vn": "Cuối cùng, Mã An Đồng mua một cái ba lô, Bạch Như Ngọc cũng mua hai cây bút và một quyển vở gần đó.",
+      "translation_en": "Ma Antong bought a backpack and Bai Ruyu bought two pens and a notebook nearby."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "敘述",
+      "text_zh": "馬安同和白如玉都覺得，逛師大附近的店真有意思，吃的東西和日用品也很便宜。",
+      "pinyin": "Mǎ Āntóng hé Bái Rúyù dōu juéde, guàng Shīdà fùjìn de diàn zhēn yǒu yìsi, chī de dōngxi hé rìyòngpǐn yě hěn piányi.",
+      "translation_vn": "Mã An Đồng và Bạch Như Ngọc đều thấy đi dạo các cửa hàng quanh Sư Đại thật thú vị, đồ ăn và đồ dùng hằng ngày cũng rất rẻ.",
+      "translation_en": "Ma Antong and Bai Ruyu thought shopping in the NTNU area was fun and that the food and articles for daily use were very inexpensive."
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Chỉ đường trên bản đồ với 從…往…",
+      "kind": "picture",
+      "grammar_order": 1,
+      "instruction": "Dùng mẫu câu 從…往… để giải thích cách đi đến các địa điểm trên bản đồ sau. (Đáp án mẫu chỉ mang tính tham khảo, bạn có thể chọn đường đi khác.)",
+      "image": "/book2/l1/g1-map.jpg",
+      "questions": [
+        {
+          "question": "A 白如玉的家 → B 高鐵站：你怎麼走？",
+          "answer": "你從白如玉的家往右走，到了第二個路口，往左轉，再往前一直走，就到高鐵站了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A 郵局 → B 學校：你怎麼走？",
+          "answer": "你從郵局往前走，到了第一個紅綠燈，往右轉，再往前走，就看見學校了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A 學校 → B 捷運站：你怎麼走？",
+          "answer": "你從學校往左走，過了第二個紅綠燈，捷運站就在你的右邊。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A 火車站 → B 超市：你怎麼走？",
+          "answer": "你從火車站往左走，到了第二個路口，往右轉，再往前走，超市就在你的左邊。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A 銀行 → B 白如玉的家：你怎麼走？",
+          "answer": "你從銀行往前一直走，到了第一個路口，往左轉，白如玉的家就在你的左手邊。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Trả lời câu hỏi với V + 起來",
+      "kind": "rewrite",
+      "grammar_order": 2,
+      "instruction": "Trả lời các câu hỏi sau bằng mẫu câu V + 起來.",
+      "image": "",
+      "questions": [
+        {
+          "question": "這個水果很香、很甜嗎？",
+          "answer": "這個水果聞起來很香，吃起來很甜。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你買的新衣服漂不漂亮？",
+          "answer": "我買的新衣服看起來很漂亮，穿起來也很舒服。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這種茶怎麼樣？",
+          "answer": "這種茶聞起來很香，喝起來很好喝。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你昨天買的那枝筆好寫嗎？",
+          "answer": "那枝筆寫起來很好寫。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "西班牙文難學嗎？",
+          "answer": "西班牙文學起來不太難。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Mô tả người trong tranh với V + 著",
+      "kind": "picture",
+      "grammar_order": 3,
+      "instruction": "Mô tả người trong các bức tranh (dùng V + 著). (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book2/l1/g3-pictures.jpg",
+      "questions": [
+        {
+          "question": "圖 1",
+          "answer": "他摀著嘴。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2",
+          "answer": "她戴著耳機，聽著音樂。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3",
+          "answer": "他拿著一本書，看著書。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4",
+          "answer": "她閉著眼睛，想著事情。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 5",
+          "answer": "她穿著紅色的洋裝。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Mô tả hành động trong tranh với 一邊…一邊…",
+      "kind": "picture",
+      "grammar_order": 4,
+      "instruction": "Dùng 一邊…一邊… để mô tả người trong tranh đang làm gì. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book2/l1/g4-pictures.jpg",
+      "questions": [
+        {
+          "question": "圖 1",
+          "answer": "他一邊走路，一邊想事情。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2",
+          "answer": "她一邊踢足球，一邊聽音樂。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3",
+          "answer": "她一邊吃東西，一邊看電視。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4",
+          "answer": "她一邊走路，一邊聽音樂。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 5",
+          "answer": "老師一邊教課，學生一邊寫字。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Nói về khoảng cách với 離",
+      "kind": "picture",
+      "grammar_order": 5,
+      "instruction": "Dùng giới từ 離 để nói về khoảng cách giữa các địa điểm trong sơ đồ sau.",
+      "image": "/book2/l1/g5-chart.jpg",
+      "questions": [
+        {
+          "question": "陳月美的家 ↔ 學校",
+          "answer": "陳月美的家離學校很近，只有一百公尺。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "捷運站 ↔ 陳月美的家",
+          "answer": "捷運站離陳月美的家不太遠，大概八百公尺。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "陳月美的家 ↔ 高鐵站",
+          "answer": "陳月美的家離高鐵站六百五十公尺，走路不太遠。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "高鐵站 ↔ 超市",
+          "answer": "高鐵站離超市很遠，有三點七公里。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "郵局 ↔ 銀行",
+          "answer": "郵局離銀行很遠，有三點二公里。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Tìm người sống xa trường nhất",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Mô tả khoảng cách giữa hai nơi và thời gian đi từ nơi này đến nơi kia.\nNhiệm vụ: Lập nhóm 2–3 người. Lấy trường học làm điểm mốc, lần lượt nói nhà mình gần hay xa trường, đi bộ mất bao lâu, nếu cần phương tiện thì mất bao lâu và đi bằng gì. Xong thì chọn một người trong nhóm báo cáo cho cả lớp ai sống xa trường nhất, rồi so sánh với các nhóm khác.",
+      "image": "",
+      "questions": [
+        {
+          "question": "學生 A：我住在＿＿＿＿（地方），離學校＿＿＿＿。走路／坐公車／坐捷運要＿＿＿＿到學校。",
+          "answer": "我住在中和，離學校很遠。坐捷運要四十分鐘到學校。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hai việc có thể làm cùng lúc, hai việc không nên",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Mô tả hai hành động diễn ra cùng lúc.\nNhiệm vụ: Xem ai đặt được nhiều câu đúng nhất với 一邊…一邊…. Điền vào bảng các hành động và người thực hiện. Xong thì kiểm tra xem có hành động nào không nên làm cùng lúc không, rồi dùng 不能／可以一邊…，一邊… để khuyên.",
+      "image": "/book2/l1/a2-table.jpg",
+      "questions": [
+        {
+          "question": "吃晚飯 + 唱歌（方大同）",
+          "answer": "方大同一邊吃晚飯，一邊唱歌。這樣不太好，你不要一邊吃晚飯，一邊唱歌。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "看電視 + 講手機（王小美）",
+          "answer": "王小美一邊看電視，一邊講手機。你可以一邊看電視，一邊講手機，但是不要太大聲。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "開車 + 打電話（王小美）",
+          "answer": "王小美一邊開車，一邊打電話。這樣很危險，你不可以一邊開車，一邊打電話。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Đóng vai: hỏi đường và chỉ đường",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Hội thoại hỏi đường và chỉ đường.\nNhiệm vụ: Ghép cặp với bạn học. Lấy trường học làm điểm mốc (xem bản đồ), một người hỏi đường, người kia chỉ đường. Xong thì đổi vai và chọn một điểm đến khác.\nCó thể dùng các mẫu câu và từ sau: 從…往…, 路口, 一直, 右／左轉, 紅綠燈, 銀行, 超商, 郵局.",
+      "image": "/book2/l1/a3-map.jpg",
+      "questions": [
+        {
+          "question": "A 問路，B 指路",
+          "answer": "A：請問，到郵局怎麼走？\nB：你從學校大門往前一直走，到了第二個紅綠燈，往右轉，就看見郵局了。\nA：離這裡遠不遠？\nB：不遠，走路大概五分鐘。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Nói xem bạn nghĩ gì (dùng 起來)",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Đánh giá sự vật.\nNhiệm vụ: Dùng các động từ sau với 起來 để nói suy nghĩ của bạn về những thứ trong bảng: 看, 聽, 吃, 喝, 坐, 穿, 寫, 笑, 說, 學, 念, 住, 打, 逛, 拍(照).\nVí dụ: 臭豆腐聞（wén, ngửi）起來臭臭的，吃起來很好吃。 / 張老師笑起來很漂亮。",
+      "image": "/book2/l1/a4-table.jpg",
+      "questions": [
+        {
+          "question": "包子、蛋糕、牛肉麵……",
+          "answer": "包子吃起來很香。蛋糕吃起來很甜。牛肉麵吃起來很好吃。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "電視、手機、夜市……",
+          "answer": "這個電視看起來很大。這支手機用起來很方便。夜市逛起來很有意思。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

@@ -64,7 +64,7 @@ tiengtrung-app/
 ## Database Schema
 
 ```
-Lesson         { id, title_vn, title_zh, subtitle }
+Lesson         { id, book, title_vn, title_zh, subtitle }
 Vocabulary     { id, lesson_id, order_num, word_zh, pinyin, word_type, meaning_vn,
                  example_zh, example_pinyin, example_vn }
 Grammar        { id, lesson_id, order_num, title, explanation, examples (JSON string) }
@@ -105,6 +105,24 @@ Dialogue       { id, lesson_id, dialogue_num, line_order, speaker, text_zh, piny
    npx prisma db seed
    ```
    Seed tự động đọc `prisma/data/*.json` và upsert tất cả bài.
+
+---
+
+## Nhiều cuốn giáo trình (book)
+
+- `Lesson.book`: 1 = Đương Đại 1, 2 = Đương Đại 2 (tên hiển thị ở `lib/lessons.ts`).
+- **Lesson.id = book × 100 + số bài** → cuốn 1: 1–15, cuốn 2: 101–115. UI hiển thị số bài bằng `lessonNumber(id)` (= `id % 100`), sidebar/flashcard nhóm theo cuốn bằng `groupByBook`.
+- File dữ liệu cuốn 2: `prisma/data/book2_lesson<N>.json`, có `"id": 100+N` và `"book": 2`.
+- Nguồn PDF cuốn 2: `SachPdf/File sách giáo trình 2.pdf` (456 trang, 15 bài, bài 1 bắt đầu ở trang 28). Text layer bị OCR lỗi (vd 起來→超來, pinyin vỡ) nên phải đối chiếu ảnh trang khi lấy từ vựng/ngữ pháp.
+- Seed riêng một file (không đụng các bài khác): `npx tsx prisma/seed.ts book2_lesson1.json`.
+- DB thật là Neon PostgreSQL (`.env`), không phải SQLite; đổi schema dùng `npx prisma db push`.
+
+### Bài tập kiểu sách (cả cuốn 1 và cuốn 2)
+
+- `Exercise` có thêm: `kind` (`fill` | `dialogue` | `reorder` | `rewrite` | `picture` | `activity`), `grammar_order` (gắn với mẫu ngữ pháp số N, 0 = không gắn), `instruction` (lời dặn tiếng Việt), `image` (đường dẫn ảnh trong `public/`). `ExerciseQuestion` có thêm `image`.
+- `fill` = điền ô và tự chấm (cuốn 1, `answer` là mảng JSON). Các kind còn lại là câu mở: người học tự gõ rồi bấm "Xem đáp án mẫu" (`answer` là chuỗi, có thể nhiều dòng); `activity` là hoạt động trên lớp, không có ô nhập.
+- UI nhóm bài tập theo `grammar_order` (tiêu đề "Mẫu ngữ pháp N"), hoạt động trên lớp xếp cuối.
+- Ảnh cắt từ PDF đặt ở `public/book1/l<N>/` (cuốn 1) và `public/book2/l<N>/` (cuốn 2), dùng đường dẫn `/book<B>/l<N>/<tên>.jpg`. Đáp án mẫu ở các bài nhìn tranh chỉ mang tính tham khảo (sách không có đáp án).
 
 ---
 

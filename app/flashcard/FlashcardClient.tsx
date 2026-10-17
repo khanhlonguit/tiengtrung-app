@@ -1,10 +1,11 @@
 'use client';
 
-import { useState, useCallback, useEffect } from 'react';
+import { Fragment, useState, useCallback, useEffect } from 'react';
 import Link from 'next/link';
 import styles from './flashcard.module.css';
 import { speak, initVoices } from '@/lib/useTTS';
 import { useTheme } from '@/app/ThemeProvider';
+import { bookName, groupByBook, lessonNumber } from '@/lib/lessons';
 
 type Vocab = {
   id: number; lesson_id: number; order_num: number;
@@ -20,6 +21,7 @@ type Vocab = {
 
 type LessonItem = {
   id: number;
+  book: number;
   title_vn: string;
   title_zh: string;
 };
@@ -278,29 +280,34 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
             <p className={styles.selectDesc}>Chọn bài muốn ôn từ vựng</p>
 
             <div className={styles.lessonChecks}>
-              {lessons.map(l => (
-                <label
-                  key={l.id}
-                  className={`${styles.lessonCheck} ${selectedLessons.has(l.id) ? styles.lessonCheckActive : ''}`}
-                >
-                  <input
-                    type="checkbox"
-                    checked={selectedLessons.has(l.id)}
-                    onChange={() => toggleLesson(l.id)}
-                    className={styles.checkInput}
-                  />
-                  <div className={styles.checkContent}>
-                    <span className={styles.checkNum}>Bài {l.id}</span>
-                    <span className={styles.checkTitle}>{l.title_zh}</span>
-                  </div>
-                  <div className={`${styles.checkMark} ${selectedLessons.has(l.id) ? styles.checkMarkActive : ''}`}>
-                    {selectedLessons.has(l.id) && (
-                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" width="14" height="14">
-                        <polyline points="20 6 9 17 4 12"/>
-                      </svg>
-                    )}
-                  </div>
-                </label>
+              {groupByBook(lessons).map(group => (
+                <Fragment key={group.book}>
+                  <div className={styles.bookLabel}>{bookName(group.book)}</div>
+                  {group.lessons.map(l => (
+                    <label
+                      key={l.id}
+                      className={`${styles.lessonCheck} ${selectedLessons.has(l.id) ? styles.lessonCheckActive : ''}`}
+                    >
+                      <input
+                        type="checkbox"
+                        checked={selectedLessons.has(l.id)}
+                        onChange={() => toggleLesson(l.id)}
+                        className={styles.checkInput}
+                      />
+                      <div className={styles.checkContent}>
+                        <span className={styles.checkNum}>Bài {lessonNumber(l.id)}</span>
+                        <span className={styles.checkTitle}>{l.title_zh}</span>
+                      </div>
+                      <div className={`${styles.checkMark} ${selectedLessons.has(l.id) ? styles.checkMarkActive : ''}`}>
+                        {selectedLessons.has(l.id) && (
+                          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" width="14" height="14">
+                            <polyline points="20 6 9 17 4 12"/>
+                          </svg>
+                        )}
+                      </div>
+                    </label>
+                  ))}
+                </Fragment>
               ))}
             </div>
 
@@ -370,7 +377,7 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
           </div>
           <div className={styles.progressText}>
             <span>{currentIndex + 1} / {cards.length}</span>
-            <span className={styles.lessonTag}>Bài {current?.lesson_id}</span>
+            <span className={styles.lessonTag}>{current && `${bookName(Math.floor(current.lesson_id / 100) + 1)} · Bài ${lessonNumber(current.lesson_id)}`}</span>
           </div>
 
           {/* Card */}

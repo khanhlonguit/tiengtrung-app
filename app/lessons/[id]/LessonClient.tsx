@@ -1,19 +1,20 @@
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
+import { Fragment, useState, useEffect, useCallback } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
 import styles from './lesson.module.css';
 import { speak, initVoices } from '@/lib/useTTS';
 import { pinyin as pinyinConvert } from 'pinyin-pro';
 import { useTheme } from '@/app/ThemeProvider';
+import { bookName, groupByBook, lessonNumber } from '@/lib/lessons';
 
 function toPinyin(text: string): string {
   if (!text) return '';
   return pinyinConvert(text, { toneType: 'symbol', separator: ' ' });
 }
 
-type Lesson = { id: number; title_vn: string; title_zh: string; subtitle: string };
+type Lesson = { id: number; book: number; title_vn: string; title_zh: string; subtitle: string };
 type Vocab = {
   id: number; lesson_id: number; order_num: number;
   word_zh: string; pinyin: string; word_type: string;
@@ -34,14 +35,15 @@ type Dialogue = {
   speaker: string; text_zh: string; pinyin: string; translation_vn: string; translation_en: string;
 };
 type ExerciseQuestion = {
-  id: number; exercise_id: number; question: string; answer: string; hint: string;
+  id: number; exercise_id: number; question: string; answer: string; hint: string; image?: string;
 };
 type Exercise = {
   id: number; lesson_id: number; title: string; questions: ExerciseQuestion[];
+  kind?: string; grammar_order?: number; instruction?: string; image?: string;
 };
 type LessonData = { lesson: Lesson; vocabulary: Vocab[]; grammar: Grammar[]; dialogues: Dialogue[]; exercises: Exercise[] };
 
-type LessonItem = { id: number; title_vn: string; title_zh: string };
+type LessonItem = { id: number; book: number; title_vn: string; title_zh: string };
 
 type Tab = 'vocab' | 'grammar' | 'dialogue' | 'exercise';
 
@@ -54,6 +56,7 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
   const [tab, setTab] = useState<Tab>('vocab');
   const [loading, setLoading] = useState(true);
   const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [openBooks, setOpenBooks] = useState<Record<number, boolean>>({});
   const [sidebarWidth, setSidebarWidth] = useState(260);
   const [isDragging, setIsDragging] = useState(false);
   const [expandedVocab, setExpandedVocab] = useState<Set<number>>(new Set());
@@ -140,6 +143,28 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
     return acc;
   }, {}) ?? {};
 
+  // Bài tập: nhóm theo điểm ngữ pháp như trong sách; hoạt động trên lớp xếp cuối
+  const ACTIVITY_RANK = 1000;
+  const exerciseRank = (ex: Exercise) => (ex.kind === 'activity' ? ACTIVITY_RANK : ex.grammar_order ?? 0);
+  const exerciseItems = (data?.exercises ?? [])
+    .map((ex, i) => ({ ex, i }))
+    .sort((a, b) => exerciseRank(a.ex) - exerciseRank(b.ex) || a.i - b.i);
+  const exerciseHeading = (rank: number): string | null => {
+    if (rank === 0) return null;
+    if (rank === ACTIVITY_RANK) return 'Hoạt động trên lớp';
+    const g = data?.grammar.find(x => x.order_num === rank);
+    return g ? `Mẫu ngữ pháp ${rank}: ${g.title}` : `Mẫu ngữ pháp ${rank}`;
+  };
+  const parseSample = (raw: string): string[] => {
+    try {
+      const v = JSON.parse(raw);
+      if (Array.isArray(v)) return v.map(String);
+    } catch {
+      // câu trả lời mẫu dạng chữ thường
+    }
+    return [raw];
+  };
+
   return (
     <div 
       className={styles.layout} 
@@ -180,22 +205,44 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
           </Link>
 
           <div className={styles.navLabel} style={{ marginTop: 16 }}>Bài Học</div>
-          {allLessons.map(l => (
-            <Link
-              key={l.id}
-              href={`/lessons/${l.id}`}
-              className={`${styles.navItem} ${l.id === lessonId ? styles.navItemActive : ''}`}
-              onClick={() => {
-                if (window.innerWidth <= 768) setSidebarOpen(false);
-              }}
-            >
-              <span className={styles.navNum}>{String(l.id).padStart(2, '0')}</span>
-              <span className={styles.navText}>
-                <span className={styles.navTitle}>{l.title_vn}</span>
-                <span className={styles.navSub}>{l.title_zh}</span>
-              </span>
-            </Link>
-          ))}
+          {groupByBook(allLessons).map(group => {
+            const activeBook = allLessons.find(l => l.id === lessonId)?.book;
+            const isOpen = openBooks[group.book] ?? group.book === activeBook;
+            return (
+              <div key={group.book} className={styles.bookGroup}>
+                <button
+                  type="button"
+                  className={`${styles.bookHeader} ${group.book === activeBook ? styles.bookHeaderActive : ''}`}
+                  onClick={() => setOpenBooks(prev => ({ ...prev, [group.book]: !isOpen }))}
+                  aria-expanded={isOpen}
+                >
+                  <span className={`${styles.bookChevron} ${isOpen ? styles.bookChevronOpen : ''}`} aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" width="12" height="12">
+                      <polyline points="9 6 15 12 9 18"/>
+                    </svg>
+                  </span>
+                  <span className={styles.bookName}>{bookName(group.book)}</span>
+                  <span className={styles.bookCount}>{group.lessons.length} bài</span>
+                </button>
+                {isOpen && group.lessons.map(l => (
+                  <Link
+                    key={l.id}
+                    href={`/lessons/${l.id}`}
+                    className={`${styles.navItem} ${styles.navItemNested} ${l.id === lessonId ? styles.navItemActive : ''}`}
+                    onClick={() => {
+                      if (window.innerWidth <= 768) setSidebarOpen(false);
+                    }}
+                  >
+                    <span className={styles.navNum}>{String(lessonNumber(l.id)).padStart(2, '0')}</span>
+                    <span className={styles.navText}>
+                      <span className={styles.navTitle}>{l.title_vn}</span>
+                      <span className={styles.navSub}>{l.title_zh}</span>
+                    </span>
+                  </Link>
+                ))}
+              </div>
+            );
+          })}
         </div>
 
 
@@ -218,7 +265,7 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
             </button>
             {data && (
               <div className={styles.breadcrumb}>
-                <span className={styles.breadLesson}>Bài {lessonId}</span>
+                <span className={styles.breadLesson}>{bookName(data.lesson.book)} · Bài {lessonNumber(lessonId)}</span>
                 <span className={styles.breadSep}>›</span>
                 <span className={styles.breadTab}>
                   {tab === 'vocab' ? 'Từ Vựng' : tab === 'grammar' ? 'Ngữ Pháp' : tab === 'dialogue' ? 'Hội Thoại' : 'Bài Tập'}
@@ -280,7 +327,7 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
             <>
               {/* Lesson hero */}
               <div className={styles.lessonHero}>
-                <div className={styles.heroTag}>Bài {lessonId}</div>
+                <div className={styles.heroTag}>{bookName(data.lesson.book)} · Bài {lessonNumber(lessonId)}</div>
                 <h1 className={styles.heroZh}>{data.lesson.title_zh}</h1>
                 <p className={styles.heroVn}>{data.lesson.title_vn}</p>
                 <p className={styles.heroSub}>{data.lesson.subtitle}</p>
@@ -456,6 +503,38 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                   </div>
                   {Object.entries(groupedDialogues).map(([num, lines]) => {
                     const uniqueSpeakers = Array.from(new Set(lines.map((l: any) => l.speaker)));
+                    // Nhóm chỉ có một người nói (đoạn kể chuyện) -> hiển thị như đoạn văn
+                    if (uniqueSpeakers.length === 1 && lines.length > 1) {
+                      const fullText = lines.map(l => l.text_zh).join('');
+                      return (
+                        <div key={num} className={styles.dialogueBlock}>
+                          <div className={styles.dialogueBlockTitle}>Đoạn văn {num}</div>
+                          <div className={styles.passage}>
+                            <div className={styles.dialogueZhRow}>
+                              <p className={styles.passageZh}>
+                                {lines.map(line => (
+                                  <span
+                                    key={line.id}
+                                    className={styles.passageSentence}
+                                    onClick={() => speak(line.text_zh)}
+                                    title="Bấm để nghe câu này"
+                                  >{line.text_zh}</span>
+                                ))}
+                              </p>
+                              <button
+                                className={styles.speakBtnSm}
+                                onClick={() => speak(fullText)}
+                                title="Nghe cả đoạn"
+                                aria-label="Nghe cả đoạn văn"
+                              >🔊</button>
+                            </div>
+                            {showPinyin && <p className={styles.passagePinyin}>{lines.map(l => l.pinyin).join(' ')}</p>}
+                            {showVn && <p className={styles.passageVn}>{lines.map(l => l.translation_vn).join(' ')}</p>}
+                            {showEn && <p className={styles.passageEn}>{lines.map(l => l.translation_en).join(' ')}</p>}
+                          </div>
+                        </div>
+                      );
+                    }
                     return (
                       <div key={num} className={styles.dialogueBlock}>
                         <div className={styles.dialogueBlockTitle}>Hội thoại {num}</div>
@@ -498,7 +577,79 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                     <span className={styles.badge}>{data.exercises?.length || 0} bài tập</span>
                   </div>
                   <div className={styles.exerciseList}>
-                    {data.exercises?.map((ex, idx) => {
+                    {exerciseItems.map(({ ex, i: idx }, k) => {
+                      const rank = exerciseRank(ex);
+                      const heading = k === 0 || exerciseRank(exerciseItems[k - 1].ex) !== rank ? exerciseHeading(rank) : null;
+                      const headingEl = heading ? <h3 className={styles.exerciseGroupTitle}>{heading}</h3> : null;
+                      if (ex.kind && ex.kind !== 'fill') {
+                        const isActivity = ex.kind === 'activity';
+                        return (
+                          <Fragment key={ex.id}>
+                            {headingEl}
+                            <div className={styles.exerciseCard}>
+                              <h3 className={styles.exerciseTitle}>
+                                <span className={styles.exerciseNum}>{isActivity ? 'Hoạt động' : `Bài ${idx + 1}:`}</span> {ex.title}
+                              </h3>
+                              {ex.instruction && <p className={styles.exerciseInstruction}>{ex.instruction}</p>}
+                              {ex.image && (
+                                // eslint-disable-next-line @next/next/no-img-element
+                                <img className={styles.exerciseImage} src={ex.image} alt={ex.title} loading="lazy" />
+                              )}
+                              <div className={styles.exerciseQuestions}>
+                                {ex.questions.map((q, qIdx) => {
+                                  const isShowAns = showExerciseAnswers[q.id];
+                                  const samples = q.answer ? parseSample(q.answer) : [];
+                                  return (
+                                    <div key={q.id} className={styles.exerciseQuestionItem}>
+                                      <div className={styles.questionText} style={{ whiteSpace: 'pre-line' }}>
+                                        <span className={styles.qNum}>{qIdx + 1}.</span> {q.question}
+                                      </div>
+                                      {q.image && (
+                                        // eslint-disable-next-line @next/next/no-img-element
+                                        <img className={styles.exerciseImage} src={q.image} alt="" loading="lazy" />
+                                      )}
+                                      {q.hint && <div className={styles.questionHint}>Gợi ý: {q.hint}</div>}
+                                      <div className={styles.questionAction}>
+                                        {!isActivity && (
+                                          <input
+                                            type="text"
+                                            className={styles.exerciseInput}
+                                            value={exerciseAnswers[q.id] || ''}
+                                            onChange={(e) => setExerciseAnswers(prev => ({ ...prev, [q.id]: e.target.value }))}
+                                            placeholder="Viết câu trả lời của bạn..."
+                                          />
+                                        )}
+                                        {samples.length > 0 && (
+                                          <button
+                                            className={styles.showAnsBtn}
+                                            onClick={() => setShowExerciseAnswers(prev => ({ ...prev, [q.id]: !prev[q.id] }))}
+                                          >
+                                            {isShowAns ? 'Ẩn' : isActivity ? 'Xem gợi ý mẫu' : 'Xem đáp án mẫu'}
+                                          </button>
+                                        )}
+                                      </div>
+                                      {isShowAns && (
+                                        <div className={styles.answerText} style={{ whiteSpace: 'pre-line' }}>
+                                          {isActivity ? 'Gợi ý mẫu' : 'Đáp án mẫu'}: <strong>{samples.join('\n')}</strong>
+                                          <span className={styles.answerPinyin}>
+                                            {samples.map(a => toPinyin(a)).join('\n')}
+                                          </span>
+                                          <button
+                                            className={styles.speakBtnSm}
+                                            onClick={() => speak(samples[0])}
+                                            title="Phát âm"
+                                            aria-label="Phát âm đáp án mẫu"
+                                          >🔊</button>
+                                        </div>
+                                      )}
+                                    </div>
+                                  );
+                                })}
+                              </div>
+                            </div>
+                          </Fragment>
+                        );
+                      }
                       const isGraded = exerciseGraded[ex.id];
                       
                       let correctCount = 0;
@@ -520,10 +671,13 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                       }
 
                       return (
-                      <div key={ex.id} className={styles.exerciseCard}>
+                      <Fragment key={ex.id}>
+                      {headingEl}
+                      <div className={styles.exerciseCard}>
                         <h3 className={styles.exerciseTitle}>
                           <span className={styles.exerciseNum}>Bài {idx + 1}:</span> {ex.title}
                         </h3>
+                        {ex.instruction && <p className={styles.exerciseInstruction}>{ex.instruction}</p>}
                         <div className={styles.exerciseQuestions}>
                           {ex.questions.map((q, qIdx) => {
                             let answerArr: string[] = [];
@@ -596,6 +750,7 @@ export default function LessonClient({ allLessons }: { allLessons: LessonItem[] 
                            )}
                         </div>
                       </div>
+                      </Fragment>
                     )})}
                   </div>
                 </section>

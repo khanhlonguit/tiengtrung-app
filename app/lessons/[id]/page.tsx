@@ -7,6 +7,7 @@ export default async function LessonPage() {
   const allLessons = await prisma.lesson.findMany({
     select: {
       id: true,
+      book: true,
       title_vn: true,
       title_zh: true,
     },

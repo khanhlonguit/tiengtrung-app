@@ -720,5 +720,307 @@
       "translation_vn": "Tốt quá rồi! Vậy chúng ta có thể gặp lại nhau nữa rồi.",
       "translation_en": "That's great! Then we can meet again."
     }
+  ],
+  "exercises": [
+    {
+      "title": "Hoàn thành tình huống với 先…再… theo tranh",
+      "kind": "picture",
+      "grammar_order": 1,
+      "instruction": "Hoàn thành các tình huống dưới đây dựa vào tranh, dùng 先…再…. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l12/g1b-pictures.jpg",
+      "questions": [
+        {
+          "question": "1　我每天先＿＿＿＿＿＿＿＿，再＿＿＿＿＿＿＿＿。（圖：先看書，再寫字）",
+          "answer": "我每天先看書，再寫字。",
+          "hint": "",
+          "image": "/book1/l12/g1a-pictures.jpg"
+        },
+        {
+          "question": "2　他想先＿＿＿＿＿＿＿＿，再＿＿＿＿＿＿＿＿。（圖：打籃球，再回宿舍）",
+          "answer": "他想先打籃球，再回宿舍。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3　我常先＿＿＿＿＿＿＿＿，再＿＿＿＿＿＿＿＿。（圖：小姐先吃蛋糕，再喝水）",
+          "answer": "我常先吃蛋糕，再喝水。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "4　我今天晚上要先＿＿＿＿＿＿＿＿，再＿＿＿＿＿＿＿＿。（圖：小姐先畫眼線，再擦口紅）",
+          "answer": "我今天晚上要先化眼妝，再擦口紅。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "5　他們明天打算先去＿＿＿＿＿＿＿＿，再去＿＿＿＿＿＿＿＿。（圖：KTV 唱歌、看電影）",
+          "answer": "他們明天打算先去 KTV 唱歌，再去看電影。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Đóng vai A/B với 是…的 theo tranh",
+      "kind": "picture",
+      "grammar_order": 2,
+      "instruction": "Dựa vào các bức tranh, lần lượt đóng vai A và B, dùng mẫu 是…的 để hỏi đáp về việc đã xảy ra. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l12/g2-pictures.jpg",
+      "questions": [
+        {
+          "question": "1　A：他（是什麼時候）去學校的？\nB：他是＿＿＿＿去學校的。（圖：時鐘 6:35）",
+          "answer": "B：他是六點半去學校的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "2　A：（在哪裡？）\nB：＿＿＿＿＿＿＿＿。（圖：在餐廳吃飯）",
+          "answer": "B：他們是在學校餐廳吃飯的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3　A：（怎麼去？）\nB：＿＿＿＿＿＿＿＿。（圖：捷運車廂裡）",
+          "answer": "B：她是坐捷運去的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "4　A：（跟誰去？）\nB：＿＿＿＿＿＿＿＿。（圖：一家人在高鐵站）",
+          "answer": "B：他們是跟家人去的。（hoặc：他們是一家人一起去的）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "5　A：（學費誰付？）\nB：＿＿＿＿＿＿＿＿。（圖：老闆坐在辦公室）",
+          "answer": "B：學費是公司替我付的。（hoặc：學費是老闆付的）",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành hội thoại với 以後",
+      "kind": "dialogue",
+      "grammar_order": 3,
+      "instruction": "Hoàn thành các đoạn hội thoại sau bằng 以後. Ví dụ ở câu 1 đã làm sẵn.",
+      "image": "",
+      "questions": [
+        {
+          "question": "1　你每天幾點吃晚飯？——我每天七點半以後吃晚飯。（ví dụ）",
+          "answer": "我每天七點半以後吃晚飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "2　我們什麼時候去吃晚飯？——＿＿＿＿＿＿＿＿。",
+          "answer": "我們下課以後去吃晚飯。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3　你什麼時候回國？——＿＿＿＿＿＿＿＿。",
+          "answer": "我學完中文以後回國。（hoặc：我三個月以後回國。）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "4　你是什麼時候去圖書館的？——＿＿＿＿＿＿＿＿。",
+          "answer": "我是下課以後去圖書館的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "5　你是什麼時候學中文的？——＿＿＿＿＿＿＿＿。",
+          "answer": "我是來臺灣以後學中文的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "6　他是什麼時候打電話給你的？——＿＿＿＿＿＿＿＿。",
+          "answer": "他是吃完晚飯以後打電話給我的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "7　半年以後，你打算做什麼？——＿＿＿＿＿＿＿＿。",
+          "answer": "半年以後，我打算回國找工作。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "8　一個月以後，你要去旅行嗎？——＿＿＿＿＿＿＿＿。",
+          "answer": "要，一個月以後我要去花蓮旅行。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "9　昨天你下課以後做什麼？——＿＿＿＿＿＿＿＿。",
+          "answer": "昨天我下課以後去圖書館看書。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "10　回國以後，你想做什麼？——＿＿＿＿＿＿＿＿。",
+          "answer": "回國以後，我想找一個會說中文的工作。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Ý nghĩa đặc biệt của 好／難 + động từ",
+      "kind": "rewrite",
+      "grammar_order": 4,
+      "instruction": "Hoàn thành các câu bằng 好 hoặc 難 kết hợp với động từ thích hợp (ăn, uống, xem, nghe, học, viết, làm, tìm…).",
+      "image": "",
+      "questions": [
+        {
+          "question": "日本菜＿＿＿＿也＿＿＿＿。（ngon và đẹp mắt）",
+          "answer": "日本菜好吃也好看。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "好工作很＿＿＿＿。（khó tìm）",
+          "answer": "好工作很難找。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這個歌＿＿＿＿也＿＿＿＿。（hay nghe và dễ hát）",
+          "answer": "這個歌好聽也好唱。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "這家店賣的小籠包不＿＿＿＿。（không dễ làm）",
+          "answer": "這家店賣的小籠包不好做。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "老師常常說中文不＿＿＿＿。（không khó học）",
+          "answer": "老師常常說中文不難學。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Kế hoạch của 小美 (đúng / sai)",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách nói về thứ tự các sự việc.\nNhiệm vụ: Đọc lịch ngày 6/6 (thứ Sáu) của 小美 và điền \"T\" (đúng) hoặc \"F\" (sai) vào mỗi câu theo thông tin trong lịch.",
+      "image": "/book1/l12/a1-notes.jpg",
+      "questions": [
+        {
+          "question": "(　) 先去學校，再去吃飯。",
+          "answer": "F（Lịch: 8:00 đi với mẹ đến trường đóng học phí rồi 9:00–12:00 học tiếng Trung; 12:00 mới đến nhà bác Lý ăn cơm.）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "(　) 先吃中飯，再上中文課。",
+          "answer": "F（Lịch: học tiếng Trung 9:00–12:00 trước, 12:00 mới ăn trưa.）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "(　) 先買包子，再去看電影。",
+          "answer": "F（Lịch: 17:00 đi xem phim cùng bạn, 20:00 mới mua bánh bao.）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "(　) 先上中文課，再學書法。",
+          "answer": "T（Lịch: 9:00–12:00 học tiếng Trung, 14:00–15:00 học thư pháp.）",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "(　) 先去李伯母家，再去看電影。",
+          "answer": "T（Lịch: 12:00 ăn trưa ở nhà bác Lý, 17:00 đi xem phim.）",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Một ngày của 大朋",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách nói về những việc bạn bè đã làm.\nNhiệm vụ 1: Ghép cặp, thay phiên hỏi và trả lời về những gì 大朋 đã làm hôm qua. Ví dụ: 大朋的咖啡是在那家便利商店買的。\nNhiệm vụ 2: Mang ảnh đến lớp. Dùng mẫu 是…的 để miêu tả bức ảnh với cả lớp. Ví dụ: 這張照片是在…照的／是今年三月照的／是跟朋友一起照的／…是怎麼去的／是…幫我們照的。",
+      "image": "/book1/l12/a2a-pictures.jpg",
+      "questions": [
+        {
+          "question": "圖 1：在哪裡／買（咖啡）",
+          "answer": "大朋的咖啡是在那家便利商店買的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2：怎麼（去）",
+          "answer": "大朋是坐公車去的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3：什麼時候（教室、時鐘）",
+          "answer": "大朋是早上八點上課的。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4：跟（誰）",
+          "answer": "大朋是跟朋友一起去的。",
+          "hint": "",
+          "image": "/book1/l12/a2b-pictures.jpg"
+        },
+        {
+          "question": "圖 5：誰（240 元）",
+          "answer": "大朋的午飯是他自己付的錢。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "用 是…的 說明你帶來的照片",
+          "answer": "這張照片是今年三月在花蓮照的，是我朋友幫我照的。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Kế hoạch học tập của bạn",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách miêu tả kế hoạch học tập và kế hoạch tương lai.\nNhiệm vụ: Nói với cả lớp kế hoạch của bạn, bao gồm bạn ở Đài Loan được bao lâu rồi, dự định ở lại bao lâu, kế hoạch học tập trong tương lai (ở Đài Loan hoặc khi về nước) và kế hoạch nghề nghiệp.",
+      "image": "",
+      "questions": [
+        {
+          "question": "用中文說說你的計畫",
+          "answer": "我來臺灣三個月了，打算再學一年中文。學完中文以後，我想回國找一個會說中文的工作。以後我還想再來臺灣旅行。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Bạn đã từng đi làm chưa?",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách miêu tả kinh nghiệm của bạn.\nNhiệm vụ: Nếu bạn có kinh nghiệm làm việc, hãy chia sẻ với cả lớp. Các bạn khác đặt câu hỏi sau khi bạn nói xong.",
+      "image": "",
+      "questions": [
+        {
+          "question": "你工作過嗎？",
+          "answer": "我工作過。我在越南的一家公司工作了兩年，是做生意的。下班以後我常學中文。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    }
   ]
 }

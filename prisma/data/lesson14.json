@@ -691,5 +691,361 @@
       "translation_vn": "Không có chi. Cẩn thận, đi thong thả nhé.",
       "translation_en": "You're welcome. Take care, have a safe trip."
     }
+  ],
+  "exercises": [
+    {
+      "title": "Trả lời câu hỏi bằng khoảng thời gian sau 了",
+      "kind": "dialogue",
+      "grammar_order": 1,
+      "instruction": "Trả lời các câu hỏi bằng mẫu Khoảng thời gian sau 了. Ví dụ: 去年你學中文學了幾個月？——我一共學了五個月。",
+      "image": "",
+      "questions": [
+        {
+          "question": "你等了多久？\n我等了＿＿＿＿＿＿＿＿。",
+          "answer": "我等了十分鐘。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你在臺南玩了多久？\n我玩了＿＿＿＿＿＿＿＿。",
+          "answer": "我玩了三天。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他在臺北住了多久？\n他住了＿＿＿＿＿＿＿＿。",
+          "answer": "他住了兩年。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你昨天打網球打了幾個鐘頭？\n我＿＿＿＿＿＿＿＿。",
+          "answer": "我打了兩個鐘頭的網球。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你在紐約住了兩年吧？\n我＿＿＿＿＿＿＿＿，只＿＿＿＿＿＿＿＿。（八個月）",
+          "answer": "我沒住兩年，只住了八個月。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你昨天看電視看了三個鐘頭，對不對？\n我＿＿＿＿＿＿＿＿，只＿＿＿＿＿＿＿＿。（兩個鐘頭）",
+          "answer": "我沒看三個鐘頭，只看了兩個鐘頭。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Trả lời bằng 了…了 + khoảng thời gian",
+      "kind": "dialogue",
+      "grammar_order": 2,
+      "instruction": "Trả lời các câu hỏi bằng mẫu 了…了 + khoảng thời gian (hành động đã kéo dài đến lúc nói). Ví dụ: 你在語言中心學了多久的中文？——我學了兩個多月了。",
+      "image": "",
+      "questions": [
+        {
+          "question": "你在臺灣工作了多久了？\n我工作了＿＿＿＿＿＿＿＿。",
+          "answer": "我工作了一年了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "陳老師教了多久了？\n他教了＿＿＿＿＿＿＿＿。",
+          "answer": "他教了三年了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他在那裡住了多久了？\n他住了＿＿＿＿＿＿＿＿。",
+          "answer": "他住了半年了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "玉山下雪下了多久了？\n玉山已經＿＿＿＿＿＿＿＿。",
+          "answer": "玉山已經下了三天雪了。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Trả lời về những việc sắp xảy ra với 快…了",
+      "kind": "dialogue",
+      "grammar_order": 3,
+      "instruction": "Trả lời các câu hỏi dựa trên những sự việc sắp xảy ra. Điền 快/快要/要 và 了 cho thích hợp.",
+      "image": "",
+      "questions": [
+        {
+          "question": "A：你的老師回國了嗎？\nB：他＿＿＿＿＿＿＿＿。大概後天吧！",
+          "answer": "B：他快回國了。大概後天吧！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：安同的生日是幾月幾號？\nB：他的生日＿＿＿＿＿＿＿＿。下個月一號。",
+          "answer": "B：他的生日快到了。下個月一號。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：已經十一點了，哥哥怎麼還沒來？\nB：＿＿＿＿＿＿＿＿。他說五分鐘以後會到。",
+          "answer": "B：他快到了。他說五分鐘以後會到。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你等一下可以打電話給我嗎？\nB：不行，電影＿＿＿＿＿＿＿＿開始了。",
+          "answer": "B：不行，電影快要開始了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：外面風怎麼那麼大？\nB：＿＿＿＿＿＿＿＿下雨了，我們走吧！",
+          "answer": "B：快要下雨了，我們走吧！",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "So sánh hơn nữa với 比…更…",
+      "kind": "rewrite",
+      "grammar_order": 4,
+      "instruction": "Miêu tả các tình huống sau bằng mẫu so sánh 比…更… (còn hơn nữa).",
+      "image": "",
+      "questions": [
+        {
+          "question": "一張高鐵票賣一千塊錢，一張飛機票要一千三百五十塊錢。",
+          "answer": "飛機票比高鐵票更貴。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "安同吃了兩碗牛肉麵，明華吃了三碗牛肉麵。",
+          "answer": "明華比安同吃得更多。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "去年有 35000 人來這裡學中文，今年有 52000 人來這裡學中文。",
+          "answer": "今年學中文的人比去年更多。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我學了三年的中文，我女朋友學了四年半的中文。",
+          "answer": "我女朋友比我學中文學得更久。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "騎機車去故宮要二十分鐘，坐公車去故宮要半個鐘頭。",
+          "answer": "坐公車比騎機車更慢。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Trả lời bằng A 沒有 B 那麼／這麼…",
+      "kind": "dialogue",
+      "grammar_order": 5,
+      "instruction": "Trả lời các câu hỏi bằng mẫu A 沒有 B 那麼／這麼…. Ví dụ: 哥哥和弟弟，誰比較高？——哥哥沒有弟弟那麼高。",
+      "image": "",
+      "questions": [
+        {
+          "question": "臺北和紐約，哪裡比較冷？\n＿＿＿＿＿＿＿＿。",
+          "answer": "臺北沒有紐約那麼冷。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "西瓜和芒果，哪種水果比較甜？\n＿＿＿＿＿＿＿＿。",
+          "answer": "西瓜沒有芒果那麼甜。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "今年的生意好還是去年的好？\n＿＿＿＿＿＿＿＿。",
+          "answer": "今年的生意沒有去年的那麼好。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "咖啡好喝，還是烏龍茶好喝？\n＿＿＿＿＿＿＿＿。",
+          "answer": "咖啡沒有烏龍茶那麼好喝。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Bốn mùa",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách miêu tả bốn mùa và giải thích vì sao bạn thích hoặc không thích một mùa.\nNhiệm vụ: Kể với cả lớp về khí hậu quê hương bạn. Bạn thích mùa nào nhất, ít nhất? Vì sao? Dùng mẫu 因為…所以….",
+      "image": "/book1/l14/a1-seasons.jpg",
+      "questions": [
+        {
+          "question": "你喜歡春天嗎？為什麼？",
+          "answer": "喜歡。因為春天不冷也不熱，所以我很喜歡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你喜歡夏天嗎？為什麼？",
+          "answer": "不喜歡。因為夏天太熱了，所以我不喜歡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你喜歡秋天嗎？為什麼？",
+          "answer": "喜歡。因為秋天很涼快，所以我很喜歡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你喜歡冬天嗎？為什麼？",
+          "answer": "不喜歡。因為冬天太冷了，所以我不想出去。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Bạn đã sống ở đó bao lâu?",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách nói về trải nghiệm của bản thân.\nNhiệm vụ: Hỏi bạn học xem họ đã sống ở những đâu và ở mỗi nơi bao lâu. Ghi lại kết quả và báo cáo cho cả lớp.\nVí dụ: 安同在西班牙住了多久？——安同在西班牙住了兩個月（了）。",
+      "image": "/book1/l14/a2-diary.jpg",
+      "questions": [
+        {
+          "question": "1　開文　臺北　半年",
+          "answer": "開文在臺北住了半年。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "2　他哥哥　紐約　四個月",
+          "answer": "他哥哥在紐約住了四個月。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "3　她的男朋友　上海　半個月",
+          "answer": "她的男朋友在上海住了半個月。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "4　我的老師　倫敦　兩個星期",
+          "answer": "我的老師在倫敦住了兩個星期。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "So sánh nhiệt độ",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách so sánh các sự việc.\nNhiệm vụ: So sánh nhiệt độ trung bình của Đài Bắc vào các mùa năm ngoái và năm nay. Dùng các mẫu 比、更、比較、比…更、跟…一樣、沒有…那麼.\nBảng: Xuân 25℃/25℃; Hạ 36℃/38℃; Thu 21℃/20℃; Đông 12℃/10℃ (năm ngoái / năm nay).",
+      "image": "/book1/l14/a3-temp.jpg",
+      "questions": [
+        {
+          "question": "春天",
+          "answer": "今年春天跟去年春天一樣，都是二十五度。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "夏天",
+          "answer": "今年夏天比去年夏天熱，今年夏天三十八度，去年夏天三十六度。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "秋天",
+          "answer": "今年秋天比去年秋天冷一點，今年二十度，去年二十一度。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "冬天",
+          "answer": "今年冬天比去年冬天更冷，今年十度，去年十二度。去年冬天沒有今年冬天那麼冷。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Thời tiết giống nhau",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách so sánh điều kiện thời tiết.\nNhiệm vụ: Qua hoạt động đầu, bạn đã biết khí hậu quê hương từng bạn trong lớp. Hãy so sánh khí hậu nước một bạn với nước bạn. Hỏi thêm thông tin và ghi kết quả vào bảng: 春／夏／秋／冬天的天氣怎麼樣？有沒有颱風？常不常下雨？會不會下雪？",
+      "image": "",
+      "questions": [
+        {
+          "question": "夏天的天氣怎麼樣？",
+          "answer": "我們國家的夏天跟臺灣一樣熱，可是臺灣沒有我們那裡那麼乾。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "冬天的天氣怎麼樣？",
+          "answer": "我們國家的冬天比臺灣更冷，會下雪。臺灣的冬天沒有我們那裡那麼冷。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "有沒有颱風？",
+          "answer": "我們國家有颱風，可是沒有臺灣那麼多。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "常不常下雨？",
+          "answer": "常下雨，可是沒有臺灣那麼常下。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "會不會下雪？",
+          "answer": "我們國家不會下雪。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Mùa hè ở Đài Loan",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách thảo luận về các sự việc và hoạt động vào mùa hè.\nNhiệm vụ: Thảo luận với bạn học và viết ra những gì tìm hiểu được bằng tiếng Trung. Điền: 夏天的天氣怎麼樣、常吃的水果、常做的事 (有什麼比較特別的…).",
+      "image": "",
+      "questions": [
+        {
+          "question": "天氣怎麼樣",
+          "answer": "又熱又濕，常常下雨，也有颱風。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "常吃的水果",
+          "answer": "西瓜、芒果、荔枝。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "常做的事",
+          "answer": "去海邊游泳、吃冰、在家吹冷氣。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    }
   ]
 }

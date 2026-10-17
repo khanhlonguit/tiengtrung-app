@@ -12,6 +12,7 @@ datasource db {
 
 model Lesson {
   id         Int          @id
+  book       Int          @default(1)
   title_vn   String
   title_zh   String
   subtitle   String
@@ -62,9 +63,15 @@ model Dialogue {
 }
 
 model Exercise {
-  id        Int                @id @default(autoincrement())
-  lesson_id Int
-  title     String
+  id            Int                @id @default(autoincrement())
+  lesson_id     Int
+  title         String
+  // fill | dialogue | reorder | rewrite | picture | activity
+  kind          String             @default("fill")
+  // 0 = không gắn với điểm ngữ pháp nào (vd. hoạt động trên lớp)
+  grammar_order Int                @default(0)
+  instruction   String             @default("")
+  image         String             @default("")
   lesson    Lesson             @relation(fields: [lesson_id], references: [id])
   questions ExerciseQuestion[]
 }
@@ -75,5 +82,6 @@ model ExerciseQuestion {
   question    String
   answer      String
   hint        String   @default("")
+  image       String   @default("")
   exercise    Exercise @relation(fields: [exercise_id], references: [id])
 }

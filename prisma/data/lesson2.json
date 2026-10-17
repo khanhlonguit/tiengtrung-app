@@ -510,6 +510,12 @@
       "title": "Phó từ chỉ toàn thể 都 (dōu)",
       "explanation": "Đặt sau danh từ chủ ngữ và trước động từ. Dùng để biểu thị 'đều', 'tất cả'. Phủ định bán phần: 不都 (không phải tất cả đều), phủ định toàn phần: 都不 (đều không).",
       "examples": "[{\"zh\":\"我們都姓陳。\",\"pinyin\":\"Wǒmen dōu xìng Chén.\",\"vn\":\"Chúng tôi đều họ Trần.\"},{\"zh\":\"他們不都是台灣人。\",\"pinyin\":\"Tāmen bù dōu shì Táiwān rén.\",\"vn\":\"Họ không phải tất cả đều là người Đài Loan.\"},{\"zh\":\"我們都沒有哥哥。\",\"pinyin\":\"Wǒmen dōu méi yǒu gēge.\",\"vn\":\"Chúng tôi đều không có anh trai.\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Lượng từ 個 (ge) và 張 (zhāng)",
+      "explanation": "Khi nói số lượng, lượng từ đặt giữa số từ và danh từ. 個 là lượng từ thông dụng nhất, dùng cho rất nhiều danh từ khác nhau; 張 thường dùng cho những vật phẳng như giấy, ảnh, bàn. Cấu trúc: (1) Số từ + Lượng từ + Danh từ (三個人, 幾張照片); (2) Từ chỉ định + Số + Lượng từ + Danh từ (哪一張照片). Sau 哪, số 一 thường được lược bỏ: 哪個人 = 哪一個人. Khi số là \"hai\" thì dùng 兩 chứ không dùng 二: 兩個妹妹, 兩個日本人, 兩張照片.",
+      "examples": "[{\"zh\":\"一個哥哥\",\"pinyin\":\"yí ge gēge\",\"vn\":\"một người anh trai\"},{\"zh\":\"兩張好看的照片\",\"pinyin\":\"liǎng zhāng hǎokàn de zhàopiàn\",\"vn\":\"hai tấm ảnh đẹp\"},{\"zh\":\"幾個老師？\",\"pinyin\":\"Jǐ ge lǎoshī?\",\"vn\":\"Mấy thầy cô giáo?\"},{\"zh\":\"哪三個人？\",\"pinyin\":\"Nǎ sān ge rén?\",\"vn\":\"Ba người nào?\"},{\"zh\":\"三個人\",\"pinyin\":\"sān ge rén\",\"vn\":\"ba người\"},{\"zh\":\"幾張照片？\",\"pinyin\":\"Jǐ zhāng zhàopiàn?\",\"vn\":\"Mấy tấm ảnh?\"},{\"zh\":\"哪一張照片？\",\"pinyin\":\"Nǎ yì zhāng zhàopiàn?\",\"vn\":\"Tấm ảnh nào?\"},{\"zh\":\"兩個妹妹\",\"pinyin\":\"liǎng ge mèimei\",\"vn\":\"hai cô em gái\"},{\"zh\":\"兩個日本人\",\"pinyin\":\"liǎng ge Rìběn rén\",\"vn\":\"hai người Nhật\"},{\"zh\":\"兩張照片\",\"pinyin\":\"liǎng zhāng zhàopiàn\",\"vn\":\"hai tấm ảnh\"}]"
     }
   ],
   "dialogues": [
@@ -669,147 +675,323 @@
   ],
   "exercises": [
     {
-      "title": "的 de possessive / Modifier Marker",
-      "description": "Fill in the blanks with appropriate words.",
+      "title": "Điền từ và thêm 的 khi cần",
+      "kind": "rewrite",
+      "grammar_order": 1,
+      "instruction": "Điền vào chỗ trống và thêm 的 khi thích hợp. Chọn từ: A. 的 B. 名字 C. 老師 D. 妹妹 E. 你 F. 你們",
+      "image": "",
       "questions": [
         {
-          "question": "他 __________ 是馬安同。",
-          "answer": "的名字",
-          "explanation": "His name is Ma Antong. '他' (he) + '的' (possessive) + '名字' (name)."
+          "question": "他＿＿＿＿＿＿＿＿是馬安同。",
+          "answer": "他的老師是馬安同。（hoặc：他的名字是馬安同。）",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "陳先生 __________ 姓李。",
-          "answer": "的老師",
-          "explanation": "Mr. Chen's teacher's surname is Li."
+          "question": "陳先生＿＿＿＿＿＿＿＿姓李。",
+          "answer": "陳先生的老師姓李。（hoặc：陳先生的妹妹姓李。）",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我 __________ 是老師。",
-          "answer": "的妹妹",
-          "explanation": "My younger sister is a teacher."
+          "question": "我＿＿＿＿＿＿＿＿是老師。",
+          "answer": "我妹妹是老師。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "__________ 爸爸來不來？",
-          "answer": "你們的",
-          "explanation": "Is your (plural) dad coming?"
+          "question": "＿＿＿＿＿＿＿＿爸爸來不來？",
+          "answer": "你們爸爸來不來？（hoặc：你爸爸來不來？）",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "__________ 家很漂亮嗎？",
-          "answer": "你的",
-          "explanation": "Is your house very pretty?"
+          "question": "＿＿＿＿＿＿＿＿家很漂亮嗎？",
+          "answer": "你們家很漂亮嗎？（hoặc：你家很漂亮嗎？）",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Rearrange Characters (Modifier Marker)",
-      "description": "Make correct sentences by rearranging the order of the characters.",
+      "title": "Sắp xếp các chữ thành câu đúng (定語 + 的)",
+      "kind": "reorder",
+      "grammar_order": 2,
+      "instruction": "Sắp xếp lại thứ tự các chữ (①②③…) để thành câu đúng rồi điền vào chỗ trống.",
+      "image": "",
       "questions": [
         {
-          "question": "人(1) 很好看(2) 的(3) -> __________ 多不多？",
-          "answer": "很好看的人",
-          "explanation": "很好看(2) + 的(3) + 人(1) = 很好看的人 (good-looking people)."
+          "question": "①人　②很好看　③的　＿＿＿＿＿＿多不多？",
+          "answer": "很好看的人多不多？",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "的(1) 好喝(2) 茶(3) -> 王老師要 __________ 。",
-          "answer": "好喝的茶",
-          "explanation": "好喝(2) + 的(1) + 茶(3) = 好喝的茶 (good-tasting tea)."
+          "question": "王老師要＿＿＿＿＿＿。　（①的　②好喝　③茶）",
+          "answer": "王老師要好喝的茶。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "好看(1) 照片(2) 的(3) -> 我沒有很多 __________ 。",
-          "answer": "好看的照片",
-          "explanation": "好看(1) + 的(3) + 照片(2) = 好看的照片 (good-looking photos)."
+          "question": "我沒有很多＿＿＿＿＿＿。　（①好看　②照片　③的）",
+          "answer": "我沒有很多好看的照片。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "房子(1) 漂亮(2) 的(3) -> 我喜歡 __________ 。",
-          "answer": "漂亮的房子",
-          "explanation": "漂亮(2) + 的(3) + 房子(1) = 漂亮的房子 (pretty houses)."
+          "question": "我喜歡＿＿＿＿＿＿。　（①房子　②漂亮　③的）",
+          "answer": "我喜歡漂亮的房子。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "的(1) 照片(2) 很多(3) 好看(4) -> 他有 __________ 。",
-          "answer": "很多好看的照片",
-          "explanation": "很多(3) + 好看(4) + 的(1) + 照片(2) = 很多好看的照片 (many good-looking photos)."
+          "question": "他有＿＿＿＿＿＿。　（①的　②照片　③很　④好看）",
+          "answer": "他有很好看的照片。",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Rearrange Characters (Sentences)",
-      "description": "Make correct sentences by rearranging the order of the chunks.",
+      "title": "Sắp xếp các chữ thành câu đúng (有)",
+      "kind": "reorder",
+      "grammar_order": 3,
+      "instruction": "Sắp xếp lại thứ tự các chữ để thành câu đúng.",
+      "image": "",
       "questions": [
         {
-          "question": "很多(1) 我們(2) 好喝的咖啡(3) 有(4) -> __________________ 。",
-          "answer": "我們有很多好喝的咖啡",
-          "explanation": "我們(2) + 有(4) + 很多(1) + 好喝的咖啡(3)."
+          "question": "①很多　②我們　③好喝的咖啡　④有",
+          "answer": "我們有很多好喝的咖啡。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我哥哥(1) 漂亮的照片(2) 有(3) 沒(4) -> __________________ 。",
-          "answer": "我哥哥沒有漂亮的照片",
-          "explanation": "我哥哥(1) + 沒(4) + 有(3) + 漂亮的照片(2)."
+          "question": "①我哥哥　②漂亮的照片　③有　④沒",
+          "answer": "我哥哥沒有漂亮的照片。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "兄弟姐妹(1) 有(2) 嗎(3) 你(4) -> __________________ ？",
-          "answer": "你有兄弟姐妹嗎",
-          "explanation": "你(4) + 有(2) + 兄弟姐妹(1) + 嗎(3)."
+          "question": "①兄弟姐妹　②有　③嗎　④你",
+          "answer": "你有兄弟姐妹嗎？",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "都 dōu totality",
-      "description": "Rewrite the sentences using '都' (dōu).",
+      "title": "Dùng 都 theo tranh",
+      "kind": "picture",
+      "grammar_order": 4,
+      "instruction": "Hoàn thành câu và viết lại các câu dưới đây với 都 (dùng 你們 / 我們 làm chủ ngữ).",
+      "image": "/book1/l2/g4-pictures.jpg",
       "questions": [
         {
-          "question": "你是老師，他是老師。 -> 你們 __________ 。",
-          "answer": "都是老師",
-          "explanation": "You are both teachers. 你們 (you plural) + 都 (all/both) + 是老師 (are teachers)."
+          "question": "這三個人都是日本人嗎？（圖：三個穿和服的人）",
+          "answer": "是，她們都是日本人。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我喜歡喝咖啡，他喜歡喝咖啡。 -> 我們 __________ 。",
-          "answer": "都喜歡喝咖啡",
-          "explanation": "We both like to drink coffee."
+          "question": "這兩個人＿＿＿＿＿＿＿＿喝茶。（圖：兩位小姐手交叉在胸前）",
+          "answer": "這兩個人都不喝茶。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "你沒有兄弟姐妹，你的老師沒有兄弟姐妹。 -> 你們 __________ 。",
-          "answer": "都沒有兄弟姐妹",
-          "explanation": "Neither of you has siblings."
+          "question": "這兩張照片＿＿＿＿＿＿＿＿我姐姐的（照片）。",
+          "answer": "這兩張照片都是我姐姐的（照片）。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "你不要照相，他不要照相。 -> 你們 __________ 。",
-          "answer": "都不要照相",
-          "explanation": "Neither of you wants to take pictures."
+          "question": "你是老師，他是老師。→你們＿＿＿＿＿＿。",
+          "answer": "你們都是老師。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我喜歡喝咖啡，他喜歡喝咖啡。→我們＿＿＿＿＿＿。",
+          "answer": "我們都喜歡喝咖啡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你沒有兄弟姐妹，你的老師沒有兄弟姐妹。→你們＿＿＿＿＿＿。",
+          "answer": "你們都沒有兄弟姐妹。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你不要照相，他不要照相。→你們＿＿＿＿＿＿。",
+          "answer": "你們都不要照相。",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Measures 個 ge and 張 zhāng",
-      "description": "Place numbers and measure words in the blanks based on the nouns.",
+      "title": "Điền số từ và lượng từ theo tranh",
+      "kind": "picture",
+      "grammar_order": 5,
+      "instruction": "Điền số từ và lượng từ vào chỗ trống dựa vào danh từ trong từng tranh.",
+      "image": "/book1/l2/g5-pictures.jpg",
       "questions": [
         {
-          "question": "一 __________ 人",
-          "answer": "個",
-          "explanation": "個 (ge) is the general measure word for people."
+          "question": "一＿＿＿＿人（圖：一個人在睡覺）",
+          "answer": "一個人",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "__________ __________ 房子 (2 houses)",
-          "answer": "兩個",
-          "explanation": "兩 (liǎng) is used for 'two' with measure words. 個 (ge) is used for houses here."
+          "question": "＿＿＿＿＿＿＿＿房子（圖：兩間房子）",
+          "answer": "兩個房子",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "__________ __________ 照片 (2 photos)",
-          "answer": "兩張",
-          "explanation": "兩 (liǎng) + 張 (zhāng), the measure word for flat objects like photos."
+          "question": "＿＿＿＿＿＿＿＿照片（圖：三張照片）",
+          "answer": "三張照片",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "我有 __________ __________ 弟弟。 (2 younger brothers)",
-          "answer": "兩個",
-          "explanation": "兩 (liǎng) + 個 (ge)."
+          "question": "我有＿＿＿＿＿＿＿＿弟弟。（圖：三個孩子）",
+          "answer": "我有兩個弟弟。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "__________ __________ 很好看的日本小姐 (2 Japanese ladies)",
-          "answer": "兩個",
-          "explanation": "兩 (liǎng) + 個 (ge)."
+          "question": "＿＿＿＿＿＿＿＿很好看的日本小姐（圖：三位小姐）",
+          "answer": "三個很好看的日本小姐",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "__________ __________ 漂亮的照片 (3 photos)",
-          "answer": "三張",
-          "explanation": "三 (sān) + 張 (zhāng)."
+          "question": "＿＿＿＿＿＿＿＿漂亮的照片（圖：很多張照片）",
+          "answer": "五張漂亮的照片",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Đếm từ 1 đến 10",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Học cách đếm từ 1 đến 10: 一 yī, 二 èr, 三 sān, 四 sì, 五 wǔ, 六 liù, 七 qī, 八 bā, 九 jiǔ, 十 shí. Hãy đếm xuôi, đếm ngược, rồi đếm cách hai số cùng bạn học.",
+      "image": "/book1/l2/a1-count.jpg",
+      "questions": [
+        {
+          "question": "兩人一組，輪流說出一個數字，對方說下一個。",
+          "answer": "一、二、三、四、五、六、七、八、九、十",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Gia đình của người khác",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách hỏi về những người trong gia đình của bạn mình.\nNhiệm vụ: Hỏi bạn học các câu hỏi trong bảng và ghi lại những gì bạn tìm hiểu được.",
+      "image": "/book1/l2/a2-table.jpg",
+      "questions": [
+        {
+          "question": "你家有幾個人？",
+          "answer": "五個人。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你有沒有兄弟姐妹？",
+          "answer": "有一個哥哥、一個妹妹。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你的兄弟姐妹是老師嗎？",
+          "answer": "是。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你有你家人的照片嗎？有幾張？",
+          "answer": "有，十張。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你家人都喜歡喝咖啡嗎？",
+          "answer": "爸爸喜歡，媽媽不喜歡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你家人都喜歡照相嗎？",
+          "answer": "我家人都不喜歡。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Giới thiệu gia đình bạn",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách nói về sở thích của các thành viên trong gia đình.\nNhiệm vụ: Khi một bạn giới thiệu gia đình mình, các bạn khác điền vào bảng dựa trên thông tin người đó nói (điền bằng chữ Hán hoặc pinyin): tên, quốc gia, các thành viên gia đình, ai thích chụp ảnh, ai thích uống cà phê, ai có nhiều sách.",
+      "image": "/book1/l2/a3-table.jpg",
+      "questions": [
+        {
+          "question": "用中文介紹你的家人",
+          "answer": "我叫王開文，我是美國人。我家有五個人，爸爸、媽媽、哥哥、姐姐和我。我爸爸喜歡照相，我媽媽喜歡喝咖啡，我哥哥有很多書。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Miêu tả người, đồ vật và sự việc",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Dùng câu đơn giản để miêu tả người, đồ vật và sự việc.\nNhiệm vụ: Ghép cặp với bạn học, thảo luận các câu hỏi dưới đây dựa trên tranh, rồi báo cáo kết quả trước lớp. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "/book1/l2/a4-pictures.jpg",
+      "questions": [
+        {
+          "question": "哪一張照片漂亮？",
+          "answer": "姐姐的照片漂亮。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "他們是誰？",
+          "answer": "他們是李明華和白如玉。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "誰的書很多？",
+          "answer": "馬安同的書很多。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "誰的爸爸喜歡照相？",
+          "answer": "陳月美的爸爸喜歡照相。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "誰不喜歡看書？",
+          "answer": "馬安同不喜歡看書，張怡君喜歡看書。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "誰有好喝的茶？",
+          "answer": "李明華有好喝的茶。",
+          "hint": "",
+          "image": ""
         }
       ]
     }

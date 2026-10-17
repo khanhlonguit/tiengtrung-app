@@ -1,0 +1,1184 @@
+{
+  "id": 103,
+  "book": 2,
+  "title_vn": "Tiếng Trung của bạn tiến bộ rồi!",
+  "title_zh": "你的中文進步了！",
+  "subtitle": "Học tập & kinh nghiệm học tiếng",
+  "vocabulary": [
+    {
+      "order_num": 1,
+      "word_zh": "進步",
+      "pinyin": "jìnbù",
+      "word_type": "Vp",
+      "meaning_vn": "Tiến bộ",
+      "example_zh": "你的中文進步了。",
+      "example_pinyin": "Nǐ de Zhōngwén jìnbù le.",
+      "example_vn": "Tiếng Trung của bạn tiến bộ rồi.",
+      "meaning_hv": "Tiến bộ",
+      "meaning_en": "To make improvement, to progress",
+      "example_en": "Your Chinese has improved."
+    },
+    {
+      "order_num": 2,
+      "word_zh": "早",
+      "pinyin": "zǎo",
+      "word_type": "Vs",
+      "meaning_vn": "Sớm",
+      "example_zh": "你今天來得真早。",
+      "example_pinyin": "Nǐ jīntiān lái de zhēn zǎo.",
+      "example_vn": "Hôm nay bạn đến sớm thật.",
+      "meaning_hv": "Tảo",
+      "meaning_en": "Early",
+      "example_en": "You came really early today."
+    },
+    {
+      "order_num": 3,
+      "word_zh": "考試",
+      "pinyin": "kǎoshì",
+      "word_type": "N",
+      "meaning_vn": "Kỳ thi, bài kiểm tra",
+      "example_zh": "今天有考試。",
+      "example_pinyin": "Jīntiān yǒu kǎoshì.",
+      "example_vn": "Hôm nay có bài kiểm tra.",
+      "meaning_hv": "Khảo thí",
+      "meaning_en": "A test, examination",
+      "example_en": "There is a test today."
+    },
+    {
+      "order_num": 4,
+      "word_zh": "準備",
+      "pinyin": "zhǔnbèi",
+      "word_type": "V",
+      "meaning_vn": "Chuẩn bị",
+      "example_zh": "你準備了嗎？",
+      "example_pinyin": "Nǐ zhǔnbèi le ma?",
+      "example_vn": "Bạn đã chuẩn bị chưa?",
+      "meaning_hv": "Chuẩn bị",
+      "meaning_en": "To prepare, to get ready",
+      "example_en": "Are you prepared?"
+    },
+    {
+      "order_num": 5,
+      "word_zh": "考",
+      "pinyin": "kǎo",
+      "word_type": "V",
+      "meaning_vn": "Thi, kiểm tra",
+      "example_zh": "我今天要考漢字。",
+      "example_pinyin": "Wǒ jīntiān yào kǎo hànzì.",
+      "example_vn": "Hôm nay tôi phải thi chữ Hán.",
+      "meaning_hv": "Khảo",
+      "meaning_en": "To take a test",
+      "example_en": "I have a Chinese characters test today."
+    },
+    {
+      "order_num": 6,
+      "word_zh": "聽寫",
+      "pinyin": "tīngxiě",
+      "word_type": "N",
+      "meaning_vn": "Chính tả (nghe viết)",
+      "example_zh": "聽寫很容易。",
+      "example_pinyin": "Tīngxiě hěn róngyì.",
+      "example_vn": "Nghe viết rất dễ.",
+      "meaning_hv": "Thính tả",
+      "meaning_en": "Dictation",
+      "example_en": "Dictation is easy."
+    },
+    {
+      "order_num": 7,
+      "word_zh": "容易",
+      "pinyin": "róngyì",
+      "word_type": "Vs",
+      "meaning_vn": "Dễ",
+      "example_zh": "寫漢字不容易。",
+      "example_pinyin": "Xiě hànzì bù róngyì.",
+      "example_vn": "Viết chữ Hán không dễ.",
+      "meaning_hv": "Dung dị",
+      "meaning_en": "Easy",
+      "example_en": "Writing Chinese characters is not easy."
+    },
+    {
+      "order_num": 8,
+      "word_zh": "小學",
+      "pinyin": "xiǎoxué",
+      "word_type": "N",
+      "meaning_vn": "Trường tiểu học",
+      "example_zh": "他在小學學過漢字。",
+      "example_pinyin": "Tā zài xiǎoxué xuéguo hànzì.",
+      "example_vn": "Anh ấy đã học chữ Hán ở tiểu học.",
+      "meaning_hv": "Tiểu học",
+      "meaning_en": "Elementary school",
+      "example_en": "He learned kanji in elementary school."
+    },
+    {
+      "order_num": 9,
+      "word_zh": "漢字",
+      "pinyin": "hànzì",
+      "word_type": "N",
+      "meaning_vn": "Chữ Hán",
+      "example_zh": "日本人也用漢字。",
+      "example_pinyin": "Rìběn rén yě yòng hànzì.",
+      "example_vn": "Người Nhật cũng dùng chữ Hán.",
+      "meaning_hv": "Hán tự",
+      "meaning_en": "Chinese characters",
+      "example_en": "Japanese also use Chinese characters."
+    },
+    {
+      "order_num": 10,
+      "word_zh": "高中",
+      "pinyin": "gāozhōng",
+      "word_type": "N",
+      "meaning_vn": "Trường trung học phổ thông",
+      "example_zh": "我在高中學過中文。",
+      "example_pinyin": "Wǒ zài gāozhōng xuéguo Zhōngwén.",
+      "example_vn": "Tôi đã học tiếng Trung ở trường cấp ba.",
+      "meaning_hv": "Cao trung",
+      "meaning_en": "Senior high school",
+      "example_en": "I studied Chinese in high school."
+    },
+    {
+      "order_num": 11,
+      "word_zh": "過",
+      "pinyin": "guo",
+      "word_type": "Ptc",
+      "meaning_vn": "Trợ từ chỉ kinh nghiệm (đã từng)",
+      "example_zh": "我去過那個語言中心。",
+      "example_pinyin": "Wǒ qùguo nàge yǔyán zhōngxīn.",
+      "example_vn": "Tôi đã từng đến trung tâm ngôn ngữ đó.",
+      "meaning_hv": "Quá",
+      "meaning_en": "A particle indicating experience",
+      "example_en": "I have been to that language center."
+    },
+    {
+      "order_num": 12,
+      "word_zh": "才",
+      "pinyin": "cái",
+      "word_type": "Adv",
+      "meaning_vn": "Mới, chỉ (số lượng ít / muộn hơn dự kiến)",
+      "example_zh": "我才學了半年。",
+      "example_pinyin": "Wǒ cái xué le bànnián.",
+      "example_vn": "Tôi mới học được nửa năm.",
+      "meaning_hv": "Tài",
+      "meaning_en": "Just, only",
+      "example_en": "I have only studied for half a year."
+    },
+    {
+      "order_num": 13,
+      "word_zh": "說話",
+      "pinyin": "shuōhuà",
+      "word_type": "V-sep",
+      "meaning_vn": "Nói chuyện, nói",
+      "example_zh": "他說話說得很流利。",
+      "example_pinyin": "Tā shuōhuà shuō de hěn liúlì.",
+      "example_vn": "Anh ấy nói chuyện rất lưu loát.",
+      "meaning_hv": "Thuyết thoại",
+      "meaning_en": "To speak",
+      "example_en": "He speaks very fluently."
+    },
+    {
+      "order_num": 14,
+      "word_zh": "不夠",
+      "pinyin": "búgòu",
+      "word_type": "Adv",
+      "meaning_vn": "Chưa đủ, không đủ…",
+      "example_zh": "我說得不夠流利。",
+      "example_pinyin": "Wǒ shuō de búgòu liúlì.",
+      "example_vn": "Tôi nói chưa đủ lưu loát.",
+      "meaning_hv": "Bất cấu",
+      "meaning_en": "Not quite, not…enough",
+      "example_en": "I do not speak fluently enough."
+    },
+    {
+      "order_num": 15,
+      "word_zh": "流利",
+      "pinyin": "liúlì",
+      "word_type": "Vs",
+      "meaning_vn": "Lưu loát, trôi chảy",
+      "example_zh": "他的中文很流利。",
+      "example_pinyin": "Tā de Zhōngwén hěn liúlì.",
+      "example_vn": "Tiếng Trung của anh ấy rất lưu loát.",
+      "meaning_hv": "Lưu lợi",
+      "meaning_en": "Fluent",
+      "example_en": "His Chinese is very fluent."
+    },
+    {
+      "order_num": 16,
+      "word_zh": "雖然",
+      "pinyin": "suīrán",
+      "word_type": "Conj",
+      "meaning_vn": "Tuy rằng, mặc dù",
+      "example_zh": "雖然很累，但是很高興。",
+      "example_pinyin": "Suīrán hěn lèi, dàn shì hěn gāoxìng.",
+      "example_vn": "Tuy mệt nhưng rất vui.",
+      "meaning_hv": "Tuy nhiên",
+      "meaning_en": "Although",
+      "example_en": "Although tired, I am very happy."
+    },
+    {
+      "order_num": 17,
+      "word_zh": "環境",
+      "pinyin": "huánjìng",
+      "word_type": "N",
+      "meaning_vn": "Môi trường, hoàn cảnh",
+      "example_zh": "這裡的學習環境很好。",
+      "example_pinyin": "Zhèlǐ de xuéxí huánjìng hěn hǎo.",
+      "example_vn": "Môi trường học tập ở đây rất tốt.",
+      "meaning_hv": "Hoàn cảnh",
+      "meaning_en": "Environment, surroundings",
+      "example_en": "The learning environment here is very good."
+    },
+    {
+      "order_num": 18,
+      "word_zh": "同意",
+      "pinyin": "tóngyì",
+      "word_type": "Vst",
+      "meaning_vn": "Đồng ý",
+      "example_zh": "我同意你的看法。",
+      "example_pinyin": "Wǒ tóngyì nǐ de kànfǎ.",
+      "example_vn": "Tôi đồng ý với quan điểm của bạn.",
+      "meaning_hv": "Đồng ý",
+      "meaning_en": "To agree with",
+      "example_en": "I agree with your view."
+    },
+    {
+      "order_num": 19,
+      "word_zh": "報紙",
+      "pinyin": "bàozhǐ",
+      "word_type": "N",
+      "meaning_vn": "Báo (giấy)",
+      "example_zh": "我想看中文報紙。",
+      "example_pinyin": "Wǒ xiǎng kàn Zhōngwén bàozhǐ.",
+      "example_vn": "Tôi muốn đọc báo tiếng Trung.",
+      "meaning_hv": "Báo chỉ",
+      "meaning_en": "Newspapers",
+      "example_en": "I want to read Chinese newspapers."
+    },
+    {
+      "order_num": 20,
+      "word_zh": "麵包",
+      "pinyin": "miànbāo",
+      "word_type": "N",
+      "meaning_vn": "Bánh mì",
+      "example_zh": "我早上吃麵包。",
+      "example_pinyin": "Wǒ zǎoshang chī miànbāo.",
+      "example_vn": "Buổi sáng tôi ăn bánh mì.",
+      "meaning_hv": "Miến bao",
+      "meaning_en": "Bread",
+      "example_en": "I eat bread in the morning."
+    },
+    {
+      "order_num": 21,
+      "word_zh": "演講",
+      "pinyin": "yǎnjiǎng",
+      "word_type": "N",
+      "meaning_vn": "Bài diễn thuyết, buổi nói chuyện",
+      "example_zh": "我們去聽了一次演講。",
+      "example_pinyin": "Wǒmen qù tīng le yí cì yǎnjiǎng.",
+      "example_vn": "Chúng tôi đã đi nghe một buổi diễn thuyết.",
+      "meaning_hv": "Diễn giảng",
+      "meaning_en": "A speech, a public lecture",
+      "example_en": "We went to listen to a speech."
+    },
+    {
+      "order_num": 22,
+      "word_zh": "噢",
+      "pinyin": "ō",
+      "word_type": "Ptc",
+      "meaning_vn": "À, ồ (thán từ)",
+      "example_zh": "噢，我想起來了。",
+      "example_pinyin": "Ō, wǒ xiǎngqǐlái le.",
+      "example_vn": "À, tôi nhớ ra rồi.",
+      "meaning_hv": "Ôi",
+      "meaning_en": "Oh",
+      "example_en": "Oh, I remember now."
+    },
+    {
+      "order_num": 23,
+      "word_zh": "活動中心",
+      "pinyin": "huódòng zhōngxīn",
+      "word_type": "",
+      "meaning_vn": "Trung tâm sinh hoạt, trung tâm hoạt động",
+      "example_zh": "活動中心在那棟樓裡。",
+      "example_pinyin": "Huódòng zhōngxīn zài nà dòng lóu lǐ.",
+      "example_vn": "Trung tâm hoạt động ở trong tòa nhà đó.",
+      "meaning_hv": "Hoạt động trung tâm",
+      "meaning_en": "Activity center",
+      "example_en": "The activity center is in that building."
+    },
+    {
+      "order_num": 24,
+      "word_zh": "想起來",
+      "pinyin": "xiǎng qǐlái",
+      "word_type": "",
+      "meaning_vn": "Nhớ ra, nghĩ ra",
+      "example_zh": "他的名字我想起來了。",
+      "example_pinyin": "Tā de míngzi wǒ xiǎngqǐlái le.",
+      "example_vn": "Tên anh ấy tôi nhớ ra rồi.",
+      "meaning_hv": "Tưởng khởi lai",
+      "meaning_en": "To have remembered",
+      "example_en": "I have remembered his name."
+    },
+    {
+      "order_num": 25,
+      "word_zh": "選",
+      "pinyin": "xuǎn",
+      "word_type": "V",
+      "meaning_vn": "Chọn",
+      "example_zh": "他選了三個小時的課。",
+      "example_pinyin": "Tā xuǎn le sān gè xiǎoshí de kè.",
+      "example_vn": "Anh ấy chọn lớp học ba tiếng.",
+      "meaning_hv": "Tuyển",
+      "meaning_en": "To select",
+      "example_en": "He chose a three-hour class."
+    },
+    {
+      "order_num": 26,
+      "word_zh": "作業",
+      "pinyin": "zuòyè",
+      "word_type": "N",
+      "meaning_vn": "Bài tập về nhà",
+      "example_zh": "下了課要寫作業。",
+      "example_pinyin": "Xià le kè yào xiě zuòyè.",
+      "example_vn": "Tan học phải làm bài tập.",
+      "meaning_hv": "Tác nghiệp",
+      "meaning_en": "Homework, assignment",
+      "example_en": "After class I have to do homework."
+    },
+    {
+      "order_num": 27,
+      "word_zh": "練習",
+      "pinyin": "liànxí",
+      "word_type": "V",
+      "meaning_vn": "Luyện tập",
+      "example_zh": "我每天練習寫字。",
+      "example_pinyin": "Wǒ měitiān liànxí xiě zì.",
+      "example_vn": "Ngày nào tôi cũng luyện viết chữ.",
+      "meaning_hv": "Luyện tập",
+      "meaning_en": "To practice",
+      "example_en": "I practice writing characters every day."
+    },
+    {
+      "order_num": 28,
+      "word_zh": "半夜",
+      "pinyin": "bànyè",
+      "word_type": "N",
+      "meaning_vn": "Nửa đêm, khuya",
+      "example_zh": "他常常半夜才睡覺。",
+      "example_pinyin": "Tā chángcháng bànyè cái shuìjiào.",
+      "example_vn": "Anh ấy thường nửa đêm mới đi ngủ.",
+      "meaning_hv": "Bán dạ",
+      "meaning_en": "Middle of the night, late at night",
+      "example_en": "He often does not go to bed until midnight."
+    },
+    {
+      "order_num": 29,
+      "word_zh": "高興",
+      "pinyin": "gāoxìng",
+      "word_type": "Vs",
+      "meaning_vn": "Vui, vui mừng",
+      "example_zh": "我很高興認識你。",
+      "example_pinyin": "Wǒ hěn gāoxìng rènshi nǐ.",
+      "example_vn": "Tôi rất vui được quen bạn.",
+      "meaning_hv": "Cao hứng",
+      "meaning_en": "Glad, pleased",
+      "example_en": "I am glad to meet you."
+    },
+    {
+      "order_num": 30,
+      "word_zh": "平常",
+      "pinyin": "píngcháng",
+      "word_type": "Adv",
+      "meaning_vn": "Bình thường, thường ngày",
+      "example_zh": "他平常很忙。",
+      "example_pinyin": "Tā píngcháng hěn máng.",
+      "example_vn": "Thường ngày anh ấy rất bận.",
+      "meaning_hv": "Bình thường",
+      "meaning_en": "Usually",
+      "example_en": "He is usually very busy."
+    },
+    {
+      "order_num": 31,
+      "word_zh": "爬山",
+      "pinyin": "páshān",
+      "word_type": "V-sep",
+      "meaning_vn": "Leo núi",
+      "example_zh": "週末我們去爬山。",
+      "example_pinyin": "Zhōumò wǒmen qù páshān.",
+      "example_vn": "Cuối tuần chúng tôi đi leo núi.",
+      "meaning_hv": "Ba sơn",
+      "meaning_en": "To go hiking",
+      "example_en": "We go hiking on weekends."
+    },
+    {
+      "order_num": 32,
+      "word_zh": "認識",
+      "pinyin": "rènshi",
+      "word_type": "Vpt",
+      "meaning_vn": "Quen biết, làm quen",
+      "example_zh": "他認識了很多台灣人。",
+      "example_pinyin": "Tā rènshi le hěn duō Táiwān rén.",
+      "example_vn": "Anh ấy đã quen rất nhiều người Đài Loan.",
+      "meaning_hv": "Nhận thức",
+      "meaning_en": "To get to know someone",
+      "example_en": "He got to know many Taiwanese people."
+    },
+    {
+      "order_num": 33,
+      "word_zh": "聊天",
+      "pinyin": "liáotiān",
+      "word_type": "V-sep",
+      "meaning_vn": "Trò chuyện, tán gẫu",
+      "example_zh": "我們常常聊天。",
+      "example_pinyin": "Wǒmen chángcháng liáotiān.",
+      "example_vn": "Chúng tôi thường trò chuyện.",
+      "meaning_hv": "Liêu thiên",
+      "meaning_en": "To have a chat",
+      "example_en": "We often chat."
+    },
+    {
+      "order_num": 34,
+      "word_zh": "文化",
+      "pinyin": "wénhuà",
+      "word_type": "N",
+      "meaning_vn": "Văn hóa",
+      "example_zh": "我想了解台灣文化。",
+      "example_pinyin": "Wǒ xiǎng liǎojiě Táiwān wénhuà.",
+      "example_vn": "Tôi muốn tìm hiểu văn hóa Đài Loan.",
+      "meaning_hv": "Văn hóa",
+      "meaning_en": "Culture",
+      "example_en": "I want to learn about Taiwanese culture."
+    },
+    {
+      "order_num": 35,
+      "word_zh": "廣告",
+      "pinyin": "guǎnggào",
+      "word_type": "N",
+      "meaning_vn": "Quảng cáo",
+      "example_zh": "捷運上有很多廣告。",
+      "example_pinyin": "Jiéyùn shàng yǒu hěn duō guǎnggào.",
+      "example_vn": "Trên tàu điện ngầm có rất nhiều quảng cáo.",
+      "meaning_hv": "Quảng cáo",
+      "meaning_en": "Advertisement, commercial",
+      "example_en": "There are many ads on the MRT."
+    },
+    {
+      "order_num": 36,
+      "word_zh": "位",
+      "pinyin": "wèi",
+      "word_type": "M",
+      "meaning_vn": "Vị (lượng từ lịch sự cho người)",
+      "example_zh": "那位小姐是我的朋友。",
+      "example_pinyin": "Nà wèi xiǎojiě shì wǒ de péngyou.",
+      "example_vn": "Vị tiểu thư đó là bạn của tôi.",
+      "meaning_hv": "Vị",
+      "meaning_en": "Measure word for people (polite form)",
+      "example_en": "That young lady is my friend."
+    },
+    {
+      "order_num": 37,
+      "word_zh": "了解",
+      "pinyin": "liǎojiě",
+      "word_type": "Vst",
+      "meaning_vn": "Hiểu rõ, tìm hiểu",
+      "example_zh": "我想了解台灣人的生活。",
+      "example_pinyin": "Wǒ xiǎng liǎojiě Táiwān rén de shēnghuó.",
+      "example_vn": "Tôi muốn hiểu cuộc sống của người Đài Loan.",
+      "meaning_hv": "Liễu giải",
+      "meaning_en": "To understand",
+      "example_en": "I want to understand the lives of Taiwanese people."
+    },
+    {
+      "order_num": 38,
+      "word_zh": "生活",
+      "pinyin": "shēnghuó",
+      "word_type": "N",
+      "meaning_vn": "Cuộc sống, sinh hoạt",
+      "example_zh": "台灣的生活很方便。",
+      "example_pinyin": "Táiwān de shēnghuó hěn fāngbiàn.",
+      "example_vn": "Cuộc sống ở Đài Loan rất thuận tiện.",
+      "meaning_hv": "Sinh hoạt",
+      "meaning_en": "Life",
+      "example_en": "Life in Taiwan is very convenient."
+    },
+    {
+      "order_num": 39,
+      "word_zh": "陽明山",
+      "pinyin": "Yángmíng Shān",
+      "word_type": "N",
+      "meaning_vn": "Núi Dương Minh",
+      "example_zh": "我們坐公車去陽明山。",
+      "example_pinyin": "Wǒmen zuò gōngchē qù Yángmíng Shān.",
+      "example_vn": "Chúng tôi đi xe buýt lên núi Dương Minh.",
+      "meaning_hv": "Dương Minh Sơn",
+      "meaning_en": "Yangming Mountain",
+      "example_en": "We took the bus to Yangmingshan."
+    },
+    {
+      "order_num": 40,
+      "word_zh": "外國人",
+      "pinyin": "wàiguórén",
+      "word_type": "",
+      "meaning_vn": "Người nước ngoài",
+      "example_zh": "台灣人對外國人很好。",
+      "example_pinyin": "Táiwān rén duì wàiguórén hěn hǎo.",
+      "example_vn": "Người Đài Loan rất tốt với người nước ngoài.",
+      "meaning_hv": "Ngoại quốc nhân",
+      "meaning_en": "Foreigner",
+      "example_en": "Taiwanese are very friendly to foreigners."
+    },
+    {
+      "order_num": 41,
+      "word_zh": "一些",
+      "pinyin": "yìxiē",
+      "word_type": "",
+      "meaning_vn": "Một ít, một vài",
+      "example_zh": "他告訴我一些台灣的文化。",
+      "example_pinyin": "Tā gào sù wǒ yìxiē Táiwān de wénhuà.",
+      "example_vn": "Anh ấy kể cho tôi một vài điều về văn hóa Đài Loan.",
+      "meaning_hv": "Nhất ta",
+      "meaning_en": "A little bit of, some, a fair amount of",
+      "example_en": "He told me some things about Taiwanese culture."
+    }
+  ],
+  "grammar": [
+    {
+      "order_num": 1,
+      "title": "Các cách dùng của 差不多 (gần như, xấp xỉ)",
+      "explanation": "差不多 (nghĩa đen \"sai khác không nhiều\") có nhiều chức năng: (1) làm vị ngữ (tính từ): \"gần giống nhau, tương đương\"; (2) làm bổ ngữ kết quả: \"gần xong, gần được rồi\" (V得差不多了); (3) làm phó từ trước động từ: \"khoảng, xấp xỉ\". Người Trung Quốc còn hay trả lời bằng 差不多 (đại khái rồi) khi muốn trả lời chung chung, mơ hồ.",
+      "examples": "[{\"zh\":\"我們開始學中文的時間差不多。\",\"pinyin\":\"Wǒmen kāishǐ xué Zhōngwén de shíjiān chàbuduō.\",\"vn\":\"Thời gian chúng tôi bắt đầu học tiếng Trung xấp xỉ nhau.\"},{\"zh\":\"那幾家超市賣的東西都差不多。\",\"pinyin\":\"Nà jǐ jiā chāoshì mài de dōngxi dōu chàbuduō.\",\"vn\":\"Đồ bán ở mấy siêu thị đó đều giống nhau.\"},{\"zh\":\"我們國家的夏天和這裡差不多。\",\"pinyin\":\"Wǒmen guójiā de xiàtiān hé zhèlǐ chàbuduō.\",\"vn\":\"Mùa hè ở nước chúng tôi gần giống ở đây.\"},{\"zh\":\"我的功課寫得差不多了。\",\"pinyin\":\"Wǒ de gōngkè xiě de chàbuduō le.\",\"vn\":\"Bài tập của tôi viết gần xong rồi.\"},{\"zh\":\"找工作的事準備得差不多了。\",\"pinyin\":\"Zhǎo gōngzuò de shì zhǔnbèi de chàbuduō le.\",\"vn\":\"Việc tìm việc làm đã chuẩn bị gần xong.\"},{\"zh\":\"從這裡到捷運站，差不多（走）十分鐘。\",\"pinyin\":\"Cóng zhèlǐ dào jiéyùnzhàn, chàbuduō (zǒu) shí fēnzhōng.\",\"vn\":\"Từ đây đến ga tàu điện ngầm đi bộ khoảng mười phút.\"},{\"zh\":\"哥哥和弟弟差不多高。\",\"pinyin\":\"Gēge hé dìdi chàbuduō gāo.\",\"vn\":\"Anh trai và em trai cao xấp xỉ nhau.\"},{\"zh\":\"我差不多學了四個月的中文了。\",\"pinyin\":\"Wǒ chàbuduō xué le sì ge yuè de Zhōngwén le.\",\"vn\":\"Tôi đã học tiếng Trung được khoảng bốn tháng rồi.\"},{\"zh\":\"從學校到捷運站差不多得走多久？\",\"pinyin\":\"Cóng xuéxiào dào jiéyùnzhàn chàbuduō děi zǒu duō jiǔ?\",\"vn\":\"Từ trường đến ga tàu điện ngầm đi bộ khoảng bao lâu?\"},{\"zh\":\"你的考試準備得差不多了嗎？\",\"pinyin\":\"Nǐ de kǎoshì zhǔnbèi de chàbuduō le ma?\",\"vn\":\"Việc ôn thi của bạn đã chuẩn bị gần xong chưa?\"}]"
+    },
+    {
+      "order_num": 2,
+      "title": "Trợ từ kinh nghiệm: V + 過",
+      "explanation": "Trợ từ 過 đặt sau động từ hành động, chỉ chủ ngữ đã từng có kinh nghiệm làm việc đó (\"đã từng…\"). Câu kinh nghiệm thường có thời lượng, số lần hoặc thời gian quá khứ không xác định (以前, 小時候). Không dùng với mốc thời gian cụ thể như 昨天, 上午十點半. Phủ định chỉ dùng 沒 (沒…過). Câu hỏi: …過嗎？/ …過沒有？ So sánh: 過 chỉ kinh nghiệm (có thể lặp lại), còn 了 chỉ một sự việc cụ thể đã xảy ra trong quá khứ (他去過很多國家 = từ trước đến nay; 他去了很多國家 = trong chuyến đi vừa rồi).",
+      "examples": "[{\"zh\":\"我在高中學過中文。\",\"pinyin\":\"Wǒ zài gāozhōng xuéguo Zhōngwén.\",\"vn\":\"Tôi đã từng học tiếng Trung ở trường cấp ba.\"},{\"zh\":\"我去過那個語言中心。\",\"pinyin\":\"Wǒ qùguo nàge yǔyán zhōngxīn.\",\"vn\":\"Tôi đã từng đến trung tâm ngôn ngữ đó.\"},{\"zh\":\"我教過他兩年西班牙文。\",\"pinyin\":\"Wǒ jiāoguo tā liǎng nián Xībānyáwén.\",\"vn\":\"Tôi đã từng dạy anh ấy tiếng Tây Ban Nha hai năm.\"},{\"zh\":\"他在越南住過三年。\",\"pinyin\":\"Tā zài Yuènán zhùguo sān nián.\",\"vn\":\"Anh ấy đã từng sống ở Việt Nam ba năm.\"},{\"zh\":\"你已經去過這麼多國家，還想去哪裡？\",\"pinyin\":\"Nǐ yǐjīng qùguo zhème duō guójiā, hái xiǎng qù nǎlǐ?\",\"vn\":\"Bạn đã đi nhiều nước như vậy rồi, còn muốn đi đâu nữa?\"},{\"zh\":\"我以前沒學過中文。\",\"pinyin\":\"Wǒ yǐqián méi xuéguo Zhōngwén.\",\"vn\":\"Trước đây tôi chưa từng học tiếng Trung.\"},{\"zh\":\"我沒去過法國。\",\"pinyin\":\"Wǒ méi qùguo Fǎguó.\",\"vn\":\"Tôi chưa từng đến Pháp.\"},{\"zh\":\"他去過日本沒有？\",\"pinyin\":\"Tā qùguo Rìběn méiyǒu?\",\"vn\":\"Anh ấy đã từng đến Nhật chưa?\"},{\"zh\":\"王老師的課，你上過嗎？\",\"pinyin\":\"Wáng lǎoshī de kè, nǐ shàngguo ma?\",\"vn\":\"Lớp của thầy Vương bạn đã từng học chưa?\"},{\"zh\":\"你是不是看過那本書？有意思嗎？\",\"pinyin\":\"Nǐ shì bu shì kànguo nà běn shū? Yǒu yìsi ma?\",\"vn\":\"Có phải bạn đã từng đọc quyển sách đó không? Có hay không?\"}]"
+    },
+    {
+      "order_num": 3,
+      "title": "Phó từ 才: chỉ (số lượng ít hơn mong đợi)",
+      "explanation": "Phó từ 才 chỉ số lượng nhỏ, chưa đạt mức bình thường mong đợi: \"mới…, chỉ…\". Về số lượng, 才 và 只 đều nghĩa là \"chỉ\", nhưng 只 chỉ nêu sự thật, còn 才 còn hàm ý đa số người phải mất nhiều hơn thế. Ngoài ra 才 có thể đi trực tiếp với từ chỉ số lượng (這本書才五十塊), còn 只 thì không (不說 這本書只五十塊錢).",
+      "examples": "[{\"zh\":\"法國，我才去過一次。\",\"pinyin\":\"Fǎguó, wǒ cái qùguo yí cì.\",\"vn\":\"Pháp thì tôi mới đi có một lần.\"},{\"zh\":\"這本書才五十塊。真便宜。\",\"pinyin\":\"Zhè běn shū cái wǔshí kuài. Zhēn piányi.\",\"vn\":\"Quyển sách này mới có năm mươi đồng. Rẻ thật.\"},{\"zh\":\"他才學了半年中文。\",\"pinyin\":\"Tā cái xué le bànnián Zhōngwén.\",\"vn\":\"Anh ấy mới học tiếng Trung được nửa năm.\"},{\"zh\":\"你今天才吃了一個麵包嗎？\",\"pinyin\":\"Nǐ jīntiān cái chī le yí ge miànbāo ma?\",\"vn\":\"Hôm nay bạn mới ăn có một cái bánh mì thôi à?\"},{\"zh\":\"他是不是才學了兩個星期的中文？\",\"pinyin\":\"Tā shì bu shì cái xué le liǎng ge xīngqī de Zhōngwén?\",\"vn\":\"Có phải anh ấy mới học tiếng Trung được hai tuần không?\"},{\"zh\":\"台北捷運，你才坐過一次嗎？\",\"pinyin\":\"Táiběi jiéyùn, nǐ cái zuòguo yí cì ma?\",\"vn\":\"Tàu điện ngầm Đài Bắc, bạn mới đi có một lần thôi à?\"}]"
+    },
+    {
+      "order_num": 4,
+      "title": "Nhớ ra: 想起來",
+      "explanation": "Cấu trúc gồm động từ 想 cộng với bổ ngữ xu hướng 起來, chỉ việc điều gì đó đã được nhớ lại. Dạng phủ định dùng 沒: 沒想起來, hoặc 還沒想起來; dạng hỏi: 想起來了嗎？/ 想起來了沒有？ Lưu ý 起來 ở đây khác với 起來 ở Bài 1 (nhận định kiểu \"看起來\").",
+      "examples": "[{\"zh\":\"他的電話，我想起來了。\",\"pinyin\":\"Tā de diànhuà, wǒ xiǎngqǐlái le.\",\"vn\":\"Số điện thoại của anh ấy, tôi nhớ ra rồi.\"},{\"zh\":\"那位小姐姓張，我想起來了。\",\"pinyin\":\"Nà wèi xiǎojiě xìng Zhāng, wǒ xiǎngqǐlái le.\",\"vn\":\"Cô gái đó họ Trương, tôi nhớ ra rồi.\"},{\"zh\":\"回到學校以後，以前的事我都想起來了。\",\"pinyin\":\"Huí dào xuéxiào yǐhòu, yǐqián de shì wǒ dōu xiǎngqǐlái le.\",\"vn\":\"Sau khi về trường, tôi đã nhớ lại hết mọi chuyện trước đây.\"},{\"zh\":\"他姓張，早上見面的時候我怎麼沒想起來。\",\"pinyin\":\"Tā xìng Zhāng, zǎoshang jiànmiàn de shíhou wǒ zěnme méi xiǎngqǐlái.\",\"vn\":\"Anh ấy họ Trương, sao lúc gặp buổi sáng tôi lại không nhớ ra.\"},{\"zh\":\"他是誰，我還沒想起來。\",\"pinyin\":\"Tā shì shuí, wǒ hái méi xiǎngqǐlái.\",\"vn\":\"Anh ấy là ai, tôi vẫn chưa nhớ ra.\"},{\"zh\":\"我們見過面。你想起來了嗎？\",\"pinyin\":\"Wǒmen jiànguo miàn. Nǐ xiǎngqǐlái le ma?\",\"vn\":\"Chúng ta từng gặp nhau. Bạn nhớ ra chưa?\"},{\"zh\":\"你的東西在哪裡，想起來了沒有？\",\"pinyin\":\"Nǐ de dōngxi zài nǎlǐ, xiǎngqǐlái le méiyǒu?\",\"vn\":\"Đồ của bạn ở đâu, nhớ ra chưa?\"}]"
+    },
+    {
+      "order_num": 5,
+      "title": "Phó từ 才: muộn hơn/lâu hơn dự kiến",
+      "explanation": "才 cho biết sự việc xảy ra muộn hơn hoặc mất nhiều thời gian hơn dự kiến. Câu có 才 hầu như luôn có từ chỉ thời gian. 才 không thể bị phủ định trực tiếp, phải dùng 不是…才…的. So sánh: 就 chỉ sự việc xảy ra sớm hơn dự kiến, còn 才 chỉ muộn/lâu hơn dự kiến (我等了十分鐘，捷運就來了 / 我等了十分鐘，捷運才來).",
+      "examples": "[{\"zh\":\"你現在才來，大家等你很久了。\",\"pinyin\":\"Nǐ xiànzài cái lái, dàjiā děng nǐ hěn jiǔ le.\",\"vn\":\"Bây giờ bạn mới đến, mọi người đợi bạn lâu lắm rồi.\"},{\"zh\":\"他是昨天才到台北的，所以睡得不好。\",\"pinyin\":\"Tā shì zuótiān cái dào Táiběi de, suǒyǐ shuì de bù hǎo.\",\"vn\":\"Anh ấy mới đến Đài Bắc hôm qua nên ngủ không ngon.\"},{\"zh\":\"我等了十分鐘，捷運才來。\",\"pinyin\":\"Wǒ děng le shí fēnzhōng, jiéyùn cái lái.\",\"vn\":\"Tôi đợi mười phút, tàu điện ngầm mới đến.\"},{\"zh\":\"我跟你一起住了十年了，我不是現在才了解你的。\",\"pinyin\":\"Wǒ gēn nǐ yìqǐ zhù le shí nián le, wǒ bú shì xiànzài cái liǎojiě nǐ de.\",\"vn\":\"Tôi sống cùng bạn mười năm rồi, không phải đến bây giờ tôi mới hiểu bạn.\"},{\"zh\":\"他不是今天才告訴老闆他不能來上班的。\",\"pinyin\":\"Tā bú shì jīntiān cái gào sù lǎobǎn tā bù néng lái shàngbān de.\",\"vn\":\"Không phải đến hôm nay anh ấy mới nói với sếp là anh không thể đi làm.\"},{\"zh\":\"我們不是今天才認識的，是三年前就認識的。\",\"pinyin\":\"Wǒmen bú shì jīntiān cái rènshi de, shì sān nián qián jiù rènshi de.\",\"vn\":\"Chúng ta không phải hôm nay mới quen nhau, mà quen từ ba năm trước rồi.\"},{\"zh\":\"王先生這個月才來上班的嗎？\",\"pinyin\":\"Wáng xiānsheng zhège yuè cái lái shàngbān de ma?\",\"vn\":\"Có phải ông Vương tháng này mới đi làm không?\"},{\"zh\":\"你什麼時候才可以跟我去看電影？\",\"pinyin\":\"Nǐ shénme shíhou cái kěyǐ gēn wǒ qù kàn diànyǐng?\",\"vn\":\"Bao giờ bạn mới có thể đi xem phim với tôi?\"}]"
+    },
+    {
+      "order_num": 6,
+      "title": "Thử làm: láy động từ hai âm tiết ABAB",
+      "explanation": "Khi động từ đơn âm tiết hoặc hai âm tiết được láy lại, mức độ cam kết với hành động giảm xuống (\"thử… một chút, làm… chút ít\"). Mẫu này thường dùng trong câu mệnh lệnh, đề nghị. Động từ hai âm tiết láy theo dạng AB → ABAB (練習 → 練習練習, 認識 → 認識認識, 了解 → 了解了解). Có thể phủ định bằng 不 đặt trước toàn bộ cụm láy, hoặc dùng trong câu hỏi 是不是應該…, 要不要….",
+      "examples": "[{\"zh\":\"今天學的漢字，我還得練習練習。\",\"pinyin\":\"Jīntiān xué de hànzì, wǒ hái děi liànxi liànxi.\",\"vn\":\"Chữ Hán học hôm nay tôi còn phải luyện tập thêm.\"},{\"zh\":\"你有空的時候，應該去旅行，多認識認識一些台灣朋友。\",\"pinyin\":\"Nǐ yǒu kōng de shíhou, yīnggāi qù lǚxíng, duō rènshi rènshi yìxiē Táiwān péngyou.\",\"vn\":\"Khi rảnh bạn nên đi du lịch, làm quen thêm vài người bạn Đài Loan.\"},{\"zh\":\"我想了解了解你是怎麼學中文的，為什麼說得這麼流利。\",\"pinyin\":\"Wǒ xiǎng liǎojiě liǎojiě nǐ shì zěnme xué Zhōngwén de, wèi shénme shuō de zhème liúlì.\",\"vn\":\"Tôi muốn tìm hiểu bạn học tiếng Trung thế nào mà nói lưu loát như vậy.\"},{\"zh\":\"下星期要考試，你怎麼不準備準備呢？\",\"pinyin\":\"Xià xīngqī yào kǎoshì, nǐ zěnme bù zhǔnbèi zhǔnbèi ne?\",\"vn\":\"Tuần sau thi rồi, sao bạn không chuẩn bị một chút đi?\"},{\"zh\":\"你不練習練習寫字，聽寫怎麼考得好？\",\"pinyin\":\"Nǐ bù liànxi liànxi xiě zì, tīngxiě zěnme kǎo de hǎo?\",\"vn\":\"Bạn không luyện viết chữ thì làm sao thi chính tả tốt được?\"},{\"zh\":\"我們不參觀參觀，怎麼知道這個學校好不好？\",\"pinyin\":\"Wǒmen bù cānguān cānguān, zěnme zhīdào zhège xuéxiào hǎo bu hǎo?\",\"vn\":\"Chúng ta không đi tham quan thì làm sao biết trường này tốt hay không?\"},{\"zh\":\"我是妳男朋友，妳是不是應該多關心關心我？\",\"pinyin\":\"Wǒ shì nǐ nánpéngyou, nǐ shì bu shì yīnggāi duō guānxīn guānxīn wǒ?\",\"vn\":\"Anh là bạn trai của em, em có phải nên quan tâm anh nhiều hơn không?\"},{\"zh\":\"這個週末，你要不要在家休息休息？\",\"pinyin\":\"Zhège zhōumò, nǐ yào bu yào zài jiā xiūxi xiūxi?\",\"vn\":\"Cuối tuần này bạn có muốn ở nhà nghỉ ngơi một chút không?\"}]"
+    }
+  ],
+  "dialogues": [
+    {
+      "dialogue_num": 1,
+      "line_order": 1,
+      "speaker": "田中",
+      "text_zh": "早，妳今天來得真早。",
+      "pinyin": "Zǎo, nǐ jīntiān lái de zhēn zǎo.",
+      "translation_vn": "Chào buổi sáng, hôm nay bạn đến sớm thật.",
+      "translation_en": "Good morning! You are early today."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 2,
+      "speaker": "如玉",
+      "text_zh": "是啊！我今天是搭捷運來的。",
+      "pinyin": "Shì a! Wǒ jīntiān shì dā jiéyùn lái de.",
+      "translation_vn": "Đúng vậy! Hôm nay tôi đi tàu điện ngầm đến.",
+      "translation_en": "Yes. I came by MRT."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 3,
+      "speaker": "田中",
+      "text_zh": "今天的考試，妳準備了嗎？",
+      "pinyin": "Jīntiān de kǎoshì, nǐ zhǔnbèi le ma?",
+      "translation_vn": "Bài kiểm tra hôm nay, bạn đã chuẩn bị chưa?",
+      "translation_en": "Are you ready for today's exam?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 4,
+      "speaker": "如玉",
+      "text_zh": "準備得差不多了，應該可以考得不錯。你覺得聽寫很容易吧？",
+      "pinyin": "Zhǔnbèi de chàbuduō le, yīnggāi kěyǐ kǎo de búcuò. Nǐ juéde tīngxiě hěn róngyì ba?",
+      "translation_vn": "Chuẩn bị gần xong rồi, chắc là có thể thi tốt. Bạn thấy nghe viết rất dễ đúng không?",
+      "translation_en": "I'm more or less ready. I think I'll do well on the test. Dictation is easy for you, right?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 5,
+      "speaker": "田中",
+      "text_zh": "是啊，日本人從小學就開始學寫漢字。",
+      "pinyin": "Shì a, Rìběn rén cóng xiǎoxué jiù kāishǐ xué xiě hànzì.",
+      "translation_vn": "Đúng vậy, người Nhật bắt đầu học viết chữ Hán từ tiểu học.",
+      "translation_en": "Yes. Japanese start learning how to write kanji in grade school."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 6,
+      "speaker": "如玉",
+      "text_zh": "我現在也覺得寫字不難，因為我在美國念高中的時候就學過了。",
+      "pinyin": "Wǒ xiànzài yě juéde xiě zì bù nán, yīnwèi wǒ zài Měiguó niàn gāozhōng de shíhou jiù xuéguo le.",
+      "translation_vn": "Bây giờ tôi cũng thấy viết chữ không khó, vì hồi học cấp ba ở Mỹ tôi đã học qua rồi.",
+      "translation_en": "I don't think writing is hard either, because I learned some in high school back in the U.S."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 7,
+      "speaker": "田中",
+      "text_zh": "妳在這個語言中心學了多久了？",
+      "pinyin": "Nǐ zài zhège yǔyán zhōngxīn xué le duō jiǔ le?",
+      "translation_vn": "Bạn học ở trung tâm ngôn ngữ này được bao lâu rồi?",
+      "translation_en": "How long have you been studying at this language center?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 8,
+      "speaker": "如玉",
+      "text_zh": "我才學了半年，你呢？",
+      "pinyin": "Wǒ cái xué le bànnián, nǐ ne?",
+      "translation_vn": "Tôi mới học nửa năm, còn bạn?",
+      "translation_en": "I have only been here for half a year. And you?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 9,
+      "speaker": "田中",
+      "text_zh": "我來了快一年了，可是我說話，還說得不夠流利。",
+      "pinyin": "Wǒ lái le kuài yì nián le, kěshì wǒ shuōhuà, hái shuō de búgòu liúlì.",
+      "translation_vn": "Tôi đến đây sắp được một năm rồi, nhưng nói chuyện vẫn chưa đủ lưu loát.",
+      "translation_en": "I've been here for almost a year, but my speaking is still not fluent enough."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 10,
+      "speaker": "如玉",
+      "text_zh": "雖然我只來了半年，但是我知道我的中文進步了。",
+      "pinyin": "Suīrán wǒ zhī lái le bànnián, dàn shì wǒ zhīdào wǒ de Zhōngwén jìnbù le.",
+      "translation_vn": "Tuy tôi chỉ mới đến nửa năm, nhưng tôi biết tiếng Trung của mình đã tiến bộ.",
+      "translation_en": "Even though I've only been here half a year, I know my Chinese has improved."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 11,
+      "speaker": "田中",
+      "text_zh": "我覺得在說中文的環境裡學中文，進步得比較快。",
+      "pinyin": "Wǒ juéde zài shuō Zhōngwén de huánjìng lǐ xué Zhōngwén, jìnbù de bǐjiào kuài.",
+      "translation_vn": "Tôi thấy học tiếng Trung trong môi trường nói tiếng Trung thì tiến bộ nhanh hơn.",
+      "translation_en": "I think learning Chinese in a Chinese-speaking environment helps you improve faster."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 12,
+      "speaker": "如玉",
+      "text_zh": "我同意。我希望回國的時候能看中文報紙。",
+      "pinyin": "Wǒ tóngyì. Wǒ xīwàng huíguó de shíhou néng kàn Zhōngwén bàozhǐ.",
+      "translation_vn": "Tôi đồng ý. Tôi hy vọng khi về nước có thể đọc báo tiếng Trung.",
+      "translation_en": "I agree. I hope when I return to my country, I can read Chinese newspapers."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 13,
+      "speaker": "田中",
+      "text_zh": "我想妳一定可以。今天下了課，妳要去哪裡？",
+      "pinyin": "Wǒ xiǎng nǐ yídìng kěyǐ. Jīntiān xià le kè, nǐ yào qù nǎlǐ?",
+      "translation_vn": "Tôi nghĩ chắc chắn bạn làm được. Hôm nay tan học bạn định đi đâu?",
+      "translation_en": "I think you definitely will be able to do it. Where are you going after classes today?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 14,
+      "speaker": "如玉",
+      "text_zh": "我要去活動中心跟語言交換的朋友見面。",
+      "pinyin": "Wǒ yào qù huódòng zhōngxīn gēn yǔyán jiāohuàn de péngyou jiànmiàn.",
+      "translation_vn": "Tôi định đến trung tâm hoạt động gặp người bạn trao đổi ngôn ngữ.",
+      "translation_en": "I'm going to the activity center to meet with my language exchange partner."
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 15,
+      "speaker": "田中",
+      "text_zh": "妳說的活動中心在哪裡？",
+      "pinyin": "Nǐ shuō de huódòng zhōngxīn zài nǎlǐ?",
+      "translation_vn": "Trung tâm hoạt động bạn nói ở đâu vậy?",
+      "translation_en": "Where is the activity center you mentioned?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 16,
+      "speaker": "如玉",
+      "text_zh": "在一樓有麵包店的那棟樓裡面，我們一起去聽過一次演講，記得嗎？",
+      "pinyin": "Zài yī lóu yǒu miànbāodiàn de nà dòng lóu lǐmiàn, wǒmen yìqǐ qù tīngguo yí cì yǎnjiǎng, jìde ma?",
+      "translation_vn": "Ở trong tòa nhà có tiệm bánh mì ở tầng một ấy, chúng ta từng cùng đi nghe một buổi diễn thuyết, nhớ không?",
+      "translation_en": "Inside that building with the bakery on the ground floor. We went there to listen to a speech, remember?"
+    },
+    {
+      "dialogue_num": 1,
+      "line_order": 17,
+      "speaker": "田中",
+      "text_zh": "噢，我想起來了。",
+      "pinyin": "Ō, wǒ xiǎngqǐlái le.",
+      "translation_vn": "À, tôi nhớ ra rồi.",
+      "translation_en": "Oh yeah, I remember now."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 1,
+      "speaker": "敘述",
+      "text_zh": "馬安同到師大來學中文，他選了每天上三個小時的課，下了課要寫作業，還要準備第二天的課。",
+      "pinyin": "Mǎ Āntóng dào Shīdà lái xué Zhōngwén, tā xuǎn le měitiān shàng sān gè xiǎoshí de kè, xià le kè yào xiě zuòyè, hái yào zhǔnbèi dì-èr tiān de kè.",
+      "translation_vn": "Mã An Đồng đến Sư Đại học tiếng Trung, anh chọn lớp học ba tiếng mỗi ngày, tan học phải làm bài tập, còn phải chuẩn bị bài cho ngày hôm sau.",
+      "translation_en": "Ma Antong came to NTNU to take Chinese classes. He picked a daily three-hour class. After class he has to do homework assignments and prepare for the next day's class."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 2,
+      "speaker": "敘述",
+      "text_zh": "馬安同剛開始學寫中國字，覺得真難，所以每天都練習寫字，常常半夜十二點多才睡覺。",
+      "pinyin": "Mǎ Āntóng gāng kāishǐ xué xiě Zhōngguózì, juéde zhēn nán, suǒyǐ měitiān dōu liànxí xiě zì, chángcháng bànyè shí èr diǎn duō cái shuìjiào.",
+      "translation_vn": "Mã An Đồng mới bắt đầu học viết chữ Hán, thấy thật khó nên ngày nào cũng luyện viết, thường hơn mười hai giờ đêm mới đi ngủ.",
+      "translation_en": "When he first started learning how to write Chinese characters, Ma Antong thought it was very difficult, so he practiced every day. He often didn't go to bed until after midnight."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 3,
+      "speaker": "敘述",
+      "text_zh": "雖然有點累，但是他很高興現在會寫很多字了。",
+      "pinyin": "Suīrán yǒudiǎn lèi, dàn shì tā hěn gāoxìng xiànzài huì xiě hěn duō zì le.",
+      "translation_vn": "Tuy hơi mệt nhưng anh rất vui vì bây giờ đã biết viết nhiều chữ.",
+      "translation_en": "It was a little tiring, but he is glad he knows how to write a lot of characters now."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 4,
+      "speaker": "敘述",
+      "text_zh": "週末，馬安同比平常輕鬆多了。",
+      "pinyin": "Zhōumò, Mǎ Āntóng bǐ píngcháng qīngsōng duō le.",
+      "translation_vn": "Cuối tuần, Mã An Đồng thoải mái hơn ngày thường nhiều.",
+      "translation_en": "Ma Antong is generally more relaxed on weekends than other times."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 5,
+      "speaker": "敘述",
+      "text_zh": "他有時候搭捷運去貓空喝茶，有時候坐公車去陽明山爬山。",
+      "pinyin": "Tā yǒu shíhou dā jiéyùn qù Māokōng hē chá, yǒu shíhou zuò gōngchē qù Yángmíng Shān páshān.",
+      "translation_vn": "Có khi anh đi tàu điện ngầm đến Miêu Không uống trà, có khi đi xe buýt lên núi Dương Minh leo núi.",
+      "translation_en": "Sometimes, he takes the MRT to Maokong for tea. Sometimes, he takes a bus to Yangmingshan for a hike."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 6,
+      "speaker": "敘述",
+      "text_zh": "爬山的時候，他認識了很多台灣人。",
+      "pinyin": "Páshān de shíhou, tā rènshi le hěn duō Táiwān rén.",
+      "translation_vn": "Khi leo núi, anh đã quen được rất nhiều người Đài Loan.",
+      "translation_en": "He meets a lot of Taiwanese on his hikes."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 7,
+      "speaker": "敘述",
+      "text_zh": "台灣人對外國人很好，常常跟馬安同聊天，告訴他一些台灣的文化。",
+      "pinyin": "Táiwān rén duì wàiguórén hěn hǎo, chángcháng gēn Mǎ Āntóng liáotiān, gào sù tā yìxiē Táiwān de wénhuà.",
+      "translation_vn": "Người Đài Loan rất tốt với người nước ngoài, thường trò chuyện với Mã An Đồng và kể cho anh nghe một vài điều về văn hóa Đài Loan.",
+      "translation_en": "Taiwanese are very friendly to foreigners and often talk with Ma Antong and tell him some things about Taiwanese culture."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 8,
+      "speaker": "敘述",
+      "text_zh": "馬安同有一個語言交換的朋友，他們一有空，就拿著地圖搭捷運去逛逛。",
+      "pinyin": "Mǎ Āntóng yǒu yí ge yǔyán jiāohuàn de péngyou, tāmen yì yǒu kòng, jiù názhe dìtú dā jiéyùn qù guàngguang.",
+      "translation_vn": "Mã An Đồng có một người bạn trao đổi ngôn ngữ, hễ có thời gian rảnh là họ cầm bản đồ đi tàu điện ngầm dạo chơi.",
+      "translation_en": "Ma Antong has a language exchange partner. Whenever they have time, they take the MRT and explore the town with a map."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 9,
+      "speaker": "敘述",
+      "text_zh": "安同喜歡看捷運上的廣告，要是有沒學過的字，他就會問那位朋友怎麼說。",
+      "pinyin": "Āntóng xǐhuan kàn jiéyùn shàng de guǎnggào, yàoshi yǒu méi xuéguo de zì, tā jiù huì wèn nà wèi péngyou zěnme shuō.",
+      "translation_vn": "An Đồng thích xem quảng cáo trên tàu điện ngầm, nếu có chữ chưa học qua, anh sẽ hỏi người bạn đó nói thế nào.",
+      "translation_en": "Antong likes to read the ads on the MRT. When he comes across a word that he doesn't know, he asks his friend how to say it."
+    },
+    {
+      "dialogue_num": 2,
+      "line_order": 10,
+      "speaker": "敘述",
+      "text_zh": "他覺得到處走走，可以了解台灣人的生活，也可以練習練習中文，哪裡都能學中文，真是不錯。",
+      "pinyin": "Tā juéde dàochù zǒuzǒu, kěyǐ liǎojiě Táiwān rén de shēnghuó, yě kěyǐ liànxi liànxi Zhōngwén, nǎlǐ dōu néng xué Zhōngwén, zhēn shì búcuò.",
+      "translation_vn": "Anh thấy đi dạo khắp nơi vừa có thể hiểu cuộc sống của người Đài Loan, vừa có thể luyện tiếng Trung, đi đâu cũng học được tiếng Trung, thật tuyệt.",
+      "translation_en": "He feels that walking around helps him understand how Taiwanese live and at the same time he can practice his Chinese. It is wonderful that you can learn Chinese anywhere you go."
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Trả lời mơ hồ với 差不多",
+      "kind": "picture",
+      "grammar_order": 1,
+      "instruction": "Nhìn đồng hồ và trả lời các câu hỏi sau bằng cách nói \"ước chừng\" với 差不多.",
+      "image": "/book2/l3/g1-clocks.jpg",
+      "questions": [
+        {
+          "question": "A：現在十點了嗎？\nB：＿＿＿＿。",
+          "answer": "B：差不多了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：現在十一點半，你想幾點去吃中飯？\nB：＿＿＿＿。",
+          "answer": "B：差不多十二點半吧。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：已經四點十五分了，你打算幾點回家？\nB：＿＿＿＿。",
+          "answer": "B：差不多五點吧。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你想在台灣住多久？\nB：＿＿＿＿。",
+          "answer": "B：差不多兩年。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你每個月要付多少電話費？\nB：＿＿＿＿。",
+          "answer": "B：差不多五百塊。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你的國家秋天天氣跟這裡差不多嗎？\nB：＿＿＿＿。",
+          "answer": "B：差不多，不過我們國家的秋天比較冷。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你去旅行的事準備得怎麼樣了？\nB：＿＿＿＿。",
+          "answer": "B：差不多準備好了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：聽說白如玉的喉嚨發炎了，今天好了嗎？\nB：＿＿＿＿。",
+          "answer": "B：差不多好了。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành câu với trợ từ kinh nghiệm 過",
+      "kind": "dialogue",
+      "grammar_order": 2,
+      "instruction": "Hoàn thành các câu sau bằng trợ từ kinh nghiệm 過.",
+      "image": "",
+      "questions": [
+        {
+          "question": "這個字，我＿＿＿＿，可是我忘了。",
+          "answer": "這個字，我學過，可是我忘了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我們都看過＿＿＿＿，可是沒聽過＿＿＿＿。",
+          "answer": "我們都看過這個字，可是沒聽過這個詞。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你坐過台北捷運嗎？\nB：我＿＿＿＿。",
+          "answer": "B：我坐過，很方便。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：王小姐＿＿＿＿？\nB：我知道她去過好幾次。",
+          "answer": "A：王小姐去過花蓮嗎？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你在台灣看過醫生、吃過藥嗎？\nB：我＿＿＿＿。",
+          "answer": "B：我看過醫生，也吃過藥。（或：我沒看過醫生，也沒吃過藥。）",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành câu với 才 (chỉ, mới) theo tranh",
+      "kind": "picture",
+      "grammar_order": 3,
+      "instruction": "Hoàn thành các câu sau bằng 才, dựa vào tranh hoặc ngữ cảnh cho sẵn.",
+      "image": "/book2/l3/g3-pictures.jpg",
+      "questions": [
+        {
+          "question": "這支手機＿＿＿＿，不貴。（圖：手機 1000 元）",
+          "answer": "這支手機才一千塊，不貴。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "從這裡到捷運站＿＿＿＿，不遠。（圖：11:30 → 11:35）",
+          "answer": "從這裡到捷運站才五分鐘，不遠。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "書，我才看了＿＿＿＿。（圖：一本書）",
+          "answer": "書，我才看了兩頁。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：你常去貓空喝茶嗎？\nB：不常，才＿＿＿＿。",
+          "answer": "B：不常，才去過兩次。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：今天要考的漢字，你都準備了嗎？\nB：還沒，我才＿＿＿＿。",
+          "answer": "B：還沒，我才準備了一半。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Tình huống dùng 想起來",
+      "kind": "dialogue",
+      "grammar_order": 4,
+      "instruction": "Bạn sẽ đáp lại thế nào trong các tình huống sau? Dùng 想起來.",
+      "image": "",
+      "questions": [
+        {
+          "question": "甲：你好！\n乙：請問你是……？\n甲：我是妳的高中同學阿明。\n乙：噢，我＿＿＿＿。",
+          "answer": "乙：噢，我想起來了！",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "甲：我們幾點去？\n乙：去哪裡？\n甲：妳不記得了啊！\n乙：噢，＿＿＿＿。",
+          "answer": "乙：噢，我想起來了，是下午三點去看電影。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "甲：你知道陳月美什麼時候回越南嗎？\n乙：她跟我說過，我想想。\n甲：妳＿＿＿＿了嗎？\n乙：我想起來了，是下個月一號。",
+          "answer": "甲：妳想起來了嗎？",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "老師：你的作業本子呢？\n學生：我不知道在哪裡。\n老師：快想一想！\n學生：好，我想一想，我＿＿＿＿了，在家裡。",
+          "answer": "學生：我想起來了，在家裡。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "甲：我忘了昨天看見的同學姓什麼。\n乙：你沒想一想嗎？\n甲：當然想過，可是我＿＿＿＿。\n乙：我想沒關係吧。",
+          "answer": "甲：當然想過，可是我還沒想起來。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Hoàn thành câu với 才 (muộn hơn dự kiến)",
+      "kind": "picture",
+      "grammar_order": 5,
+      "instruction": "Dựa vào các tình huống cho sẵn, hoàn thành câu bằng 才.",
+      "image": "/book2/l3/g5-clocks.jpg",
+      "questions": [
+        {
+          "question": "我們八點上課，田中先生今天早上十點＿＿＿＿。",
+          "answer": "我們八點上課，田中先生今天早上十點才來。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我們要搭下午三點的飛機，可是陳先生＿＿＿＿。",
+          "answer": "我們要搭下午三點的飛機，可是陳先生三點半才到。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "馬安同四點下課，不過他＿＿＿＿。（圖：下課 4:00，回家 7:00）",
+          "answer": "馬安同四點下課，不過他七點才回家。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "平常，你等捷運要等十分鐘，今天只等了五分鐘，你會怎麼說？",
+          "answer": "我今天等了五分鐘，捷運就來了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "紐約去年十一月開始下雪，今年十二月開始下雪。你想白如玉會怎麼說？",
+          "answer": "今年紐約十二月才開始下雪。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "田中班上有一個日本同學，他們以前不認識，到師大學中文以後認識的，你會怎麼說？",
+          "answer": "他們到師大學中文以後才認識的。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Viết lại câu với động từ láy ABAB",
+      "kind": "rewrite",
+      "grammar_order": 6,
+      "instruction": "Viết lại các câu sau bằng động từ láy ABAB.",
+      "image": "",
+      "questions": [
+        {
+          "question": "我很累，我得休息。",
+          "answer": "我很累，我得休息休息。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "放假的時候，我想去參觀故宮。",
+          "answer": "放假的時候，我想去參觀參觀故宮。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "我得準備明天的聽寫，所以不能出去玩。",
+          "answer": "我得準備準備明天的聽寫，所以不能出去玩。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "同學生病了，我們得關心她。",
+          "answer": "同學生病了，我們得關心關心她。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "要是我常練習，就不會忘了怎麼寫漢字。",
+          "answer": "要是我常練習練習，就不會忘了怎麼寫漢字。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Nói về kinh nghiệm cá nhân",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Nói về kinh nghiệm của bản thân và hỏi kinh nghiệm của người khác.\nNhiệm vụ: Ghép cặp với bạn học, lần lượt hỏi và trả lời về kinh nghiệm cá nhân bằng V 過.\nA：你 V 過＿＿＿＿嗎？\nB：我 V 過＿＿＿＿。 / 我沒 V 過＿＿＿＿。",
+      "image": "/book2/l3/a1-experiences.jpg",
+      "questions": [
+        {
+          "question": "看圖，兩人一組互相問答",
+          "answer": "A：你吃過小籠包嗎？\nB：我吃過，很好吃。\nA：你去過綠島嗎？\nB：我沒去過綠島。\nA：你坐過高鐵嗎？\nB：我坐過高鐵，很快。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Cảm nghĩ và kinh nghiệm học tiếng Trung của tôi",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Mô tả quá trình học tiếng Trung của mình.\nNhiệm vụ: Kể cho cả lớp nghe kinh nghiệm học tiếng Trung của bạn: bắt đầu từ khi nào, học ở đâu, học được bao lâu, bạn nghĩ tiếng Trung thế nào. Khi một bạn kể, cả lớp ghi chú, giáo viên có thể gọi bạn khác nhắc lại. Điền theo mẫu:\n（人）是＿＿＿＿（時）在＿＿＿＿（地）開始學中文的。他學了＿＿＿＿，開始學中文的時候覺得＿＿＿＿。",
+      "image": "/book2/l3/a2-example.jpg",
+      "questions": [
+        {
+          "question": "寫出你的學習經驗",
+          "answer": "我是二○二三年一月在越南的大學開始學中文的。我學了兩年，開始學中文的時候覺得說中文很難。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Ngày thường và cuối tuần của bạn thế nào?",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Nói về sự khác nhau giữa ngày thường và cuối tuần.\nNhiệm vụ: Ghép cặp, hỏi nhau ngày thường và cuối tuần làm gì, hỏi lý do. Ghi lại ba việc bạn làm ngày thường và ba việc cuối tuần.\nA：你平常下課以後／週末喜歡做什麼？",
+      "image": "/book2/l3/a3-table.jpg",
+      "questions": [
+        {
+          "question": "平常下課以後",
+          "answer": "我平常下課以後喜歡在圖書館看書、打籃球、打棒球、聽音樂、跟朋友在咖啡店聊天。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "週末",
+          "answer": "我週末喜歡爬山、看電影、打網球、在家做菜、練習寫書法，因為週末比較輕鬆。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Diễn đạt sự chuyển ý: 雖然…但是…",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách dùng cách diễn đạt chuyển ý.\nNhiệm vụ: Xem các bức tranh sau và dùng 雖然…但是… để diễn đạt sự chuyển ý.\nVí dụ: 他雖然學中文學了一年了，但是還說得不流利。",
+      "image": "/book2/l3/a4-pictures.jpg",
+      "questions": [
+        {
+          "question": "圖 1（紅色洋裝，9800 元）",
+          "answer": "這件衣服雖然很漂亮，但是太貴了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 2（明天考試，卻在看電視）",
+          "answer": "他明天雖然要考試，但是還在看電視。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 3（捷運 15 分鐘，要 30 塊；公車 30 分鐘，要 20 塊）",
+          "answer": "捷運雖然比較快，但是比較貴。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "圖 4（半夜還在讀書）",
+          "answer": "她雖然很累，但是還在讀書。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Học tiếng Trung có khó không?",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Nêu quan điểm về việc học tiếng Trung.\nNhiệm vụ: Hỏi bốn bạn học xem họ nghĩ gì về việc học tiếng Trung: điều gì khó, điều gì dễ, vì sao. Lập danh sách những điều khó khi học tiếng Trung. Thống kê xem có bao nhiêu người thấy kỹ năng nào khó rồi thảo luận.",
+      "image": "/book2/l3/a5-table.jpg",
+      "questions": [
+        {
+          "question": "聽、說、讀、寫，你覺得哪一個最難？為什麼？",
+          "answer": "我覺得寫最難，因為漢字很多，筆畫也很多。聽也不容易，因為聲調很重要。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

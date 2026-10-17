@@ -647,97 +647,248 @@
   ],
   "exercises": [
     {
-      "title": "Hoàn thành câu đánh giá (Dùng 有一點 - Hơi...)",
+      "title": "Hoàn thành lời đánh giá với 有一點",
+      "kind": "rewrite",
+      "grammar_order": 1,
+      "instruction": "Hoàn thành các lời đánh giá bằng 有一點 (hơi…, có phần tiêu cực).",
+      "image": "",
       "questions": [
         {
-          "question": "A: 你覺得臭豆腐怎麼樣？\nB: 我覺得臭豆腐 _________。",
-          "hint": "hơi thối / hơi nồng (臭)",
-          "answer": "[\"有一點臭\"]"
+          "question": "A：你覺得臭豆腐怎麼樣？\nB：我覺得臭豆腐＿＿＿＿。",
+          "answer": "B：我覺得臭豆腐有一點臭。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 你覺得那家餐廳的菜怎麼樣？\nB: 那家餐廳的菜 _________。",
-          "hint": "hơi cay (辣)",
-          "answer": "[\"有一點辣\"]"
+          "question": "A：你覺得那家餐廳的菜怎麼樣？\nB：那家餐廳的菜＿＿＿＿。",
+          "answer": "B：那家餐廳的菜有一點貴。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：牛肉麵好吃嗎？\nB：好吃，可是＿＿＿＿。",
+          "answer": "B：好吃，可是有一點辣。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：那個包子怎麼樣？\nB：好吃，可是我覺得＿＿＿＿。",
+          "answer": "B：好吃，可是我覺得有一點鹹。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：他的手機是新的嗎？\nB：不是新的，＿＿＿＿。",
+          "answer": "B：不是新的，有一點舊。",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Hoàn thành câu dùng bổ ngữ trạng thái 得",
+      "title": "Hoàn thành câu trả lời với bổ ngữ 得",
+      "kind": "rewrite",
+      "grammar_order": 2,
+      "instruction": "Hoàn thành các câu trả lời dưới đây bằng bổ ngữ trạng thái 得. (Đáp án mẫu chỉ mang tính tham khảo.)",
+      "image": "",
       "questions": [
         {
-          "question": "你弟弟踢足球踢得怎麼樣？ -> 他踢得 _________。",
-          "hint": "Rất tốt (很好)",
-          "answer": "[\"很好\"]"
+          "question": "他弟弟踢足球踢得怎麼樣？——他踢得＿＿＿＿。",
+          "answer": "他踢得很好。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "他姐姐做甜點，做得好吃不好吃？ -> 做得 _________。",
-          "hint": "Rất ngon (很好吃)",
-          "answer": "[\"很好吃\"]"
+          "question": "他姐姐做甜點，做得好吃不好吃？——做得＿＿＿＿。",
+          "answer": "做得很好吃。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "日本菜，你妹妹做得好不好？ -> 我妹妹做 _________。",
-          "hint": "Được rất tốt (得很好)",
-          "answer": "[\"得很好\"]"
+          "question": "日本菜，你妹妹做得好不好？——我妹妹做＿＿＿＿。",
+          "answer": "我妹妹做得不太好。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "這種手機賣得怎麼樣？ -> 賣得 _________。",
-          "hint": "Rất tốt / đắt hàng (很好)",
-          "answer": "[\"很好\"]"
+          "question": "這種手機賣得怎麼樣？——賣得＿＿＿＿。",
+          "answer": "賣得很好。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "他打網球打得好嗎？ -> 打 _________。",
-          "hint": "Được rất tốt (得很好)",
-          "answer": "[\"得很好\"]"
+          "question": "他打網球打得好嗎？——打＿＿＿＿。",
+          "answer": "打得不好。",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Dùng 會 / 不會 (Biết / Không biết) để hoàn thành câu",
+      "title": "Hoàn thành câu trả lời với 會 / 不會",
+      "kind": "fill",
+      "grammar_order": 3,
+      "instruction": "Hoàn thành các câu trả lời bằng 會 hoặc 不會 cho hợp ngữ cảnh.",
+      "image": "",
       "questions": [
         {
-          "question": "A: 他會不會做牛肉麵？\nB: _______，他弟弟也會做。",
-          "hint": "Biết",
-          "answer": "[\"會\"]"
+          "question": "A：他會不會做牛肉麵？\nB：___，他弟弟也會做。",
+          "answer": "[\"會\"]",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 你哥哥會不會打網球？\nB: _______，你可以教他嗎？",
-          "hint": "Không biết",
-          "answer": "[\"不會\"]"
+          "question": "A：你哥哥會不會打網球？\nB：___，你可以教他嗎？",
+          "answer": "[\"不會\"]",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 我們都會打棒球，你呢？\nB: 我_______，可是我很想學。",
-          "hint": "Không biết",
-          "answer": "[\"不會\"]"
+          "question": "A：我們都會打棒球，你呢？\nB：我 ___，可是我很想學。",
+          "answer": "[\"不會\"]",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "A: 小籠包和包子，我都會做，你呢？\nB: 我也_______。",
-          "hint": "Biết",
-          "answer": "[\"會\"]"
+          "question": "A：我會踢足球，你呢？\nB：我 ___，你可以教我嗎？",
+          "answer": "[\"不會\"]",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "A：小籠包和包子，我都會做，你呢？\nB：我也 ___。",
+          "answer": "[\"會\"]",
+          "hint": "",
+          "image": ""
         }
       ]
     },
     {
-      "title": "Sắp xếp từ hoặc điền vào chỗ trống",
+      "title": "Sắp xếp câu và điền chỗ trống với 到",
+      "kind": "reorder",
+      "grammar_order": 4,
+      "instruction": "Câu 1–3: sắp xếp lại các chữ cho thành câu đúng. Câu 4–5: điền vào chỗ trống.",
+      "image": "",
       "questions": [
         {
-          "question": "臺北 / 陳小姐 / 到 / 來",
-          "hint": "Cô Trần...",
-          "answer": "[\"陳小姐到臺北來\"]"
+          "question": "①臺北　②陳小姐　③到　④來",
+          "answer": "陳小姐到臺北來。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "不到 / 來 / 臺灣 / 李先生",
-          "hint": "Ông Lý...",
-          "answer": "[\"李先生不到臺灣來\"]"
+          "question": "①不到　②來　③臺灣　④李先生",
+          "answer": "李先生不到臺灣來。",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "到不到 / 週末 / 老師 / 臺北 / 來",
-          "hint": "Giáo viên cuối tuần...",
-          "answer": "[\"老師週末到不到臺北來\"]"
+          "question": "①到不到　②週末　③老師　④臺北　⑤來",
+          "answer": "老師週末到不到臺北來？",
+          "hint": "",
+          "image": ""
         },
         {
-          "question": "那兩個日本人 ____ 臺灣 ____。",
-          "hint": "Đi đến ... (đến / đến đây)",
-          "answer": "[\"到臺灣來\", \"到,來\", \"到, 來\"]"
+          "question": "那兩個日本人＿＿＿＿臺灣＿＿＿＿。",
+          "answer": "那兩個日本人到臺灣來。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "李先生要去打球，他不＿＿＿＿我家＿＿＿＿。",
+          "answer": "李先生要去打球，他不到我家來。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Món ăn đường phố ngon",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học tên các món ăn thông dụng và cách đọc chúng.\nNhiệm vụ: Thi với bạn học xem ai gọi được tên nhiều món ăn đường phố nhất. Tìm ảnh món ăn mà bạn biết, mang đến lớp, giơ từng ảnh và nói tên món. Nối từng món với hình A, B, C: 臭豆腐、小籠包、牛肉麵.",
+      "image": "/book1/l5/a1-foods.jpg",
+      "questions": [
+        {
+          "question": "臭豆腐 ＿＿＿＿　小籠包 ＿＿＿＿　牛肉麵 ＿＿＿＿（Điền A, B hoặc C）",
+          "answer": "",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Bạn nghĩ sao?",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách đưa ra nhận xét đơn giản về đồ vật thông dụng.\nNhiệm vụ: Đọc các câu sau rồi nhận xét bằng 很, 太 hoặc 有一點.\nVí dụ: A：一碗牛肉麵一百八十塊錢。 B：有一點貴。",
+      "image": "/book1/l5/a5-girl.jpg",
+      "questions": [
+        {
+          "question": "十個小籠包一百六十塊。",
+          "answer": "很便宜。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "四個甜點一百塊。",
+          "answer": "有一點貴。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "一杯咖啡十五塊。",
+          "answer": "太便宜了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "一支手機兩萬多。",
+          "answer": "太貴了。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "（圖：一位小姐吃得滿嘴辣）",
+          "answer": "太辣了！",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Cuộc thi tài năng",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách miêu tả ai đó có thể/không thể làm gì và làm tốt đến đâu.\nNhiệm vụ: Trường sắp tổ chức cuộc thi tài năng. Hãy tìm hiểu xem các bạn trong lớp biết làm gì và làm tốt đến đâu, ghi lại kết quả. Dùng các cụm: 做甜點、游泳、照相、打籃球、踢足球、做小籠包、打網球.",
+      "image": "/book1/l5/a3-table.jpg",
+      "questions": [
+        {
+          "question": "你會做飯嗎？／你會不會做飯？",
+          "answer": "會。／不會。",
+          "hint": "",
+          "image": ""
+        },
+        {
+          "question": "你做得怎麼樣？",
+          "answer": "我做得很好。／我會做飯，可是做得不好。／我不會做飯。",
+          "hint": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "title": "Nhờ giúp đỡ",
+      "kind": "activity",
+      "grammar_order": 0,
+      "instruction": "Mục tiêu: Học cách nhờ giúp đỡ.\nNhiệm vụ: Từ cuộc khảo sát ở hoạt động trên, chọn một việc mà bạn thấy hứng thú và hỏi người biết làm xem họ có thể dạy bạn không.\nVí dụ: 我想學做小籠包，你可以教我嗎？",
+      "image": "",
+      "questions": [
+        {
+          "question": "我想學＿＿＿＿，你可以教我嗎？",
+          "answer": "我想學做甜點，你可以教我嗎？",
+          "hint": "",
+          "image": ""
         }
       ]
     }
