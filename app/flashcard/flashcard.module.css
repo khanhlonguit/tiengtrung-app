@@ -50,9 +50,9 @@
   background: var(--bg-surface);
   border: 1px solid var(--border-subtle);
   border-radius: 24px;
-  padding: 48px 40px;
+  padding: 36px 32px;
   width: 100%;
-  max-width: 480px;
+  max-width: 560px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -76,7 +76,7 @@
 .selectDesc {
   font-size: 15px;
   color: var(--text-faint);
-  margin: 0 0 32px;
+  margin: 0 0 20px;
 }
 
 .lessonChecks {
@@ -896,4 +896,139 @@
 
 .quizSelect:hover {
   border-color: var(--border-accent);
+}
+
+
+/* ── Chọn bài gọn: chip theo cuốn ── */
+.selectSummary {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 10px;
+}
+
+.selectSummary strong {
+  color: var(--accent);
+}
+
+.linkBtn {
+  border: none;
+  background: transparent;
+  color: var(--accent);
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 2px 4px;
+}
+
+.linkBtn:hover {
+  text-decoration: underline;
+}
+
+.bookList {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 24px;
+  text-align: left;
+}
+
+.bookBlock {
+  background: var(--bg-base);
+  border: 1px solid var(--border-subtle);
+  border-radius: 14px;
+  padding: 12px 14px 14px;
+}
+
+.bookHead {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.bookTitle {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.bookPicked {
+  flex: 1;
+  font-size: 11px;
+  color: var(--text-faint);
+}
+
+.lessonGrid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 8px;
+}
+
+.lessonChip {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 8px 4px;
+  min-width: 0;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: 10px;
+  color: var(--text-secondary);
+  font-family: inherit;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.lessonChip:hover {
+  border-color: rgba(108, 99, 255, 0.4);
+}
+
+.lessonChipOn {
+  background: linear-gradient(135deg, #6c63ff, #4f8ef7);
+  border-color: transparent;
+  color: #fff;
+  box-shadow: 0 4px 12px rgba(108, 99, 255, 0.35);
+}
+
+.chipNum {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.chipZh {
+  max-width: 100%;
+  font-family: 'Noto Sans SC', sans-serif;
+  font-size: 10px;
+  opacity: 0.8;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Chỉ nút đang tải mới có hiệu ứng, nút kia giữ nguyên */
+.btnLoading {
+  opacity: 0.75;
+  cursor: progress;
+  transform: none;
+}
+
+.btnLoading:hover {
+  transform: none;
+}
+
+@media (max-width: 480px) {
+  .lessonGrid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .actionButtons {
+    flex-direction: column;
+  }
 }

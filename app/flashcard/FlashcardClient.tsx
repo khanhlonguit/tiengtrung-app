@@ -1,6 +1,6 @@
 'use client';
 
-import { Fragment, useState, useCallback, useEffect } from 'react';
+import { useState, useCallback, useEffect } from 'react';
 import Link from 'next/link';
 import styles from './flashcard.module.css';
 import { speak, initVoices } from '@/lib/useTTS';
@@ -56,7 +56,7 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
   const [cards, setCards] = useState<Vocab[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [flipped, setFlipped] = useState(false);
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState<'study' | 'quiz' | null>(null);
   
   // Study / Quiz states
   const [studyCount, setStudyCount] = useState<number>(20);
@@ -74,14 +74,22 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
     });
   };
 
+  const toggleBook = (ids: number[], on: boolean) => {
+    setSelectedLessons(prev => {
+      const next = new Set(prev);
+      ids.forEach(id => (on ? next.add(id) : next.delete(id)));
+      return next;
+    });
+  };
+
   const totalWords = useCallback(async () => {
     // just a count estimate
     return selectedLessons.size * 30;
   }, [selectedLessons]);
 
   const startStudy = async () => {
-    if (selectedLessons.size === 0) return;
-    setLoading(true);
+    if (selectedLessons.size === 0 || loading) return;
+    setLoading('study');
     try {
       const ids = Array.from(selectedLessons).join(',');
       const res = await fetch(`/api/flashcard?lessons=${ids}`);
@@ -94,7 +102,7 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
       setFlipped(false);
       setPhase('study');
     } finally {
-      setLoading(false);
+      setLoading(null);
     }
   };
 
@@ -150,8 +158,8 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
   };
 
   const startQuiz = async () => {
-    if (selectedLessons.size === 0) return;
-    setLoading(true);
+    if (selectedLessons.size === 0 || loading) return;
+    setLoading('quiz');
     try {
       const ids = Array.from(selectedLessons).join(',');
       const res = await fetch(`/api/flashcard?lessons=${ids}`);
@@ -165,7 +173,7 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
       setSelectedOption(null);
       setPhase('quiz');
     } finally {
-      setLoading(false);
+      setLoading(null);
     }
   };
 
@@ -277,38 +285,56 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
           <div className={styles.selectBox}>
             <div className={styles.selectIcon}>🃏</div>
             <h1 className={styles.selectTitle}>Ôn Flashcard</h1>
-            <p className={styles.selectDesc}>Chọn bài muốn ôn từ vựng</p>
+            <p className={styles.selectDesc}>Chạm vào số bài để chọn / bỏ chọn</p>
 
-            <div className={styles.lessonChecks}>
-              {groupByBook(lessons).map(group => (
-                <Fragment key={group.book}>
-                  <div className={styles.bookLabel}>{bookName(group.book)}</div>
-                  {group.lessons.map(l => (
-                    <label
-                      key={l.id}
-                      className={`${styles.lessonCheck} ${selectedLessons.has(l.id) ? styles.lessonCheckActive : ''}`}
-                    >
-                      <input
-                        type="checkbox"
-                        checked={selectedLessons.has(l.id)}
-                        onChange={() => toggleLesson(l.id)}
-                        className={styles.checkInput}
-                      />
-                      <div className={styles.checkContent}>
-                        <span className={styles.checkNum}>Bài {lessonNumber(l.id)}</span>
-                        <span className={styles.checkTitle}>{l.title_zh}</span>
-                      </div>
-                      <div className={`${styles.checkMark} ${selectedLessons.has(l.id) ? styles.checkMarkActive : ''}`}>
-                        {selectedLessons.has(l.id) && (
-                          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" width="14" height="14">
-                            <polyline points="20 6 9 17 4 12"/>
-                          </svg>
-                        )}
-                      </div>
-                    </label>
-                  ))}
-                </Fragment>
-              ))}
+            <div className={styles.selectSummary}>
+              Đã chọn <strong>{selectedLessons.size}</strong> bài
+              {selectedLessons.size > 0 && (
+                <button type="button" className={styles.linkBtn} onClick={() => setSelectedLessons(new Set())}>
+                  Bỏ chọn hết
+                </button>
+              )}
+            </div>
+
+            <div className={styles.bookList}>
+              {groupByBook(lessons).map(group => {
+                const ids = group.lessons.map(l => l.id);
+                const pickedCount = ids.filter(id => selectedLessons.has(id)).length;
+                const allPicked = pickedCount === ids.length;
+                return (
+                  <div key={group.book} className={styles.bookBlock}>
+                    <div className={styles.bookHead}>
+                      <span className={styles.bookTitle}>{bookName(group.book)}</span>
+                      <span className={styles.bookPicked}>{pickedCount}/{ids.length}</span>
+                      <button
+                        type="button"
+                        className={styles.linkBtn}
+                        onClick={() => toggleBook(ids, !allPicked)}
+                      >
+                        {allPicked ? 'Bỏ chọn' : 'Chọn cả cuốn'}
+                      </button>
+                    </div>
+                    <div className={styles.lessonGrid}>
+                      {group.lessons.map(l => {
+                        const on = selectedLessons.has(l.id);
+                        return (
+                          <button
+                            type="button"
+                            key={l.id}
+                            className={`${styles.lessonChip} ${on ? styles.lessonChipOn : ''}`}
+                            onClick={() => toggleLesson(l.id)}
+                            aria-pressed={on}
+                            title={`Bài ${lessonNumber(l.id)}: ${l.title_zh}`}
+                          >
+                            <span className={styles.chipNum}>{lessonNumber(l.id)}</span>
+                            <span className={styles.chipZh}>{l.title_zh}</span>
+                          </button>
+                        );
+                      })}
+                    </div>
+                  </div>
+                );
+              })}
             </div>
 
             <div className={styles.settingsGrid}>
@@ -351,18 +377,20 @@ export default function FlashcardClient({ lessons }: { lessons: LessonItem[] }) 
             </div>
             <div className={styles.actionButtons}>
               <button
-                className={styles.startBtn}
+                className={`${styles.startBtn} ${loading === 'study' ? styles.btnLoading : ''}`}
                 onClick={startStudy}
-                disabled={selectedLessons.size === 0 || loading}
+                disabled={selectedLessons.size === 0}
+                aria-busy={loading === 'study'}
               >
-                {loading ? 'Đang tải...' : '▶ Bắt đầu ôn tập'}
+                {loading === 'study' ? 'Đang tải...' : '▶ Bắt đầu ôn tập'}
               </button>
               <button
-                className={`${styles.startBtn} ${styles.quizBtn}`}
+                className={`${styles.startBtn} ${styles.quizBtn} ${loading === 'quiz' ? styles.btnLoading : ''}`}
                 onClick={startQuiz}
-                disabled={selectedLessons.size === 0 || loading}
+                disabled={selectedLessons.size === 0}
+                aria-busy={loading === 'quiz'}
               >
-                {loading ? 'Đang tải...' : '📝 Làm Trắc Nghiệm'}
+                {loading === 'quiz' ? 'Đang tải...' : '📝 Làm Trắc Nghiệm'}
               </button>
             </div>
             <p className={styles.hint}>Phím tắt: ← → điều hướng · Enter lật thẻ</p>
