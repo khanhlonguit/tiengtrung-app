@@ -26,8 +26,9 @@ type Phase = 'select' | 'play' | 'over';
 // choice: nhìn chữ Hán → chọn nghĩa tiếng Việt · type: nhìn chữ Hán → gõ pinyin
 type Mode = 'choice' | 'type';
 
-type Falling = { uid: number; vocab: Vocab; x: number; y: number; speed: number };
-type Pop = { uid: number; x: number; y: number; text: string; born: number };
+// revealed: đã chọn sai → hiện pinyin trên chữ đó
+type Falling = { uid: number; vocab: Vocab; x: number; y: number; speed: number; revealed?: boolean };
+type Pop = { uid: number; x: number; y: number; text: string; zh: string; pinyin: string; born: number };
 
 type Snapshot = {
   words: Falling[];
@@ -44,7 +45,7 @@ type Option = { text: string; isCorrect: boolean };
 
 const MAX_LIVES = 3;
 const WORDS_PER_LEVEL = 8;
-const POP_MS = 700;
+const POP_MS = 1400;
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -250,7 +251,7 @@ export default function GameClient({ lessons }: { lessons: LessonItem[] }) {
     const gained = 10 * g.level + Math.min(g.combo - 1, 10) * 2;
     g.score += gained;
     g.level = 1 + Math.floor(g.correct / WORDS_PER_LEVEL);
-    g.pops.push({ uid: w.uid, x: w.x, y: w.y, text: `+${gained}`, born: performance.now() });
+    g.pops.push({ uid: w.uid, x: w.x, y: w.y, text: `+${gained}`, zh: w.vocab.word_zh, pinyin: w.vocab.pinyin, born: performance.now() });
     speak(w.vocab.word_zh);
   };
 
@@ -342,6 +343,7 @@ export default function GameClient({ lessons }: { lessons: LessonItem[] }) {
       // Sai: mất combo và từ bị đẩy xuống nhanh hơn
       g.combo = 0;
       target.y = Math.min(0.98, target.y + 0.12);
+      target.revealed = true;
       setWrongIdx(idx);
       setTimeout(() => setWrongIdx(null), 450);
     }
@@ -545,7 +547,7 @@ export default function GameClient({ lessons }: { lessons: LessonItem[] }) {
                 style={{ left: `${w.x}%`, top: `calc(${w.y} * (100% - 72px))` }}
               >
                 <span className={styles.wordZh}>{w.vocab.word_zh}</span>
-                {mode === 'choice' && showPinyin && <span className={styles.wordPinyin}>{w.vocab.pinyin}</span>}
+                {mode === 'choice' && (showPinyin || w.revealed) && <span className={styles.wordPinyin}>{w.vocab.pinyin}</span>}
               </div>
             ))}
             {snap.pops.map(p => (
@@ -554,7 +556,9 @@ export default function GameClient({ lessons }: { lessons: LessonItem[] }) {
                 className={styles.pop}
                 style={{ left: `${p.x}%`, top: `calc(${p.y} * (100% - 72px))` }}
               >
-                {p.text}
+                <span className={styles.popZh}>{p.zh}</span>
+                <span className={styles.popPinyin}>{p.pinyin}</span>
+                <span className={styles.popScore}>{p.text}</span>
               </div>
             ))}
             <div className={styles.ground} />

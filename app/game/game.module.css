@@ -195,12 +195,38 @@
 
 .pop {
   position: absolute;
-  padding: 10px 16px;
-  font-size: 20px;
+  min-width: 72px;
+  padding: 8px 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(34, 197, 94, 0.12);
+  border: 1px solid rgba(34, 197, 94, 0.5);
+  border-radius: 14px;
+  pointer-events: none;
+  animation: popUp 1.4s ease-out forwards;
+}
+
+.popZh {
+  font-family: 'Noto Sans SC', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.popPinyin {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--accent-label);
+  white-space: nowrap;
+}
+
+.popScore {
+  font-size: 14px;
   font-weight: 800;
   color: #22c55e;
-  pointer-events: none;
-  animation: popUp 0.7s ease-out forwards;
 }
 
 .pauseOverlay {
@@ -363,8 +389,11 @@
 }
 
 @keyframes popUp {
-  from { opacity: 1; transform: translateY(0) scale(1); }
-  to { opacity: 0; transform: translateY(-40px) scale(1.3); }
+  0% { opacity: 0; transform: scale(0.9); }
+  10% { opacity: 1; transform: scale(1.08); }
+  20% { transform: scale(1); }
+  70% { opacity: 1; transform: translateY(-8px); }
+  100% { opacity: 0; transform: translateY(-36px); }
 }
 
 @keyframes shake {
