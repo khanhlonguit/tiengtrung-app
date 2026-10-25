@@ -70,18 +70,26 @@ function pinyinVariants(pinyin: string): string[] {
   return pinyin.split(/[,/;]/).map(normPinyin).filter(Boolean);
 }
 
-// Thời gian rơi hết màn hình (giây) giảm dần theo level
-function fallSpeed(level: number): number {
-  const seconds = Math.max(3.2, 9 - (level - 1) * 0.7);
+// Độ khó theo điểm: dưới EASY_SCORE giữ tốc độ chậm, sau đó cứ mỗi RAMP_STEP điểm tăng thêm một nấc
+const EASY_SCORE = 500;
+const RAMP_STEP = 300;
+
+function difficulty(score: number): number {
+  return Math.max(0, score - EASY_SCORE) / RAMP_STEP;
+}
+
+// Thời gian rơi hết màn hình (giây): 12s lúc đầu, nhanh nhất 4s
+function fallSpeed(score: number): number {
+  const seconds = Math.max(4, 12 - difficulty(score) * 0.8);
   return 1 / seconds;
 }
 
-function spawnInterval(level: number): number {
-  return Math.max(0.9, 2.6 - (level - 1) * 0.2);
+function spawnInterval(score: number): number {
+  return Math.max(1.1, 3.2 - difficulty(score) * 0.2);
 }
 
-function maxOnScreen(level: number): number {
-  return Math.min(5, 2 + Math.floor(level / 2));
+function maxOnScreen(score: number): number {
+  return Math.min(5, 2 + Math.floor(difficulty(score) / 2));
 }
 
 function readBest(mode: Mode): number {
@@ -266,7 +274,7 @@ export default function GameClient({ lessons }: { lessons: LessonItem[] }) {
 
       if (!g.paused) {
         g.spawnTimer -= dt;
-        if ((g.spawnTimer <= 0 && g.words.length < maxOnScreen(g.level)) || g.words.length === 0) {
+        if ((g.spawnTimer <= 0 && g.words.length < maxOnScreen(g.score)) || g.words.length === 0) {
           if (g.deck.length === 0) g.deck = shuffle(g.pool);
           const onScreen = new Set(g.words.map(w => w.vocab.id));
           const idx = g.deck.findIndex(v => !onScreen.has(v.id));
@@ -274,8 +282,8 @@ export default function GameClient({ lessons }: { lessons: LessonItem[] }) {
           let x = 6 + Math.random() * 64;
           for (let i = 0; i < 5 && Math.abs(x - g.lastX) < 22; i++) x = 6 + Math.random() * 64;
           g.lastX = x;
-          g.words.push({ uid: g.nextUid++, vocab, x, y: 0, speed: fallSpeed(g.level) * (0.9 + Math.random() * 0.2) });
-          g.spawnTimer = spawnInterval(g.level);
+          g.words.push({ uid: g.nextUid++, vocab, x, y: 0, speed: fallSpeed(g.score) * (0.9 + Math.random() * 0.2) });
+          g.spawnTimer = spawnInterval(g.score);
         }
 
         for (const w of g.words) w.y += w.speed * dt;
